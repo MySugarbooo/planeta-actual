@@ -14,6 +14,23 @@ FEEDS=[
  ("El País Tecnología","Tecnología","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"),
  ("El País Ciencia","Ciencia","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada"),
 ]
+CATEGORY_PATTERNS = [
+ ("Deportes", r"\b(fútbol|futbol|liga|tenis|alcaraz|mbappé|madrid|racing|barça|bayern|champions|mundial de clubes|partido|gol|regata|atleta|deportivo|copa del mundo|nba|f1|fórmula 1|gran premio)\b"),
+ ("Medio Ambiente", r"\b(clima|climátic[oa]|huracán|tormenta|sequía|biodiversidad|especies|contaminación|glaciar|deshielo|incendios forestales|medio ambiente|calentamiento global|energía renovable|vida silvestre|emisiones)\b"),
+ ("Tecnología", r"\b(inteligencia artificial|tecnología|tecnológicas|microchip|chip|rob[oó]t|ciberseguridad|redes sociales|algoritmo|software|internet|digital|plataforma|chatgpt)\b"),
+ ("Ciencia", r"\b(científic[oa]s?|investigaci[oó]n|experimento|astronom|telescopio|planeta|espacial|nasa|satélite|biología|física cuántica|neurociencia|descubrimiento)\b"),
+ ("Salud", r"\b(salud|hospital|vacuna|enfermedad|pandemia|medicamento|médic[oa]s?|tratamiento|cáncer|virus|pacientes|sanitari[oa]|infecci[oó]n)\b"),
+ ("Economía", r"\b(economía|económic[oa]|inflación|finanzas|mercado|bolsa|aranceles|comercio|banco|impuesto|recaudaci[oó]n|empleo|salarios|empresas|precio|petróleo|inversión)\b"),
+ ("Política", r"\b(eleccion(?:es)?|electoral|presidencial|presidente|parlamento|congreso|gobierno|diputad[oa]|senador|polític[oa]|votantes|votaci[oó]n|candidato|ministro|trump|midterms|diplomacia|refer[eé]ndum|republican[oa]|demócrata)\b"),
+ ("Cultura", r"\b(cultura|cultural|cine|película|música|musical|cantante|artista|festival|libro|literatura|novela|museo|arte|exposición|teatro|actor|actriz|concierto|premios oscar)\b"),
+]
+def classify(title, summary, fallback):
+    content = title + " " + summary
+    for name, pattern in CATEGORY_PATTERNS:
+        if re.search(pattern, content, re.I):
+            return name
+    return "Internacional" if fallback == "Mundo" else fallback
+
 def plain(s):
     s=re.sub(r'<[^>]+>',' ',s or '')
     return re.sub(r'\s+',' ',html.unescape(s)).strip()
@@ -45,7 +62,7 @@ def main():
             if not summary:summary='Consulta los detalles en la fuente original.'
             when=e.get('published_parsed') or e.get('updated_parsed')
             date=datetime.datetime(*when[:6],tzinfo=datetime.timezone.utc).isoformat() if when else datetime.datetime.now(datetime.timezone.utc).isoformat()
-            items.append(dict(title=title,summary=summary,source=source,url=link,category=category,date=date,image=image_of(e)))
+            items.append(dict(title=title,summary=summary,source=source,url=link,category=classify(title,summary,category),date=date,image=image_of(e)))
     items.sort(key=lambda e:e['date'],reverse=True)
     out=ROOT/'data'/'news-data.js';out.parent.mkdir(exist_ok=True)
     if not items:
