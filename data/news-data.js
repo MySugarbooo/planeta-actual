@@ -1,12 +1,48 @@
 window.PLANETA_NEWS = [
   {
-    "title": "GP de México en directo | Antonelli se corona en México como el piloto más joven en ganar el Mundial de F1",
-    "summary": "El italiano, al que le valía quedar entre los nueve primeros, termina en la tercera posición en el Autódromo Hermanos Rodríguez solo por detrás de Verstappen y Hamilton, primero y segundo, respectivamente",
+    "title": "Kimi Antonelli se pasa el juego en México y se convierte en el más joven de la historia en ganar el Mundial de F1",
+    "summary": "El piloto de Mercedes devuelve la gloria a Italia, que no tenía un campeón del mundo desde Ascari en 1953",
     "source": "El País",
-    "url": "https://elpais.com/deportes/formula-1/2026-11-02/gp-de-mexico-en-directo-la-carrera-de-f1-en-vivo.html",
+    "url": "https://elpais.com/deportes/formula-1/2026-11-01/kimi-antonelli-se-pasa-el-juego-en-mexico-y-se-convierte-en-el-mas-joven-de-la-historia-en-ganar-el-mundial-de-f1.html",
     "category": "Deportes",
-    "date": "2026-11-01T22:28:06+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/OKMSYFISMVIBTDOFFXGXQDWQZA.jpg?auth=a40f71afd7045759843db1172e18067add54ba93d71affefb808c9b96e1180be"
+    "date": "2026-11-01T23:01:34+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/WWXKCAYZPBCSLELM7GI2KA65ZQ.jpg?auth=43867c50aaee98b210a8ed6160792d917f2271af7955283f783ade1ce2bb3485"
+  },
+  {
+    "title": "La oposición desafía a Modi con multitudinarias protestas en India",
+    "summary": "Miles de personas se manifestaron en India para protestar contra la controvertida revisión del registro electoral y exigir la dimisión del jefe de la Comisión Electoral, a quien la oposición acusa de impulsar un proceso que podría favorecer al Gobierno del primer ministro Narendra Modi. Las marchas desafiaron un amplio despliegue policial y se produjeron…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261101-la-oposici%C3%B3n-desaf%C3%ADa-a-modi-con-multitudinarias-protestas-en-india",
+    "category": "Política",
+    "date": "2026-11-01T22:55:54+00:00",
+    "image": "https://s.france24.com/media/display/c6ffb4f6-d63c-11f1-9a9e-a575454bc579/w:1024/p:16x9/ES-20261101-121245-121444-CS.jpg"
+  },
+  {
+    "title": "¿A qué se debe el récord de participación en el voto anticipado en las midterms?",
+    "summary": "Más de 51 millones de estadounidenses ya han votado antes del día oficial de las elecciones, un récord para unos comicios de mitad de mandato. Aunque una elevada afluencia a las urnas no anticipa por sí sola un resultado, refleja el enorme interés que despiertan unas elecciones con capacidad para redefinir el equilibrio de poder en Washington. Antoni…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261101-a-qu%C3%A9-se-debe-el-r%C3%A9cord-de-participaci%C3%B3n-en-el-voto-anticipado-en-las-midterms",
+    "category": "Política",
+    "date": "2026-11-01T22:50:19+00:00",
+    "image": "https://s.france24.com/media/display/7b92b390-d63e-11f1-a8b7-a575454bc579/w:1024/p:16x9/ES-20261101-150615-150936-CS.jpg"
+  },
+  {
+    "title": "ICE, deportaciones y migración: dos años de Trump y lo que está en juego en las midterms",
+    "summary": "La inmigración sigue siendo uno de los ejes centrales del segundo mandato de Donald Trump. La Administración republicana destaca la reducción de los cruces irregulares en la frontera y presenta las deportaciones como una muestra del cumplimiento de una de sus principales promesas de campaña. Sin embargo, la estrategia de mano dura ha generado controversia…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261101-ice-deportaciones-y-migraci%C3%B3n-dos-a%C3%B1os-de-trump-y-lo-que-est%C3%A1-en-juego-en-las-midterms",
+    "category": "Política",
+    "date": "2026-11-01T22:49:11+00:00",
+    "image": "https://s.france24.com/media/display/634f585e-d63b-11f1-a5bb-a575454bc579/w:1024/p:16x9/ES-20261101-120553-120807-CS.jpg"
+  },
+  {
+    "title": "Gaza: ataques israelíes en Khan Younis dejan muertos y heridos cerca de campamentos de desplazados",
+    "summary": "La situación humanitaria en el sur de Gaza sigue agravándose. En Khan Younis, residentes y equipos de emergencia trasladaron a contrarreloj a muertos y heridos al hospital Nasser tras nuevos bombardeos israelíes cerca de zonas donde se refugian desplazados. El Ejército de Israel afirmó que los ataques estaban dirigidos contra objetivos de Hamás, mientras…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261101-gaza-ataques-israel%C3%ADes-en-khan-younis-dejan-muertos-y-heridos-cerca-de-campamentos-de-desplazados",
+    "category": "Salud",
+    "date": "2026-11-01T22:45:11+00:00",
+    "image": "https://s.france24.com/media/display/969704fa-d645-11f1-b318-d18c5759e759/w:1024/p:16x9/2026-11-01T131353Z-1263403001-RC21FOAVUNDS-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg"
   },
   {
     "title": "Fracasa el intento de Trump de impedir la certificación de una derrota republicana en Alaska",
@@ -673,42 +709,6 @@ window.PLANETA_NEWS = [
     "category": "Economía",
     "date": "2026-10-31T23:55:47+00:00",
     "image": "https://s.france24.com/media/display/b620edaa-d56d-11f1-b194-bf1914cabd52/w:1024/p:16x9/PORTADA-EMPRESASA-1.png"
-  },
-  {
-    "title": "Midterms: cinco grandes reportajes para analizar la jornada electoral",
-    "summary": "Estados Unidos se acerca a las midterms y en France 24 analizamos las claves de una jornada que podría redefinir el equilibrio político en Washington. ¿Qué está en juego? ¿Qué temas dominan la campaña? ¿Y cómo podrían influir los resultados en el rumbo del país?Sigue nuestra cobertura especial para conocer el contexto, los protagonistas y los escenarios que…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-midterms-cinco-grandes-reportajes-para-analizar-la-jornada-electoral",
-    "category": "Política",
-    "date": "2026-10-31T23:55:01+00:00",
-    "image": "https://s.france24.com/media/display/a457659a-d559-11f1-889f-bf1914cabd52/w:1024/p:16x9/Cinco-grandes-reportajes-para-analizar-las-midterms.png"
-  },
-  {
-    "title": "Jamenei ordena responder “sin límites geográficos” a cualquier ataque de EE. UU. o Israel",
-    "summary": "En medio de las crecientes especulaciones sobre una reanudación de la ofensiva a gran escala de Estados Unidos, el líder supremo de Irán, Mojtaba Jamenei, ordenó a las Fuerzas Armadas de su país dar una respuesta \"inmediata, efectiva y sin límites geográficos\" a cualquier ataque estadounidense o israelí. En paralelo, diplomáticos árabes han expresado…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-jamenei-ordena-responder-sin-l%C3%ADmites-geogr%C3%A1ficos-a-cualquier-ataque-de-ee-uu-o-israel",
-    "category": "Internacional",
-    "date": "2026-10-31T23:47:28+00:00",
-    "image": "https://s.france24.com/media/display/eba9deb6-d584-11f1-bfbd-d18c5759e759/w:1024/p:16x9/AP26281806146930-1.jpg"
-  },
-  {
-    "title": "Concluye la evacuación de civiles de Oleshky tras una tregua humanitaria sin precedentes",
-    "summary": "Mientras continúa la invasión rusa en la mayor parte de Ucrania, una tregua humanitaria excepcional ha permitido este 31 de octubre completar la evacuación de civiles desde Oleshky, una ciudad ocupada por Moscú, en la región de Jersón, en el sur. La pausa local de seis días, descrita como la primera de estas características desde el inicio de la invasión…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-concluye-la-evacuaci%C3%B3n-de-civiles-de-oleshky-tras-una-tregua-humanitaria-sin-precedentes",
-    "category": "Internacional",
-    "date": "2026-10-31T23:46:27+00:00",
-    "image": "https://s.france24.com/media/display/c0005ca4-d584-11f1-b96a-d18c5759e759/w:1024/p:16x9/2026-10-31T145325Z-348966921-RC2CEOAH90DH-RTRMADP-3-UKRAINE-CRISIS-OLESHKY.jpg"
-  },
-  {
-    "title": "Informe desde París: choques entre Policía y manifestantes en jornada de protestas en Francia",
-    "summary": "Este 31 de octubre Francia experimentó su tercera jornada de movilizaciones sociales en tres semanas. Los sindicatos juveniles señalaron que 500.000 ciudadanos se unieron a las protestas, mientras el Ministerior del Interior cifró la participación en 320.000. Nuestra periodista, Natalia Ruiz Giraldo, nos amplió los detalles de esta jornada.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-informe-desde-par%C3%ADs-choques-entre-polic%C3%ADa-y-manifestantes-en-jornada-de-protestas-en-francia",
-    "category": "Internacional",
-    "date": "2026-10-31T23:40:16+00:00",
-    "image": "https://s.france24.com/media/display/3636ed90-d583-11f1-85c5-a575454bc579/w:1024/p:16x9/ES-20261031-170158-170337-CS-01.jpg"
   },
   {
     "title": "FBI acusa a Corea del Norte del ciberataque a Binance por 6.300 millones de dólares",
