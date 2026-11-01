@@ -1,11 +1,29 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Racing - Real Madrid en directo | Comienza el encuentro en El Sardinero",
+    "summary": "Trent suple a Valverde en el carril derecho y Courtois vuelve a la portería | Los de Mourinho buscan una nueva victoria para volver a estar a tres puntos del Barça ante el equipo cántabro, que quiere alejarse del descenso",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
+    "category": "Mundo",
+    "date": "2026-11-01T15:26:41+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZI4NRUQCG5OAHINNPWVV6IEM4Y.jpg?auth=5b4320eeac1c8b01af9784536fa1f5af237da325bdb3b3f08529966914c7f885"
+  },
+  {
+    "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
+    "summary": "Decenas de detenidos en varias ciudades del país; la más afectada, Fráncfort, que reporta saqueos en su principal zona comercial",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-01/alemania-sufre-los-primeros-actos-vandalicos-en-la-ola-de-protestas-europeas.html",
+    "category": "Mundo",
+    "date": "2026-11-01T15:12:29+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c"
+  },
+  {
     "title": "Álex de Miñaur - Carlos Alcaraz en directo | Alcaraz vence a De Miñaur y conquista por primera vez el torneo de Viena",
     "summary": "El murciano arrolló al australiano en el primer set con un 6-1 y después rompió el servicio de su rival con 5-4 a favor",
     "source": "El País",
     "url": "https://elpais.com/deportes/tenis/2026-11-01/alex-de-minaur-carlos-alcaraz-en-directo-la-final-del-torneo-de-viena-en-vivo.html",
     "category": "Mundo",
-    "date": "2026-11-01T14:46:44+00:00",
+    "date": "2026-11-01T14:45:07+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/YIZLE3LY7VNSJG5MAP7NWVNWMY.jpg?auth=b86a7a6ebdb9f65c24a0fd29b0c29f6195ed0302f072d0abfd00ab7c3454c310"
   },
   {
@@ -25,15 +43,6 @@ window.PLANETA_NEWS = [
     "category": "Mundo",
     "date": "2026-11-01T14:32:02+00:00",
     "image": "https://s.france24.com/media/display/00948ee0-d600-11f1-9a3a-1beafce15fea/w:1024/p:16x9/ES-20261101-084212-084359-CS.jpg"
-  },
-  {
-    "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
-    "summary": "Decenas de detenidos en varias ciudades del país; la más afectada, Fráncfort, que reporta saqueos en su principal zona comercial",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-01/alemania-sufre-los-primeros-actos-vandalicos-en-la-ola-de-protestas-europeas.html",
-    "category": "Mundo",
-    "date": "2026-11-01T14:29:45+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c"
   },
   {
     "title": "Retórica antimusulmana en las midterms: los señalamientos contra el candidato demócrata de Michigan",
@@ -369,15 +378,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/LAI4G6VJLNAP7NOUNSDKIFB6SA.jpg?auth=561e3c150423efb00101e234916987c8f57543b04714218b8921c7cc9185cf1e"
   },
   {
-    "title": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
-    "summary": "Las cuentas gratuitas sin condiciones ni comisiones quedan reservadas al canal ‘online’",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
-    "category": "Mundo",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DKQEM73VMZAXFOPEWCCSMTRTMY.jpg?auth=d10fa0220c1a074a0192924763e93e20476e29672c13ae78ba1be7f9271e9444"
-  },
-  {
     "title": "La oposición israelí se atasca tras su victoria electoral",
     "summary": "Las negociaciones para formar Gobierno marchan paralelas a las señales de preparativos de un nuevo ataque de Netanyahu y Trump a Irán",
     "source": "El País",
@@ -394,6 +394,15 @@ window.PLANETA_NEWS = [
     "category": "Mundo",
     "date": "2026-11-01T04:30:01+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/IHWSWARP3VCLXOG2J6WRGG45YQ.JPG?auth=38f2608d1f90d6279c996d7b4002e3f93650418053508fbc4d8408b49adfcf03"
+  },
+  {
+    "title": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
+    "summary": "Las cuentas gratuitas sin condiciones ni comisiones quedan reservadas al canal ‘online’",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
+    "category": "Economía",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/DKQEM73VMZAXFOPEWCCSMTRTMY.jpg?auth=d10fa0220c1a074a0192924763e93e20476e29672c13ae78ba1be7f9271e9444"
   },
   {
     "title": "De Cos, equilibrio y consenso para tiempos volcánicos",
@@ -979,14 +988,5 @@ window.PLANETA_NEWS = [
     "category": "Mundo",
     "date": "2026-10-30T14:25:44+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png"
-  },
-  {
-    "title": "\"No ha habido un solo momento desde esa noche en que no sienta dolor\": Christa Pike habla por primera vez desde su fallida ejecución por inyección letal",
-    "summary": "Esta es la primera declaración pública de Pike desde que sobrevivió a un intento de ejecución mediante inyección letal en septiembre.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c674pd105v54o?at_medium=RSS&at_campaign=rss",
-    "category": "Mundo",
-    "date": "2026-10-30T13:54:17+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d03e/live/538ab8c0-d46d-11f1-8228-c14a49713dc8.jpg"
   }
 ];
