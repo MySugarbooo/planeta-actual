@@ -1,12 +1,21 @@
 window.PLANETA_NEWS = [
   {
-    "title": "GP de México en directo | Alonso y Stroll abandonan en las primeras vueltas",
+    "title": "GP de México en directo | Un accidente de Bottas provoca una bandera roja",
     "summary": "Antonelli puede convertirse en el campeón más joven de la historia del campeonato si logra acabar entre los nueve primeros",
     "source": "El País",
     "url": "https://elpais.com/deportes/formula-1/2026-11-02/gp-de-mexico-en-directo-la-carrera-de-f1-en-vivo.html",
     "category": "Internacional",
-    "date": "2026-11-01T20:47:05+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/JZWFMTUKZBJVTM6LSG2I7PENGQ.jpg?auth=f5ebab50ec3d64e437b6e0d440d65d6ae5b359ce3ab627455d420662d81762a5"
+    "date": "2026-11-01T21:43:06+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/OKMSYFISMVIBTDOFFXGXQDWQZA.jpg?auth=a40f71afd7045759843db1172e18067add54ba93d71affefb808c9b96e1180be"
+  },
+  {
+    "title": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
+    "summary": "La aeronave modelo Learjet 60 se dirigía a las Bahamas tras despegar de Texas cuando cayó en una zona residencial del condado de Palm Beach",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html",
+    "category": "Internacional",
+    "date": "2026-11-01T20:58:31+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PHZB7QDUQZHSTME3YNIL3CYHFM.jpeg?auth=106e9ccc99b08c8b55e22c2097ef96124ebd6805677d82448bd627d2797f8930"
   },
   {
     "title": "Más de 300.000 desplazados por los combates en el oeste de Yemen, según la ONU",
@@ -313,15 +322,6 @@ window.PLANETA_NEWS = [
     "category": "Política",
     "date": "2026-11-01T06:02:00+00:00",
     "image": ""
-  },
-  {
-    "title": "Juan Manuel Santos, un hombre de paz en tiempos de guerra",
-    "summary": "Diez años después de conseguir que las FARC abandonaran las armas y de recibir el Premio Nobel de la Paz, el expresidente de Colombia contempla un mundo que parece haber olvidado el valor de la negociación y reflexiona sobre el poder, los enemigos, la polarización y las reglas que no deberían romperse nunca",
-    "source": "El País",
-    "url": "https://elpais.com/eps/2026-11-01/juan-manuel-santos-un-hombre-de-paz-en-tiempos-de-guerra.html",
-    "category": "Internacional",
-    "date": "2026-11-01T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YXPS2ASIJ5FSXGGPIMP3BISB7Y.jpg?auth=4a73321799a54a97fca73b54504b47025311e5a7ed4ea556ab71fc31e62f71dc"
   },
   {
     "title": "La amazona alemana que ha ganado cuatro oros olímpicos priorizando la felicidad de sus caballos",
