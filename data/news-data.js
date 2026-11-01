@@ -1,5 +1,14 @@
 window.PLANETA_NEWS = [
   {
+    "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
+    "summary": "La Minurso se extingue tras el veto cruzado de EE UU y Rusia después de 35 años sin haber cumplido el encargo de organizar un referéndum de autodeterminación ni garantizar el alto el fuego desde 2020",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
+    "category": "Política",
+    "date": "2026-11-01T19:07:52+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/IFA6EQI25LYLN4EIV3YZBV6Z4U.jpg?auth=1d88525f673633f985c9055095f86f356f92642e4e64eb89f0cf9dbac32a8053"
+  },
+  {
     "title": "Fin de la misión de la ONU en el Sahara Occidental: una meta incumplida y un futuro incierto",
     "summary": "Naciones Unidas anunció este domingo 1 de noviembre el inicio del desmantelamiento de su misión para el Sahara Occidental (Minurso), luego de que el Consejo de Seguridad de la ONU no consiguiera renovar su mandato tras 35 años. El ente, creado tras el cese al fuego de 1991 entre Marruecos y el Frente Polisario, concluye su labor sin haber logrado la…",
     "source": "France 24",
@@ -99,15 +108,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/ac24b310-d601-11f1-804c-d18c5759e759/w:1024/p:16x9/2026-11-01T054315Z-1282157450-RC2SEOAV9M4L-RTRMADP-3-BULGARIA-ELECTION-PRESIDENT.jpg"
   },
   {
-    "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
-    "summary": "La Minurso se extingue tras el veto cruzado de EE UU y Rusia después de 35 años sin haber cumplido el encargo de organizar un referéndum de autodeterminación",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
-    "category": "Política",
-    "date": "2026-11-01T14:37:48+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FRWDFL4KEZN2DF6ZYYO7B4LV2U.jpg?auth=6f6ee6d50a8dd71de8f002c87fb6fac74824f3c5ab08f4192713a242ac2fc973"
-  },
-  {
     "title": "Informe desde Saint-Malo: empieza la Ruta del ron, la mayor regata transatlántica",
     "summary": "Empezó la mayor regata transatlántica, la Ruta del ron, con punto de partida desde Saint-Malo. 115 skippers harán el recorrido de 6.560 kilómetro en solitario, sin escalas y sin asistencia. Nuestra periodista Natalia Ruiz Giraldo nos contó más sobre la competencia desde el lugar de salida.",
     "source": "France 24",
@@ -169,15 +169,6 @@ window.PLANETA_NEWS = [
     "category": "Política",
     "date": "2026-11-01T13:19:16+00:00",
     "image": "https://s.france24.com/media/display/c91b261c-d5f6-11f1-8500-d18c5759e759/w:1024/p:16x9/2026-11-01T002843Z-19162343-RC2GEOATHHEU-RTRMADP-3-FRANCE-PROTEST.jpg"
-  },
-  {
-    "title": "La vida truncada de Fran, el teleoperador cordobés: “Era pura dulzura”",
-    "summary": "Francisco José Barbero, de 32 años, viajaba en el AVE siniestrado para pasar el puente junto a sus padres en su Córdoba natal",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-01/la-vida-truncada-de-fran-el-teleoperador-cordobes-era-pura-dulzura.html",
-    "category": "Internacional",
-    "date": "2026-11-01T13:16:20+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YFVJ7SQYKNFXZEDCPIX7MYSB5I.jpeg?auth=1b97cd320fda362b50db24b9c8c36bcfc8e2c015e4fb4be3859b8b62cdeff1e3"
   },
   {
     "title": "Muere Miquel Navarro a los 81 años, el gran escultor de las ciudades totémicas",
@@ -369,13 +360,13 @@ window.PLANETA_NEWS = [
     "image": ""
   },
   {
-    "title": "Puente, de la euforia al desastre en tres días",
-    "summary": "El ministro libra contra las cuerdas quizás su último gran combate político tras el segundo siniestro mortal de la alta velocidad en nueve meses",
+    "title": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
+    "summary": "Los datos ya conocidos sobre el último siniestro mortal aluden a un déficit en la cultura de seguridad, que empieza a cambiar: Renfe adopta las primeras modificaciones y Puente anuncia nuevas medidas",
     "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
-    "category": "Política",
+    "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+    "category": "Cultura",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e"
+    "image": "https://imagenes.elpais.com/resizer/v2/VK75TBVUSRHNTEUEYI2YP77YA4.jpg?auth=d4733e94dbe96ac964d2ae18d92d84ec80d043dc39f1be1fa468c58cbb28091c"
   },
   {
     "title": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
@@ -385,6 +376,15 @@ window.PLANETA_NEWS = [
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/V5XDDQM3VFBNPED6MI3YAGZHRI.jpg?auth=80846619e6e39a6149c156dd588c3e9252a7e321311c95a2ed5bc5ccbf5c0f60"
+  },
+  {
+    "title": "Puente, de la euforia al desastre en tres días",
+    "summary": "El ministro libra contra las cuerdas quizás su último gran combate político tras el segundo siniestro mortal de la alta velocidad en nueve meses",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
+    "category": "Política",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e"
   },
   {
     "title": "El maquinista de Angrois al operador de Atocha: “Que se aísle de la tele y la prensa: le pueden hacer mucho daño”",
