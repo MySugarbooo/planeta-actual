@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#ffffff"><meta name="description" content="Planeta Actual: noticias internacionales con fotografías, resúmenes y enlaces a las fuentes originales.">
+<meta name="theme-color" content="#ffffff"><link rel="icon" type="image/svg+xml" href="./favicon.svg"><link rel="shortcut icon" href="./favicon.svg"><meta name="description" content="Planeta Actual: noticias internacionales con fotografías, resúmenes y enlaces a las fuentes originales.">
 <title>Planeta Actual | Noticias del mundo</title>
 <style>
 :root{--ink:#121827;--purple:#6634a5;--muted:#6a6d75;--line:#e9e5ed;--soft:#f6f0fa}
@@ -24,7 +24,7 @@ main{padding-top:22px}.breaking{display:flex;align-items:center;gap:15px;backgro
 </main><footer class="footer"><div class="wrap">© Planeta Actual · Información internacional basada en medios enlazados. Las imágenes proceden de los enlaces de origen cuando están disponibles. Las imágenes no verificadas se señalan como representativas. Los resúmenes automatizados requieren revisión editorial.</div></footer>
 <script src="data/news-data.js"></script><script>
 const all=(window.PLANETA_NEWS||[]).filter(n=>n.title&&/^https:\/\//.test(n.url));let category='Inicio';
-const cats=['Inicio','Internacional','Política','Economía','Tecnología','Ciencia','Medio Ambiente','Cultura','Deportes'];
+const cats=['Inicio','Deportes','Internacional','Política','Economía','Tecnología','Ciencia','Medio Ambiente','Cultura'];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeURL=u=>/^https:\/\//.test(String(u||''))?esc(u):'';
 const niceDate=s=>{let d=new Date(s);return isNaN(d)?'':d.toLocaleDateString('es-MX',{day:'numeric',month:'short',year:'numeric'})};
