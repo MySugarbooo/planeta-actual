@@ -1,12 +1,39 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Racing - Real Madrid en directo | El Madrid golea al Racing con tres goles en el primer tiempo",
-    "summary": "Mbappé adelantó a los blancos con un tanto de penalti y Bellingham hizo el segundo y Diomande el tercero",
+    "title": "Fin de la misión de la ONU en el Sahara Occidental: una meta incumplida y un futuro incierto",
+    "summary": "Naciones Unidas anunció este domingo 1 de noviembre el inicio del desmantelamiento de su misión para el Sahara Occidental (Minurso), luego de que el Consejo de Seguridad de la ONU no consiguiera renovar su mandato tras 35 años. El ente, creado tras el cese al fuego de 1991 entre Marruecos y el Frente Polisario, concluye su labor sin haber logrado la…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/%C3%A1frica/20261101-fin-de-la-misi%C3%B3n-de-la-onu-en-el-sahara-occidental-una-meta-incumplida-y-un-futuro-incierto",
+    "category": "Internacional",
+    "date": "2026-11-01T18:43:03+00:00",
+    "image": "https://s.france24.com/media/display/5ac72ffa-2e2a-11f0-bedd-005056a90284/w:1024/p:16x9/000_Nic6216684-1.jpg"
+  },
+  {
+    "title": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+    "summary": "El veterano político portugués y secretario general de Naciones Unidas, a punto de dejar el cargo, afirma sobre su reemplazo que le alegraría que fuera una mujer. “Un mundo sin reglas sería un desastre”, alerta",
     "source": "El País",
-    "url": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
+    "url": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
+    "category": "Política",
+    "date": "2026-11-01T18:19:28+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/HVFTPO2EDFHKBLQWWFRE6RCBAE.JPG?auth=8c9484716df392c8e76805f963b38d16ade9a3fb4ad80aa430063c1042fd79bd"
+  },
+  {
+    "title": "El Madrid vuela sobre el Racing",
+    "summary": "Con Diomande en racha, el equipo de Mourinho, cada vez más redondo, atrapa una goleada en poco más de media hora ante un rival alegre y vulnerable",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-01/el-madrid-vuela-sobre-el-racing.html",
     "category": "Deportes",
-    "date": "2026-11-01T17:15:34+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/4KZJ77T5O5IKDJ57F4OETFU46I.jpg?auth=fa9cdb75a7522b459895a4abe3138a1118b9abaac4f4acab45ee38d8cdee48b2"
+    "date": "2026-11-01T17:47:57+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/245OXIRA7JA5RJ53VFPXLFKIBU.jpg?auth=512650896de3c47af1ab429f5b2c2db4a5b046be5d49799bdecae2f14a0e2daf"
+  },
+  {
+    "title": "La Izquierda en Berlín está cada vez más cerca de tomar el control del gobierno",
+    "summary": "En un congreso, el partido allana el camino para una coalición con Los Verdes y el SPD. Un polémico reportaje mediático sobre la posible jefa de gobierno, Elif Eralp, sigue dando que hablar.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/la-izquierda-en-berlín-está-cada-vez-más-cerca-de-tomar-el-control-del-gobierno/a-79821376?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Deportes",
+    "date": "2026-11-01T17:19:00+00:00",
+    "image": ""
   },
   {
     "title": "¿Apunta Trump a gobernar sin el Congreso si los demócratas ganan las Midterms?: así se prepara",
@@ -153,13 +180,13 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/YFVJ7SQYKNFXZEDCPIX7MYSB5I.jpeg?auth=1b97cd320fda362b50db24b9c8c36bcfc8e2c015e4fb4be3859b8b62cdeff1e3"
   },
   {
-    "title": "La actuación de tres policías que iban en los trenes siniestrados salvó vidas",
-    "summary": "El botiquín de José Luis, agente en Vallecas, y la presteza de Noelia y Carmela, compañeros de unidad, fueron providenciales en los primeros momentos tras el impacto",
+    "title": "Muere Miquel Navarro a los 81 años, el gran escultor de las ciudades totémicas",
+    "summary": "El artista valenciano, Premio Nacional en 1986 y exponente de la Nueva Escultura Española, cumplió su último sueño: abrir su Casa Taller en su pueblo, Mislata",
     "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-01/la-actuacion-de-tres-policias-que-iban-en-los-trenes-siniestrados-salvo-vidas.html",
-    "category": "Internacional",
-    "date": "2026-11-01T13:13:26+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/IEHUZGVUXVDQFJSGPPX4PI3YFE.png?auth=a5e4034c1c0282d49ed84c68212c0ff76a5be3b2e3bc1ef27e172f9189b750cf"
+    "url": "https://elpais.com/cultura/2026-11-01/muere-a-los-81-anos-el-artista-miquel-navarro.html",
+    "category": "Cultura",
+    "date": "2026-11-01T13:10:03+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/J6CZXFOL3BGB5NMJURTTFRNCOY.jpg?auth=47d2d83a4ad01b69f77a9568ce3269e463f95c278a6981f12be9f3c8cb017409"
   },
   {
     "title": "La era de los desequilibrios",
@@ -243,15 +270,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82d9/live/d78d1130-f166-11f0-b5f7-49f0357294ff.jpg"
   },
   {
-    "title": "“Amar al prójimo” como lema de campaña: los pastores demócratas que buscan arrebatar el voto cristiano a los republicanos",
-    "summary": "Un puñado de clérigos compiten en las elecciones en feudos conservadores como Kansas y Texas con una política basada en la fe y los valores religiosos",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-01/amar-al-projimo-como-lema-de-campana-los-pastores-democratas-que-buscan-arrebatar-el-voto-cristiano-a-los-republicanos.html",
-    "category": "Política",
-    "date": "2026-11-01T09:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ACCSIBPCJRPKVB2ISMICXA32HA.jpg?auth=f307fa30f189168bb3ed9bef74517301c9c1accb180c7bebf51b8210afd9cd8f"
-  },
-  {
     "title": "Marc Márquez arrasa en el GP de Malasia y se pone a tiro su octavo título en MotoGP",
     "summary": "El piloto de Ducati capitaliza la ausencia de Jorge Martín con una victoria de cabo a rabo que le permitirá tener bola de campeonato en el próximo gran premio",
     "source": "El País",
@@ -306,6 +324,15 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/YXPS2ASIJ5FSXGGPIMP3BISB7Y.jpg?auth=4a73321799a54a97fca73b54504b47025311e5a7ed4ea556ab71fc31e62f71dc"
   },
   {
+    "title": "La amazona alemana que ha ganado cuatro oros olímpicos priorizando la felicidad de sus caballos",
+    "summary": "Visitamos a Jessica von Bredow-Werndl en sus establos de Baviera, donde nos descubre lo que ha aprendido de sus animales y su método de entrenamiento: “La verdadera conexión surge cuando la confianza se vuelve mayor que el control”",
+    "source": "El País",
+    "url": "https://elpais.com/eps/2026-11-01/la-amazona-alemana-que-ha-ganado-cuatro-oros-olimpicos-priorizando-la-felicidad-de-sus-caballos.html",
+    "category": "Internacional",
+    "date": "2026-11-01T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/5GGNU43M2ZB3HGUJWVREU25KOM.JPG?auth=10cb1b943e9d6ccd4b1cc605a29636ca753c9a9b05e1300157d2fb4e9bee438f"
+  },
+  {
     "title": "Las costuras del ciclo expansivo",
     "summary": "El consumo público y el turismo explican la mitad del avance en el trimestre. La inflación persiste",
     "source": "El País Economía",
@@ -342,6 +369,15 @@ window.PLANETA_NEWS = [
     "image": ""
   },
   {
+    "title": "Puente, de la euforia al desastre en tres días",
+    "summary": "El ministro libra contra las cuerdas quizás su último gran combate político tras el segundo siniestro mortal de la alta velocidad en nueve meses",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
+    "category": "Política",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e"
+  },
+  {
     "title": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
     "summary": "El goteo de identificación de fallecidos y desaparecidos en el accidente de Urda desvela las historias detrás de las 69 víctimas y el dolor de sus familias",
     "source": "El País",
@@ -358,33 +394,6 @@ window.PLANETA_NEWS = [
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/OANJ7B3VAZFGDG2GNXWACLEY6A.jpg?auth=c890ffe98e22e83dcb430f4927e4304309386d8308430421cae05ab7a7047e0c"
-  },
-  {
-    "title": "Lecciones alemanas del peor accidente de la alta velocidad de la historia",
-    "summary": "101 personas fallecieron en 1998 en el descarrilamiento de un tren, tragedia que supuso una revolución en los protocolos de seguridad ferroviaria de Alemania",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-01/lecciones-alemanas-del-peor-accidente-de-la-alta-velocidad-de-la-historia.html",
-    "category": "Internacional",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/WH5O2EYNZZCK7LD4SNRPKNRTPA.jpg?auth=2ee4976501ea161e891901b45564a66f51bfbeb56ee77af23ccc4f5345006613"
-  },
-  {
-    "title": "El tercer tren de Urda: la espera bajo un puente a dos kilómetros de la tragedia",
-    "summary": "Los viajeros del AVE Sevilla-Madrid reconstruyen la parada, la salida por los caminos hasta el pueblo y la ayuda a los pasajeros de los trenes siniestrados en el accidente que dejó 69 muertos",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-01/el-tercer-tren-de-urda-la-espera-bajo-un-puente-a-dos-kilometros-de-la-tragedia.html",
-    "category": "Deportes",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/EE4SN4VZTVDKDKD2FEBMLOUPQM.jpg?auth=ec457a52b259fb757a9cd199b17dddae72bbf9d3352bd52bd1615a3450f66b04"
-  },
-  {
-    "title": "Puente, de la euforia al desastre en tres días",
-    "summary": "El ministro libra contra las cuerdas quizás su último gran combate político tras el segundo siniestro mortal de la alta velocidad en nueve meses",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
-    "category": "Política",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e"
   },
   {
     "title": "Mägo de Oz, muy grandes, muy conflictivos: demandas, disputas por el poder y una película que reabre las heridas del grupo heavy",
@@ -432,6 +441,33 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/DKQEM73VMZAXFOPEWCCSMTRTMY.jpg?auth=d10fa0220c1a074a0192924763e93e20476e29672c13ae78ba1be7f9271e9444"
   },
   {
+    "title": "Desconfianza sistémica",
+    "summary": "España no puede ser un país donde existan dudas sobre la seguridad de los trenes de alta velocidad",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-01/desconfianza-sistemica.html",
+    "category": "Internacional",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/P2C7MG5FTBCABFOXMJ6HJEYZHE.jpg?auth=ba2f8c8fb12e52fd2e9742c064302074a9f98b837e797d0ae4a28dac86a9d4e5"
+  },
+  {
+    "title": "Mis amigos muertos",
+    "summary": "Me divierte imaginarlos haciendo lo mismo que hacían en este lado",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-01/mis-amigos-muertos.html",
+    "category": "Internacional",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/UQ453FE755EHFHR4MLNUAZFBXI.jpg?auth=6db2eca1efcf42346710de578cb79076014ab09a755d469ec206a4b6eab62547"
+  },
+  {
+    "title": "Riki Blanco: frágiles",
+    "summary": "Viñeta del 1 de noviembre de 2026",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-01/riki-blanco-fragiles.html",
+    "category": "Internacional",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/OLSCKEPLBVDSNJ7Y27EJPY7T5Y.jpg?auth=3ca7dab83d712ba13c4e83da80efe2f73de2d576d989bfd46120bdbec1f4a69b"
+  },
+  {
     "title": "De Cos, equilibrio y consenso para tiempos volcánicos",
     "summary": "El candidato a la presidencia del BCE ha construido una credibilidad intachable a base de trabajo, discreción y una habilidad natural para granjearse aliados en el mundo económico",
     "source": "El País Economía",
@@ -450,33 +486,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/C74ISAHYGBF3HKUV65VOKFF5DE.jpg?auth=f6da93df4077ffac9040c0bbd21b05350a7bc5be750e931e7af41ca06f3650c4"
   },
   {
-    "title": "Estados Unidos somete a referéndum el final del trumpismo",
-    "summary": "Las encuestas auguran una “ola demócrata” en las legislativas de mitad de mandato del martes. El alcance del daño republicano marcará el legado del presidente",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-01/estados-unidos-somete-a-referendum-el-final-del-trumpismo.html",
-    "category": "Política",
-    "date": "2026-11-01T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/P6ZDJGZMC5BBFELKBZUYDXPQRY.JPG?auth=6e1f57a01adda9dbab511ee5b5e7e0968ff0d120303e37a4707cbb1da02847f1"
-  },
-  {
-    "title": "Las ‘midterms’, en mapas y gráficos: qué se vota este martes y cómo llega Trump",
-    "summary": "Republicanos y demócratas se disputan este 3 de noviembre el control del Congreso de EE UU. Las encuestas apuntan a que, como es habitual en este tipo de elecciones, el partido de la Casa Blanca va perdiendo terreno",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/elecciones-usa/2026-11-01/las-midterm-en-mapas-y-graficos-que-se-vota-este-martes-y-como-llega-trump.html",
-    "category": "Deportes",
-    "date": "2026-11-01T04:30:00+00:00",
-    "image": ""
-  },
-  {
-    "title": "Glosario ilustrado de las ‘midterms’: conceptos clave para entender las elecciones en EE UU",
-    "summary": "Las elecciones legislativas de medio mandato definirán el resto de la presidencia de Trump. Este es el abecé imprescindible para entender lo que hay en juego",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-01/glosario-ilustrado-de-las-midterms-conceptos-clave-para-entender-las-elecciones-en-ee-uu.html",
-    "category": "Política",
-    "date": "2026-11-01T04:30:00+00:00",
-    "image": ""
-  },
-  {
     "title": "Niños que necesitan a sus padres para dormir: dos especialistas explican qué hay detrás y cómo actuar",
     "summary": "¿Miedo, costumbre o una forma de buscar seguridad? ¿Cuándo conviene preocuparse? Las dificultades para dormir deben valorarse según la edad y las circunstancias de cada menor",
     "source": "El País",
@@ -486,13 +495,13 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/MCQTJFV64RGT5NPTIVW4I6KVD4.jpg?auth=8ec93b4777d10e8abe539278977e7a60613cc2c262fb1cd33cf34d4d75181a68"
   },
   {
-    "title": "El día que Lula se hizo su primer selfi",
-    "summary": "Reconstrucción de la remontada digital de un presidente sin celular que terminó liderando una guerrilla masiva de internautas",
+    "title": "Las ‘midterms’, en mapas y gráficos: qué se vota este martes y cómo llega Trump",
+    "summary": "Republicanos y demócratas se disputan este 3 de noviembre el control del Congreso de EE UU. Las encuestas apuntan a que, como es habitual en este tipo de elecciones, el partido de la Casa Blanca va perdiendo terreno",
     "source": "El País",
-    "url": "https://elpais.com/america/2026-11-01/el-dia-que-lula-se-hizo-su-primer-selfie.html",
-    "category": "Tecnología",
+    "url": "https://elpais.com/internacional/elecciones-usa/2026-11-01/las-midterm-en-mapas-y-graficos-que-se-vota-este-martes-y-como-llega-trump.html",
+    "category": "Deportes",
     "date": "2026-11-01T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/CHIIBPTR6ZEWVP3HANJ5KNAVEM.JPG?auth=479e151add224e533009a25422e48d2909a59e7ea9784b6c33701b58aab4d531"
+    "image": ""
   },
   {
     "title": "El planeta nos cobrará aranceles",
@@ -700,15 +709,6 @@ window.PLANETA_NEWS = [
     "category": "Deportes",
     "date": "2026-10-31T22:12:33+00:00",
     "image": "https://s.france24.com/media/display/64a349a0-d577-11f1-9322-1beafce15fea/w:1024/p:16x9/web-portada-29oct-sem.jpg"
-  },
-  {
-    "title": "El asedio a Sarajevo: el caso sin resolver de los 'safaris humanos' reabre las heridas impunes en Bosnia",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261031-el-asedio-a-sarajevo-el-caso-irresuelto-de-los-safaris-humanos-reabre-las-heridas-impunes-en-bosnia",
-    "category": "Internacional",
-    "date": "2026-10-31T21:37:37+00:00",
-    "image": ""
   },
   {
     "title": "\"Yo no pinto gordas\": qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
