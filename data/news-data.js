@@ -5,8 +5,17 @@ window.PLANETA_NEWS = [
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
     "category": "Deportes",
-    "date": "2026-11-01T15:35:20+00:00",
+    "date": "2026-11-01T15:40:14+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/TWMVYXUV6NM2FNDH2UCCFPYDEQ.jpg?auth=eef20ff58019d7f12701aedf5b1573d7a93179a0de1d024d47057eba33706e2d"
+  },
+  {
+    "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
+    "summary": "El murciano remata ante De Miñaur un torneo impecable (6-1 y 6-4, en 1h 27m) y alza su cuarto título de la temporada, el segundo en el formato bajo techo",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/tenis/2026-11-01/alcaraz-un-trofeo-en-viena-y-algo-mas-volver-a-disfrutar.html",
+    "category": "Deportes",
+    "date": "2026-11-01T15:35:32+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/QG6PHJ453JJ4NHQAMFUKJ47MM4.jpg?auth=3e6e02bca27628d58a069fbfad6992bc059ba9501b40cda2c9c2142bffc3bfc7"
   },
   {
     "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
@@ -16,15 +25,6 @@ window.PLANETA_NEWS = [
     "category": "Internacional",
     "date": "2026-11-01T15:12:29+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c"
-  },
-  {
-    "title": "Álex de Miñaur - Carlos Alcaraz en directo | Alcaraz vence a De Miñaur y conquista por primera vez el torneo de Viena",
-    "summary": "El murciano arrolló al australiano en el primer set con un 6-1 y después rompió el servicio de su rival con 5-4 a favor",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/tenis/2026-11-01/alex-de-minaur-carlos-alcaraz-en-directo-la-final-del-torneo-de-viena-en-vivo.html",
-    "category": "Deportes",
-    "date": "2026-11-01T14:45:07+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YIZLE3LY7VNSJG5MAP7NWVNWMY.jpg?auth=b86a7a6ebdb9f65c24a0fd29b0c29f6195ed0302f072d0abfd00ab7c3454c310"
   },
   {
     "title": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
