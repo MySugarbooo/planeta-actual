@@ -1,12 +1,21 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Racing - Real Madrid en directo | Bellingham hace el segundo y amplía la ventaja",
-    "summary": "Mbappé adelantó a los blancos con un gol de penalti | Trent suple a Valverde en el carril derecho y Courtois vuelve a la portería",
+    "title": "Racing - Real Madrid en directo | Comienza la segunda mitad en El Sardinero",
+    "summary": "Mbappé adelantó a los blancos con un gol de penalti y Bellingham hizo el segundo y Diomande el tercero",
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
     "category": "Deportes",
-    "date": "2026-11-01T15:43:53+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/TWMVYXUV6NM2FNDH2UCCFPYDEQ.jpg?auth=eef20ff58019d7f12701aedf5b1573d7a93179a0de1d024d47057eba33706e2d"
+    "date": "2026-11-01T16:43:03+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/4KZJ77T5O5IKDJ57F4OETFU46I.jpg?auth=fa9cdb75a7522b459895a4abe3138a1118b9abaac4f4acab45ee38d8cdee48b2"
+  },
+  {
+    "title": "Más de 100 agentes de policía resultan heridos en violentos disturbios en Fráncfort",
+    "summary": "Al menos 17 tiendas y establecimientos fueron dañados, cinco de ellos fueron saqueados. La policía estimó que actualmente se enfrenta a entre 1.000 y 1.500 alborotadores violentos, \"en su mayoría de origen migrante\".",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/más-de-100-agentes-de-policía-resultan-heridos-en-violentos-disturbios-en-fráncfort/a-79823376?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-01T16:22:00+00:00",
+    "image": ""
   },
   {
     "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
@@ -306,6 +315,15 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/OANJ7B3VAZFGDG2GNXWACLEY6A.jpg?auth=c890ffe98e22e83dcb430f4927e4304309386d8308430421cae05ab7a7047e0c"
   },
   {
+    "title": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
+    "summary": "Los datos ya conocidos sobre el último siniestro mortal aluden a un déficit en la cultura de seguridad, que empieza a cambiar: Renfe adopta las primeras modificaciones y Puente anuncia nuevas medidas",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
+    "category": "Cultura",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/VK75TBVUSRHNTEUEYI2YP77YA4.jpg?auth=d4733e94dbe96ac964d2ae18d92d84ec80d043dc39f1be1fa468c58cbb28091c"
+  },
+  {
     "title": "Lecciones alemanas del peor accidente de la alta velocidad de la historia",
     "summary": "101 personas fallecieron en 1998 en el descarrilamiento de un tren, tragedia que supuso una revolución en los protocolos de seguridad ferroviaria de Alemania",
     "source": "El País",
@@ -340,15 +358,6 @@ window.PLANETA_NEWS = [
     "category": "Política",
     "date": "2026-11-01T04:30:01+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e"
-  },
-  {
-    "title": "Feijóo gira la campaña hacia el perfil gestor del PP",
-    "summary": "Génova resetea la estrategia tras la tragedia de Urda tratando de reforzar el perfil presidenciable del líder ante el riesgo de un repunte de Vox",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-01/feijoo-gira-la-campana-hacia-el-perfil-gestor-del-pp.html",
-    "category": "Internacional",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/RUB4PK22YNCVLDJC67YMKXH53E.jpg?auth=c00002e7eb0894d2e565b8ab3ee9064765a9980847a20d6275a330712e7d4760"
   },
   {
     "title": "Nosotros, los votantes",
@@ -979,14 +988,5 @@ window.PLANETA_NEWS = [
     "category": "Política",
     "date": "2026-10-30T15:02:54+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ac1/live/4c0fcf90-d3d7-11f1-9c32-1532a6164171.jpg"
-  },
-  {
-    "title": "6 preguntas para entender qué se elige en las elecciones de medio mandato en EE.UU. y qué significan para Trump",
-    "summary": "Los votantes estadounidenses acudirán a las urnas el 3 de noviembre en unas elecciones que podrían tener un gran impacto en la presidencia de Donald Trump.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cmly035wdwgdo?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-10-30T14:25:44+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png"
   }
 ];
