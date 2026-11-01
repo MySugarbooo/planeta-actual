@@ -1,12 +1,30 @@
 window.PLANETA_NEWS = [
   {
-    "title": "GP de México en directo | Un accidente de Bottas provoca una bandera roja",
-    "summary": "Antonelli puede convertirse en el campeón más joven de la historia del campeonato si logra acabar entre los nueve primeros",
+    "title": "GP de México en directo | Antonelli se corona en México como el piloto más joven en ganar el Mundial de F1",
+    "summary": "El italiano, al que le valía quedar entre los nueve primeros, termina en la tercera posición en el Autódromo Hermanos Rodríguez solo por detrás de Verstappen y Hamilton, primero y segundo, respectivamente",
     "source": "El País",
     "url": "https://elpais.com/deportes/formula-1/2026-11-02/gp-de-mexico-en-directo-la-carrera-de-f1-en-vivo.html",
-    "category": "Internacional",
-    "date": "2026-11-01T21:43:06+00:00",
+    "category": "Deportes",
+    "date": "2026-11-01T22:28:06+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/OKMSYFISMVIBTDOFFXGXQDWQZA.jpg?auth=a40f71afd7045759843db1172e18067add54ba93d71affefb808c9b96e1180be"
+  },
+  {
+    "title": "Fracasa el intento de Trump de impedir la certificación de una derrota republicana en Alaska",
+    "summary": "La demanda del Departamento de Justicia que buscaba bloquear una eventual proclamación de la candidata demócrata Mary Peltola fue desestimada por una jueza federal. La Administración Trump se basaba en señalamientos de que un segundo postulado con el mismo nombre del republicano Dan S. Sullivan había sido \"reclutado\" para crear confusión en el electorado.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-fracasa-intento-de-trump-de-impedir-la-certificaci%C3%B3n-de-una-derrota-republicana-en-alaska",
+    "category": "Política",
+    "date": "2026-11-01T22:27:29+00:00",
+    "image": "https://s.france24.com/media/display/f883627e-d642-11f1-bf43-bf1914cabd52/w:1024/p:16x9/2026-10-31T033022Z-272937822-RC2SDOAFQW00-RTRMADP-3-USA-ELECTION-ALASKA.jpg"
+  },
+  {
+    "title": "Autoridad electoral de Israel ante las denuncias de injerencia extranjera: “la voluntad de los votantes será respetada”",
+    "summary": "El presidente de la Comisión Electoral Central de Israel se pronunció sobre los señalamientos del Likud de que hubo financiamiento de terceros países, entre ellos Qatar, para movilizar el histórico voto a favor de los partidos árabes en las recientes elecciones de Israel. Lo hizo reivindicando las cifras récord de participación y afirmando que ni siquiera…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/medio-oriente/20261101-autoridad-electoral-de-israel-ante-las-denuncias-de-injerencia-extranjera-la-voluntad-de-los-votantes-ser%C3%A1-respetada",
+    "category": "Política",
+    "date": "2026-11-01T22:02:47+00:00",
+    "image": "https://s.france24.com/media/display/715b3ad6-d63f-11f1-8add-a575454bc579/w:1024/p:16x9/ce1ca6359c0ceeffc8aeeb19c9c11f81d6bf8128w.jpg"
   },
   {
     "title": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
@@ -25,6 +43,15 @@ window.PLANETA_NEWS = [
     "category": "Salud",
     "date": "2026-11-01T19:59:00+00:00",
     "image": ""
+  },
+  {
+    "title": "Apoyo afroamericano a Trump: defensa de las políticas migratorias y voto castigo a los demócratas",
+    "summary": "Hace dos años, el entonces candidato Donald Trump logró conquistar el doble de los votos de la comunidad afroamericana, tradicionalmente demócrata. El mandatario espera mantener la tendencia para las midterms y comunidades de derecha que aseguran defienden los valores \"tradicionales\", mientras que por el lado opositor, sus detractores afirman que esa…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261101-apoyo-afroamericano-a-trump-defensa-de-las-pol%C3%ADticas-migratorias-y-voto-castigo-a-los-dem%C3%B3cratas",
+    "category": "Política",
+    "date": "2026-11-01T19:25:33+00:00",
+    "image": "https://s.france24.com/media/display/5e09d566-d629-11f1-9e4a-a575454bc579/w:1024/p:16x9/MIDTERMS-Juanita-2-1.png"
   },
   {
     "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
@@ -684,24 +711,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/3636ed90-d583-11f1-85c5-a575454bc579/w:1024/p:16x9/ES-20261031-170158-170337-CS-01.jpg"
   },
   {
-    "title": "¿Cómo afectará el aumento del costo de vida a Trump en las midterms?",
-    "summary": "Las elecciones de medio término del próximo 3 de noviembre son consideradas un referendo para el presidente de Estados Unidos, Donald Trump. El Partido Republicano se juega el dominio de la Cámara de Representantes y del Senado, mientras los demócratas buscan conseguir más escaños, lo que complicaría la agenda del Gobierno actual. Para los votantes, el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-c%C3%B3mo-afectar%C3%A1-el-aumento-del-costo-de-vida-a-trump-en-las-midterms",
-    "category": "Deportes",
-    "date": "2026-10-31T23:39:34+00:00",
-    "image": "https://s.france24.com/media/display/429e8bec-d583-11f1-9ee9-695cb59fade5/w:1024/p:16x9/Captura-de-pantalla-2026-10-31-a-la-s-6-31-32-p-m.png"
-  },
-  {
-    "title": "Midterms EE. UU. 2026: ¿cómo es el voto de los latinos en Florida?",
-    "summary": "Dian Alarcón lleva semanas golpeando puertas en Florida para incentivar a los latinos a votar en las elecciones de medio término. Alarcón es coordinadora de Florida Rising, una organización no partidista. En Florida, unos 3,8 millones de latinos podrán votar, unos 400.000 más que en 2022. Según un informe de Pew, el 18 % de los latinos sigue indeciso.…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-midterms-ee-uu-2026-c%C3%B3mo-es-el-voto-de-los-latinos-en-florida",
-    "category": "Política",
-    "date": "2026-10-31T23:31:14+00:00",
-    "image": "https://s.france24.com/media/display/e3d6f8ba-d582-11f1-9ed3-1beafce15fea/w:1024/p:16x9/d3d8c0409cfb882b5ff862ed626a689dab53b51c.jpg"
-  },
-  {
     "title": "FBI acusa a Corea del Norte del ciberataque a Binance por 6.300 millones de dólares",
     "summary": "Binance, la mayor plataforma de criptomonedas del mundo, reportó el viernes un incidente de seguridad con un impacto estimado en 6.300 millones de dólares.",
     "source": "DW Español",
@@ -709,15 +718,6 @@ window.PLANETA_NEWS = [
     "category": "Tecnología",
     "date": "2026-10-31T22:59:00+00:00",
     "image": ""
-  },
-  {
-    "title": "Israel: el racismo contra los palestinos, ¿mayor que el rechazo a Netanyahu?",
-    "summary": "En esta edición de Una Semana en El Mundo nos preguntamos por qué el partido de Benjamin Netanyahu ha sido el más votado en las elecciones israelíes, a pesar de quedarse lejos de la mayoría necesaria para gobernar. La oposición también necesita apoyos y podría recurrir a los partidos que representan a los ciudadanos palestinos de Israel, que han logrado una…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-israel-el-racismo-contra-los-palestinos-mayor-que-el-rechazo-a-netanyahu",
-    "category": "Deportes",
-    "date": "2026-10-31T22:12:33+00:00",
-    "image": "https://s.france24.com/media/display/64a349a0-d577-11f1-9322-1beafce15fea/w:1024/p:16x9/web-portada-29oct-sem.jpg"
   },
   {
     "title": "\"Yo no pinto gordas\": qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
