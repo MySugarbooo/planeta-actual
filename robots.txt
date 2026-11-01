@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mysugarbooo.github.io/planeta-actual/sitemap.xml
