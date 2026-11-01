@@ -1,0 +1,6 @@
+window.PLANETA_NEWS = [
+{title:"Consulta la cobertura internacional de BBC News Mundo",summary:"Reportajes y noticias internacionales en español. Esta tarjeta dirige a la portada de BBC Mundo; las noticias específicas aparecerán al ejecutar el recolector.",category:"Mundo",source:"BBC News Mundo",url:"https://www.bbc.com/mundo",date:"2026-11-01",image:""},
+{title:"Análisis y actualidad mundial desde DW Español",summary:"Acceso a noticias, economía, ciencia y sociedad con contexto internacional. La actualización automática incorporará los titulares individuales.",category:"Mundo",source:"DW Español",url:"https://www.dw.com/es/actualidad/s-30684",date:"2026-11-01",image:""},
+{title:"Noticias internacionales de France 24 en Español",summary:"Panorama de los acontecimientos mundiales y sus protagonistas. Enlazamos el portal de origen mientras llega la primera sincronización.",category:"Mundo",source:"France 24",url:"https://www.france24.com/es/",date:"2026-11-01",image:""},
+{title:"La actualidad de ciencia y tecnología",summary:"Cobertura internacional de avances científicos, exploración y tecnología. Abre la fuente para consultar su selección actual.",category:"Ciencia",source:"DW Español",url:"https://www.dw.com/es/ciencia-y-tecnolog%C3%ADa/s-1008",date:"2026-11-01",image:""}
+];
