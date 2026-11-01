@@ -1,5 +1,23 @@
 window.PLANETA_NEWS = [
   {
+    "title": "GP de México en directo | Alonso y Stroll abandonan en las primeras vueltas",
+    "summary": "Antonelli puede convertirse en el campeón más joven de la historia del campeonato si logra acabar entre los nueve primeros",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/formula-1/2026-11-02/gp-de-mexico-en-directo-la-carrera-de-f1-en-vivo.html",
+    "category": "Internacional",
+    "date": "2026-11-01T20:47:05+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/JZWFMTUKZBJVTM6LSG2I7PENGQ.jpg?auth=f5ebab50ec3d64e437b6e0d440d65d6ae5b359ce3ab627455d420662d81762a5"
+  },
+  {
+    "title": "Más de 300.000 desplazados por los combates en el oeste de Yemen, según la ONU",
+    "summary": "La Organización Internacional para las Migraciones advirtió que los desplazados necesitan \"refugio, alimentos, agua potable y atención médica\" y resaltó la falta de financiamiento para enfrentar la emergencia.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/más-de-300-000-desplazados-por-los-combates-en-el-oeste-de-yemen-según-la-onu/a-79824761?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Salud",
+    "date": "2026-11-01T19:59:00+00:00",
+    "image": ""
+  },
+  {
     "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
     "summary": "La Minurso se extingue tras el veto cruzado de EE UU y Rusia después de 35 años sin haber cumplido el encargo de organizar un referéndum de autodeterminación ni garantizar el alto el fuego desde 2020",
     "source": "El País",
@@ -78,7 +96,7 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html",
     "category": "Internacional",
     "date": "2026-11-01T16:04:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SBS66HSTPJIFBLYBKNLJMUQGOY.jpg?auth=aef134e847530b969d8c6f08ac15295409dc0f36ff1a904b63dd2e640934afec"
+    "image": "https://imagenes.elpais.com/resizer/v2/5SEYHGDKFRAJXBS5FZKFYNNMNM.jpg?auth=0170b8ea4ab0f97ac307f90061d0ede4f7cc6daead2f78403c7e61dd7db87e45"
   },
   {
     "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
@@ -259,15 +277,6 @@ window.PLANETA_NEWS = [
     "category": "Cultura",
     "date": "2026-11-01T09:47:11+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82d9/live/d78d1130-f166-11f0-b5f7-49f0357294ff.jpg"
-  },
-  {
-    "title": "Marc Márquez arrasa en el GP de Malasia y se pone a tiro su octavo título en MotoGP",
-    "summary": "El piloto de Ducati capitaliza la ausencia de Jorge Martín con una victoria de cabo a rabo que le permitirá tener bola de campeonato en el próximo gran premio",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/motociclismo/2026-11-01/marc-marquez-arrasa-en-el-gp-de-malasia-y-se-pone-a-tiro-de-su-octavo-titulo-en-motogp.html",
-    "category": "Deportes",
-    "date": "2026-11-01T09:06:53+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FVYNQNYZGVJCFGRFUYKUCM6PXQ.jpg?auth=cb3a45d105426781cb033e2f530c5d35be3c6d09569138acbaadb6c3cc23a8b9"
   },
   {
     "title": "Binance vuelve a permitir la retirada de fondos",
@@ -718,15 +727,6 @@ window.PLANETA_NEWS = [
     "category": "Cultura",
     "date": "2026-10-31T20:51:06+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5afe/live/f2e09850-d53e-11f1-93de-81de9e959fac.jpg"
-  },
-  {
-    "title": "Rubio niega que Estados Unidos haya facilitado la salida de Flávio Bolsonaro de Brasil",
-    "summary": "El excandidato presidencial \"ya disponía de una visa y el presidente tomó la decisión de permitirle entrar al país\", explicó.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/rubio-niega-que-estados-unidos-haya-facilitado-la-salida-de-flávio-bolsonaro-de-brasil/a-79819674?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-10-31T20:47:00+00:00",
-    "image": ""
   },
   {
     "title": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia",
