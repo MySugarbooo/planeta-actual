@@ -1,14 +1,5 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Así te hemos contado la victoria de Carlos Alcaraz ante Álex de Miñaur en la final del torneo de Viena",
-    "summary": "El murciano arrolló al australiano en el primer set con un 6-1 y después rompió el servicio de su rival con 5-4 a favor",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/tenis/2026-11-01/alex-de-minaur-carlos-alcaraz-en-directo-la-final-del-torneo-de-viena-en-vivo.html",
-    "category": "Deportes",
-    "date": "2026-11-01T15:39:09+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YIZLE3LY7VNSJG5MAP7NWVNWMY.jpg?auth=b86a7a6ebdb9f65c24a0fd29b0c29f6195ed0302f072d0abfd00ab7c3454c310"
-  },
-  {
     "title": "Racing - Real Madrid en directo | Mbappé adelanta al Madrid de penalti",
     "summary": "Trent suple a Valverde en el carril derecho y Courtois vuelve a la portería | Los de Mourinho buscan una nueva victoria para volver a estar a tres puntos del Barça ante el equipo cántabro, que quiere alejarse del descenso",
     "source": "El País",
@@ -25,6 +16,15 @@ window.PLANETA_NEWS = [
     "category": "Internacional",
     "date": "2026-11-01T15:12:29+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c"
+  },
+  {
+    "title": "Álex de Miñaur - Carlos Alcaraz en directo | Alcaraz vence a De Miñaur y conquista por primera vez el torneo de Viena",
+    "summary": "El murciano arrolló al australiano en el primer set con un 6-1 y después rompió el servicio de su rival con 5-4 a favor",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/tenis/2026-11-01/alex-de-minaur-carlos-alcaraz-en-directo-la-final-del-torneo-de-viena-en-vivo.html",
+    "category": "Deportes",
+    "date": "2026-11-01T14:45:07+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/YIZLE3LY7VNSJG5MAP7NWVNWMY.jpg?auth=b86a7a6ebdb9f65c24a0fd29b0c29f6195ed0302f072d0abfd00ab7c3454c310"
   },
   {
     "title": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
