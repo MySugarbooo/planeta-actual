@@ -37,7 +37,7 @@ const card=n=>'<article class="story">'+img(n)+'<div><span class="category">'+es
 const side=n=>'<article class="side-item"><div><span class="category">'+esc(cat(n))+'</span><h2><a href="'+safeURL(n.url)+'" target="_blank" rel="noopener noreferrer">'+esc(n.title)+'</a></h2><div class="meta">'+date(n)+'</div></div>'+img(n)+'</article>';
 function render(){
  const search=document.getElementById('search').value.trim().toLowerCase();
- const list=all.filter(n=>(category==='Inicio'||category==='Internacional'||cat(n)===category)&&( !search||(n.title+' '+n.summary+' '+n.source+' '+cat(n)).toLowerCase().includes(search))).sort((a,b)=>new Date(b.date)-new Date(a.date));
+ const list=all.filter(n=>(category==='Inicio'||cat(n)===category)&&( !search||(n.title+' '+n.summary+' '+n.source+' '+cat(n)).toLowerCase().includes(search))).sort((a,b)=>new Date(b.date)-new Date(a.date));
  // Selección estable durante la visita, diferente al recargar la portada.
  if(category==='Inicio'&&!search&&list.length>1){
    const pool=list.slice(0,Math.min(30,list.length)).filter(n=>n.image);
@@ -57,8 +57,13 @@ function render(){
  const first=list[0];
  document.getElementById('lead').innerHTML=first?img(first)+'<div class="category">'+esc(cat(first))+'</div><h1><a href="'+safeURL(first.url)+'" target="_blank" rel="noopener noreferrer">'+esc(first.title)+'</a></h1><p>'+esc(first.summary||'Consulta la noticia en la fuente original.')+'</p><div class="meta">'+date(first)+' · '+esc(first.source||'')+'</div>'+link(first):'<p>Sin noticias para este filtro.</p>';
  document.getElementById('rightNews').innerHTML=list.slice(1,5).map(side).join('');
- document.getElementById('featuredCards').innerHTML=list.slice(5,9).map(card).join('')||'<div class="empty">Pronto habrá más historias.</div>';
- document.getElementById('feed').innerHTML=list.slice(9,60).map(card).join('')||'<div class="empty">No hay otras noticias para mostrar. Prueba otra categoría.</div>';
+ const related=category==='Inicio'?[]:all.filter(n=>cat(n)!==category).sort((a,b)=>new Date(b.date)-new Date(a.date));
+ const suggestions=list.slice(5,9);
+ const featured=suggestions.length?suggestions:(category==='Inicio'?[]:related.slice(0,4));
+ const selectionTitle=document.querySelector('.section-head h2');
+ if(selectionTitle)selectionTitle.textContent=suggestions.length||category==='Inicio'?'Selección del mundo':'También en el mundo';
+ document.getElementById('featuredCards').innerHTML=featured.map(card).join('')||'<div class="empty">No hay más noticias disponibles por ahora.</div>';
+ document.getElementById('feed').innerHTML=(list.length<=5?list.slice(1):list.slice(9,60)).map(card).join('')||'<div class="empty">Ya se muestran todas las noticias de esta categoría arriba.</div>';
  document.getElementById('counter').textContent=list.length+' noticias';
  const latest=all[0];if(latest){document.getElementById('ticker').textContent=latest.title;document.getElementById('ticker').href=safeURL(latest.url);document.getElementById('tickerTime').textContent=date(latest)}
  document.querySelectorAll('[data-cat]').forEach(b=>b.classList.toggle('active',b.dataset.cat===category));
