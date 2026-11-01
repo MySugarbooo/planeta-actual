@@ -1,11 +1,11 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Racing - Real Madrid en directo | Mbappé adelanta al Madrid de penalti",
-    "summary": "Trent suple a Valverde en el carril derecho y Courtois vuelve a la portería | Los de Mourinho buscan una nueva victoria para volver a estar a tres puntos del Barça ante el equipo cántabro, que quiere alejarse del descenso",
+    "title": "Racing - Real Madrid en directo | Bellingham hace el segundo y amplía la ventaja",
+    "summary": "Mbappé adelantó a los blancos con un gol de penalti | Trent suple a Valverde en el carril derecho y Courtois vuelve a la portería",
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
     "category": "Deportes",
-    "date": "2026-11-01T15:40:14+00:00",
+    "date": "2026-11-01T15:43:53+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/TWMVYXUV6NM2FNDH2UCCFPYDEQ.jpg?auth=eef20ff58019d7f12701aedf5b1573d7a93179a0de1d024d47057eba33706e2d"
   },
   {
