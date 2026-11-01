@@ -1,12 +1,30 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Racing - Real Madrid en directo | Comienza la segunda mitad en El Sardinero",
-    "summary": "Mbappé adelantó a los blancos con un gol de penalti y Bellingham hizo el segundo y Diomande el tercero",
+    "title": "Racing - Real Madrid en directo | El Madrid golea al Racing con tres goles en el primer tiempo",
+    "summary": "Mbappé adelantó a los blancos con un tanto de penalti y Bellingham hizo el segundo y Diomande el tercero",
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html",
     "category": "Deportes",
-    "date": "2026-11-01T16:43:03+00:00",
+    "date": "2026-11-01T17:15:34+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/4KZJ77T5O5IKDJ57F4OETFU46I.jpg?auth=fa9cdb75a7522b459895a4abe3138a1118b9abaac4f4acab45ee38d8cdee48b2"
+  },
+  {
+    "title": "¿Apunta Trump a gobernar sin el Congreso si los demócratas ganan las Midterms?: así se prepara",
+    "summary": "Mientras el presidente recorre el país para evitar que los republicanos pierdan el control del Capitolio, sus principales asesores llevan meses trabajando en un escenario muy distinto: una Casa Blanca enfrentada a mayorías demócratas y obligada a gobernar mediante órdenes ejecutivas, decretos y vetos. La estrategia abarca desde la inmigración y los…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-apunta-trump-a-gobernar-sin-el-congreso-si-los-dem%C3%B3cratas-ganan-las-midterms-as%C3%AD-se-prepara",
+    "category": "Política",
+    "date": "2026-11-01T17:13:22+00:00",
+    "image": "https://s.france24.com/media/display/821eb70e-cfb8-11f1-8b37-5b4a75578ebb/w:1024/p:16x9/000-D37V4QR.jpg"
+  },
+  {
+    "title": "Misión de la ONU en el Sahara queda en el limbo por vetos cruzados de EE. UU. y Rusia",
+    "summary": "Los vetos cruzados de Estados Unidos y Rusia en el Consejo de Seguridad de la ONU han puesto fin a la Misión de las Naciones Unidas para el Sahara (Minurso), que se creó en 1991 para monitorear el alto el fuego entre Marruecos y el Frente Polisario, un movimiento de liberación nacional apoyado por Argelia. Amplía la información nuestra corresponsal Sofía…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261101-misi%C3%B3n-de-la-onu-en-el-sahara-queda-en-el-limbo-por-vetos-cruzados-de-ee-uu-y-rusia",
+    "category": "Internacional",
+    "date": "2026-11-01T17:10:50+00:00",
+    "image": "https://s.france24.com/media/display/f18aedde-d615-11f1-8710-1beafce15fea/w:1024/p:16x9/ES-20261101-113821-114010-CS.jpg"
   },
   {
     "title": "Más de 100 agentes de policía resultan heridos en violentos disturbios en Fráncfort",
@@ -18,13 +36,22 @@ window.PLANETA_NEWS = [
     "image": ""
   },
   {
+    "title": "Mueren cuatro miembros de una familia, dos adultos y dos niños, al salirse de la vía el coche en el que viajaban en Zamora",
+    "summary": "La Guardia Civil investiga la causa del accidente que ha implicado a un hombre de 59 años, su hija de 29 y sus dos nietos e hijos de la joven de dos y tres años",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html",
+    "category": "Internacional",
+    "date": "2026-11-01T16:04:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/SBS66HSTPJIFBLYBKNLJMUQGOY.jpg?auth=aef134e847530b969d8c6f08ac15295409dc0f36ff1a904b63dd2e640934afec"
+  },
+  {
     "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
-    "summary": "El murciano remata ante De Miñaur un torneo impecable (6-1 y 6-4, en 1h 27m) y alza su cuarto título de la temporada, el segundo en el formato bajo techo",
+    "summary": "El murciano remata ante De Miñaur un torneo impecable (6-1 y 6-4, en 1h 27m) y conquista su cuarto título de la temporada, el segundo en el formato bajo techo",
     "source": "El País",
     "url": "https://elpais.com/deportes/tenis/2026-11-01/alcaraz-un-trofeo-en-viena-y-algo-mas-volver-a-disfrutar.html",
     "category": "Deportes",
     "date": "2026-11-01T15:35:32+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QG6PHJ453JJ4NHQAMFUKJ47MM4.jpg?auth=3e6e02bca27628d58a069fbfad6992bc059ba9501b40cda2c9c2142bffc3bfc7"
+    "image": "https://imagenes.elpais.com/resizer/v2/W3FXZYJGTZLPPJGA4QUYSDWXSA.jpg?auth=688a2622767c27d0de72f047aba2b624cbb0b3a33a7c65b996a3d45d621d4b65"
   },
   {
     "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
@@ -43,6 +70,15 @@ window.PLANETA_NEWS = [
     "category": "Política",
     "date": "2026-11-01T14:42:02+00:00",
     "image": "https://s.france24.com/media/display/ac24b310-d601-11f1-804c-d18c5759e759/w:1024/p:16x9/2026-11-01T054315Z-1282157450-RC2SEOAV9M4L-RTRMADP-3-BULGARIA-ELECTION-PRESIDENT.jpg"
+  },
+  {
+    "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
+    "summary": "La Minurso se extingue tras el veto cruzado de EE UU y Rusia después de 35 años sin haber cumplido el encargo de organizar un referéndum de autodeterminación",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
+    "category": "Política",
+    "date": "2026-11-01T14:37:48+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FRWDFL4KEZN2DF6ZYYO7B4LV2U.jpg?auth=6f6ee6d50a8dd71de8f002c87fb6fac74824f3c5ab08f4192713a242ac2fc973"
   },
   {
     "title": "Informe desde Saint-Malo: empieza la Ruta del ron, la mayor regata transatlántica",
@@ -216,6 +252,15 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/ACCSIBPCJRPKVB2ISMICXA32HA.jpg?auth=f307fa30f189168bb3ed9bef74517301c9c1accb180c7bebf51b8210afd9cd8f"
   },
   {
+    "title": "Marc Márquez arrasa en el GP de Malasia y se pone a tiro su octavo título en MotoGP",
+    "summary": "El piloto de Ducati capitaliza la ausencia de Jorge Martín con una victoria de cabo a rabo que le permitirá tener bola de campeonato en el próximo gran premio",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/motociclismo/2026-11-01/marc-marquez-arrasa-en-el-gp-de-malasia-y-se-pone-a-tiro-de-su-octavo-titulo-en-motogp.html",
+    "category": "Deportes",
+    "date": "2026-11-01T09:06:53+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FVYNQNYZGVJCFGRFUYKUCM6PXQ.jpg?auth=cb3a45d105426781cb033e2f530c5d35be3c6d09569138acbaadb6c3cc23a8b9"
+  },
+  {
     "title": "Binance vuelve a permitir la retirada de fondos",
     "summary": "Después de haber sufrido en un ciberataque el mayor robo de criptomonedas hasta la fecha, por el que el FBI señala a Corea del Norte, la mayor operadora de Bitcoin del mundo intenta volver a la normalidad.",
     "source": "DW Español",
@@ -315,15 +360,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/OANJ7B3VAZFGDG2GNXWACLEY6A.jpg?auth=c890ffe98e22e83dcb430f4927e4304309386d8308430421cae05ab7a7047e0c"
   },
   {
-    "title": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
-    "summary": "Los datos ya conocidos sobre el último siniestro mortal aluden a un déficit en la cultura de seguridad, que empieza a cambiar: Renfe adopta las primeras modificaciones y Puente anuncia nuevas medidas",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
-    "category": "Cultura",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/VK75TBVUSRHNTEUEYI2YP77YA4.jpg?auth=d4733e94dbe96ac964d2ae18d92d84ec80d043dc39f1be1fa468c58cbb28091c"
-  },
-  {
     "title": "Lecciones alemanas del peor accidente de la alta velocidad de la historia",
     "summary": "101 personas fallecieron en 1998 en el descarrilamiento de un tren, tragedia que supuso una revolución en los protocolos de seguridad ferroviaria de Alemania",
     "source": "El País",
@@ -342,15 +378,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/EE4SN4VZTVDKDKD2FEBMLOUPQM.jpg?auth=ec457a52b259fb757a9cd199b17dddae72bbf9d3352bd52bd1615a3450f66b04"
   },
   {
-    "title": "Puente intenta bajar la presión con un gran plan de refuerzo de la seguridad del AVE",
-    "summary": "El martes llevará al Consejo de Ministros un paquete de medidas. Sánchez opta por apoyarlo aunque algunos miembros del Gobierno lo ven insostenible. La campaña cambia por completo",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-01/puente-intenta-bajar-la-presion-con-un-gran-plan-de-refuerzo-de-la-seguridad-del-ave.html",
-    "category": "Política",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/VETE6JFR4ZEGRPCIWXAK2GLMNQ.jpg?auth=9bcbc58a77ae5368b8a7a884fe63a4f781fc7739e098a4745f4d1cd611ea78cb"
-  },
-  {
     "title": "Puente, de la euforia al desastre en tres días",
     "summary": "El ministro libra contra las cuerdas quizás su último gran combate político tras el segundo siniestro mortal de la alta velocidad en nueve meses",
     "source": "El País",
@@ -358,24 +385,6 @@ window.PLANETA_NEWS = [
     "category": "Política",
     "date": "2026-11-01T04:30:01+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e"
-  },
-  {
-    "title": "Nosotros, los votantes",
-    "summary": "El accidente de Urda ha tornado una campaña electoral banal en insoportable",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-01/nosotros-los-votantes.html",
-    "category": "Política",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LA62PQHTO5CMZG3RBB6N2JFJFM.jpg?auth=32bdc4e1133ef3a891a94e220d0f137ad89b0dcbb01dfe917df7e5bbe34e3db5"
-  },
-  {
-    "title": "Mis amigos muertos",
-    "summary": "Me divierte imaginarlos haciendo lo mismo que hacían en este lado",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-01/mis-amigos-muertos.html",
-    "category": "Internacional",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/UQ453FE755EHFHR4MLNUAZFBXI.jpg?auth=6db2eca1efcf42346710de578cb79076014ab09a755d469ec206a4b6eab62547"
   },
   {
     "title": "Mägo de Oz, muy grandes, muy conflictivos: demandas, disputas por el poder y una película que reabre las heridas del grupo heavy",
@@ -396,20 +405,29 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/D5EDOT7FZJAWXOR6XJWCQH4MKA.jpg?auth=3b8779f25f2850ad57c7a8c32114563257ca293a197f03ce647b60bec90b0177"
   },
   {
-    "title": "Manual de demolición: cómo los estudiantes de Serbia derrotaron a Vucic sin violencia",
-    "summary": "Los universitarios preservaron la unidad pese a sus diferencias, mantuvieron dos años las protestas pacíficas y contagiaron a los ciudadanos la pérdida del miedo",
+    "title": "World in Progress: en busca de claves de progreso en medio del desorden mundial",
+    "summary": "El Grupo PRISA organiza en Barcelona la tercera edición de un foro que fomenta el diálogo entre destacados políticos, emprendedores e intelectuales",
     "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-01/manual-de-demolicion-como-los-estudiantes-de-serbia-derrotaron-a-vucic-sin-violencia.html",
+    "url": "https://elpais.com/internacional/2026-11-01/world-in-progress-en-busca-de-claves-de-progreso-en-medio-del-desorden-mundial.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/IHWSWARP3VCLXOG2J6WRGG45YQ.JPG?auth=38f2608d1f90d6279c996d7b4002e3f93650418053508fbc4d8408b49adfcf03"
+    "image": "https://imagenes.elpais.com/resizer/v2/6HS4KXFSUNB3JDVUTKTASW5ONM.jpg?auth=c0023a34da6fa0dc89d8f2cce4636e99719e5c87275979a4f93f247cbda06bca"
+  },
+  {
+    "title": "Édouard Philippe: “Francia es hoy más débil económicamente y la sociedad es más violenta y crispada”",
+    "summary": "El ex primer ministro, principal candidato del centroderecha para disputarle a Marine Le Pen una segunda vuelta en las presidenciales de primavera, propone firmeza con la inmigración, grandes reformas económicas y reinstaurar el servicio militar",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-01/edouard-philippe-francia-es-hoy-mas-debil-economicamente-y-la-sociedad-es-mas-violenta-y-crispada.html",
+    "category": "Política",
+    "date": "2026-11-01T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/YB7WQ2DUJZGCZJFI2Z7QLE23TE.jpg?auth=96e3542b2f2448b5a73961868231e21776d28f9685ca39128fa242daf9d3ce3f"
   },
   {
     "title": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
     "summary": "Las cuentas gratuitas sin condiciones ni comisiones quedan reservadas al canal ‘online’",
-    "source": "El País Economía",
+    "source": "El País",
     "url": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
-    "category": "Economía",
+    "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/DKQEM73VMZAXFOPEWCCSMTRTMY.jpg?auth=d10fa0220c1a074a0192924763e93e20476e29672c13ae78ba1be7f9271e9444"
   },
@@ -466,15 +484,6 @@ window.PLANETA_NEWS = [
     "category": "Internacional",
     "date": "2026-11-01T04:30:00+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/MCQTJFV64RGT5NPTIVW4I6KVD4.jpg?auth=8ec93b4777d10e8abe539278977e7a60613cc2c262fb1cd33cf34d4d75181a68"
-  },
-  {
-    "title": "La angustia económica revoluciona a los jóvenes: la Gran Insatisfacción recorre Europa",
-    "summary": "La juventud se siente atrapada por la precariedad laboral y por una crisis de vivienda que la aleja de un futuro estable. Esta insatisfacción anima protestas por media Europa, en una pérdida de confianza que tiene sus raíces en las políticas de austeridad impuestas tras la Gran Recesión de 2008 y que también explica el ascenso de la ultraderecha. La vacuna…",
-    "source": "El País",
-    "url": "https://elpais.com/ideas/2026-11-01/la-angustia-economica-revoluciona-a-los-jovenes-la-gran-insatisfaccion-recorre-europa.html",
-    "category": "Salud",
-    "date": "2026-11-01T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YOMU4A37AZB5ZNY37RKOC7KGMY.jpg?auth=386feccaa1e97df46a7252c93741088db1faeac317f2c13945d1437283047350"
   },
   {
     "title": "El día que Lula se hizo su primer selfi",
@@ -573,7 +582,7 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cqg7x42xg9m8o?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-11-01T02:21:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0dc7/live/12bad4f0-d59a-11f1-a4fc-1bbbb1ea5196.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f06/live/284d23e0-d59a-11f1-a701-fddedf244c16.jpg"
   },
   {
     "title": "Directo midterms y jueza frena amenazas del Departamento de Justicia a funcionarios electorales",
@@ -717,15 +726,6 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/rubio-niega-que-estados-unidos-haya-facilitado-la-salida-de-flávio-bolsonaro-de-brasil/a-79819674?maca=spa-rss-sp-all-1122-rdf",
     "category": "Política",
     "date": "2026-10-31T20:47:00+00:00",
-    "image": ""
-  },
-  {
-    "title": "Comienzan en Dakar los Juegos Olímpicos de la Juventud, los primeros en celebrarse en África",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/deportes/20261031-comienzan-en-dakar-los-juegos-ol%C3%ADmpicos-de-la-juventud-los-primeros-en-celebrarse-en-%C3%A1frica",
-    "category": "Internacional",
-    "date": "2026-10-31T19:42:40+00:00",
     "image": ""
   },
   {
