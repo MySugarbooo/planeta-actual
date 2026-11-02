@@ -1,12 +1,102 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Saint-Malo despide a los aventureros de la Ruta del Ron rumbo al Caribe",
+    "summary": "La Ruta del Ron, una de las regatas transatlánticas en solitario más prestigiosas del mundo, volvió a reunir a navegantes de élite y aficionados a la vela en una travesía que une Europa y el Caribe. La competición partió desde Saint-Malo, en la costa francesa, con 115 patrones, entre ellos 11 mujeres, que se embarcaron en el desafío de cruzar el océano…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261102-saint-malo-despide-a-los-aventureros-de-la-ruta-del-ron-rumbo-al-caribe",
+    "category": "Internacional",
+    "date": "2026-11-02T00:38:14+00:00",
+    "image": "https://s.france24.com/media/display/434bea56-d64d-11f1-826d-bf1914cabd52/w:1024/p:16x9/ES-20261101-161209-161421-CS.jpg"
+  },
+  {
+    "title": "Haley Stevens rompe con los demócratas y respalda al republicano Mike Rogers en Michigan",
+    "summary": "La recta final de la campaña para el Senado de Estados Unidos en Michigan quedó sacudida por un inesperado giro político. La congresista demócrata Haley Stevens, que perdió las primarias de su partido frente a Abdul El-Sayed, anunció su apoyo al candidato republicano Mike Rogers apenas días antes de las elecciones de medio mandato. La decisión profundizó…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261102-haley-stevens-rompe-con-los-dem%C3%B3cratas-y-respalda-al-republicano-mike-rogers-en-michigan",
+    "category": "Deportes",
+    "date": "2026-11-02T00:36:58+00:00",
+    "image": "https://s.france24.com/media/display/ffada44e-d654-11f1-b124-1beafce15fea/w:1024/p:16x9/AP26305662504302.jpg"
+  },
+  {
+    "title": "La batalla por Texas: Talarico cuestiona los millones de Musk para Paxton en las midterms",
+    "summary": "En un estado que durante décadas ha sido un bastión republicano, el demócrata James Talarico busca lograr lo que ningún miembro de su partido ha conseguido en una elección estatal reciente en Texas: derrotar a un candidato republicano en una contienda de alto perfil. El exprofesor y actual legislador estatal enfrenta al fiscal general Ken Paxton, una de las…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261102-la-batalla-por-texas-talarico-cuestiona-los-millones-de-musk-para-paxton-en-las-midterms",
+    "category": "Deportes",
+    "date": "2026-11-02T00:31:51+00:00",
+    "image": "https://s.france24.com/media/display/8ae5a80a-d654-11f1-af99-a575454bc579/w:1024/p:16x9/AP26304831444175.jpg"
+  },
+  {
+    "title": "Midterms: una democracia bajo lupa",
+    "summary": "La calidad de la democracia estadounidense está bajo la lupa de cara las #midterms del próximo 3 de noviembre..El voto por correo continúa siendo uno de los puntos de mayor desconfianza en la transparencia de los comicios, un sentimiento impulsado principalmente por el presidente Donald Trump.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/midterms-una-democracia-bajo-lupa",
+    "category": "Política",
+    "date": "2026-11-02T00:27:58+00:00",
+    "image": "https://s.france24.com/media/display/290f3208-d650-11f1-b1b0-a575454bc579/w:1024/p:16x9/MIDTERMS-Juanita-3-1.png"
+  },
+  {
+    "title": "La huida de Flávio Bolsonaro",
+    "summary": "Flávio Bolsonaro perdió las elecciones presidenciales a manos de Luiz Inácio Lula da Silva y al otro día emprendió su huida de Brasil, asediado por varias investigaciones judiciales. Al llegar a su destino final, Estados Unidos, se proclamó presidente legítimo, pero tras la presión de la Casa Blanca, se retractó. En Aquí América te contamos la crónica de un…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261102-la-huida-de-fl%C3%A1vio-bolsonaro",
+    "category": "Política",
+    "date": "2026-11-02T00:24:26+00:00",
+    "image": "https://s.france24.com/media/display/8d35f5a4-d64c-11f1-87ac-695cb59fade5/w:1024/p:16x9/HUIDA-BOLSONARITO.png"
+  },
+  {
+    "title": "Midterms 2026: tormenta en la campaña de Michigan; ¿peligran las opciones de El-Sayed?",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-tormenta-en-la-campa%C3%B1a-de-michigan-peligran-las-opciones-de-el-sayed",
+    "category": "Medio Ambiente",
+    "date": "2026-11-02T00:19:51+00:00",
+    "image": ""
+  },
+  {
+    "title": "Midterms 2026: tormenta en la campaña demócrata de Michigan; ¿peligran las opciones de El-Sayed?",
+    "summary": "Una polémica se coló en la campaña del candidato al Senado Abdul El-Sayed. Su antigua rival en las primarias demócratas, Haley Stevens, sorprendió el domingo 1 de noviembre al ofrecer su respaldo al republicano Mike Rogers. Este giro profundiza la fractura interna demócrata en el estado de Michigan, en medio de una batalla crucial para el partido opositor…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-tormenta-en-la-campa%C3%B1a-de-michigan-peligran-las-opciones-de-el-sayed",
+    "category": "Deportes",
+    "date": "2026-11-02T00:16:18+00:00",
+    "image": "https://s.france24.com/media/display/446637b6-d64d-11f1-b4b0-d18c5759e759/w:1024/p:16x9/2026-11-01T183814Z-1515927286-RC26FOANA85M-RTRMADP-3-USA-ELECTION-MICHIGAN.jpg"
+  },
+  {
+    "title": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
+    "summary": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-02T00:01:15+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03e5/live/df9393e0-d64e-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+    "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
+    "summary": "Decenas de detenidos en varias ciudades del país; la más afectada, Fráncfort, que reporta saqueos en su principal zona comercial",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-01/alemania-sufre-los-primeros-actos-vandalicos-en-la-ola-de-protestas-europeas.html",
+    "category": "Internacional",
+    "date": "2026-11-01T23:53:16+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c"
+  },
+  {
+    "title": "El regreso de María Corina Machado acelera el ritmo de la transición en Venezuela",
+    "summary": "La reaparición de la dirigente política descoloca al chavismo, impulsa la agenda del cambio y empuja al Gobierno a reiterar en público su compromiso de apertura política",
+    "source": "El País",
+    "url": "https://elpais.com/america/2026-11-01/el-regreso-de-maria-corina-machado-acelera-el-ritmo-de-la-transicion-en-venezuela.html",
+    "category": "Política",
+    "date": "2026-11-01T23:35:40+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZTYKN526ZNMS7HPNRGBLEGUBUA.jpg?auth=bf7efaef2f9caa690c0233ea7d944402778080689d5b6d03017acc6eb1738748"
+  },
+  {
     "title": "Kimi Antonelli se pasa el juego en México y se convierte en el más joven de la historia en ganar el Mundial de F1",
     "summary": "El piloto de Mercedes devuelve la gloria a Italia, que no tenía un campeón del mundo desde Ascari en 1953",
     "source": "El País",
     "url": "https://elpais.com/deportes/formula-1/2026-11-01/kimi-antonelli-se-pasa-el-juego-en-mexico-y-se-convierte-en-el-mas-joven-de-la-historia-en-ganar-el-mundial-de-f1.html",
     "category": "Deportes",
     "date": "2026-11-01T23:01:34+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/WWXKCAYZPBCSLELM7GI2KA65ZQ.jpg?auth=43867c50aaee98b210a8ed6160792d917f2271af7955283f783ade1ce2bb3485"
+    "image": "https://imagenes.elpais.com/resizer/v2/XTWH5Z55A5EGHD5GRTGL4D5UKM.jpg?auth=acf6eee109140ff2e2eef53289331926ae8c6642a123ad6c1f5ecde21e733c19"
   },
   {
     "title": "La oposición desafía a Modi con multitudinarias protestas en India",
@@ -61,6 +151,15 @@ window.PLANETA_NEWS = [
     "category": "Política",
     "date": "2026-11-01T22:02:47+00:00",
     "image": "https://s.france24.com/media/display/715b3ad6-d63f-11f1-8add-a575454bc579/w:1024/p:16x9/ce1ca6359c0ceeffc8aeeb19c9c11f81d6bf8128w.jpg"
+  },
+  {
+    "title": "Boca Juniors gana el superclásico argentino al River Plate",
+    "summary": "Con un solitario gol de Lautaro Di Lollo, el Xeneieze se impuso ante un rival que terminó con dos jugadores menos por expulsiones.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/boca-juniors-gana-el-superclásico-argentino-al-river-plate/a-79824836?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Deportes",
+    "date": "2026-11-01T21:24:00+00:00",
+    "image": ""
   },
   {
     "title": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
@@ -178,15 +277,6 @@ window.PLANETA_NEWS = [
     "category": "Deportes",
     "date": "2026-11-01T15:35:32+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/W3FXZYJGTZLPPJGA4QUYSDWXSA.jpg?auth=688a2622767c27d0de72f047aba2b624cbb0b3a33a7c65b996a3d45d621d4b65"
-  },
-  {
-    "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
-    "summary": "Decenas de detenidos en varias ciudades del país; la más afectada, Fráncfort, que reporta saqueos en su principal zona comercial",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-01/alemania-sufre-los-primeros-actos-vandalicos-en-la-ola-de-protestas-europeas.html",
-    "category": "Internacional",
-    "date": "2026-11-01T15:12:29+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c"
   },
   {
     "title": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
@@ -477,15 +567,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/LAI4G6VJLNAP7NOUNSDKIFB6SA.jpg?auth=561e3c150423efb00101e234916987c8f57543b04714218b8921c7cc9185cf1e"
   },
   {
-    "title": "La oposición israelí se atasca tras su victoria electoral",
-    "summary": "Las negociaciones para formar Gobierno marchan paralelas a las señales de preparativos de un nuevo ataque de Netanyahu y Trump a Irán",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-01/la-oposicion-israeli-transforma-en-embrollo-su-victoria-sobre-netanyahu.html",
-    "category": "Política",
-    "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/D5EDOT7FZJAWXOR6XJWCQH4MKA.jpg?auth=3b8779f25f2850ad57c7a8c32114563257ca293a197f03ce647b60bec90b0177"
-  },
-  {
     "title": "World in Progress: en busca de claves de progreso en medio del desorden mundial",
     "summary": "El Grupo PRISA organiza en Barcelona la tercera edición de un foro que fomenta el diálogo entre destacados políticos, emprendedores e intelectuales",
     "source": "El País",
@@ -603,15 +684,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/S6RCWMR2LRFQPPIADVVWZIKVIA.jpg?auth=db25348f4d05ca10520e74af4f6eb9be93a25fd4d1832fc7e975361ec4203c30"
   },
   {
-    "title": "¿Qué pasa con la batería legal de Trump de cara a las midterms? Los casos de Alaska y California se desinflan",
-    "summary": "El presidente ha apostado por sembrar dudas sobre los resultados en estados donde sus perspectivas son poco auspiciosas en estas elecciones de mitad de mandato, pero sus esfuerzos no han sido efectivos. En Alaska, el gobierno republicano estatal ha pedido al juez desestimar una demanda del Departamento de Justicia para bloquear la certificación de Mary…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-qu%C3%A9-pasa-con-la-bater%C3%ADa-legal-de-trump-de-cara-a-las-midterms-los-casos-de-alaska-y-california-se-desinflan",
-    "category": "Política",
-    "date": "2026-11-01T04:09:22+00:00",
-    "image": "https://s.france24.com/media/display/8ed49a4e-d5a9-11f1-a670-a575454bc579/w:1024/p:16x9/AP26287583589422.jpg"
-  },
-  {
     "title": "Trump dice que Estados Unidos todavía tiene que \"ocuparse\" de uno o dos objetivos en Irán",
     "summary": "\"Probablemente puedan fijarse en la montaña Pickaxe (...) podemos hacer todo eso muy rápidamente\", dijo el mandatario.",
     "source": "DW Español",
@@ -628,15 +700,6 @@ window.PLANETA_NEWS = [
     "category": "Internacional",
     "date": "2026-11-01T03:55:58+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/HKY7ZPH5P5ET5G6SA433ZSD56Y.jpg?auth=d6ebda6b417e457b687fc7f2c791a3f80cb4e1261eb545b0e14b82c9c18fe845"
-  },
-  {
-    "title": "¿Cambio de estrategia en la recta final de las midterms? Aparece Obama y Trump se repliega",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-cambio-de-estrategia-en-la-recta-final-de-las-midterms-aparece-obama-y-trump-se-repliega",
-    "category": "Política",
-    "date": "2026-11-01T03:12:08+00:00",
-    "image": ""
   },
   {
     "title": "\"La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes\"",
@@ -666,24 +729,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f06/live/284d23e0-d59a-11f1-a701-fddedf244c16.jpg"
   },
   {
-    "title": "Directo midterms y jueza frena amenazas del Departamento de Justicia a funcionarios electorales",
-    "summary": "A pocos días de las elecciones de medio mandato en Estados Unidos, una jueza federal ordenó al Departamento de Justicia dejar de amenazar con procesamientos penales a funcionarios electorales estatales y locales por su gestión de disputas sobre los requisitos para votar. Además, dispuso que la cartera notifique a quienes recibieron esas advertencias que las…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261101-directo-midterms-y-jueza-frena-amenazas-del-departamento-de-justicia-a-funcionarios-electorales",
-    "category": "Política",
-    "date": "2026-11-01T01:14:17+00:00",
-    "image": "https://s.france24.com/media/display/33d64a34-d590-11f1-a578-a575454bc579/w:1024/p:16x9/ES-20261031-191416-192018-CS.jpg"
-  },
-  {
-    "title": "Binance logra reembolsar el 90% de los activos robados por hackers",
-    "summary": "Tras sufrir un ciberataque sin precedentes, Binance llamó a la calma. Este 31 de octubre, la mayor plataforma de intercambio de criptomonedas anunció que reembolsó con fondos propios el 90% de las pérdidas ocasionadas por el ataque, en el que un grupo de hackers sustrajo criptomonedas valoradas en unos 6.300 millones de dólares. Se trata de uno de los…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261101-binance-logra-reembolsar-el-90-de-los-activos-robados-por-hackers",
-    "category": "Tecnología",
-    "date": "2026-11-01T01:13:47+00:00",
-    "image": "https://s.france24.com/media/display/6d95921c-d58f-11f1-8d77-bf1914cabd52/w:1024/p:16x9/ES-20261031-191122-191311-CS.jpg"
-  },
-  {
     "title": "Protestas de jóvenes en varias ciudades de Alemania terminan en violencia",
     "summary": "En Fráncfort, Colonia, Hamburgo y Berlín la policía dispersó a grupos violentos que atacaron y saquearon comercios.",
     "source": "DW Español",
@@ -691,24 +736,6 @@ window.PLANETA_NEWS = [
     "category": "Internacional",
     "date": "2026-11-01T00:08:00+00:00",
     "image": ""
-  },
-  {
-    "title": "'Canelo' contra el fuego: recuperó su título mundial en una cartelera amenazada por las hostilidades en Arabia Saudita",
-    "summary": "El peleador mexicano se impuso por decisión unánime sobre el franco-camerunés Christian Mbilli, para hacerse de nuevo con la faja del peso supermediano del Consejo Mundial de Boxeo, que el estadounidense Terence Crawford le había arrebatado un año antes. El combate tuvo lugar en Riad, al cabo de una semana marcada por ataques de los rebeldes hutíes contra…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/deportes/20261031-canelo-contra-el-fuego-recuper%C3%B3-su-t%C3%ADtulo-mundial-en-una-cartelera-amenazada-por-las-hostilidades-en-arabia-saudita",
-    "category": "Internacional",
-    "date": "2026-10-31T23:56:25+00:00",
-    "image": "https://s.france24.com/media/display/3541da20-d584-11f1-9c30-1beafce15fea/w:1024/p:16x9/000-D62L7ZB.jpg"
-  },
-  {
-    "title": "Midterms: Aumenta la quiebra de pequeñas empresas por aranceles de Trump",
-    "summary": "🇺🇸 Los pequeños negocios, responsables de generar cerca de la mitad de los empleos en #EstadosUnidos, enfrentan crecientes dificultades por el aumento de costos asociado a la inflación y al impacto de los aranceles. La información es con nuestro corresponsal, Cristóbal Vásquez.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261031-midterms-aumenta-la-quiebra-de-peque%C3%B1as-empresas-por-aranceles-de-trump",
-    "category": "Economía",
-    "date": "2026-10-31T23:55:47+00:00",
-    "image": "https://s.france24.com/media/display/b620edaa-d56d-11f1-b194-bf1914cabd52/w:1024/p:16x9/PORTADA-EMPRESASA-1.png"
   },
   {
     "title": "FBI acusa a Corea del Norte del ciberataque a Binance por 6.300 millones de dólares",
@@ -891,24 +918,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
   },
   {
-    "title": "El plan de Trump para la flota fantasma de Rusia inquieta a Europa",
-    "summary": "Estados Unidos estaría estudiando vías para convertir los petroleros clandestinos en embarcaciones legítimas, permitiéndoles transportar crudo que no esté sujeto a sanciones.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/el-plan-de-trump-para-la-flota-fantasma-de-rusia-inquieta-a-europa/a-79810907?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-10-30T21:04:00+00:00",
-    "image": ""
-  },
-  {
-    "title": "De México al Tíbet: los rituales más sorprendentes sobre la muerte",
-    "summary": "Desde el Día de Muertos en México hasta los entierros celestiales en el Tíbet, distintas culturas mantienen vivas sus tradiciones y rituales para honrar a los difuntos.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/de-méxico-al-tíbet-los-rituales-más-sorprendentes-sobre-la-muerte/a-79812389?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-10-30T21:00:00+00:00",
-    "image": ""
-  },
-  {
     "title": "Cuán relevante es Binance en América Latina y cómo el hackeo de US$6.300 millones afecta a sus usuarios en la región",
     "summary": "Aunque su principal mercado es Brasil, en Argentina y Venezuela la plataforma se ha convertido en un refugio de estabilidad en medio del cambiante panorama económico.",
     "source": "BBC Mundo",
@@ -943,15 +952,6 @@ window.PLANETA_NEWS = [
     "category": "Medio Ambiente",
     "date": "2026-10-30T18:00:05+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/RK3KGYGL3NA5JHCGU42ARZFO44.jpg?auth=cd5bcecd98babab7e7fb9bad172ab45a2aa094249c98ad3450d620d4e327be6a"
-  },
-  {
-    "title": "Bayern Múnich: un \"der Klassiker\" marcado por las adversidades",
-    "summary": "Una semana de contrastes, un entrenador hospitalizado y varias estrellas ausentes: así llega el Bayern al superclásico alemán.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/bayern-múnich-un-der-klassiker-marcado-por-las-adversidades/a-79811272?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Deportes",
-    "date": "2026-10-30T17:49:00+00:00",
-    "image": ""
   },
   {
     "title": "La ‘proteína de Borges’ muestra cómo aliviar las pérdidas de memoria con la edad",
