@@ -9,6 +9,15 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/434bea56-d64d-11f1-826d-bf1914cabd52/w:1024/p:16x9/ES-20261101-161209-161421-CS.jpg"
   },
   {
+    "title": "Kiev anuncia que terminó tregua excepcional de cuatro días en el sur de Ucrania",
+    "summary": "Un alto funcionario ucraniano dijo que el gobierno le ofreció a Moscú extender la tregua en Jersón, \"pero los rusos no quieren\".",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/kiev-anuncia-que-terminó-tregua-excepcional-de-cuatro-días-en-el-sur-de-ucrania/a-79825039?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-02T00:37:00+00:00",
+    "image": ""
+  },
+  {
     "title": "Haley Stevens rompe con los demócratas y respalda al republicano Mike Rogers en Michigan",
     "summary": "La recta final de la campaña para el Senado de Estados Unidos en Michigan quedó sacudida por un inesperado giro político. La congresista demócrata Haley Stevens, que perdió las primarias de su partido frente a Abdul El-Sayed, anunció su apoyo al candidato republicano Mike Rogers apenas días antes de las elecciones de medio mandato. La decisión profundizó…",
     "source": "France 24",
@@ -735,15 +744,6 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/protestas-de-jóvenes-en-varias-ciudades-de-alemania-terminan-en-violencia/a-79819986?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-11-01T00:08:00+00:00",
-    "image": ""
-  },
-  {
-    "title": "FBI acusa a Corea del Norte del ciberataque a Binance por 6.300 millones de dólares",
-    "summary": "Binance, la mayor plataforma de criptomonedas del mundo, reportó el viernes un incidente de seguridad con un impacto estimado en 6.300 millones de dólares.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/fbi-acusa-a-corea-del-norte-del-ciberataque-a-binance-por-6-300-millones-de-dólares/a-79819848?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Tecnología",
-    "date": "2026-10-31T22:59:00+00:00",
     "image": ""
   },
   {
