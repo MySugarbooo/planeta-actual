@@ -6,7 +6,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261102-saint-malo-despide-a-los-aventureros-de-la-ruta-del-ron-rumbo-al-caribe",
     "category": "Internacional",
     "date": "2026-11-02T00:38:14+00:00",
-    "image": "https://s.france24.com/media/display/434bea56-d64d-11f1-826d-bf1914cabd52/w:1024/p:16x9/ES-20261101-161209-161421-CS.jpg"
+    "image": "https://s.france24.com/media/display/434bea56-d64d-11f1-826d-bf1914cabd52/w:1024/p:16x9/ES-20261101-161209-161421-CS.jpg",
+    "title_en": "Saint- Malo Rejects Rum Road Adventurers To Caribbean",
+    "summary_en": "The Rum Rog, one of the most prestigious and most prestigious single transatlantic regatas in the world, once again brought together elite sailors and sailing amateurs on a journey that links Europe and the Caribbean. The competition broke out from Sainta-Malo, on the French coast with 115 patterns, including 11 women, who have been embarking on the challenge of crossing the ocean..."
   },
   {
     "title": "Kiev anuncia que terminó tregua excepcional de cuatro días en el sur de Ucrania",
@@ -15,7 +17,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/kiev-anuncia-que-terminó-tregua-excepcional-de-cuatro-días-en-el-sur-de-ucrania/a-79825039?maca=spa-rss-sp-all-1122-rdf",
     "category": "Política",
     "date": "2026-11-02T00:37:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Kiev Announces Finished Special Four Day Truce in South Ukraine",
+    "summary_en": "A high Ukrainian official said that the government offered Moscow to extend the truce at Jerson, \"but the Russians don't want to.\""
   },
   {
     "title": "Haley Stevens rompe con los demócratas y respalda al republicano Mike Rogers en Michigan",
@@ -24,7 +28,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261102-haley-stevens-rompe-con-los-dem%C3%B3cratas-y-respalda-al-republicano-mike-rogers-en-michigan",
     "category": "Deportes",
     "date": "2026-11-02T00:36:58+00:00",
-    "image": "https://s.france24.com/media/display/ffada44e-d654-11f1-b124-1beafce15fea/w:1024/p:16x9/AP26305662504302.jpg"
+    "image": "https://s.france24.com/media/display/ffada44e-d654-11f1-b124-1beafce15fea/w:1024/p:16x9/AP26305662504302.jpg",
+    "title_en": "Haley Stevens broke up with the Democrats and supported Republican Mike Rogers in Michigan",
+    "summary_en": "The final line of the U.S. Senate campaign in Michigan was shaken by an unexpected political turn. Democratic Congressman Haley Stevens, who lost his party's primaries to Abdul ElySayed, announced his support to Republican candidate Mike Rogers just a few days before his half-term election. The decision deepened..."
   },
   {
     "title": "La batalla por Texas: Talarico cuestiona los millones de Musk para Paxton en las midterms",
@@ -33,7 +39,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261102-la-batalla-por-texas-talarico-cuestiona-los-millones-de-musk-para-paxton-en-las-midterms",
     "category": "Deportes",
     "date": "2026-11-02T00:31:51+00:00",
-    "image": "https://s.france24.com/media/display/8ae5a80a-d654-11f1-af99-a575454bc579/w:1024/p:16x9/AP26304831444175.jpg"
+    "image": "https://s.france24.com/media/display/8ae5a80a-d654-11f1-af99-a575454bc579/w:1024/p:16x9/AP26304831444175.jpg",
+    "title_en": "The Battle for Texas: Talarico challenges Moss's million for Paxton at midterms",
+    "summary_en": "In a state that has been a Republican stronghold for decades, Democrat James Talarico aims to achieve what no member of his party has achieved in a recent state election in Texas: defeat a Republican candidate in a high-profile contest. The former and currently state's legislator challenges public prosecutor Ken Paxton, one of his..."
   },
   {
     "title": "Midterms: una democracia bajo lupa",
@@ -42,7 +50,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/midterms-una-democracia-bajo-lupa",
     "category": "Política",
     "date": "2026-11-02T00:27:58+00:00",
-    "image": "https://s.france24.com/media/display/290f3208-d650-11f1-b1b0-a575454bc579/w:1024/p:16x9/MIDTERMS-Juanita-3-1.png"
+    "image": "https://s.france24.com/media/display/290f3208-d650-11f1-b1b0-a575454bc579/w:1024/p:16x9/MIDTERMS-Juanita-3-1.png",
+    "title_en": "Midterms: A democracy under magnifying glass",
+    "summary_en": "The quality of American democracy's face looks at the # midterms of November 3.. The vote by post remains one of the most mistrust about the transparency of the elections, a feeling driven mainly by President Donald Trump."
   },
   {
     "title": "La huida de Flávio Bolsonaro",
@@ -51,7 +61,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261102-la-huida-de-fl%C3%A1vio-bolsonaro",
     "category": "Política",
     "date": "2026-11-02T00:24:26+00:00",
-    "image": "https://s.france24.com/media/display/8d35f5a4-d64c-11f1-87ac-695cb59fade5/w:1024/p:16x9/HUIDA-BOLSONARITO.png"
+    "image": "https://s.france24.com/media/display/8d35f5a4-d64c-11f1-87ac-695cb59fade5/w:1024/p:16x9/HUIDA-BOLSONARITO.png",
+    "title_en": "The escape of Flávio Bolsonaro",
+    "summary_en": "Fávio Bolsonaro lost his presidential election at the hands of Luiz Inácio Lula da Silva and later his escape from Brazil, besieged by several judicial investigations. Reaching his final destination, the U.S., his name was his legitimate president but after pressure from the White House, he retreated. We have been telling you about a..."
   },
   {
     "title": "Midterms 2026: tormenta en la campaña de Michigan; ¿peligran las opciones de El-Sayed?",
@@ -60,7 +72,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-tormenta-en-la-campa%C3%B1a-de-michigan-peligran-las-opciones-de-el-sayed",
     "category": "Medio Ambiente",
     "date": "2026-11-02T00:19:51+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Midterms 2026: Thunderstorm in the Michigan campaign. Do El@-@ Sayed's choices get worse?",
+    "summary_en": "See details at the original source."
   },
   {
     "title": "Midterms 2026: tormenta en la campaña demócrata de Michigan; ¿peligran las opciones de El-Sayed?",
@@ -69,7 +83,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-midterms-2026-tormenta-en-la-campa%C3%B1a-de-michigan-peligran-las-opciones-de-el-sayed",
     "category": "Deportes",
     "date": "2026-11-02T00:16:18+00:00",
-    "image": "https://s.france24.com/media/display/446637b6-d64d-11f1-b4b0-d18c5759e759/w:1024/p:16x9/2026-11-01T183814Z-1515927286-RC26FOANA85M-RTRMADP-3-USA-ELECTION-MICHIGAN.jpg"
+    "image": "https://s.france24.com/media/display/446637b6-d64d-11f1-b4b0-d18c5759e759/w:1024/p:16x9/2026-11-01T183814Z-1515927286-RC26FOANA85M-RTRMADP-3-USA-ELECTION-MICHIGAN.jpg",
+    "title_en": "Midterm 2026: A storm in the Michigan Democratic campaign and his choices are worse?",
+    "summary_en": "A controversy was put into the campaign of Senate candidate Abdul and Sayed. His former opposition to the Democratic primaries, Haley Stevens, was surprising on Sunday, November 1 with his support for Republican Mike Rogers. That turn deepens the internal Democratic divide in the state of Michigan, amidst a crucial battle for the opposition party..."
   },
   {
     "title": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
@@ -78,7 +94,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-11-02T00:01:15+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03e5/live/df9393e0-d64e-11f1-93e1-3b657b665bcf.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03e5/live/df9393e0-d64e-11f1-93e1-3b657b665bcf.jpg",
+    "title_en": "\"It was as if a missile was falling\": 9 killed as a private plane crashed into a neighborhood of Florida",
+    "summary_en": "The private aircraft crashed into Palm Beach County, Florida. Images from residents shown the jet falling at high speeds before crashing."
   },
   {
     "title": "Alemania sufre los primeros actos vandálicos en la ola de protestas europeas",
@@ -87,7 +105,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/internacional/2026-11-01/alemania-sufre-los-primeros-actos-vandalicos-en-la-ola-de-protestas-europeas.html",
     "category": "Internacional",
     "date": "2026-11-01T23:53:16+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c"
+    "image": "https://imagenes.elpais.com/resizer/v2/SVLPXJY3GJPTNLUREF7K3QLAFA.jpg?auth=0d6103b540e0454e5b6facd41cc622fd171dcd8c498d1a958dd7821f55d8cf4c",
+    "title_en": "Germany suffers the first vandal acts in the wave of European protests",
+    "summary_en": "Tens of detainees in several cities of the country and most affected, Frankfurt, that reports looting in its main commercial area"
   },
   {
     "title": "El regreso de María Corina Machado acelera el ritmo de la transición en Venezuela",
@@ -96,7 +116,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/america/2026-11-01/el-regreso-de-maria-corina-machado-acelera-el-ritmo-de-la-transicion-en-venezuela.html",
     "category": "Política",
     "date": "2026-11-01T23:35:40+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZTYKN526ZNMS7HPNRGBLEGUBUA.jpg?auth=bf7efaef2f9caa690c0233ea7d944402778080689d5b6d03017acc6eb1738748"
+    "image": "https://imagenes.elpais.com/resizer/v2/ZTYKN526ZNMS7HPNRGBLEGUBUA.jpg?auth=bf7efaef2f9caa690c0233ea7d944402778080689d5b6d03017acc6eb1738748",
+    "title_en": "The return of Maria Corina Machado accelerates the pace of transition in Venezuela",
+    "summary_en": "The re-emergence of the political leadership puts Chavez back, paves the agenda for change and prompts the Government to reiterate its commitment to political openness in public"
   },
   {
     "title": "Kimi Antonelli se pasa el juego en México y se convierte en el más joven de la historia en ganar el Mundial de F1",
@@ -105,7 +127,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/deportes/formula-1/2026-11-01/kimi-antonelli-se-pasa-el-juego-en-mexico-y-se-convierte-en-el-mas-joven-de-la-historia-en-ganar-el-mundial-de-f1.html",
     "category": "Deportes",
     "date": "2026-11-01T23:01:34+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XTWH5Z55A5EGHD5GRTGL4D5UKM.jpg?auth=acf6eee109140ff2e2eef53289331926ae8c6642a123ad6c1f5ecde21e733c19"
+    "image": "https://imagenes.elpais.com/resizer/v2/XTWH5Z55A5EGHD5GRTGL4D5UKM.jpg?auth=acf6eee109140ff2e2eef53289331926ae8c6642a123ad6c1f5ecde21e733c19",
+    "title_en": "Kimi Antonelli challenges his play in Mexico and becomes the youngest in history to gain F1's World Cup",
+    "summary_en": "The Mercedes rider returned his glory to Italy, and had no champion of the world from Ascari in 1953"
   },
   {
     "title": "La oposición desafía a Modi con multitudinarias protestas en India",
@@ -114,7 +138,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-la-oposici%C3%B3n-desaf%C3%ADa-a-modi-con-multitudinarias-protestas-en-india",
     "category": "Política",
     "date": "2026-11-01T22:55:54+00:00",
-    "image": "https://s.france24.com/media/display/c6ffb4f6-d63c-11f1-9a9e-a575454bc579/w:1024/p:16x9/ES-20261101-121245-121444-CS.jpg"
+    "image": "https://s.france24.com/media/display/c6ffb4f6-d63c-11f1-9a9e-a575454bc579/w:1024/p:16x9/ES-20261101-121245-121444-CS.jpg",
+    "title_en": "The opposition challenges Modi with massive protests in India",
+    "summary_en": "Thousands of people protested in India to protest the controversial review of the electoral register and demand the resignation of the head of the Electoral Commission, whom the opposition accused of leading a process that could favor the Government of Prime Minister Narendra Modi. The marches have challenged an extensive police display and have been..."
   },
   {
     "title": "¿A qué se debe el récord de participación en el voto anticipado en las midterms?",
@@ -123,7 +149,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-a-qu%C3%A9-se-debe-el-r%C3%A9cord-de-participaci%C3%B3n-en-el-voto-anticipado-en-las-midterms",
     "category": "Política",
     "date": "2026-11-01T22:50:19+00:00",
-    "image": "https://s.france24.com/media/display/7b92b390-d63e-11f1-a8b7-a575454bc579/w:1024/p:16x9/ES-20261101-150615-150936-CS.jpg"
+    "image": "https://s.france24.com/media/display/7b92b390-d63e-11f1-a8b7-a575454bc579/w:1024/p:16x9/ES-20261101-150615-150936-CS.jpg",
+    "title_en": "What's with the record of participation in the advanced midterm vote?",
+    "summary_en": "More than 51 million Americans have already voted before the official election day, a record for a half-term election. Although a high influx to the polls does not anticipate an outcome by itself, it reflects the huge interest that an election with the capacity to redefine the balance of power in Washington awaken. Antoni..."
   },
   {
     "title": "ICE, deportaciones y migración: dos años de Trump y lo que está en juego en las midterms",
@@ -132,7 +160,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-ice-deportaciones-y-migraci%C3%B3n-dos-a%C3%B1os-de-trump-y-lo-que-est%C3%A1-en-juego-en-las-midterms",
     "category": "Política",
     "date": "2026-11-01T22:49:11+00:00",
-    "image": "https://s.france24.com/media/display/634f585e-d63b-11f1-a5bb-a575454bc579/w:1024/p:16x9/ES-20261101-120553-120807-CS.jpg"
+    "image": "https://s.france24.com/media/display/634f585e-d63b-11f1-a5bb-a575454bc579/w:1024/p:16x9/ES-20261101-120553-120807-CS.jpg",
+    "title_en": "ICE, deportations and migration: Two years of Trump and what's at stake at midterms",
+    "summary_en": "Immigration remains at the centre of Donald Trump's second term. The Republican administration points out the reduction of irregular border crossings and presents deportations as a sign of the fulfilment of one of its leading campaign challenges. The rough-hand strategy, however, has been leading to controversy..."
   },
   {
     "title": "Gaza: ataques israelíes en Khan Younis dejan muertos y heridos cerca de campamentos de desplazados",
@@ -141,7 +171,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-gaza-ataques-israel%C3%ADes-en-khan-younis-dejan-muertos-y-heridos-cerca-de-campamentos-de-desplazados",
     "category": "Salud",
     "date": "2026-11-01T22:45:11+00:00",
-    "image": "https://s.france24.com/media/display/969704fa-d645-11f1-b318-d18c5759e759/w:1024/p:16x9/2026-11-01T131353Z-1263403001-RC21FOAVUNDS-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg"
+    "image": "https://s.france24.com/media/display/969704fa-d645-11f1-b318-d18c5759e759/w:1024/p:16x9/2026-11-01T131353Z-1263403001-RC21FOAVUNDS-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+    "title_en": "Gaza: Israeli attacks at Khan Younis leave dead and wounded near displaced person camps",
+    "summary_en": "The humanitarian situation in South Gaza continues to deteriorate. At Khan Younis, residents and emergency teams have been bringing killed and wounded to Nasser hospital after new Israeli shelling near areas where they have been moved. The Israeli army stated that the attacks were directed at Hamas targets while..."
   },
   {
     "title": "Fracasa el intento de Trump de impedir la certificación de una derrota republicana en Alaska",
@@ -150,7 +182,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-fracasa-intento-de-trump-de-impedir-la-certificaci%C3%B3n-de-una-derrota-republicana-en-alaska",
     "category": "Política",
     "date": "2026-11-01T22:27:29+00:00",
-    "image": "https://s.france24.com/media/display/f883627e-d642-11f1-bf43-bf1914cabd52/w:1024/p:16x9/2026-10-31T033022Z-272937822-RC2SDOAFQW00-RTRMADP-3-USA-ELECTION-ALASKA.jpg"
+    "image": "https://s.france24.com/media/display/f883627e-d642-11f1-bf43-bf1914cabd52/w:1024/p:16x9/2026-10-31T033022Z-272937822-RC2SDOAFQW00-RTRMADP-3-USA-ELECTION-ALASKA.jpg",
+    "title_en": "Failed Trump's attempt to prevent certification of a Republican defeat in Alaska",
+    "summary_en": "The demand from the Justice Department to block a potential proclaiming of Democratic candidate Mary Peltola was rejected by a federal judge. The Trump Administration was based on statements that a second postulated with the same name as Republican Dan S. Sullivan had been \"recruited\" to create confusion in the electorate."
   },
   {
     "title": "Autoridad electoral de Israel ante las denuncias de injerencia extranjera: “la voluntad de los votantes será respetada”",
@@ -159,7 +193,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/medio-oriente/20261101-autoridad-electoral-de-israel-ante-las-denuncias-de-injerencia-extranjera-la-voluntad-de-los-votantes-ser%C3%A1-respetada",
     "category": "Política",
     "date": "2026-11-01T22:02:47+00:00",
-    "image": "https://s.france24.com/media/display/715b3ad6-d63f-11f1-8add-a575454bc579/w:1024/p:16x9/ce1ca6359c0ceeffc8aeeb19c9c11f81d6bf8128w.jpg"
+    "image": "https://s.france24.com/media/display/715b3ad6-d63f-11f1-8add-a575454bc579/w:1024/p:16x9/ce1ca6359c0ceeffc8aeeb19c9c11f81d6bf8128w.jpg",
+    "title_en": "Electoral authority of Israel with respect to claims of foreign interference: \"The will of voters will be respected\"",
+    "summary_en": "The President of the Central Electoral Commission of Israel expressed his views about the Likud's statements that there have been financing from third countries, including Qatar, to mobilise the historic vote for the Arab parties at the recent elections in Israel. He did so by claiming record participation and claiming that they did not even..."
   },
   {
     "title": "Boca Juniors gana el superclásico argentino al River Plate",
@@ -168,7 +204,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/boca-juniors-gana-el-superclásico-argentino-al-river-plate/a-79824836?maca=spa-rss-sp-all-1122-rdf",
     "category": "Deportes",
     "date": "2026-11-01T21:24:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Boca Juniors wins Argentina's Super Classic at River Plate",
+    "summary_en": "With a lone goal by Lautaro Di Lollo, the Xeneieze was put up with a competitor who ended up with two less players for expulsions."
   },
   {
     "title": "Al menos nueve personas mueren al estrellarse un avión privado en Florida",
@@ -177,7 +215,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/us/2026-11-01/personas-mueren-al-estrellarse-un-jet-privado-en-florida.html",
     "category": "Internacional",
     "date": "2026-11-01T20:58:31+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PHZB7QDUQZHSTME3YNIL3CYHFM.jpeg?auth=106e9ccc99b08c8b55e22c2097ef96124ebd6805677d82448bd627d2797f8930"
+    "image": "https://imagenes.elpais.com/resizer/v2/PHZB7QDUQZHSTME3YNIL3CYHFM.jpeg?auth=106e9ccc99b08c8b55e22c2097ef96124ebd6805677d82448bd627d2797f8930",
+    "title_en": "At least nine people die as a private plane crashed into Florida",
+    "summary_en": "The Learjet 60 model aircraft was headed to the Bahamas after taking off from Texas as it fell into a residential area of Palm Beach County"
   },
   {
     "title": "Más de 300.000 desplazados por los combates en el oeste de Yemen, según la ONU",
@@ -186,7 +226,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/más-de-300-000-desplazados-por-los-combates-en-el-oeste-de-yemen-según-la-onu/a-79824761?maca=spa-rss-sp-all-1122-rdf",
     "category": "Salud",
     "date": "2026-11-01T19:59:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "More than 300,000 displaced by fighting in western Yemen, according to the UN",
+    "summary_en": "The International Organization for Migration had warned that the displaced needed \"shelter, food, drinking water and health care\" and had emphasized the lack of financing to face the emergency."
   },
   {
     "title": "Apoyo afroamericano a Trump: defensa de las políticas migratorias y voto castigo a los demócratas",
@@ -195,7 +237,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-apoyo-afroamericano-a-trump-defensa-de-las-pol%C3%ADticas-migratorias-y-voto-castigo-a-los-dem%C3%B3cratas",
     "category": "Política",
     "date": "2026-11-01T19:25:33+00:00",
-    "image": "https://s.france24.com/media/display/5e09d566-d629-11f1-9e4a-a575454bc579/w:1024/p:16x9/MIDTERMS-Juanita-2-1.png"
+    "image": "https://s.france24.com/media/display/5e09d566-d629-11f1-9e4a-a575454bc579/w:1024/p:16x9/MIDTERMS-Juanita-2-1.png",
+    "title_en": "African-American support for Trump: defence of migration policies and vote to punish Democrats",
+    "summary_en": "Two years ago, the then-elected Donald Trump was able to conquer twice as many votes as the traditionally Democratic African American community. The president hopes to maintain the trend for midterms and right-wing communities that uphold \"traditional\" values while on the opposition side his detractors say that..."
   },
   {
     "title": "La ONU ordena desmantelar la misión en el Sáhara mientras se dispara el riesgo de escalada bélica",
@@ -204,7 +248,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/internacional/2026-11-01/la-mision-de-la-onu-en-el-sahara-queda-en-el-limbo-mientras-se-dispara-el-riesgo-de-escalada-belica.html",
     "category": "Política",
     "date": "2026-11-01T19:07:52+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/IFA6EQI25LYLN4EIV3YZBV6Z4U.jpg?auth=1d88525f673633f985c9055095f86f356f92642e4e64eb89f0cf9dbac32a8053"
+    "image": "https://imagenes.elpais.com/resizer/v2/IFA6EQI25LYLN4EIV3YZBV6Z4U.jpg?auth=1d88525f673633f985c9055095f86f356f92642e4e64eb89f0cf9dbac32a8053",
+    "title_en": "The UN orders to dismantle the mission in the Sahara while triggering the risk of war escalation",
+    "summary_en": "The Minurso goes extinct after the U.S. and Russia crossing veto after 35 years without having been charged with organizing a referendum of self-determination or guaranteeing a ceasefire from 2020"
   },
   {
     "title": "Fin de la misión de la ONU en el Sahara Occidental: una meta incumplida y un futuro incierto",
@@ -213,7 +259,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/%C3%A1frica/20261101-fin-de-la-misi%C3%B3n-de-la-onu-en-el-sahara-occidental-una-meta-incumplida-y-un-futuro-incierto",
     "category": "Internacional",
     "date": "2026-11-01T18:43:03+00:00",
-    "image": "https://s.france24.com/media/display/5ac72ffa-2e2a-11f0-bedd-005056a90284/w:1024/p:16x9/000_Nic6216684-1.jpg"
+    "image": "https://s.france24.com/media/display/5ac72ffa-2e2a-11f0-bedd-005056a90284/w:1024/p:16x9/000_Nic6216684-1.jpg",
+    "title_en": "End of UN mission to Western Sahara: an unmet goal and an uncertain future",
+    "summary_en": "The United Nations announced this Sunday, 1 November, the start of the dismantling of its mission for Western Sahara (Minurso) after the Security Council had been unable to renew its term after 35 years. The body, established after the 1991 ceasefire between Morocco and the Frente Polisario, concludes its work without having achieved its..."
   },
   {
     "title": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
@@ -222,7 +270,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html",
     "category": "Política",
     "date": "2026-11-01T18:19:28+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/HVFTPO2EDFHKBLQWWFRE6RCBAE.JPG?auth=8c9484716df392c8e76805f963b38d16ade9a3fb4ad80aa430063c1042fd79bd"
+    "image": "https://imagenes.elpais.com/resizer/v2/HVFTPO2EDFHKBLQWWFRE6RCBAE.JPG?auth=8c9484716df392c8e76805f963b38d16ade9a3fb4ad80aa430063c1042fd79bd",
+    "title_en": "António Guterres: \"A competition between the U.S. and China to create weapons with IA could have devastating consequences\"",
+    "summary_en": "The veteran Portuguese politician and Secretary General of the United Nations, about to leave office, says about his replacement that he would be glad that she was a woman. \"A world without rules would be a disaster,\" alert"
   },
   {
     "title": "El Madrid vuela sobre el Racing",
@@ -231,7 +281,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/deportes/futbol/2026-11-01/el-madrid-vuela-sobre-el-racing.html",
     "category": "Deportes",
     "date": "2026-11-01T17:47:57+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/245OXIRA7JA5RJ53VFPXLFKIBU.jpg?auth=512650896de3c47af1ab429f5b2c2db4a5b046be5d49799bdecae2f14a0e2daf"
+    "image": "https://imagenes.elpais.com/resizer/v2/245OXIRA7JA5RJ53VFPXLFKIBU.jpg?auth=512650896de3c47af1ab429f5b2c2db4a5b046be5d49799bdecae2f14a0e2daf",
+    "title_en": "The Madrid flies about the Racing",
+    "summary_en": "With Diomande with a streak, Mourinho's increasingly round team catches a hit in about half an hour with a cheerful and vulnerable rival"
   },
   {
     "title": "La Izquierda en Berlín está cada vez más cerca de tomar el control del gobierno",
@@ -240,7 +292,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/la-izquierda-en-berlín-está-cada-vez-más-cerca-de-tomar-el-control-del-gobierno/a-79821376?maca=spa-rss-sp-all-1122-rdf",
     "category": "Deportes",
     "date": "2026-11-01T17:19:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "The Left in Berlin is increasingly close to taking control of the government",
+    "summary_en": "At a congress, the party paves the way for a coalition with The Greens and the SPD. A controversial media report about potential head of government, Eif Eralp, continues to have to talk."
   },
   {
     "title": "¿Apunta Trump a gobernar sin el Congreso si los demócratas ganan las Midterms?: así se prepara",
@@ -249,7 +303,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261101-apunta-trump-a-gobernar-sin-el-congreso-si-los-dem%C3%B3cratas-ganan-las-midterms-as%C3%AD-se-prepara",
     "category": "Política",
     "date": "2026-11-01T17:13:22+00:00",
-    "image": "https://s.france24.com/media/display/821eb70e-cfb8-11f1-8b37-5b4a75578ebb/w:1024/p:16x9/000-D37V4QR.jpg"
+    "image": "https://s.france24.com/media/display/821eb70e-cfb8-11f1-8b37-5b4a75578ebb/w:1024/p:16x9/000-D37V4QR.jpg",
+    "title_en": "Do Trump aim to rule without Congress if the Democrats gain the midterms? That's how they get ready.",
+    "summary_en": "While the president goes around the country to avoid Republicans losing their control of the Capitol, his leading advisors have been working on a very different stage for months: a White House faced with democratic majority and forced to govern through executive orders, decrees and vetoes. The strategy includes from immigration and..."
   },
   {
     "title": "Misión de la ONU en el Sahara queda en el limbo por vetos cruzados de EE. UU. y Rusia",
@@ -258,7 +314,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-misi%C3%B3n-de-la-onu-en-el-sahara-queda-en-el-limbo-por-vetos-cruzados-de-ee-uu-y-rusia",
     "category": "Internacional",
     "date": "2026-11-01T17:10:50+00:00",
-    "image": "https://s.france24.com/media/display/f18aedde-d615-11f1-8710-1beafce15fea/w:1024/p:16x9/ES-20261101-113821-114010-CS.jpg"
+    "image": "https://s.france24.com/media/display/f18aedde-d615-11f1-8710-1beafce15fea/w:1024/p:16x9/ES-20261101-113821-114010-CS.jpg",
+    "title_en": "The UN's mission to the Sahara remains at limbo by crossing vetos of the US. U.S. and Russia",
+    "summary_en": "The crossing vetos of the United States and Russia at the UN Security Council have put an end to the United Nations Mission for the Sahara (Minurso), established in 1991 to monitor the ceasefire between Morocco and the Frente Polisario, a national liberation movement supported by Algeria. Expand information our correspondent Sofia..."
   },
   {
     "title": "Más de 100 agentes de policía resultan heridos en violentos disturbios en Fráncfort",
@@ -267,7 +325,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/más-de-100-agentes-de-policía-resultan-heridos-en-violentos-disturbios-en-fráncfort/a-79823376?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-11-01T16:22:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "More than 100 police officers are wounded in violent riots in Frankfurt",
+    "summary_en": "At least 17 tents and establishments were damaged, and five of them were looted. The police found that currently they face between 1,000 and 1,500 violent troublemakers, \"most of them from migrants.\""
   },
   {
     "title": "Mueren cuatro miembros de una familia, dos adultos y dos niños, al salirse de la vía el coche en el que viajaban en Zamora",
@@ -276,7 +336,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html",
     "category": "Internacional",
     "date": "2026-11-01T16:04:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/5SEYHGDKFRAJXBS5FZKFYNNMNM.jpg?auth=0170b8ea4ab0f97ac307f90061d0ede4f7cc6daead2f78403c7e61dd7db87e45"
+    "image": "https://imagenes.elpais.com/resizer/v2/5SEYHGDKFRAJXBS5FZKFYNNMNM.jpg?auth=0170b8ea4ab0f97ac307f90061d0ede4f7cc6daead2f78403c7e61dd7db87e45",
+    "title_en": "Four family members, two adults and two children die as they get out of the car they were travelling to Zamora",
+    "summary_en": "Civil Guard investigates the cause of an accident involving a 59-year-old man, his 29-year-old daughter and his two grandchildren and sons of a two and three-year-old girl"
   },
   {
     "title": "Alcaraz, un trofeo en Viena y algo más: volver a disfrutar",
@@ -285,7 +347,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/deportes/tenis/2026-11-01/alcaraz-un-trofeo-en-viena-y-algo-mas-volver-a-disfrutar.html",
     "category": "Deportes",
     "date": "2026-11-01T15:35:32+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/W3FXZYJGTZLPPJGA4QUYSDWXSA.jpg?auth=688a2622767c27d0de72f047aba2b624cbb0b3a33a7c65b996a3d45d621d4b65"
+    "image": "https://imagenes.elpais.com/resizer/v2/W3FXZYJGTZLPPJGA4QUYSDWXSA.jpg?auth=688a2622767c27d0de72f047aba2b624cbb0b3a33a7c65b996a3d45d621d4b65",
+    "title_en": "Alcaraz, a trophy in Vienna and something else: Reenjoy",
+    "summary_en": "The bat challenges De Miñaur an impeccable tournament (6-1 and 6-4, at 1 h 27m) and wins his fourth title of the season, second in the under-roof format"
   },
   {
     "title": "Bulgaria celebra la segunda vuelta presidencial bajo la sombra de las tensiones en el mar Negro",
@@ -294,7 +358,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/europa/20261101-bulgaria-celebra-la-segunda-vuelta-presidencial-bajo-la-sombra-de-las-tensiones-en-el-mar-negro",
     "category": "Política",
     "date": "2026-11-01T14:42:02+00:00",
-    "image": "https://s.france24.com/media/display/ac24b310-d601-11f1-804c-d18c5759e759/w:1024/p:16x9/2026-11-01T054315Z-1282157450-RC2SEOAV9M4L-RTRMADP-3-BULGARIA-ELECTION-PRESIDENT.jpg"
+    "image": "https://s.france24.com/media/display/ac24b310-d601-11f1-804c-d18c5759e759/w:1024/p:16x9/2026-11-01T054315Z-1282157450-RC2SEOAV9M4L-RTRMADP-3-BULGARIA-ELECTION-PRESIDENT.jpg",
+    "title_en": "Bulgaria celebrates second presidential round under the shadow of tensions in the Black Sea",
+    "summary_en": "The citizens of Bulgaria vote on Sunday 1 November in a second presidential run between two candidates with opposition positions about Russian invasion and relations with Moscow, in a context of growing tensions at the Black Sea. The current president, Iliana Iotova - who advocates dialogue with the Kremlin - challenges Andrey..."
   },
   {
     "title": "Informe desde Saint-Malo: empieza la Ruta del ron, la mayor regata transatlántica",
@@ -303,7 +369,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-informe-desde-saint-malo-empieza-la-ruta-del-ron-la-mayor-regata-transatl%C3%A1ntica",
     "category": "Deportes",
     "date": "2026-11-01T14:32:02+00:00",
-    "image": "https://s.france24.com/media/display/00948ee0-d600-11f1-9a3a-1beafce15fea/w:1024/p:16x9/ES-20261101-084212-084359-CS.jpg"
+    "image": "https://s.france24.com/media/display/00948ee0-d600-11f1-9a3a-1beafce15fea/w:1024/p:16x9/ES-20261101-084212-084359-CS.jpg",
+    "title_en": "Report from Saint-Malo: The Rum Rog begins, the largest transatlantic race",
+    "summary_en": "The largest transatlantic race, the Rum Road, with its starting point from Sainta-Malo began. 115 skippers will conduct a 6 560 km solo tour with no stop and no assistance. Our journalist Natalia Ruiz Giraldo told us more about the competition from his place of departure."
   },
   {
     "title": "Retórica antimusulmana en las midterms: los señalamientos contra el candidato demócrata de Michigan",
@@ -312,7 +380,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-ret%C3%B3rica-antimusulmana-en-las-midterms-los-se%C3%B1alamientos-contra-el-candidato-dem%C3%B3crata-de-michigan",
     "category": "Política",
     "date": "2026-11-01T14:29:10+00:00",
-    "image": "https://s.france24.com/media/display/30bac4a6-d5fe-11f1-ab8c-d18c5759e759/w:1024/p:16x9/ES-20261101-073853-074031-CS.jpg"
+    "image": "https://s.france24.com/media/display/30bac4a6-d5fe-11f1-ab8c-d18c5759e759/w:1024/p:16x9/ES-20261101-073853-074031-CS.jpg",
+    "title_en": "anti-Muslim rhetoric at midterms: The Highlights Against Michigan's Democratic Candidate",
+    "summary_en": "The Republican and Democratic campaigns step up efforts to gain followers in Michigan. The official candidate, Mike Rogers, followed the line of President Donald Trump and accused his opposition, Abdul el-Sayed, of having links with Islamic radical groups. The progressive leader accused the Republican and his president of discriminatinghim for..."
   },
   {
     "title": "La jueza pide acelerar las labores de búsqueda, más operarios y que se trabaje de noche",
@@ -321,7 +391,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-01/la-jueza-pide-acelerar-las-labores-de-busqueda-mas-operarios-y-que-se-trabaje-de-noche.html",
     "category": "Internacional",
     "date": "2026-11-01T14:14:36+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/HHSULUIVKBEX5K5HC7IPOSUXEY.jpg?auth=645cb473b9338992c1a625b43cf7fdfecf6a81a1332f02bcf310962b9c952444"
+    "image": "https://imagenes.elpais.com/resizer/v2/HHSULUIVKBEX5K5HC7IPOSUXEY.jpg?auth=645cb473b9338992c1a625b43cf7fdfecf6a81a1332f02bcf310962b9c952444",
+    "title_en": "The judge asks to accelerate the search jobs, more operative and work at night",
+    "summary_en": "The court order was made this Saturday to the crane company contracted by ADIF and RENFE to have the necessary workers"
   },
   {
     "title": "Casi ochocientos detenidos en Francia tras las protestas",
@@ -330,7 +402,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/casi-ochocientos-detenidos-en-francia-tras-las-protestas/a-79822514?maca=spa-rss-sp-all-1122-rdf",
     "category": "Política",
     "date": "2026-11-01T13:52:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Almost eight hundred arrested in France after protests",
+    "summary_en": "The Government puts at 779 the final balance of arrests at yesterday's riots. The production of a Molotov cocktail with second-degree burns was investigated as an attempt at homicide."
   },
   {
     "title": "El juez envía a prisión a un detenido en Barcelona como “ideólogo” de Blocus",
@@ -339,7 +413,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/catalunya/2026-11-01/el-juez-envia-a-prision-a-un-detenido-en-barcelona-como-ideologo-de-blocus.html",
     "category": "Internacional",
     "date": "2026-11-01T13:31:38+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/CHTQSIW36VD3ZBLOOEIUG5W4MU.jpg?auth=a148660dfb4ecec2afa05a5bce5c98dd60f45f668af836e30829a4e8149599de"
+    "image": "https://imagenes.elpais.com/resizer/v2/CHTQSIW36VD3ZBLOOEIUG5W4MU.jpg?auth=a148660dfb4ecec2afa05a5bce5c98dd60f45f668af836e30829a4e8149599de",
+    "title_en": "The judge sends an arrested person to prison in Barcelona as an \"ideologist\" of Blous",
+    "summary_en": "The judge appreciates indications of conspiracy to commit misconduct and membership of a criminal group"
   },
   {
     "title": "Usuarios reportan \"censuras\" en las redes sociales al contenido de las protestas en Francia",
@@ -348,7 +424,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/video/20261101-usuarios-reportan-censuras-en-las-redes-sociales-al-contenido-de-las-protestas-en-francia",
     "category": "Tecnología",
     "date": "2026-11-01T13:25:05+00:00",
-    "image": "https://s.france24.com/media/display/d09cdd9c-d5f4-11f1-b6b0-d18c5759e759/w:1024/p:16x9/ES-20261101-073228-073353-CS.jpg"
+    "image": "https://s.france24.com/media/display/d09cdd9c-d5f4-11f1-b6b0-d18c5759e759/w:1024/p:16x9/ES-20261101-073228-073353-CS.jpg",
+    "title_en": "Users report \"censors\" on social networks to the content of protests in France",
+    "summary_en": "During the October 31 student demonstrations, social media users have reported that protests publications have been reported. The Government had earlier announced that it would deploy a device amidst so-called \"reaction commercials\" that were currently being moved on the digital platforms, the first..."
   },
   {
     "title": "Protestas en Francia y Alemania: los disturbios elevan la tensión en medio de las demandas sociales",
@@ -357,7 +435,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/europa/20261101-protestas-en-francia-y-alemania-los-disturbios-elevan-la-tensi%C3%B3n-en-medio-de-las-demandas-sociales",
     "category": "Política",
     "date": "2026-11-01T13:19:16+00:00",
-    "image": "https://s.france24.com/media/display/c91b261c-d5f6-11f1-8500-d18c5759e759/w:1024/p:16x9/2026-11-01T002843Z-19162343-RC2GEOATHHEU-RTRMADP-3-FRANCE-PROTEST.jpg"
+    "image": "https://s.france24.com/media/display/c91b261c-d5f6-11f1-8500-d18c5759e759/w:1024/p:16x9/2026-11-01T002843Z-19162343-RC2GEOATHHEU-RTRMADP-3-FRANCE-PROTEST.jpg",
+    "title_en": "Protests in France and Germany: Riots raise tension amidst social demand",
+    "summary_en": "Hundreds of thousands of people have been on the streets this weekend in France and Germany to protest against the high cost of living, challenges of educational systems and political management, with a new expression of social discontent that especially mobilizes young Europeans. Although most of the protests happened from..."
   },
   {
     "title": "Muere Miquel Navarro a los 81 años, el gran escultor de las ciudades totémicas",
@@ -366,7 +446,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/cultura/2026-11-01/muere-a-los-81-anos-el-artista-miquel-navarro.html",
     "category": "Cultura",
     "date": "2026-11-01T13:10:03+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/J6CZXFOL3BGB5NMJURTTFRNCOY.jpg?auth=47d2d83a4ad01b69f77a9568ce3269e463f95c278a6981f12be9f3c8cb017409"
+    "image": "https://imagenes.elpais.com/resizer/v2/J6CZXFOL3BGB5NMJURTTFRNCOY.jpg?auth=47d2d83a4ad01b69f77a9568ce3269e463f95c278a6981f12be9f3c8cb017409",
+    "title_en": "Die Miquel Navarro at age 81, the great sculptor of totemic cities",
+    "summary_en": "The Valencian artist, National Prize in 1986 and an exponent of the Spanish New Sculpture, fulfilled his last dream: to open his Casa Taller in his town, MIslata"
   },
   {
     "title": "La era de los desequilibrios",
@@ -375,7 +457,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/2026-11-01/la-era-de-los-desequilibrios.html",
     "category": "Economía",
     "date": "2026-11-01T12:40:57+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/3PWHE4IO3NDOTIEEG3XZHEAPM4.jpg?auth=2eec26f2cf4ecf30c7e65b6518f2e530fce28694948ef95a11c00f9f56edcfb5"
+    "image": "https://imagenes.elpais.com/resizer/v2/3PWHE4IO3NDOTIEEG3XZHEAPM4.jpg?auth=2eec26f2cf4ecf30c7e65b6518f2e530fce28694948ef95a11c00f9f56edcfb5",
+    "title_en": "The Age of Unbalances",
+    "summary_en": "The problem with protectionist policies is that they are ineffective and often counterproductive"
   },
   {
     "title": "Ecuador inicia su cuarto toque de queda del año para contener la violencia a semanas de las elecciones locales",
@@ -384,7 +468,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261101-ecuador-inicia-su-cuarto-toque-de-queda-del-a%C3%B1o-para-contener-la-violencia-a-semanas-de-las-elecciones-locales",
     "category": "Política",
     "date": "2026-11-01T12:39:38+00:00",
-    "image": "https://s.france24.com/media/display/cc4fef62-d5f0-11f1-98a6-d18c5759e759/w:1024/p:16x9/000-B27E7GZ.jpg"
+    "image": "https://s.france24.com/media/display/cc4fef62-d5f0-11f1-98a6-d18c5759e759/w:1024/p:16x9/000-B27E7GZ.jpg",
+    "title_en": "Ecuador starts its fourth curfew of the year to contain violence at local election weeks",
+    "summary_en": "On Sunday, 1 November, the country began its fourth period of night mobility restrictions throughout the year. It's a measure that will govern for ten days in five coastal provinces, including Guayas, with Guayaquil, Ecuador's most populated town. The new curfew arrives amidst a persistent crisis..."
   },
   {
     "title": "Protestas de Gen Z regelt en Alemania: \"Solo queremos que nos escuchen\"",
@@ -393,7 +479,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/protestas-de-gen-z-regelt-en-alemania-solo-queremos-que-nos-escuchen/a-79822238?maca=spa-rss-sp-all-1122-rdf",
     "category": "Política",
     "date": "2026-11-01T12:38:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Gen Z regelt's Protests in Germany: \"We just want them to listen to us\"",
+    "summary_en": "The German Minister of Internal Affairs, Alexander Dobrindt, condemns violence at the protests and holds \"far-left groups\" and \"troublemakers from the migrant community.\""
   },
   {
     "title": "La oposición en India reclama la salida del jefe electoral en una manifestación multitudinaria",
@@ -402,7 +490,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261101-la-oposici%C3%B3n-en-india-reclama-la-salida-del-jefe-electoral-en-una-manifestaci%C3%B3n-multitudinaria",
     "category": "Política",
     "date": "2026-11-01T12:16:03+00:00",
-    "image": "https://s.france24.com/media/display/2e7f6500-d5d8-11f1-ac7a-1beafce15fea/w:1024/p:16x9/AP26305338577567.jpg"
+    "image": "https://s.france24.com/media/display/2e7f6500-d5d8-11f1-ac7a-1beafce15fea/w:1024/p:16x9/AP26305338577567.jpg",
+    "title_en": "The opposition in India demand an exit of the electoral head at a mass demonstration",
+    "summary_en": "Named by opposition chief Rahul Gandhi and supported by the youth movement of the 'Cucarachas', thousands of citizens have been mobilized this Sunday, November 1, in New Delhi under the slogan of 'Save Democracy', despite a strict police operation. The protesters are insisting that the head of the Electoral Commission resign as a result..."
   },
   {
     "title": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
@@ -411,7 +501,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cm89z5zp0zkzo?at_medium=RSS&at_campaign=rss",
     "category": "Economía",
     "date": "2026-11-01T11:54:33+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
+    "title_en": "Why Trump faces the same economic problem that sank Biden",
+    "summary_en": "Donald Trump arrives at the U.S. midterm election with a problem similar to that of his former Democratic."
   },
   {
     "title": "\"Nos abandonaron en bolsas cuando éramos bebés y décadas después descubrimos que éramos hermanos\"",
@@ -420,7 +512,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/ckq6njd0drp0o?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-11-01T11:09:10+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35de/live/350a1810-bbfd-11f1-90b9-913e4354ed35.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/35de/live/350a1810-bbfd-11f1-90b9-913e4354ed35.jpg",
+    "title_en": "\"They gave us up in bags as babies and decades later we found out we were brothers\"",
+    "summary_en": "David McBride spent years looking for his mother after being abandoned as a baby. Instead, she found a sister and a brother."
   },
   {
     "title": "Rusia vuelve a sufrir ataques ucranianos contra instalaciones industriales y petroleras",
@@ -429,7 +523,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/rusia-vuelve-a-sufrir-ataques-ucranianos-contra-instalaciones-industriales-y-petroleras/a-79821739?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-11-01T11:05:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Russia Rejects Ukrainian Attacks on Industrial and Oil Facilities",
+    "summary_en": "Kiev strikes a refinery at Kstovo on the third day of attacks on oil installations as well as an arms production plant at Rostov while Moscow attacks power installations in Ukraine."
   },
   {
     "title": "Las lecciones del estudio Milgram, el perturbador experimento sobre la obediencia ciega que se sigue replicando hoy en día",
@@ -438,7 +534,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cmvgxpk7jjx7o?at_medium=RSS&at_campaign=rss",
     "category": "Ciencia",
     "date": "2026-11-01T10:28:50+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e12/live/5344d3d0-d5e6-11f1-b441-2b33b063138f.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e12/live/5344d3d0-d5e6-11f1-b441-2b33b063138f.jpg",
+    "title_en": "The lessons of the Milgram study, the disturbing experiment about blind obedience that continues to replicate today",
+    "summary_en": "One of the most infamous experiments of social psychology is currently being replicated and reveals why common and common people obey an immoral order and what we can do to resist."
   },
   {
     "title": "La fascinante historia del kohl, el delineador de ojos usado desde la época de Nefertiti",
@@ -447,7 +545,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cew87rggrv9o?at_medium=RSS&at_campaign=rss",
     "category": "Cultura",
     "date": "2026-11-01T09:47:11+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82d9/live/d78d1130-f166-11f0-b5f7-49f0357294ff.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82d9/live/d78d1130-f166-11f0-b5f7-49f0357294ff.jpg",
+    "title_en": "The fascinating story of the kohl, the eyeliner used since Nefertiti's time",
+    "summary_en": "The Arabic kohl has been recognized by Unesco as an Intangible Cultural Heritage of Humanity and is celebrated as both artisan and traditional practice."
   },
   {
     "title": "Binance vuelve a permitir la retirada de fondos",
@@ -456,7 +556,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/binance-vuelve-a-permitir-la-retirada-de-fondos/a-79820941?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-11-01T08:58:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Binance again allows retirement of funds",
+    "summary_en": "After suffering from a cyber attack from the largest cryptomoneda burglary so far, by which the FBI points to North Korea, the world's largest Bitcoin operator tries to get back to normal."
   },
   {
     "title": "La batalla política en Polonia deriva en una guerra abierta por el control del Tribunal Constitucional",
@@ -465,7 +567,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/internacional/2026-11-01/la-batalla-politica-en-polonia-deriva-en-una-guerra-abierta-por-el-control-del-tribunal-constitucional.html",
     "category": "Política",
     "date": "2026-11-01T08:04:12+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/EXXR3GTS75A6JOVIDO3FI6YOTI.jpg?auth=c6e5617a6b74eeba04e13ce708e9cc502630ac76f26e3e39acfc122ad5e69a56"
+    "image": "https://imagenes.elpais.com/resizer/v2/EXXR3GTS75A6JOVIDO3FI6YOTI.jpg?auth=c6e5617a6b74eeba04e13ce708e9cc502630ac76f26e3e39acfc122ad5e69a56",
+    "title_en": "The political battle in Poland leads to an open war with the Constitutional Court",
+    "summary_en": "The Polish president's fight to get into the institution's headquarters at dawn on Saturday lights his followers and detractors with irreconcilable postures"
   },
   {
     "title": "La Armada iraní informa del incendio de otro petrolero tras chocar con una mina en el estrecho de Ormuz",
@@ -474,7 +578,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/la-armada-iraní-informa-del-incendio-de-otro-petrolero-tras-chocar-con-una-mina-en-el-estrecho-de-ormuz/a-79820693?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-11-01T08:01:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "The Iranian Navy reports another oil tanker's fire after they hit a mine at the Ormuz Straits",
+    "summary_en": "A catary gas tanker was also attacked. Iran has called the British Royal Navy \"terrorist\" for its participation in the war and its \"hostile\" actions."
   },
   {
     "title": "Comienza la segunda vuelta presidencial en Bulgaria",
@@ -483,7 +589,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/comienza-la-segunda-vuelta-presidencial-en-bulgaria/a-79820383?maca=spa-rss-sp-all-1122-rdf",
     "category": "Política",
     "date": "2026-11-01T06:02:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "The second presidential round begins in Bulgaria",
+    "summary_en": "Electors will have to choose between currently President Iliana Yotova and former Acting Prime Minister Andrey Gyurov."
   },
   {
     "title": "La amazona alemana que ha ganado cuatro oros olímpicos priorizando la felicidad de sus caballos",
@@ -492,7 +600,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/eps/2026-11-01/la-amazona-alemana-que-ha-ganado-cuatro-oros-olimpicos-priorizando-la-felicidad-de-sus-caballos.html",
     "category": "Internacional",
     "date": "2026-11-01T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/5GGNU43M2ZB3HGUJWVREU25KOM.JPG?auth=10cb1b943e9d6ccd4b1cc605a29636ca753c9a9b05e1300157d2fb4e9bee438f"
+    "image": "https://imagenes.elpais.com/resizer/v2/5GGNU43M2ZB3HGUJWVREU25KOM.JPG?auth=10cb1b943e9d6ccd4b1cc605a29636ca753c9a9b05e1300157d2fb4e9bee438f",
+    "title_en": "The German Amazon that has earned four Olympic ears prioritizing his horse's happiness",
+    "summary_en": "We visited Jessica von Bredow-Werndl at his stables at Bavaria, where he found out what he's learned from his animals and his training method: \"The true connection arises when confidence becomes more than control.\""
   },
   {
     "title": "Las costuras del ciclo expansivo",
@@ -501,7 +611,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/2026-11-01/las-costuras-del-ciclo-expansivo.html",
     "category": "Economía",
     "date": "2026-11-01T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6ZNP7GA5OROBFJZIZ4ZTKNB5PA.jpg?auth=0b67bb604ad2df3926dc7174348ae24b1f000cd2cdae3d912291e212171cf897"
+    "image": "https://imagenes.elpais.com/resizer/v2/6ZNP7GA5OROBFJZIZ4ZTKNB5PA.jpg?auth=0b67bb604ad2df3926dc7174348ae24b1f000cd2cdae3d912291e212171cf897",
+    "title_en": "The seams of an expansive cycle",
+    "summary_en": "Public consumption and tourism explain half of progress in the quarter. Inflation persists"
   },
   {
     "title": "Palmer Luckey y Ben Lamm, los milmillonarios frikis detrás de los superperros de guerra",
@@ -510,7 +622,9 @@ window.PLANETA_NEWS = [
     "url": "https://cincodias.elpais.com/opinion/2026-11-01/palmer-luckey-y-ben-lamm-los-milmillonarios-frikis-detras-de-los-superperros-de-guerra.html",
     "category": "Tecnología",
     "date": "2026-11-01T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QNB6XQEHV5HSLLVW5SR7IXBIQM.jpg?auth=cbd6db32478b69caed54976d9058123613444db223cd1c4a067777c48ae66153"
+    "image": "https://imagenes.elpais.com/resizer/v2/QNB6XQEHV5HSLLVW5SR7IXBIQM.jpg?auth=cbd6db32478b69caed54976d9058123613444db223cd1c4a067777c48ae66153",
+    "title_en": "Palmer Luckey and Ben Lamm, billionaires frikis behind war superdogs",
+    "summary_en": "They will combine at Warhound genetic engineering and defence technology to create military canine units"
   },
   {
     "title": "Las claves: las energéticas esquivan esta vez el debate sobre el auge de sus beneficios",
@@ -519,7 +633,9 @@ window.PLANETA_NEWS = [
     "url": "https://cincodias.elpais.com/opinion/2026-11-01/las-claves-las-energeticas-esquivan-esta-vez-el-debate-sobre-el-auge-de-sus-beneficios.html",
     "category": "Economía",
     "date": "2026-11-01T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XRFI7YL7MBL63H2IDWYODBESAU.jpg?auth=7f24c4f83f7011e38259e6f74e3233d2e6b7eb71a5f2eab21b84bf4ab3aff177"
+    "image": "https://imagenes.elpais.com/resizer/v2/XRFI7YL7MBL63H2IDWYODBESAU.jpg?auth=7f24c4f83f7011e38259e6f74e3233d2e6b7eb71a5f2eab21b84bf4ab3aff177",
+    "title_en": "The keys: the energy pits this time the debate about their benefits boom",
+    "summary_en": "They were charged an extraordinary tax three years ago."
   },
   {
     "title": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
@@ -528,7 +644,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "What caused the incident? The step by step sequence of a string of faults that the system did not stop",
+    "summary_en": "The information available points to more than human mistakes: nothing prevented them from being fatal"
   },
   {
     "title": "No fue solo un fallo humano: las debilidades del sistema que evidencian los accidentes de Urda y Adamuz",
@@ -537,7 +655,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-01/inasumible-no-es-lo-mismo-que-inexplicable-las-debilidades-del-sistema-que-evidencian-los-accidentes-de-urda-y-adamuz.html",
     "category": "Cultura",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/VK75TBVUSRHNTEUEYI2YP77YA4.jpg?auth=d4733e94dbe96ac964d2ae18d92d84ec80d043dc39f1be1fa468c58cbb28091c"
+    "image": "https://imagenes.elpais.com/resizer/v2/VK75TBVUSRHNTEUEYI2YP77YA4.jpg?auth=d4733e94dbe96ac964d2ae18d92d84ec80d043dc39f1be1fa468c58cbb28091c",
+    "title_en": "It was not just a human malfunction: the weaknesses of the system that attested to Urda and Adamuz's accidents",
+    "summary_en": "The information already known about the last mortal sinister refers to a deficit in the safety culture that begins to change: Renfe takes first modifications and Puente announces new measures"
   },
   {
     "title": "Las vidas truncadas en el tren: “Gracias por quererme, por entenderme, por ser el mejor padre del mundo”",
@@ -546,7 +666,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-01/las-vidas-truncadas-en-el-tren-gracias-por-quererme-por-entenderme-por-ser-el-mejor-padre-del-mundo.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/V5XDDQM3VFBNPED6MI3YAGZHRI.jpg?auth=80846619e6e39a6149c156dd588c3e9252a7e321311c95a2ed5bc5ccbf5c0f60"
+    "image": "https://imagenes.elpais.com/resizer/v2/V5XDDQM3VFBNPED6MI3YAGZHRI.jpg?auth=80846619e6e39a6149c156dd588c3e9252a7e321311c95a2ed5bc5ccbf5c0f60",
+    "title_en": "The lives truncated on the train: \"Thank you for loving me, for understanding me, for being the best father in the world\"",
+    "summary_en": "The drip of identification of dead and missing at Urda's accident reveals the stories behind the 69 victims and their families' pain"
   },
   {
     "title": "Puente, de la euforia al desastre en tres días",
@@ -555,7 +677,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-01/puente-de-la-euforia-al-desastre-en-tres-dias.html",
     "category": "Política",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e"
+    "image": "https://imagenes.elpais.com/resizer/v2/DMDKYXYXXFF3PE3OM34ETW6POI.jpg?auth=11accb32f86a887469dd86985af0dda051aa9bd88808ada534ce72b2280fcd5e",
+    "title_en": "Bridge, from Euphoria to Disaster in 3 Days",
+    "summary_en": "The minister pits his last great political fight after the second deadly sinister of high speed in nine months"
   },
   {
     "title": "El maquinista de Angrois al operador de Atocha: “Que se aísle de la tele y la prensa: le pueden hacer mucho daño”",
@@ -564,7 +688,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-01/el-maquinista-de-angrois-al-operador-de-atocha-que-se-aisle-de-la-tele-y-la-prensa-le-pueden-hacer-mucho-dano.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/OANJ7B3VAZFGDG2GNXWACLEY6A.jpg?auth=c890ffe98e22e83dcb430f4927e4304309386d8308430421cae05ab7a7047e0c"
+    "image": "https://imagenes.elpais.com/resizer/v2/OANJ7B3VAZFGDG2GNXWACLEY6A.jpg?auth=c890ffe98e22e83dcb430f4927e4304309386d8308430421cae05ab7a7047e0c",
+    "title_en": "The Angrois engineer to the Atocha operator: \"That isolates itself from television and the press: they can do a lot of damage\"",
+    "summary_en": "\"One can learn or blame. And in this country we choose to blame. If you choose to blame, repeat the accident,\" says the spokesperson for those affected from Santiago's sinister"
   },
   {
     "title": "Mägo de Oz, muy grandes, muy conflictivos: demandas, disputas por el poder y una película que reabre las heridas del grupo heavy",
@@ -573,7 +699,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/cultura/2026-11-01/mago-de-oz-muy-grandes-muy-conflictivos-demandas-disputas-por-el-poder-y-una-pelicula-que-reabre-las-heridas-del-grupo-heavy.html",
     "category": "Cultura",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LAI4G6VJLNAP7NOUNSDKIFB6SA.jpg?auth=561e3c150423efb00101e234916987c8f57543b04714218b8921c7cc9185cf1e"
+    "image": "https://imagenes.elpais.com/resizer/v2/LAI4G6VJLNAP7NOUNSDKIFB6SA.jpg?auth=561e3c150423efb00101e234916987c8f57543b04714218b8921c7cc9185cf1e",
+    "title_en": "Mägo de Oz, very big and very conflictious: lawsuits, power disputes and a film that reopens the heavy group's injuries",
+    "summary_en": "The film premiere of \"Fiesta pagäna,\" a project filled with controversy, indicates the triumphal and intertwined story of a group with 30 musicians"
   },
   {
     "title": "World in Progress: en busca de claves de progreso en medio del desorden mundial",
@@ -582,7 +710,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/internacional/2026-11-01/world-in-progress-en-busca-de-claves-de-progreso-en-medio-del-desorden-mundial.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6HS4KXFSUNB3JDVUTKTASW5ONM.jpg?auth=c0023a34da6fa0dc89d8f2cce4636e99719e5c87275979a4f93f247cbda06bca"
+    "image": "https://imagenes.elpais.com/resizer/v2/6HS4KXFSUNB3JDVUTKTASW5ONM.jpg?auth=c0023a34da6fa0dc89d8f2cce4636e99719e5c87275979a4f93f247cbda06bca",
+    "title_en": "World in Progress: searching for progress keys amidst global disorder",
+    "summary_en": "The PRISA Group organizes a third edition of a forum in Barcelona that promotes dialogue with leading politicians, entrepreneurs and intellectuals"
   },
   {
     "title": "Édouard Philippe: “Francia es hoy más débil económicamente y la sociedad es más violenta y crispada”",
@@ -591,7 +721,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/internacional/2026-11-01/edouard-philippe-francia-es-hoy-mas-debil-economicamente-y-la-sociedad-es-mas-violenta-y-crispada.html",
     "category": "Política",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YB7WQ2DUJZGCZJFI2Z7QLE23TE.jpg?auth=96e3542b2f2448b5a73961868231e21776d28f9685ca39128fa242daf9d3ce3f"
+    "image": "https://imagenes.elpais.com/resizer/v2/YB7WQ2DUJZGCZJFI2Z7QLE23TE.jpg?auth=96e3542b2f2448b5a73961868231e21776d28f9685ca39128fa242daf9d3ce3f",
+    "title_en": "Édouard Philippe: \"France today is more economically weak and society more violent and worse\"",
+    "summary_en": "The former Prime Minister, his main right-wing candidate to contest with Marine Le Pen a second round with his Spring President, propose his firmness with immigration, great economic reforms and re-establishment of military service"
   },
   {
     "title": "La banca cobra hasta 276 euros al año al cliente poco vinculado (y despistado)",
@@ -600,7 +732,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/2026-11-01/la-banca-cobra-hasta-276-euros-al-ano-al-cliente-poco-vinculado-y-despistado.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DKQEM73VMZAXFOPEWCCSMTRTMY.jpg?auth=d10fa0220c1a074a0192924763e93e20476e29672c13ae78ba1be7f9271e9444"
+    "image": "https://imagenes.elpais.com/resizer/v2/DKQEM73VMZAXFOPEWCCSMTRTMY.jpg?auth=d10fa0220c1a074a0192924763e93e20476e29672c13ae78ba1be7f9271e9444",
+    "title_en": "Bank charges up to EUR 276 a year to low-tied (and misrepresented) client",
+    "summary_en": "Free accounts without conditions and commissions are reserved to the online channel"
   },
   {
     "title": "Desconfianza sistémica",
@@ -609,7 +743,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/opinion/2026-11-01/desconfianza-sistemica.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/P2C7MG5FTBCABFOXMJ6HJEYZHE.jpg?auth=ba2f8c8fb12e52fd2e9742c064302074a9f98b837e797d0ae4a28dac86a9d4e5"
+    "image": "https://imagenes.elpais.com/resizer/v2/P2C7MG5FTBCABFOXMJ6HJEYZHE.jpg?auth=ba2f8c8fb12e52fd2e9742c064302074a9f98b837e797d0ae4a28dac86a9d4e5",
+    "title_en": "Systemic mistrust",
+    "summary_en": "Spain cannot be a country with doubts about high-speed train safety"
   },
   {
     "title": "Mis amigos muertos",
@@ -618,7 +754,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/opinion/2026-11-01/mis-amigos-muertos.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/UQ453FE755EHFHR4MLNUAZFBXI.jpg?auth=6db2eca1efcf42346710de578cb79076014ab09a755d469ec206a4b6eab62547"
+    "image": "https://imagenes.elpais.com/resizer/v2/UQ453FE755EHFHR4MLNUAZFBXI.jpg?auth=6db2eca1efcf42346710de578cb79076014ab09a755d469ec206a4b6eab62547",
+    "title_en": "My dead friends",
+    "summary_en": "I have fun imagining them doing what they did on this side."
   },
   {
     "title": "Riki Blanco: frágiles",
@@ -627,7 +765,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/opinion/2026-11-01/riki-blanco-fragiles.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/OLSCKEPLBVDSNJ7Y27EJPY7T5Y.jpg?auth=3ca7dab83d712ba13c4e83da80efe2f73de2d576d989bfd46120bdbec1f4a69b"
+    "image": "https://imagenes.elpais.com/resizer/v2/OLSCKEPLBVDSNJ7Y27EJPY7T5Y.jpg?auth=3ca7dab83d712ba13c4e83da80efe2f73de2d576d989bfd46120bdbec1f4a69b",
+    "title_en": "Riki Blanca: fragile",
+    "summary_en": "Viñeta of 1 November 2026"
   },
   {
     "title": "De Cos, equilibrio y consenso para tiempos volcánicos",
@@ -636,7 +776,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
     "category": "Economía",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/NEWSVHNYSFM6XJTBAIWY2P4654.jpg?auth=64bc897280d7c341db1e19acf40f3df4c0927fa4af1b04789d2e88e514f231fb"
+    "image": "https://imagenes.elpais.com/resizer/v2/NEWSVHNYSFM6XJTBAIWY2P4654.jpg?auth=64bc897280d7c341db1e19acf40f3df4c0927fa4af1b04789d2e88e514f231fb",
+    "title_en": "From Can, balance and consensus for volcanic times",
+    "summary_en": "The candidate for the ECB's presidency has built an untiring credibility with work, discretion and a natural ability to gain partners in the economic world"
   },
   {
     "title": "Zamora se pone en pie de guerra por la construcción de un macrocentro de datos: “Es una manera de echarnos”",
@@ -645,7 +787,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/2026-11-01/zamora-se-pone-en-pie-de-guerra-por-la-construccion-de-un-macrocentro-de-datos-es-una-manera-de-echarnos.html",
     "category": "Tecnología",
     "date": "2026-11-01T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/C74ISAHYGBF3HKUV65VOKFF5DE.jpg?auth=f6da93df4077ffac9040c0bbd21b05350a7bc5be750e931e7af41ca06f3650c4"
+    "image": "https://imagenes.elpais.com/resizer/v2/C74ISAHYGBF3HKUV65VOKFF5DE.jpg?auth=f6da93df4077ffac9040c0bbd21b05350a7bc5be750e931e7af41ca06f3650c4",
+    "title_en": "Zamora stands up for war about the construction of a macrocentro of data: \"That's a way to put us out\"",
+    "summary_en": "The project, located at the town of Monfarracinos and oriented to artificial intelligence, will generate more heat, more noise and high energy consumption, according to a researcher at CSIC"
   },
   {
     "title": "Niños que necesitan a sus padres para dormir: dos especialistas explican qué hay detrás y cómo actuar",
@@ -654,7 +798,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/mamas-papas/familia/2026-11-01/ninos-que-necesitan-a-sus-padres-para-dormir-dos-especialistas-explican-que-hay-detras-y-como-actuar.html",
     "category": "Internacional",
     "date": "2026-11-01T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MCQTJFV64RGT5NPTIVW4I6KVD4.jpg?auth=8ec93b4777d10e8abe539278977e7a60613cc2c262fb1cd33cf34d4d75181a68"
+    "image": "https://imagenes.elpais.com/resizer/v2/MCQTJFV64RGT5NPTIVW4I6KVD4.jpg?auth=8ec93b4777d10e8abe539278977e7a60613cc2c262fb1cd33cf34d4d75181a68",
+    "title_en": "Children who need their parents to sleep: Two specialists explain what's behind and how to act",
+    "summary_en": "Fear, custom or a way to seek security? When should we care? The difficulties with sleep have to be valued by age and circumstances of each minor"
   },
   {
     "title": "Las ‘midterms’, en mapas y gráficos: qué se vota este martes y cómo llega Trump",
@@ -663,7 +809,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/internacional/elecciones-usa/2026-11-01/las-midterm-en-mapas-y-graficos-que-se-vota-este-martes-y-como-llega-trump.html",
     "category": "Deportes",
     "date": "2026-11-01T04:30:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "The midterms, in maps and charts: what's been voted on this Tuesday and how Trump arrives",
+    "summary_en": "Republicans and Democrats have been fighting this November 3 with the U.S. Congress. The polls note that as usual with this type of election, the White House party will lose ground"
   },
   {
     "title": "El planeta nos cobrará aranceles",
@@ -672,7 +820,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/2026-11-01/el-planeta-nos-cobrara-aranceles.html",
     "category": "Ciencia",
     "date": "2026-11-01T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/N32RU57J5ZHLXNJP7BOYYKGIUE.jpg?auth=7b5912022ad5958a9ca39cc04a57ce16e50491940692f8355c63092613ea8e33"
+    "image": "https://imagenes.elpais.com/resizer/v2/N32RU57J5ZHLXNJP7BOYYKGIUE.jpg?auth=7b5912022ad5958a9ca39cc04a57ce16e50491940692f8355c63092613ea8e33",
+    "title_en": "The planet will get us tariffs",
+    "summary_en": "A month with an average temperature above 30 degrees involves export losses of about 3%"
   },
   {
     "title": "Arsenio Domínguez (Organización Marítima Internacional): “La navegación se hace cada vez más difícil por la falta de seguridad”",
@@ -681,7 +831,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/2026-11-01/arsenio-dominguez-organizacion-maritima-internacional-la-navegacion-se-hace-cada-vez-mas-dificil-por-la-falta-de-seguridad.html",
     "category": "Economía",
     "date": "2026-11-01T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/N33PKG7RMBDL5FJD4N5Q3DBUQI.jpg?auth=05e033f3722a3abaa7c89cc9b83ddc15d7a5980ca6baa6055c92db44e38679ac"
+    "image": "https://imagenes.elpais.com/resizer/v2/N33PKG7RMBDL5FJD4N5Q3DBUQI.jpg?auth=05e033f3722a3abaa7c89cc9b83ddc15d7a5980ca6baa6055c92db44e38679ac",
+    "title_en": "Arsenio Domínguez (International Maritime Organization): \"Navigation becomes increasingly difficult because of a lack of safety\"",
+    "summary_en": "The Secretary General of the UN agency criticizes the excessive risk that some shipowners have to face at Ormuz and prioritizes preventing more deaths at sea"
   },
   {
     "title": "Un solo hombre frente a los ciberataques que tumbaron miles de webs: “Hace falta querer hacer algo por los demás”",
@@ -690,7 +842,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/tecnologia/2026-11-01/un-solo-hombre-frente-a-los-ciberataques-que-tumbaron-miles-de-webs-hace-falta-querer-hacer-algo-por-los-demas.html",
     "category": "Tecnología",
     "date": "2026-11-01T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/S6RCWMR2LRFQPPIADVVWZIKVIA.jpg?auth=db25348f4d05ca10520e74af4f6eb9be93a25fd4d1832fc7e975361ec4203c30"
+    "image": "https://imagenes.elpais.com/resizer/v2/S6RCWMR2LRFQPPIADVVWZIKVIA.jpg?auth=db25348f4d05ca10520e74af4f6eb9be93a25fd4d1832fc7e975361ec4203c30",
+    "title_en": "One man face with cyber attacks that toppled thousands of websites: \"It's necessary to want to do something for others\"",
+    "summary_en": "The Czech Ondrej Surý saved millions of pages last week after some security holes were found at PHP. The IA accelerates the finding of new vulnerabilities and volunteers as it doesn't give care"
   },
   {
     "title": "Trump dice que Estados Unidos todavía tiene que \"ocuparse\" de uno o dos objetivos en Irán",
@@ -699,7 +853,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/trump-dice-que-estados-unidos-todavía-tiene-que-ocuparse-de-uno-o-dos-objetivos-en-irán/a-79820100?maca=spa-rss-sp-all-1122-rdf",
     "category": "Política",
     "date": "2026-11-01T04:08:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Trump says the U.S. still has to \"care\" about one or two targets in Iran",
+    "summary_en": "\"They are likely to be focused on pickaxe mountain (...) we can do all that very quickly,\" the president said."
   },
   {
     "title": "Heidi Klum se disfraza de su propia mano para Halloween",
@@ -708,7 +864,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/us/entretenimiento/2026-11-01/heidi-klum-se-disfraza-de-su-propia-mano-para-halloween.html",
     "category": "Internacional",
     "date": "2026-11-01T03:55:58+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/HKY7ZPH5P5ET5G6SA433ZSD56Y.jpg?auth=d6ebda6b417e457b687fc7f2c791a3f80cb4e1261eb545b0e14b82c9c18fe845"
+    "image": "https://imagenes.elpais.com/resizer/v2/HKY7ZPH5P5ET5G6SA433ZSD56Y.jpg?auth=d6ebda6b417e457b687fc7f2c791a3f80cb4e1261eb545b0e14b82c9c18fe845",
+    "title_en": "Heidi Klum dresses up his own hand for Halloween",
+    "summary_en": "The German model, an enormous fan of tradition, has been an hour in the process, and it has been shown in its Instagram profile between old and false blood"
   },
   {
     "title": "\"La pérdida de capacidad del Estado de bienestar en Europa es la clave para entender las protestas lideradas por los jóvenes\"",
@@ -717,7 +875,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/c3pwgp7jde1wo?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-11-01T03:09:19+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c039/live/b321df80-d480-11f1-80bc-6d398902272f.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c039/live/b321df80-d480-11f1-80bc-6d398902272f.jpg",
+    "title_en": "\"The loss of capacity of the welfare state in Europe is the key to understanding youth-led protests\"",
+    "summary_en": "Spain, Italy, France, Albania, Portugal... A wave of protests fills Europe. BBC World interviewed expert Yanina Welp to understand what's behind these movements."
   },
   {
     "title": "Un juez desestima demanda de Trump al diario estadounidense The Wall Street Journal",
@@ -726,7 +886,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/un-juez-desestima-demanda-de-trump-al-diario-estadounidense-the-wall-street-journal/a-79820038?maca=spa-rss-sp-all-1122-rdf",
     "category": "Política",
     "date": "2026-11-01T03:07:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "A judge rejects Trump's suit with American daily The Wall Street Journal",
+    "summary_en": "The Republican did not show that his daily paper did \"defamatory statements\" against him, by spreading a letter that Trump had sent to the peterast Jeffrey Epstein, determined a federal judge."
   },
   {
     "title": "Trump asegura que Flávio Bolsonaro puede permanecer \"el tiempo que quiera\" en EE.UU.",
@@ -735,7 +897,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cqg7x42xg9m8o?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-11-01T02:21:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f06/live/284d23e0-d59a-11f1-a701-fddedf244c16.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f06/live/284d23e0-d59a-11f1-a701-fddedf244c16.jpg",
+    "title_en": "Trump claims that Flávio Bolsonaro can stay \"as long as she wants\" in the U.S.",
+    "summary_en": "The president clarified that his intention was to meet with Bolsonaro, who fled to the U.S. after his electoral defeat."
   },
   {
     "title": "Protestas de jóvenes en varias ciudades de Alemania terminan en violencia",
@@ -744,7 +908,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/protestas-de-jóvenes-en-varias-ciudades-de-alemania-terminan-en-violencia/a-79819986?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-11-01T00:08:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Youth protests in several German cities end with violence",
+    "summary_en": "In Frankfurt, Cologne, Hamburg and Berlin police scattered violent groups that attacked and looted businesses."
   },
   {
     "title": "\"Yo no pinto gordas\": qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
@@ -753,7 +919,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/c60me2mwjygko?at_medium=RSS&at_campaign=rss",
     "category": "Cultura",
     "date": "2026-10-31T20:51:06+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5afe/live/f2e09850-d53e-11f1-93de-81de9e959fac.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5afe/live/f2e09850-d53e-11f1-93de-81de9e959fac.jpg",
+    "title_en": "\"I don't paint Fat\": What's behind the unique style of famous Colombian artist Fernando Botero",
+    "summary_en": "The cheerful paintings by Colombian artist Fernando Botero reinterpret some of the most iconic and famous works of the history of European art. What does his singular vision reveal about the history of art and its place in Latin America?"
   },
   {
     "title": "Refugiados ucranianos se reúnen con sus familias luego de estar años atrapados en territorio ocupado por Rusia",
@@ -762,7 +930,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cw5ynz0e3d02o?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-10-31T17:57:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
+    "title_en": "Ukrainian refugees meet with their families after being trapped in Russian-occupied territory",
+    "summary_en": "The inhabitants of Oleshky had been run out of food, water and electricity and many resort to cook herbs from their gardens to survive."
   },
   {
     "title": "Cómo el aumento de los tipos de interés está haciendo estallar el presupuesto de Francia",
@@ -771,7 +941,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/cómo-el-aumento-de-los-tipos-de-interés-está-haciendo-estallar-el-presupuesto-de-francia/a-79814756?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-10-31T17:44:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "How increased interest rates are blowing up France's budget",
+    "summary_en": "Due to protests, France aims to invest an additional EUR 4 billion in the educational sector. The indebted country has little room for financial manoeuvre. And debt interests continue to rise."
   },
   {
     "title": "BUNDESLIGA: escuche el partido Bayern Múnich vs. Borussia Dortmund",
@@ -780,7 +952,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/bundesliga-escuche-el-partido-bayern-múnich-vs-borussia-dortmund/a-79817741?maca=spa-rss-sp-all-1122-rdf",
     "category": "Deportes",
     "date": "2026-10-31T17:23:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "BUNDESLIGA: listen to the Bayern Munich vs. party. Borussia Dortmund",
+    "summary_en": "Keep up with the Bundesliga 8 star match with Bayern Munich vs.. Borussia Dortmund. With Andrea Ariet's narrative and Erick Elola's analysis."
   },
   {
     "title": "El mar impone su poder en la economía: estos son los puntos calientes capaces de someter al comercio mundial",
@@ -789,7 +963,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/2026-10-31/el-poder-de-los-mares-estos-son-los-puntos-calientes-capaces-de-someter-el-comercio-y-la-economia-mundial.html",
     "category": "Ciencia",
     "date": "2026-10-31T16:45:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XKTLLGMAIZAVLOBZ7WDGHNLZYE.jpg?auth=1e8e658adc8d002b74f90a81638c7900f54d9678ff00146a21562978d2fc996b"
+    "image": "https://imagenes.elpais.com/resizer/v2/XKTLLGMAIZAVLOBZ7WDGHNLZYE.jpg?auth=1e8e658adc8d002b74f90a81638c7900f54d9678ff00146a21562978d2fc996b",
+    "title_en": "The sea lays its power in the economy: these are the hot spots capable of subjecting to world trade",
+    "summary_en": "Ormuz's blockade and challenges at Bab-el-mandeb and Panama show the planet's vulnerability to these strategic steps with an ability to fire inflation and with a pulse for global hegemony"
   },
   {
     "title": "Cómo el socialismo ha ganado peso en la política de EE.UU. y por qué plantea un dilema para los demócratas",
@@ -798,7 +974,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cm87zqgqq5l5o?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-10-31T13:57:30+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3efd/live/d12796c0-d479-11f1-8edb-d9fce66588c6.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3efd/live/d12796c0-d479-11f1-8edb-d9fce66588c6.jpg",
+    "title_en": "How socialism has gained weight in U.S. politics and why it puts a dilemma for Democrats",
+    "summary_en": "At these mid-term presidential elections, the growing popularity of DSA candidates challenges the Democrats."
   },
   {
     "title": "\"Nos fuimos de vacaciones con nuestros vecinos e intercambiamos las familias: eso acabó destrozándonos\"",
@@ -807,7 +985,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cqrkyp7v4delo?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-10-31T13:51:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45d8/live/1344e1b0-d156-11f1-a701-fddedf244c16.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/45d8/live/1344e1b0-d156-11f1-a701-fddedf244c16.jpg",
+    "title_en": "\"We went on vacation with our neighbours and exchanged families: that ended up destroying us\"",
+    "summary_en": "Rachel Stone tells how his parents exchanged partners, the chaos that this caused and how she came to forgive them."
   },
   {
     "title": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
@@ -816,7 +996,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
     "category": "Economía",
     "date": "2026-10-31T13:18:33+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YGE77DQIJJIA3JVOFZ6IE7QYOE.jpg?auth=93c6265709a43a5320877aafcd0d7ea59dd1ba6c1bf8c1cf7a436152238a5aa1"
+    "image": "https://imagenes.elpais.com/resizer/v2/YGE77DQIJJIA3JVOFZ6IE7QYOE.jpg?auth=93c6265709a43a5320877aafcd0d7ea59dd1ba6c1bf8c1cf7a436152238a5aa1",
+    "title_en": "Retirement of the new rate of 2 EUR to Shein, Temu and AliExpress: thus works the surcharge to extra-Community purchases",
+    "summary_en": "Brussels sets up a fixed product surcharge to stop the arrival of unsafe goods and to fund customs checks"
   },
   {
     "title": "Por qué creer que la IA tiene conciencia y sentimientos puede ser catastrófico",
@@ -825,7 +1007,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/crwyqg71e5z4o?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-10-31T12:50:02+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5212/live/0b5cfa50-c977-11f1-9a39-31b474234113.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5212/live/0b5cfa50-c977-11f1-9a39-31b474234113.jpg",
+    "title_en": "Why believing that IA has awareness and feelings can be catastrophic",
+    "summary_en": "Some of the most powerful technological leaders are treating IA as if they have feelings. That could have profound consequences for our world and for your personal security."
   },
   {
     "title": "Protestas juveniles previstas en más de treinta ciudades alemanas",
@@ -834,7 +1018,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.dw.com/es/protestas-juveniles-previstas-en-más-de-treinta-ciudades-alemanas/a-79815512?maca=spa-rss-sp-all-1122-rdf",
     "category": "Internacional",
     "date": "2026-10-31T12:19:00+00:00",
-    "image": ""
+    "image": "",
+    "title_en": "Youth protests scheduled for more than 30 German cities",
+    "summary_en": "Germany deploys police before a great day of protests that are also expected in other countries as France and Spain."
   },
   {
     "title": "Cómo el desastre ferroviario en España ensombrece las posibilidades de reelección de Pedro Sánchez",
@@ -843,7 +1029,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/c5kglp7dyr3no?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-10-31T11:51:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
+    "title_en": "How the railway disaster in Spain challenges Pedro Sánchez's chances of re-election",
+    "summary_en": "The president of the Spanish government is affected by a succession of crises a few weeks after an advanced general election."
   },
   {
     "title": "Por qué \"Frankenstein\" de Mary Shelley es un historia de terror incomprendida",
@@ -852,7 +1040,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/crd93pexj1q5o?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-10-31T10:06:16+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/311f/live/ac0b17a0-d4a0-11f1-a701-fddedf244c16.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/311f/live/ac0b17a0-d4a0-11f1-a701-fddedf244c16.jpg",
+    "title_en": "Why \"Frankenstein\" by Mary Shelley is a story of misunderstood terror",
+    "summary_en": "For more than 200 years, \"Frankenstein\" has fascinated the audiences with his story. But what have been lost from the original account on the way?"
   },
   {
     "title": "La historia de cómo una sobreviviente de agresión sexual del siglo XV buscó justicia",
@@ -861,7 +1051,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cm78p1q8pzdzo?at_medium=RSS&at_campaign=rss",
     "category": "Cultura",
     "date": "2026-10-31T09:24:54+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d69d/live/76d12ef0-ce1d-11f1-906e-e3128518d85d.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d69d/live/76d12ef0-ce1d-11f1-906e-e3128518d85d.jpg",
+    "title_en": "The story of how a XV-century sexual assault survivor sought justice",
+    "summary_en": "A new book offers an extraordinary account about a woman's legal battle after a brutal attack in 1472 in the French town of Dijon. The work challenges our modern assumptions about women's lives in the Middle Ages."
   },
   {
     "title": "Crecimiento sin inversión privada: cómo la economía española mejora con menos recursos",
@@ -870,7 +1062,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/2026-10-31/crecimiento-sin-inversion-privada-como-la-economia-espanola-mejora-con-menos-recursos.html",
     "category": "Economía",
     "date": "2026-10-31T04:45:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SEUF4XH6GRM6TMCPZAY2PG64VU.jpg?auth=e4f89dea9a82f15534708e9ad8875dc3ab0a8eb1ce7a77f7514fa8bf1036269e"
+    "image": "https://imagenes.elpais.com/resizer/v2/SEUF4XH6GRM6TMCPZAY2PG64VU.jpg?auth=e4f89dea9a82f15534708e9ad8875dc3ab0a8eb1ce7a77f7514fa8bf1036269e",
+    "title_en": "Growth without private investment: how the Spanish economy improves with less resources",
+    "summary_en": "Spanish GDP data show strength but productivity creates doubts in a context of digitalisation advanced that the indicators have never been captured."
   },
   {
     "title": "De las tecnológicas del LZB a las operadoras de trenes: cuáles son las empresas presentes en el accidente de Urda",
@@ -879,7 +1073,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html",
     "category": "Tecnología",
     "date": "2026-10-31T04:45:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/JCYQB2L3KNAQXLD4XH2DQX4TGU.jpg?auth=87484a32eda2bf1455668a1d675899cf6022806df521c1cea480f842d0992ab1"
+    "image": "https://imagenes.elpais.com/resizer/v2/JCYQB2L3KNAQXLD4XH2DQX4TGU.jpg?auth=87484a32eda2bf1455668a1d675899cf6022806df521c1cea480f842d0992ab1",
+    "title_en": "From LZB technologies to train operators: what are the companies currently at the Urda accident?",
+    "summary_en": "Thales and Hitachi Rail are next to Adif, Renfe and Iryo at the centre of the conversation after the sinister"
   },
   {
     "title": "El vaivén regulatorio y las elecciones ya impactan el mercado del alquiler de viviendas: se paralizan contratos y cae la oferta",
@@ -888,7 +1084,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/2026-10-31/el-vaiven-regulatorio-y-las-elecciones-paralizan-el-mercado-del-alquiler-de-viviendas.html",
     "category": "Economía",
     "date": "2026-10-31T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FYPWG5TPY5F47EQY33TQJBRKUY.jpg?auth=ba22a82e8d64c6abb6e172701b236f6e8be3f68f9cbe9dbb4bccea335142049e"
+    "image": "https://imagenes.elpais.com/resizer/v2/FYPWG5TPY5F47EQY33TQJBRKUY.jpg?auth=ba22a82e8d64c6abb6e172701b236f6e8be3f68f9cbe9dbb4bccea335142049e",
+    "title_en": "The market for rental of housing has been affected by regulatory and election challenges: contracts have been suspended and the offer has been reduced",
+    "summary_en": "The uncertainty has been a real burden on the leasers, who doubt about the duration of contracts, the update of rents or the possibility of recovering the property"
   },
   {
     "title": "Daniel Fuentes, economista y profesor: “Generosidad en las pensiones no significa abundancia”",
@@ -897,7 +1095,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/2026-10-31/daniel-fuentes-economista-y-profesor-generosidad-en-las-pensiones-no-significa-abundancia.html",
     "category": "Cultura",
     "date": "2026-10-31T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YQDXUNW6IFDU5HXPL5RZOD6HNA.jpg?auth=c549f7a87f4f1795bd6eaa78ab88d0af0092ec68b6589c73691b4c74efa81890"
+    "image": "https://imagenes.elpais.com/resizer/v2/YQDXUNW6IFDU5HXPL5RZOD6HNA.jpg?auth=c549f7a87f4f1795bd6eaa78ab88d0af0092ec68b6589c73691b4c74efa81890",
+    "title_en": "Daniel Fuentes, Economist and Professor: \"Generosity in pensions doesn't mean abundance\"",
+    "summary_en": "In his last book, 'Nobody chooses when they are born', Fuentes says that today's youth, while starting from a better situation than previous generations, have more challenges to realize their expectations for prosperity"
   },
   {
     "title": "Pesadilla antes de Navidad en Hollywood",
@@ -906,7 +1106,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-10-31/pesadilla-antes-de-navidad-en-hollywood.html",
     "category": "Economía",
     "date": "2026-10-31T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QB5CLWVRORFR5OU46Q3ZDEG2VM.jpg?auth=41298d2056e75160a49b671f9424b4e6fe4f5bf7bd81dc22c6b2ef0f2402f40d"
+    "image": "https://imagenes.elpais.com/resizer/v2/QB5CLWVRORFR5OU46Q3ZDEG2VM.jpg?auth=41298d2056e75160a49b671f9424b4e6fe4f5bf7bd81dc22c6b2ef0f2402f40d",
+    "title_en": "Fish before Christmas in Hollywood",
+    "summary_en": "The California audiovisual industry faces an age of cuts and redundancies. The box office responded but costs have been high"
   },
   {
     "title": "Despliegan a la policía en Polonia ante un enfrentamiento entre el primer ministro y la oposición por el control del Tribunal Constitucional",
@@ -915,7 +1117,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/c893z6er7xreo?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-10-31T02:09:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6c2/live/46cc2780-d49b-11f1-a701-fddedf244c16.jpg",
+    "title_en": "The police have been referred to Poland with a confrontation between the Prime Minister and opposition for monitoring by the Constitutional Court",
+    "summary_en": "The escalation of tension occurred after the government suspended two high-level magistrates and proceeded to bring criminal charges against them."
   },
   {
     "title": "Cuán relevante es Binance en América Latina y cómo el hackeo de US$6.300 millones afecta a sus usuarios en la región",
@@ -924,7 +1128,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cqm26pvdpkeko?at_medium=RSS&at_campaign=rss",
     "category": "Tecnología",
     "date": "2026-10-30T20:58:52+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/119c/live/5e8ada10-d4a0-11f1-bd1d-7ded4b689d8e.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/119c/live/5e8ada10-d4a0-11f1-bd1d-7ded4b689d8e.jpg",
+    "title_en": "How Important Binance in Latin America and how US $6.3 billion Hacking affects its users in the region",
+    "summary_en": "Although its main market is Brazil, Argentina and Venezuela have become a haven of stability amidst the changing economic landscape."
   },
   {
     "title": "Las claves del ultimátum de Bukele a las poderosas bandas de Haití tras el secuestro de 4 militares salvadoreños",
@@ -933,7 +1139,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/watch/cq9vz31j8xpko?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-10-30T18:27:04+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4125/live/1250a350-d49b-11f1-93e1-3b657b665bcf.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4125/live/1250a350-d49b-11f1-93e1-3b657b665bcf.jpg",
+    "title_en": "The keys to Bukele's ultimatum to powerful gangs in Haiti following the abduction of 4 Salvadoran military personnel",
+    "summary_en": "The president of El Salvador has sent 2,000 military officers to Haiti to try and rescue the 4 soldiers abducted by gangs."
   },
   {
     "title": "Por qué se sospecha que Corea del Norte pueda estar detrás del robo de US$6.300 millones a Binance",
@@ -942,7 +1150,9 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/c3ewepn4e08do?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-10-30T18:20:32+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/43fe/live/e65a2ef0-d478-11f1-8edb-d9fce66588c6.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/43fe/live/e65a2ef0-d478-11f1-8edb-d9fce66588c6.jpg",
+    "title_en": "Why North Korea Is Suspected To Be Behind The Stolen $6.3 billion To Binance",
+    "summary_en": "Binance suffered what could be the greatest cryptomoneda hacking ever. That's what we know so far."
   },
   {
     "title": "37 millones de caballitos de mar al año: el comercio de vida silvestre es mucho mayor de lo que se creía",
@@ -951,7 +1161,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-30/37-millones-de-caballitos-de-mar-al-ano-el-comercio-de-vida-silvestre-es-mucho-mayor-de-lo-que-se-creia.html",
     "category": "Medio Ambiente",
     "date": "2026-10-30T18:00:05+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/RK3KGYGL3NA5JHCGU42ARZFO44.jpg?auth=cd5bcecd98babab7e7fb9bad172ab45a2aa094249c98ad3450d620d4e327be6a"
+    "image": "https://imagenes.elpais.com/resizer/v2/RK3KGYGL3NA5JHCGU42ARZFO44.jpg?auth=cd5bcecd98babab7e7fb9bad172ab45a2aa094249c98ad3450d620d4e327be6a",
+    "title_en": "37 million seaports a year: wildlife trade is far more than was thought",
+    "summary_en": "New calculations figure at more than 100,000 the species with which they are traded throughout the world, doubling the estimated number so far"
   },
   {
     "title": "La ‘proteína de Borges’ muestra cómo aliviar las pérdidas de memoria con la edad",
@@ -960,7 +1172,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/ciencia/2026-10-30/la-proteina-de-borges-muestra-como-aliviar-las-perdidas-de-memoria-con-la-edad.html",
     "category": "Ciencia",
     "date": "2026-10-30T16:12:53+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7TRPND326ZEU3MDYL2LEKEDHOQ.jpg?auth=17d717bbe8e32ca40b2754d81d2180011343477c0f5e2b1698a34d525d88bca5"
+    "image": "https://imagenes.elpais.com/resizer/v2/7TRPND326ZEU3MDYL2LEKEDHOQ.jpg?auth=17d717bbe8e32ca40b2754d81d2180011343477c0f5e2b1698a34d525d88bca5",
+    "title_en": "Borges protein shows how to relieve memory losses with age",
+    "summary_en": "A monumental study with million flies shows that the same type of protein associated with neurodegenerative diseases interacts with memory formation and aims at how to protect them at advanced ages"
   },
   {
     "title": "Desaparecida en el accidente de trenes Marta Shahbazi, una de las científicas españolas más brillantes",
@@ -969,7 +1183,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/ciencia/2026-10-30/desaparecida-en-el-accidente-de-trenes-marta-shahbazi-una-de-las-cientificas-espanolas-mas-brillantes.html",
     "category": "Ciencia",
     "date": "2026-10-30T15:47:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QQJWIRBVJZBPBNPJHIJH2ZPDCI.jpg?auth=b7ed8a38f50e5e84157a85d8c03a5b2a53ce53d2193eeeee808986cefdd9a590"
+    "image": "https://imagenes.elpais.com/resizer/v2/QQJWIRBVJZBPBNPJHIJH2ZPDCI.jpg?auth=b7ed8a38f50e5e84157a85d8c03a5b2a53ce53d2193eeeee808986cefdd9a590",
+    "title_en": "Missing from the Martha Shahbazi train accident, one of the most brilliant Spanish scientists",
+    "summary_en": "The researcher, leading his own lab at Cambridge, was about to get an honor prize at a congress at Huelva."
   },
   {
     "title": "La recaudación fiscal crece un 10% pese al desplome en los impuestos a los carburantes",
@@ -978,7 +1194,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/economia/2026-10-30/la-recaudacion-fiscal-crece-un-10-pese-al-desplome-en-los-impuestos-a-los-carburantes.html",
     "category": "Economía",
     "date": "2026-10-30T15:11:28+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LLHRXGFUJNCBRAWV53HRHPGXKI.jpg?auth=dd5f62b52ffc48f34b38d3e74970e5820298ba67122b6f8e21f7f42cf48f1d6f"
+    "image": "https://imagenes.elpais.com/resizer/v2/LLHRXGFUJNCBRAWV53HRHPGXKI.jpg?auth=dd5f62b52ffc48f34b38d3e74970e5820298ba67122b6f8e21f7f42cf48f1d6f",
+    "title_en": "Tax collection grows by 10% despite a decline in fuel taxes",
+    "summary_en": "The tax cuts to relieve the impact of the war in the Middle East have been a decline of about 3 billion to September"
   },
   {
     "title": "Elecciones en EE.UU.: cómo influye la dura política migratoria de Trump en el bastión latino republicano del sur de Florida",
@@ -987,6 +1205,8 @@ window.PLANETA_NEWS = [
     "url": "https://www.bbc.com/mundo/articles/cm78pl5w7qq9o?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-10-30T15:02:54+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ac1/live/4c0fcf90-d3d7-11f1-9c32-1532a6164171.jpg"
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ac1/live/4c0fcf90-d3d7-11f1-9c32-1532a6164171.jpg",
+    "title_en": "U.S. Elections: how Trump's Rough Migration Policy Influences South Florida's Latino Roundabout",
+    "summary_en": "From Donald Trump's hand, Republicans have been gain more representation in South Florida for the last 10 years. Nevertheless, Trump's unpopularity in 2026 casts doubt about the ability of Conservatives to maintain these support."
   }
 ];
