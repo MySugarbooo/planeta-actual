@@ -58,7 +58,7 @@ function date(s){
 }
 function apply(){
  document.documentElement.lang=value;
- document.title=value==="en"?"Planeta Actual | World news":"Planeta Actual | Noticias del mundo";
+ document.title=location.pathname.includes("horoscopos.html")?(value==="en"?"Daily horoscopes | Planeta Actual":"Horóscopos diarios | Planeta Actual"):(value==="en"?"Planeta Actual | World news":"Planeta Actual | Noticias del mundo");
  document.querySelectorAll("[data-i18n]").forEach(e=>e.textContent=get(e.getAttribute("data-i18n")));
  document.querySelectorAll("[data-i18n-placeholder]").forEach(e=>e.placeholder=get(e.getAttribute("data-i18n-placeholder")));
  document.querySelectorAll("[data-i18n-aria]").forEach(e=>e.setAttribute("aria-label",get(e.getAttribute("data-i18n-aria"))));
