@@ -1,5 +1,71 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Rusia enfrenta \"ciberataque masivo\" contra aplicación del Ministerio de Emergencias",
+    "summary": "El hackeo afectó una aplicación móvil que avisa a la población rusa sobre posibles ataques de Ucrania y otras amenazas.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/rusia-enfrenta-ciberataque-masivo-contra-aplicación-del-ministerio-de-emergencias/a-79825073?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-02T02:13:00+00:00",
+    "image": "",
+    "title_en": "Russia challenges \"massive cyber attack\" against MOA's implementation",
+    "summary_en": "The hacking affected a mobile application that warns the Russian population about potential attacks by Ukraine and other threats."
+  },
+  {
+    "title": "El italiano Andrea Kimi Antonelli se convierte en México en el campeón más joven de la Fórmula 1",
+    "summary": "El piloto italiano conquistó en Ciudad de México el título a la edad de 20 años, tres menos que el récord que hasta ahora ostentaba alemán Sebastian Vettel.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/el-italiano-andrea-kimi-antonelli-se-convierte-en-méxico-en-el-campeón-más-joven-de-la-fórmula-1/a-79825067?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Deportes",
+    "date": "2026-11-02T02:01:00+00:00",
+    "image": "",
+    "title_en": "The Italian Andrea Kimi Antonelli became Mexico's youngest champion of Formula 1",
+    "summary_en": "The Italian pilot earned his title at the age of 20 in Mexico City, three less than his German record Sebastian Vettel."
+  },
+  {
+    "title": "A los 20 años, Kimi Antonelli se convierte en el campeón más joven de la historia de la F1",
+    "summary": "Kimi Antonelli se proclamó el domingo el campeón del mundo de Fórmula 1 más joven de la historia de este deporte, después de que la estrella italiana terminara tercero, por detrás de Max Verstappen y Lewis Hamilton, en el Gran Premio de Ciudad de México. Es también el primer italiano en terminar en lo más alto de la clasificación de pilotos desde 1953.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/deportes/20261102-a-los-20-a%C3%B1os-kimi-antonelli-se-convierte-en-el-campe%C3%B3n-m%C3%A1s-joven-de-la-historia-de-la-f1",
+    "category": "Deportes",
+    "date": "2026-11-02T01:48:41+00:00",
+    "image": "https://s.france24.com/media/display/0b84da28-d65d-11f1-af39-d18c5759e759/w:1024/p:16x9/AP26306022870399.jpg",
+    "title_en": "At age 20, Kimi Antonelli became the youngest champion in F1's history",
+    "summary_en": "Kimi Antonelli proclaims his first and youngest Formula 1 world champion in his history on Sunday after his third star, after Max Verstappen and Lewis Hamilton, at the Mexico City Grand Prix. He's also the first Italian to end up at the top of his pilot classification since 1953."
+  },
+  {
+    "title": "España identifica a 12 extranjeros muertos en accidente ferroviario en Urda",
+    "summary": "Un francés, un portugués, cuatro estadounidenses y dos latinoamericanos figuran entre las víctimas fatales de la colisión ferroviaria.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/españa-identifica-a-12-extranjeros-muertos-en-accidente-ferroviario-en-urda/a-79825058?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-02T01:37:00+00:00",
+    "image": "",
+    "title_en": "Spain identifies 12 foreigners killed in a railway accident in Urda",
+    "summary_en": "A French, a Portuguese, four American and two Latin American are among the fatalities of the railway collision."
+  },
+  {
+    "title": "El alto el fuego en la región de Jersón llegó a su fin tras la negativa de Rusia a prorrogarlo",
+    "summary": "La tregua más larga de la guerra en Ucrania, que se produjo en la región de Jersón, llegó a su fin el domingo después de que Rusia se negara a prorrogar el alto el fuego. La pausa temporal en los combates, que comenzó el martes, permitió llevar a cabo una misión humanitaria en la localidad de Oleshky, ocupada por Rusia.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261102-el-alto-el-fuego-en-la-regi%C3%B3n-de-jers%C3%B3n-lleg%C3%B3-a-su-fin-tras-la-negativa-de-rusia-a-prorrogarlo",
+    "category": "Internacional",
+    "date": "2026-11-02T01:25:33+00:00",
+    "image": "https://s.france24.com/media/display/dc18dae8-d628-11f1-82a9-695cb59fade5/w:1024/p:16x9/AP26305286890794.jpg",
+    "title_en": "The ceasefire in the Jershon region came to an end after Russia's refusal to extend",
+    "summary_en": "The longest truce of the war in Ukraine, occurring in the region of Jershon, came to an end on Sunday after Russia refused to extend the ceasefire. The temporary pause in fighting, which began on Tuesday, resulted in a humanitarian mission to the Russian-occupied town of Oleshky."
+  },
+  {
+    "title": "¿Qué pasaría si Trump decide no reconocer resultados adversos en las midterms?",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261031-qu%C3%A9-pasar%C3%ADa-si-trump-decide-no-reconocer-resultados-adversos-en-las-midterms",
+    "category": "Política",
+    "date": "2026-11-02T01:11:38+00:00",
+    "image": "",
+    "title_en": "What if Trump decides to avoid adverse midterm results?",
+    "summary_en": "See details at the original source."
+  },
+  {
     "title": "Saint-Malo despide a los aventureros de la Ruta del Ron rumbo al Caribe",
     "summary": "La Ruta del Ron, una de las regatas transatlánticas en solitario más prestigiosas del mundo, volvió a reunir a navegantes de élite y aficionados a la vela en una travesía que une Europa y el Caribe. La competición partió desde Saint-Malo, en la costa francesa, con 115 patrones, entre ellos 11 mujeres, que se embarcaron en el desafío de cruzar el océano…",
     "source": "France 24",
@@ -22,14 +88,14 @@ window.PLANETA_NEWS = [
     "summary_en": "A high Ukrainian official said that the government offered Moscow to extend the truce at Jerson, \"but the Russians don't want to.\""
   },
   {
-    "title": "Haley Stevens rompe con los demócratas y respalda al republicano Mike Rogers en Michigan",
+    "title": "La demócrata Haley Stevens sorprende con su apoyo al republicano Mike Rogers en Michigan",
     "summary": "La recta final de la campaña para el Senado de Estados Unidos en Michigan quedó sacudida por un inesperado giro político. La congresista demócrata Haley Stevens, que perdió las primarias de su partido frente a Abdul El-Sayed, anunció su apoyo al candidato republicano Mike Rogers apenas días antes de las elecciones de medio mandato. La decisión profundizó…",
     "source": "France 24",
     "url": "https://www.france24.com/es/video/20261102-haley-stevens-rompe-con-los-dem%C3%B3cratas-y-respalda-al-republicano-mike-rogers-en-michigan",
     "category": "Deportes",
     "date": "2026-11-02T00:36:58+00:00",
     "image": "https://s.france24.com/media/display/ffada44e-d654-11f1-b124-1beafce15fea/w:1024/p:16x9/AP26305662504302.jpg",
-    "title_en": "Haley Stevens broke up with the Democrats and supported Republican Mike Rogers in Michigan",
+    "title_en": "Democrat Haley Stevens surprising with her support for Republican Mike Rogers in Michigan",
     "summary_en": "The final line of the U.S. Senate campaign in Michigan was shaken by an unexpected political turn. Democratic Congressman Haley Stevens, who lost his party's primaries to Abdul ElySayed, announced his support to Republican candidate Mike Rogers just a few days before his half-term election. The decision deepened..."
   },
   {
@@ -429,17 +495,6 @@ window.PLANETA_NEWS = [
     "summary_en": "During the October 31 student demonstrations, social media users have reported that protests publications have been reported. The Government had earlier announced that it would deploy a device amidst so-called \"reaction commercials\" that were currently being moved on the digital platforms, the first..."
   },
   {
-    "title": "Protestas en Francia y Alemania: los disturbios elevan la tensión en medio de las demandas sociales",
-    "summary": "Cientos de miles de personas salieron a las calles este fin de semana en Francia y Alemania para protestar contra el elevado costo de vida, las dificultades de los sistemas educativos y la gestión política, en una nueva expresión del descontento social que moviliza especialmente a los jóvenes europeos. Aunque la mayoría de las manifestaciones transcurrió de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261101-protestas-en-francia-y-alemania-los-disturbios-elevan-la-tensi%C3%B3n-en-medio-de-las-demandas-sociales",
-    "category": "Política",
-    "date": "2026-11-01T13:19:16+00:00",
-    "image": "https://s.france24.com/media/display/c91b261c-d5f6-11f1-8500-d18c5759e759/w:1024/p:16x9/2026-11-01T002843Z-19162343-RC2GEOATHHEU-RTRMADP-3-FRANCE-PROTEST.jpg",
-    "title_en": "Protests in France and Germany: Riots raise tension amidst social demand",
-    "summary_en": "Hundreds of thousands of people have been on the streets this weekend in France and Germany to protest against the high cost of living, challenges of educational systems and political management, with a new expression of social discontent that especially mobilizes young Europeans. Although most of the protests happened from..."
-  },
-  {
     "title": "Muere Miquel Navarro a los 81 años, el gran escultor de las ciudades totémicas",
     "summary": "El artista valenciano, Premio Nacional en 1986 y exponente de la Nueva Escultura Española, cumplió su último sueño: abrir su Casa Taller en su pueblo, Mislata",
     "source": "El País",
@@ -462,17 +517,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The problem with protectionist policies is that they are ineffective and often counterproductive"
   },
   {
-    "title": "Ecuador inicia su cuarto toque de queda del año para contener la violencia a semanas de las elecciones locales",
-    "summary": "El país inició este domingo 1 de noviembre su cuarto período de restricciones nocturnas de movilidad en lo corrido del año. Se trata de una medida que regirá durante diez días en cinco provincias de la costa, entre ellas Guayas, donde se encuentra Guayaquil, la ciudad más poblada de Ecuador. El nuevo toque de queda llega en medio de una persistente crisis…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261101-ecuador-inicia-su-cuarto-toque-de-queda-del-a%C3%B1o-para-contener-la-violencia-a-semanas-de-las-elecciones-locales",
-    "category": "Política",
-    "date": "2026-11-01T12:39:38+00:00",
-    "image": "https://s.france24.com/media/display/cc4fef62-d5f0-11f1-98a6-d18c5759e759/w:1024/p:16x9/000-B27E7GZ.jpg",
-    "title_en": "Ecuador starts its fourth curfew of the year to contain violence at local election weeks",
-    "summary_en": "On Sunday, 1 November, the country began its fourth period of night mobility restrictions throughout the year. It's a measure that will govern for ten days in five coastal provinces, including Guayas, with Guayaquil, Ecuador's most populated town. The new curfew arrives amidst a persistent crisis..."
-  },
-  {
     "title": "Protestas de Gen Z regelt en Alemania: \"Solo queremos que nos escuchen\"",
     "summary": "El ministro alemán del Interior, Alexander Dobrindt, condena la violencia en las manifestaciones y responsabiliza a \"grupos de extrema izquierda\" y a \"alborotadores procedentes de la comunidad migrante\".",
     "source": "DW Español",
@@ -482,17 +526,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Gen Z regelt's Protests in Germany: \"We just want them to listen to us\"",
     "summary_en": "The German Minister of Internal Affairs, Alexander Dobrindt, condemns violence at the protests and holds \"far-left groups\" and \"troublemakers from the migrant community.\""
-  },
-  {
-    "title": "La oposición en India reclama la salida del jefe electoral en una manifestación multitudinaria",
-    "summary": "Convocada por el jefe opositor Rahul Gandhi y respaldada por el movimiento juvenil de las 'Cucarachas', miles de ciudadanos se han movilizado este domingo 1 de noviembre en Nueva Delhi bajo la consigna de 'Salvar a la democracia', pese a un estricto operativo policial. Los manifestantes insisten en exigir la renuncia del jefe de la Comisión Electoral a raíz…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261101-la-oposici%C3%B3n-en-india-reclama-la-salida-del-jefe-electoral-en-una-manifestaci%C3%B3n-multitudinaria",
-    "category": "Política",
-    "date": "2026-11-01T12:16:03+00:00",
-    "image": "https://s.france24.com/media/display/2e7f6500-d5d8-11f1-ac7a-1beafce15fea/w:1024/p:16x9/AP26305338577567.jpg",
-    "title_en": "The opposition in India demand an exit of the electoral head at a mass demonstration",
-    "summary_en": "Named by opposition chief Rahul Gandhi and supported by the youth movement of the 'Cucarachas', thousands of citizens have been mobilized this Sunday, November 1, in New Delhi under the slogan of 'Save Democracy', despite a strict police operation. The protesters are insisting that the head of the Electoral Commission resign as a result..."
   },
   {
     "title": "Por qué Trump se enfrenta al mismo problema económico que hundió a Biden",
@@ -847,17 +880,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The Czech Ondrej Surý saved millions of pages last week after some security holes were found at PHP. The IA accelerates the finding of new vulnerabilities and volunteers as it doesn't give care"
   },
   {
-    "title": "Trump dice que Estados Unidos todavía tiene que \"ocuparse\" de uno o dos objetivos en Irán",
-    "summary": "\"Probablemente puedan fijarse en la montaña Pickaxe (...) podemos hacer todo eso muy rápidamente\", dijo el mandatario.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/trump-dice-que-estados-unidos-todavía-tiene-que-ocuparse-de-uno-o-dos-objetivos-en-irán/a-79820100?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-01T04:08:00+00:00",
-    "image": "",
-    "title_en": "Trump says the U.S. still has to \"care\" about one or two targets in Iran",
-    "summary_en": "\"They are likely to be focused on pickaxe mountain (...) we can do all that very quickly,\" the president said."
-  },
-  {
     "title": "Heidi Klum se disfraza de su propia mano para Halloween",
     "summary": "La modelo alemana, enorme aficionada a la tradición, ha tardado horas en el proceso, que ha mostrado en su perfil de Instagram entre vísceras y sangre falsa",
     "source": "El País",
@@ -880,17 +902,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Spain, Italy, France, Albania, Portugal... A wave of protests fills Europe. BBC World interviewed expert Yanina Welp to understand what's behind these movements."
   },
   {
-    "title": "Un juez desestima demanda de Trump al diario estadounidense The Wall Street Journal",
-    "summary": "El republicano no demostró que el diario realizara \"declaraciones difamatorias\" en su contra, al difundir una carta que Trump habría enviado al pederasta Jeffrey Epstein, determinó un juez federal.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/un-juez-desestima-demanda-de-trump-al-diario-estadounidense-the-wall-street-journal/a-79820038?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-01T03:07:00+00:00",
-    "image": "",
-    "title_en": "A judge rejects Trump's suit with American daily The Wall Street Journal",
-    "summary_en": "The Republican did not show that his daily paper did \"defamatory statements\" against him, by spreading a letter that Trump had sent to the peterast Jeffrey Epstein, determined a federal judge."
-  },
-  {
     "title": "Trump asegura que Flávio Bolsonaro puede permanecer \"el tiempo que quiera\" en EE.UU.",
     "summary": "El presidente aclaró que no tiene previsto reunirse con Bolsonaro, quien huyó a Estados Unidos tras su derrota electoral.",
     "source": "BBC Mundo",
@@ -900,17 +911,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f06/live/284d23e0-d59a-11f1-a701-fddedf244c16.jpg",
     "title_en": "Trump claims that Flávio Bolsonaro can stay \"as long as she wants\" in the U.S.",
     "summary_en": "The president clarified that his intention was to meet with Bolsonaro, who fled to the U.S. after his electoral defeat."
-  },
-  {
-    "title": "Protestas de jóvenes en varias ciudades de Alemania terminan en violencia",
-    "summary": "En Fráncfort, Colonia, Hamburgo y Berlín la policía dispersó a grupos violentos que atacaron y saquearon comercios.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/protestas-de-jóvenes-en-varias-ciudades-de-alemania-terminan-en-violencia/a-79819986?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-01T00:08:00+00:00",
-    "image": "",
-    "title_en": "Youth protests in several German cities end with violence",
-    "summary_en": "In Frankfurt, Cologne, Hamburg and Berlin police scattered violent groups that attacked and looted businesses."
   },
   {
     "title": "\"Yo no pinto gordas\": qué hay detrás del estilo único del célebre artista colombiano Fernando Botero",
