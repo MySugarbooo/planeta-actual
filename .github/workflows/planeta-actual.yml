@@ -41,7 +41,21 @@ jobs:
           if [ -f data/translations-cache.json ]; then git add data/translations-cache.json; fi
           if ! git diff --cached --quiet; then
             git commit -m 'Actualizar noticias [auto-news]'
-            git push
+            pushed=false
+            for attempt in 1 2 3; do
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort
+                echo "Conflicto con otros cambios: no se sobrescribe contenido"
+                exit 1
+              fi
+              if git push origin HEAD:main; then
+                pushed=true
+                break
+              fi
+              sleep 3
+            done
+            if [ "$pushed" != "true" ]; then exit 1; fi
           fi
   deploy:
     needs: refresh
