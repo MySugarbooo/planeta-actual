@@ -1,14 +1,630 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Crisis en Paraguay: el presidente Santiago Peña se someterá a juicio político horas después de anunciar su renuncia",
+    "title": "Crisis en Paraguay: el Congreso emprende un juicio político contra Santiago Peña y deja en suspenso su renuncia como presidente",
     "summary": "El presidente de Paraguay dimitió en medio de la crisis desatada por la intervención de Ueno Bank. El Congreso iniciará este mismo jueves un juicio político contra Peña después de no tener quorum para decidir si aceptaba o no su renuncia.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
     "category": "Política",
-    "date": "2026-11-06T00:18:39.296483+00:00",
+    "date": "2026-11-06T07:57:53.701427+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/21f39400-d948-11f1-93e1-3b657b665bcf.jpg",
-    "title_en": "Paraguay's Crisis: President Santiago Peña will be put to political trial hours after his resignation",
+    "title_en": "Paraguay's Crisis: Congress Begins Political Trial of Santiago Peña and Resigns as President",
     "summary_en": "The president of Paraguay resigned amidst the crisis unleashed by Ueno Bank's intervention. The Congress will start a political trial with Peña this Thursday after we have no quorum to decide whether or not to accept his resignation."
+  },
+  {
+    "title": "El Papa parte hacia Latinoamérica",
+    "summary": "León XIV emprende su viaje de doce días a Suramérica, en el que visitará Uruguay, Argentina y Perú, tras haber sido recientemente operado de un cáncer de pulmón.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/el-papa-parte-hacia-latinoamérica/a-79872212?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Salud",
+    "date": "2026-11-06T07:20:00+00:00",
+    "image": "",
+    "title_en": "The Pope goes to Latin America",
+    "summary_en": "Leo XIV takes his twelve-day journey to South America and will visit Uruguay, Argentina and Peru after his lung cancer."
+  },
+  {
+    "title": "El Gran Wyoming comunica su jubilación en ‘El intermedio’: “No vaya a ser que lleguen los de Vox al gobierno y encima me quiten la pensión”",
+    "summary": "El presentador de 71 años anunció este jueves que se retiraría en unos meses y que Gonzo ocuparía su lugar al frente del programa de La Sexta",
+    "source": "El País",
+    "url": "https://elpais.com/television/2026-11-06/el-gran-wyoming-comunica-su-jubilacion-en-el-intermedio-no-vaya-a-ser-que-lleguen-los-de-vox-al-gobierno-y-encima-me-quiten-la-pension.html",
+    "category": "Política",
+    "date": "2026-11-06T07:17:26+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/5RIAWLSMHJDLTGODG2N46DAKCI.png?auth=9aa7eddcaa43898857decf872accbad17a0aab10e82a8acde78aa216015a0fb9",
+    "title_en": "The Grand Wyoming communicates his retirement at The Intermediate: \"Don't let Vox's get to the government and get his pension off me.\"",
+    "summary_en": "The 71-year-old presenter announced Thursday that he would retire in a few months and that Gonzo would place his place at the forefront of La Prenta's program"
+  },
+  {
+    "title": "El Papa regresa por primera vez a América bajo la sombra de Trump",
+    "summary": "León XIV visita desde este viernes Uruguay, Argentina y Perú con un mensaje de justicia social que choca con el discurso promovido por el estadounidense en la región. La atención a su salud tras ser operado y el posible impacto de ‘El Niño’ marcan el viaje",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-06/el-papa-regresa-por-primera-vez-a-america-bajo-la-sombra-de-trump.html",
+    "category": "Salud",
+    "date": "2026-11-06T06:43:51+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/E4VRXZ2MTNP7ZOLKKFPDDJG7PU.jpg?auth=85e98a9b3a29f0ee5acb72bf61d3134a16b8ce423eaaa5ded713aefd87e651fb",
+    "title_en": "The Pope first returns to America under the shadow of Trump",
+    "summary_en": "León XIV visits from this Friday Uruguay, Argentina and Peru with a message of social justice that pits with the American's speech in the region. Health care after operation and the potential impact of 'El Niño' mark the journey"
+  },
+  {
+    "title": "Trump atribuye el desplome de las acciones a la victoria demócrata",
+    "summary": "Las 'Siete magníficas' de la tecnología de EE.UU. sufrieron pérdidas multimillonarias ante el temor de regulaciones a la IA.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/trump-atribuye-el-desplome-de-las-acciones-a-la-victoria-demócrata/a-79871846?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Tecnología",
+    "date": "2026-11-06T06:11:00+00:00",
+    "image": "",
+    "title_en": "Trump ascribes the collapse of actions to Democratic victory",
+    "summary_en": "The \"Magnificent Seven\" of US Technology suffered billionaire losses with fear of AI regulations."
+  },
+  {
+    "title": "¿Qué factores influyeron en la victoria demócrata en las midterms en Georgia?",
+    "summary": "🗳️🇺🇲 En solo dos años, el estado de Georgia pasó de teñirse de rojo en las elecciones presidenciales de 2024, al azul en las midterms en las que Donald Trump y el Partido Republicano sufrieron una arrasadora derrota. ¿Qué factores influyeron en la victoria demócrata en ese estado? Nuestra enviada especial Marta Moya.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-qu%C3%A9-factores-influyeron-en-la-victoria-dem%C3%B3crata-en-las-midterms-en-georgia",
+    "category": "Deportes",
+    "date": "2026-11-06T05:23:13+00:00",
+    "image": "https://s.france24.com/media/display/f2e3af6a-d9a1-11f1-915f-695cb59fade5/w:1024/p:16x9/MARTA-PORTADA.png",
+    "title_en": "What factors had an impact on the Democratic victory at midterms in Georgia?",
+    "summary_en": "In just two years, the state of Georgia moved from dyed with red at the 2024 presidential elections to blue at midterms where Donald Trump and the Republican Party suffered an overwhelming defeat. What factors had an influence on the Democratic victory in that state? Our special envoy Marta Moya."
+  },
+  {
+    "title": "Santiago Peña, de uno de los presidentes más jóvenes de Paraguay a la controversia de Ueno Bank",
+    "summary": "El economista Santiago Peña llegó a la presidencia de Paraguay en 2024 como uno de los mandatarios más jóvenes en la historia del país, cargando señalamientos por su cercanía con el mundo empresarial, especialmente con el banco Ueno, que en la actualidad se encuentra en insolvencia y empujó a Peña a renunciar al cargo.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-santiago-pe%C3%B1a-de-uno-de-los-presidentes-m%C3%A1s-j%C3%B3venes-de-paraguay-a-la-controversia-de-ueno-bank",
+    "category": "Economía",
+    "date": "2026-11-06T04:53:18+00:00",
+    "image": "https://s.france24.com/media/display/b3cad5ca-d99b-11f1-a69f-d18c5759e759/w:1024/p:16x9/ES-20261105-203218-203423-CS.jpg",
+    "title_en": "Santiago Peña, from one of Paraguay's youngest presidents to the Ueno Bank dispute",
+    "summary_en": "Economist Santiago Peña came to Paraguay's office in 2024 as one of the youngest leaders in the country's history, charging with signage for his closeness with the business world, especially with Bank Ueno, currently in insolvency and forcing Peña to resign from office."
+  },
+  {
+    "title": "Directo Midterms y Hegseth como chivo expiatorio tras derrota republicana",
+    "summary": "La derrota republicana en las midterms continúa generando tensiones entre los mismos integrantes del partido. El secretario de Defensa, Pete Hegseth, se ha llevado la mayor parte de las críticas, responsabilizándolo de los resultados por la guerra en Irán. Nuestra corresponsal Carolina Valladares nos contó cuáles han sido algunas de las acusaciones en su…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-directo-midterms-y-hegseth-como-chivo-expiatorio-tras-derrota-republicana",
+    "category": "Deportes",
+    "date": "2026-11-06T04:45:22+00:00",
+    "image": "https://s.france24.com/media/display/925eb822-d994-11f1-96f5-695cb59fade5/w:1024/p:16x9/ES-20261105-191528-192035-CS.jpg",
+    "title_en": "Direct midterms and Hegseth as scapegoat after Republican defeat",
+    "summary_en": "The Republican defeat at midterms continues to provoke tensions among the party's members. The Secretary of Defense, Pete Hegseth, has taken most of his challenges and held him accountable for his war results in Iran. Our correspondent Carolina Valladares told us what some of the accusations have been about his..."
+  },
+  {
+    "title": "Sin Puente ni Zapatero, ¿quién agita ahora la campaña del PSOE?",
+    "summary": "El PSOE afronta las semanas clave antes de las elecciones con una estrategia más centrada en Sánchez y en la movilización de la izquierda",
+    "source": "El País",
+    "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-06/sin-puente-ni-zapatero-quien-agita-ahora-la-campana-del-psoe.html",
+    "category": "Política",
+    "date": "2026-11-06T04:45:01+00:00",
+    "image": "",
+    "title_en": "Without Puente or Zapatero, who's currently tipping up the PSOE campaign?",
+    "summary_en": "The PSOE faces key weeks before the elections with a more focused strategy for Sánchez and the mobilization of the left"
+  },
+  {
+    "title": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
+    "summary": "El Gobierno subirá el SMI en 2027 hasta los 18.004 euros al año y ajustará el impuesto sobre la renta para garantizar que no tribute",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/54NPE6OZMJHJPF7LEAQD6CG7VQ.jpg?auth=ad2276d078496993e1398bd53485130c698c5fa548238a2cccaefd9221b60f1c",
+    "title_en": "Finance will update the minimum wage deduction up to EUR 1030 so that its recipients do not pay IRPF",
+    "summary_en": "The Government will raise the SMI by 2027 up to EUR 18.004 a year and will adjust the income tax to ensure that it does not tax"
+  },
+  {
+    "title": "Acabar con el déficit de 750.000 viviendas que calcula el Banco de España exige una inversión equivalente al 11% del PIB",
+    "summary": "Madrid y Barcelona concentran el 42% de los 189.680 millones, de capital privado y público, que costaría construir las casas que faltan",
+    "source": "El País",
+    "url": "https://elpais.com/economia/vivienda/2026-11-06/acabar-con-el-deficit-de-750000-viviendas-que-calcula-el-banco-de-espana-exige-una-inversion-equivalente-al-11-del-pib.html",
+    "category": "Deportes",
+    "date": "2026-11-06T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/W4TBVCJSGJC5XAZVZG2UZKVU5I.jpg?auth=365e53609878b7b19931840d76c5b97387b7fc81ccbace24de49973314cb8789",
+    "title_en": "To end the deficit of 750,000 households that the Bank of Spain estimates requires an investment amounting to 11% of GDP",
+    "summary_en": "Madrid and Barcelona have 42% of the 189,680 million private and public capital that would have been difficult to build missing houses"
+  },
+  {
+    "title": "Agnès Pannier-Runacher, exministra francesa de Energía: “La única estrategia viable para Europa consiste en producir más y consumir menos”",
+    "summary": "La diputada y exresponsable de Transición Energética exhorta a acelerar la integración del mercado común",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/economia/2026-11-06/agnes-pannier-runacher-exministra-francesa-de-energia-la-unica-estrategia-viable-para-europa-consiste-en-producir-mas-y-consumir-menos.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/QOFJ4TSYR5GSLBVSGOEOCW5Y7A.jpg?auth=0bbb24d439527072f23be87e804cee05c37c6c26291c1b9601845f737dcd1a9f",
+    "title_en": "Agnès pannier-Runacher, former French Minister of Energy: \"The only viable strategy for Europe is to produce more and consume less\"",
+    "summary_en": "MEP and ExResponsible for Energy Transition calls for accelerating integration of the common market"
+  },
+  {
+    "title": "Los riesgos económicos se intensifican a la espera del impacto del súper ciclo electoral",
+    "summary": "La inflación y la deuda entran en zona de peligro mientras las guerras se estancan a la espera de las consecuencias de los cambios de Gobierno en los países ricos",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-06/los-riesgos-economicos-se-intensifican-a-la-espera-del-impacto-del-super-ciclo-electoral.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:45:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZWAVRKXN6ZMETPIBJQFS4DLOEM.jpg?auth=8788c227ee79b5e5448f2224ba0388db8c4101d9a4c5c31454793cbe5d52ff14",
+    "title_en": "The economic risks escalate pending the impact of the super electoral cycle",
+    "summary_en": "Inflation and debt come into danger while wars are stalling pending the consequences of government changes in rich countries"
+  },
+  {
+    "title": "Liberalizar no es privatizar",
+    "summary": "La liberalización del transporte de alta velocidad debe traducirse no solo en precios más bajos y más plazas, sino también en más recursos públicos para garantizar el buen estado de las vías",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-06/liberalizar-no-es-privatizar.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:45:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/X7TD5H2V2VCYPEAV3HYIVUB7QM.jpg?auth=47e52c423a4c918c379c4aed5a8dc3a9fbb7f270946f82e79e49b489a3b75801",
+    "title_en": "Liberalizing isn't privatization",
+    "summary_en": "The liberalization of high-speed transport should translate not only into lower prices and more jobs but also into more public resources to ensure good track conditions"
+  },
+  {
+    "title": "La puesta a punto de BMW resuelve el problema de hoy, no el de mañana",
+    "summary": "Acelera su giro hacia la gama alta, pero la protección europea puede empujar a sus rivales chinos al lujo",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-06/la-puesta-a-punto-de-bmw-resuelve-el-problema-de-hoy-no-el-de-manana.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/YPFET36MPBEVFASQZVBDIWJ4KU.jpg?auth=f5dad35bb350c5c4726b034f182b86534265094fa257d3efa7e71612123f78df",
+    "title_en": "The development of BMW will solve today's problem, not tomorrow's problem.",
+    "summary_en": "Expand its turn to high range but European protection can push its Chinese Rivals to luxury"
+  },
+  {
+    "title": "Fiesta en las bodegas, luto en Sanidad: el consumo de alcohol se dispara",
+    "summary": "Tras 17 años de caída, vuelve a subir el porcentaje de españoles que bebe habitualmente, según la Encuesta de Salud de España",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-06/fiesta-en-las-bodegas-luto-en-sanidad-el-consumo-de-alcohol-se-dispara.html",
+    "category": "Salud",
+    "date": "2026-11-06T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/4LJWDGRGYFAP7M7UNWB5EYW2OI.jpg?auth=57b209760ce5c832fdd5571d8e34ca781277467c54cbe365c040f104d42c70d7",
+    "title_en": "Festivals at the cellars, mourning at Health: alcohol consumption goes off",
+    "summary_en": "After 17 years of fall, the percentage of Spanish they usually drink again, according to the Spanish Health Survey"
+  },
+  {
+    "title": "Las claves: subir el suelo salarial no basta para elevar los sueldos",
+    "summary": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-06/las-claves-subir-el-suelo-salarial-no-basta-para-elevar-los-sueldos.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/K3LQLIVY45L3TOQROHKUWSXLHM.jpg?auth=2b751d7c06c72e238047551c910aadca7d28527ea15002e2a10e3ce716ff7b21",
+    "title_en": "The keys: rising the wage ground isn't enough to raise wages",
+    "summary_en": "The minimum wage will rise by 5.3% in 2027, up to EUR 1,286 per month"
+  },
+  {
+    "title": "Finalizan consultas políticas en Israel con Eisenkot sumando apoyos",
+    "summary": "Las negociaciones de Gadi Eisenkot avanzan para formar Gobierno y multiplica sus apoyos, incluso con algunos de los partidos árabes, el primer ministro Benjamin Netanyahu perdió el respaldo de la lista ultraortodoxa Judaísmo Unido de la Torá, que se negó a apoyar a un candidato.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-finalizan-consultas-pol%C3%ADticas-en-israel-con-eisenkot-sumando-apoyos",
+    "category": "Política",
+    "date": "2026-11-06T04:39:37+00:00",
+    "image": "https://s.france24.com/media/display/c49929be-d992-11f1-8cfe-d18c5759e759/w:1024/p:16x9/ES-20261105-191345-191523-CS.jpg",
+    "title_en": "Political consultations with Eisenkot with support end",
+    "summary_en": "Gadi Eisenkot's negotiations advanced to form Government and increased his support, including with some of the Arab parties, Prime Minister Benjamin Netanyahu lost his support for the ultra-Orthodox list of the Torah, which refused to support a candidate."
+  },
+  {
+    "title": "El ‘gurú’ de las deportaciones masivas prepara su desembarco en España ante un posible gobierno de PP y Vox",
+    "summary": "El austríaco Martin Sellner, referente de la ultraderecha europea, quiere abrir un centro de estudios para apoyar la expulsión de millones de personas de origen migrante, sobre todo africanos y latinoamericanos",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-06/el-guru-de-la-remigracion-prepara-su-desembarco-en-espana-ante-un-posible-gobierno-de-pp-y-vox.html",
+    "category": "Política",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/SN6F5LOPH5HXNEQ3FKS753HHZI.jpg?auth=da3e27a8e4db9ab4e021280940b0cf2c95ae619ba80bcf122e5fd8aa358269ec",
+    "title_en": "The 'guru' of mass deportations prepares its landing in Spain with a potential government of PP and Vox",
+    "summary_en": "The Austrian Martin Sellner, referring to the ultra-right of Europe, wants to open a centre of studies to support the expulsion of millions of migrants, especially Africans and Latin Americans"
+  },
+  {
+    "title": "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+    "summary": "Al menos 35 aviones se han visto afectados, pero en ninguno se han encontrado explosivos. Los autores, que no han sido identificados, se arriesgan a penas de cárcel",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-06/como-una-oleada-de-falsas-amenazas-altera-el-transporte-aereo-en-europa.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/554OABOHD5FAFAJJAUZJZLHO7U.jpg?auth=e293e0dbe8e96a9c4d6fcc187d06e8c6e0040827c707204a84a7898806654571",
+    "title_en": "How a wave of false threats challenges air transport in Europe",
+    "summary_en": "At least 35 aircraft have been affected but none have been found with explosives. The authors, who have been unidentified, risk imprisonment"
+  },
+  {
+    "title": "Adif trabaja desde 2019 en un proyecto para reducir “la probabilidad y el efecto” de errores humanos en la comunicación con los trenes",
+    "summary": "El gestor ferroviario ha destinado 2,9 millones de euros a tres contratos, y licita otro, para digitalizar las órdenes con las que se gestiona la circulación y que reciben los maquinistas. Hoy se anotan a mano en libros de papel",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-06/adif-trabaja-desde-2019-en-un-proyecto-para-reducir-la-probabilidad-y-los-efectos-de-errores-humanos-en-la-comunicacion-con-los-trenes.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/RNM4HSJ6QRCLHFWG3O2NUWHTYA.png?auth=177f248c93ddccf97ab4df32e711147eda1cbf61fd19db3441e531bef5d46287",
+    "title_en": "Adif has been working since 2019 on a project to reduce the \"probability and effect\" of human errors in communication with trains",
+    "summary_en": "The train manager has dedicated EUR 2.9 million to three contracts and bid another to digitalise the orders with which the traffic is managed and received by the drivers. Today they sign up by hand in paper books"
+  },
+  {
+    "title": "Un grupo de parapentistas fuerza en los tribunales la demolición de un chalé con 11 dormitorios en la mejor atalaya de Zarautz",
+    "summary": "El Supremo mantiene la orden de derribo de una privilegiada edificación que ha construido la familia de una exedil del PNV",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-06/un-grupo-de-parapentistas-fuerza-en-los-tribunales-la-demolicion-de-un-chale-con-11-dormitorios-en-la-mejor-atalaya-de-zarautz.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/UKWAULJDEZA73K6X6CAVABGJ2I.jpg?auth=0f2c54f5964616f5edf0266b99e4d9efcc0f7dd59b890589eb226ff931f7d427",
+    "title_en": "A group of parapentists force at courts to demolish an 11-bedroom villa at the best atala of Zarautz",
+    "summary_en": "The Supreme keeps an order to demolish a privileged building that has built the family of an exedile of the NPV"
+  },
+  {
+    "title": "‘Sacamantecas’: creíble ambientación en el retrato de un monstruo",
+    "summary": "David Pérez Sañudo resucita, en una historia bien contada, a aquel personaje salvajemente legendario y lamentablemente real",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/cine/2026-11-06/sacamantecas-creible-ambientacion-en-el-retrato-de-un-monstruo.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/AFMOTJY4PZDF3MZIWQJZHWEKLU.jpg?auth=0eb8601e89035a4c477e2b1762940265a2682d6b29f6e4416a99d52aada58c20",
+    "title_en": "\"Samarteces\": credible ambimentation in a monster's portrait",
+    "summary_en": "David Pérez Sañudo resuscitates, in a well-told story, that savagely legendary and unfortunately real character"
+  },
+  {
+    "title": "Madrid, noviembre de 1936",
+    "summary": "Los fusilamientos llenaron España de sangre desde los primeros momentos de la Guerra Civil",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-06/madrid-noviembre-de-1936.html",
+    "category": "Deportes",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/LPMZ6N25ARC3FCHRNCYDOJIFWM.jpg?auth=93c125d8ae18cced3f391ce757c8698bdbc15968d380db0b98cdde48ae09eb1a",
+    "title_en": "Madrid, November 1936",
+    "summary_en": "The shooting filled Spain with blood from the first moments of Civil War"
+  },
+  {
+    "title": "‘Copiar y pegar’ para vencer la ola ultra que copa las redes sociales",
+    "summary": "La estrategia de André Janones para dar la vuelta al algoritmo y conseguir una mayoría de izquierdas en Brasil llega a España de cara a las elecciones del 29-N",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-06/copiar-y-pegar-para-vencer-la-ola-ultra-que-copa-las-redes-sociales.html",
+    "category": "Tecnología",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/3XAZA7IM4BGUBE5H7KZIX343GA.jpg?auth=544f36f1b08eb9ef21140029149807944014114d7739c6a9b8958514bd3116b9",
+    "title_en": "\"Copy and Beg\" to defeat the ultra wave that seizes social networks",
+    "summary_en": "André Janones's strategy to turn the algorithm and get a majority of leftists in Brazil arrives to Spain with a view to the 29th-N elections"
+  },
+  {
+    "title": "La derrota de Trump aumenta la inquietud en Israel por el futuro de la alianza con EE UU",
+    "summary": "Netanyahu guarda silencio sobre el doble varapalo en las urnas y sobre el fin de la millonaria ayuda militar de Washington, mientras J. D. Vance explica el triunfo demócrata por la guerra contra Irán",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-06/la-derrota-de-trump-aumenta-la-inquietud-en-israel-por-el-futuro-de-la-alianza-con-ee-uu.html",
+    "category": "Política",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/GKQSG7UCMVL2ZAGTSJVGMKWPBE.jpg?auth=612000b384dfa81a7b1ec03f3ce5293f41051ae91bd27bdbade53e843616276b",
+    "title_en": "Trump's defeat increases Israel's concern about the future of the U.S. partnership",
+    "summary_en": "Netanyahu remains silent about double pounding at polls and about the end of Washington's billionaire military assistance while J.D. Vance explains the Democratic triumph for the war with Iran"
+  },
+  {
+    "title": "La jueza cita a declarar al responsable de comunicación de los Andic por un informe sobre medios de comunicación",
+    "summary": "El plan establecía la unificación de un relato, enumeraba periodistas y contemplaba inversión publicitaria",
+    "source": "El País",
+    "url": "https://elpais.com/espana/catalunya/2026-11-06/la-jueza-cita-a-declarar-al-responsable-de-comunicacion-de-los-andic-por-un-informe-sobre-medios-de-comunicacion.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/6CL4DRERZZA3BNLSUUGLZTOY7Q.JPG?auth=c79d6ff92ea837d8bc362164738ca4e360029c846096e5561173781726af5f5d",
+    "title_en": "The judge cites to declare an Andic communication manager for a report about the media",
+    "summary_en": "The plan established the unification of a story, listed journalists and contemplated advertising investment"
+  },
+  {
+    "title": "La Cumbre Iberoamericana garantiza su continuidad a pesar de la ausencia de la mayoría de líderes en Madrid",
+    "summary": "La cita en España logra una declaración consensuada, saca adelante cinco “resultados tangibles” y pasa el testigo a Honduras para la próxima edición",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-06/la-cumbre-iberoamericana-garantiza-su-continuidad-a-pesar-de-la-ausencia-de-la-mayoria-de-lideres-en-madrid.html",
+    "category": "Deportes",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/NT6DUYVQE5DKTBCZLWJXOHA7ZA.jpg?auth=ee53275bae22ed3b64fc3d8ae69d05259b04b209674fbef3790288583dc7141e",
+    "title_en": "The Ibero-American Summit guarantees its continuity despite the absence of most leaders in Madrid",
+    "summary_en": "The citation in Spain achieves a consensual statement, takes forward five \"tangible results\" and passes the witness to Honduras for the next edition"
+  },
+  {
+    "title": "Roberto Velasco, canciller de México: “Las relaciones con España son excelentes y atraviesan un momento muy positivo”",
+    "summary": "El secretario de Relaciones Exteriores destaca la “buena sintonía” entre ambos países, pese a la ausencia de la presidenta Sheinbaum de la Cumbre Iberoamericana en Madrid",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-06/roberto-velasco-canciller-de-mexico-las-relaciones-con-espana-son-excelentes-y-atraviesan-un-momento-muy-positivo.html",
+    "category": "Deportes",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/7XKHSXMH45CHDK7CDCDYCPQKBU.jpg?auth=194f10952cefc506e0dab9026a70d17e0d9231e74bb0aaff36b90d80dc6c6b94",
+    "title_en": "Roberto Velasco, chancellor of Mexico: \"Relations with Spain are excellent and they are undergoing a very positive moment\"",
+    "summary_en": "The Secretary for Foreign Affairs emphasized the \"good tuning\" between both countries, despite the absence of President Sheinbaum of the Ibero-American Summit in Madrid"
+  },
+  {
+    "title": "Más allá del colesterol y el tabaco: la violencia también pesa en la salud cardíaca de las mujeres",
+    "summary": "Una de cada tres mujeres ingresadas en Cardiología en el Hospital 12 de Octubre de Madrid había sufrido malos tratos a lo largo de su vida",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-06/mas-alla-del-colesterol-y-el-tabaco-la-violencia-tambien-pesa-en-la-salud-cardiaca-de-las-mujeres.html",
+    "category": "Deportes",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/RRWX5TGEENMI3ELA73SZAZ6ELQ.jpg?auth=7eef77c3f4745eab5bb4a1968e837852ee5ea03983698382c3902a2648d95607",
+    "title_en": "Beyond cholesterol and tobacco: violence also weighs on women's heart health",
+    "summary_en": "One of every three women admitted to Cardiology at the October 12 Hospital of Madrid had been ill-treated throughout his lifetime"
+  },
+  {
+    "title": "Asustaviejas: la palabra que Cádiz popularizó para señalar el acoso inmobiliario",
+    "summary": "La ciudad se levantó contra las argucias para acabar con los alquileres de renta antigua en unas prácticas con ecos en el presente: “No se han ido, hoy son los ‘asustajóvenes”",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-06/asustaviejas-la-palabra-que-cadiz-popularizo-para-senalar-el-acoso-inmobiliario.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/VFF2Q6JMIFCO7GCJA24Q5HFGV4.jpg?auth=7b3c1f9b59cfcafbc5460a730024945d1cc669fb467902ad4b1f12064e79a29d",
+    "title_en": "Asustaviejas: The word that Cadiz popularized to point to real estate harassment",
+    "summary_en": "The town rose up against arguments to put an end to old rent rentals at some practice with echoes today: \"They haven't been gone, today they're the 'scares\""
+  },
+  {
+    "title": "La venganza del sofá de flores: cómo un clásico de nuestras abuelas se volvió a poner de moda",
+    "summary": "El sofá con estampado floral o ‘chintz’, que surgió en plena Revolución Industrial y tuvo su canto del cisne en los ochenta, resurge para plantar cara a la era minimalista",
+    "source": "El País",
+    "url": "https://elpais.com/icon-design/2026-11-06/la-venganza-del-sofa-de-flores-como-un-clasico-de-nuestras-abuelas-se-volvio-a-poner-de-moda.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/A7GSDZ2YQZDRJGJPVHA6LSMLMI.jpg?auth=d54ba9a69edd6d05f387c84dd8a52580615623562cfe5be14f4636d912716ec7",
+    "title_en": "The Revenge of the Flower sofa: how a classic of our grandmothers became fashionable again",
+    "summary_en": "The sofa with a floral or \"Chintz\" print, that came up at the heart of Industrial Revolution and had its swan's singing in the 80s, resurges to put face to the minimalist age"
+  },
+  {
+    "title": "Localizado un gran jardín musulmán palatino del siglo XII oculto en un bosque en Murcia",
+    "summary": "La estructura, de unos cien metros de longitud y con forma de crucero, era parte de una desconocida finca de recreo andalusí",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/2026-11-06/localizado-un-gran-jardin-musulman-palatino-del-siglo-xii-oculto-en-un-bosque-en-murcia.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/CSNZCQ4WQFGRZGANWIGCTPH5NE.JPG?auth=96a3aa8c672ae2c1d848fb3c429750f772a1ee40b4548dec6fc2786b60a3cf7a",
+    "title_en": "Located a large twelfth-century palatine Muslim garden hidden in a forest in Murcia",
+    "summary_en": "The structure, about a hundred metres long and with a cruise form, was part of an unknown Andean playground"
+  },
+  {
+    "title": "El mes que hizo temblar a la IA",
+    "summary": "Las tecnológicas marcaron su cumbre el 5 de octubre. Desde entonces, el Nasdaq ha caído un 10%, por las dudas sobre la deuda, los ingresos futuros y el desarrollo de los centros de datos",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/el-mes-que-hizo-temblar-a-la-ia.html",
+    "category": "Tecnología",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FT7SJCYMMBBBBC3HOAAVBBH2ZM.jpg?auth=3e1ccb907ff6d458352347159b9505d1d72edf13b603a2435eaa5f971e826cc5",
+    "title_en": "The month that tipped the IA",
+    "summary_en": "The technologies set their summit on October 5. Since then, the Nasdaq has been falling by 10%, with doubts about debt, future income and data centre development"
+  },
+  {
+    "title": "El precio del petróleo apunta a un acuerdo diplomático en Irán aunque el mercado aún teme el riesgo de escalada bélica",
+    "summary": "La arrolladora victoria demócrata en las ‘midterms’ eleva la presión sobre los republicanos para un pacto que abarate la energía si bien el control de Trump sobre la política exterior mantiene las dudas",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/el-precio-del-petroleo-apunta-a-un-acuerdo-diplomatico-en-iran-aunque-el-mercado-aun-teme-el-riesgo-de-escalada-belica.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2LESBGV5NFKNLK7TK7A26E5EY4.jpg?auth=2b430e9940757b33fc35c3349fc198f55e6edd6b84da827a72483f8a48464ef1",
+    "title_en": "The price of oil points to a diplomatic agreement in Iran although the market still fears the risk of war escalation",
+    "summary_en": "The overwhelming Democratic victory at midterms puts pressure on Republicans for an energy pact while Trump's control of foreign policy remains uncertain"
+  },
+  {
+    "title": "IA soberana: la apuesta de las grandes empresas para ocultar sus datos a los tecnoligarcas estadounidenses",
+    "summary": "Compañías europeas como Airbus, TotalEnergies y BMW buscan inteligencias artificiales privadas para esconderse de la vista de las tecnológicas",
+    "source": "El País Tecnología",
+    "url": "https://elpais.com/tecnologia/2026-11-06/ia-soberana-la-apuesta-de-las-grandes-empresas-para-ocultar-sus-datos-a-los-tecnoligarcas-estadounidenses.html",
+    "category": "Tecnología",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2RSX4EVIVNHS5EOD4U63HBYAK4.jpg?auth=67cf25371feca1bd0297065e62549714fbea024bcf0a4b44999ff64d8afd67ee",
+    "title_en": "A sovereign A: The bet of big companies to hide their data from American technoligarks",
+    "summary_en": "European companies such as Airbus, TotalEnergies and BMW seek private artificial intelligences to hide from the view of technologies"
+  },
+  {
+    "title": "La generación Z descubre las cartas con clubes de ciencia: “Puedes estar a tu bola y huir del ‘scroll infinito”",
+    "summary": "Muchos jóvenes encuentran en grupos epistolares creados en torno a los temas que les gustan el primer motivo de sus vidas para estar pendientes del buzón. Esperar la misiva les aporta sosiego en un mundo digitalizado",
+    "source": "El País Ciencia",
+    "url": "https://elpais.com/ciencia/2026-11-06/la-generacion-z-descubre-las-cartas-con-clubes-de-ciencia-puedes-estar-a-tu-bola-y-huir-del-scroll-infinito.html",
+    "category": "Ciencia",
+    "date": "2026-11-06T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/YSTL6W523JGQHOUFNHMKRRH44Y.jpg?auth=9934848acc82156e45c29ce352f1a1a0fc6b4faaad3e2e0eb382ed488a973bfd",
+    "title_en": "The Z generation finds out about the cards with science clubs: \"You can be at your ball and run from an infinite scroll.\"",
+    "summary_en": "Many young people find themselves in epistolary groups that have been created around the issues that they have been interested in at their first motif of their lives to be outstanding from their mailbox. To wait for missiva brings them serene in a digitalised world"
+  },
+  {
+    "title": "Aló Comidista: “¿Es bueno pasar la pasta por agua fría después de cocerla?”",
+    "summary": "Compañeras de piso que cortan cocciones, mujeres decepcionadas por berenjenas, heteros que cocinan con música gay y gais que piden recetas de venenos: bienvenidos al consultorio de noviembre",
+    "source": "El País",
+    "url": "https://elpais.com/gastronomia/el-comidista/2026-11-06/alo-comidista-es-bueno-pasar-la-pasta-por-agua-fria-despues-de-cocerla.html",
+    "category": "Cultura",
+    "date": "2026-11-06T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/3CJYQ6HX2RBPHKGCY3Y34CNYEU.jpg?auth=37facc44a26dc3729a0d14d70e866aa8d35d5856ae612becd307a0cd165a6a04",
+    "title_en": "Aló Comidista: \"Is it good to put the dough through cold water after cooking?\"",
+    "summary_en": "Fairy roommates cut up cooking, women disappointed by eggplants, straight cheesebooks with gay music and gais asking for poisons recipes: welcome to the November office"
+  },
+  {
+    "title": "Aloma, la ‘influencer’ que huye de fiestas y ‘photocalls’: “Me preguntan si soy autista. No tengo problemas para socializar, simplemente no quiero”",
+    "summary": "A diferencia de María Pombo o Lola Lolita, esta creadora de contenido de 22 años triunfa en internet quedándose en su casa en pijama y compartiendo con sus más de 100.000 seguidores cómo toma un chocolate caliente y juega al ‘Planet Zoo’. “Somos muchas las que nos sentimos incómodas con el consumismo y la hiperproductividad que se ve en las redes”, asegura",
+    "source": "El País",
+    "url": "https://elpais.com/gente/2026-11-06/aloma-la-influencer-que-huye-de-fiestas-y-photocalls-me-preguntan-si-soy-autista-no-tengo-problemas-para-socializar-simplemente-no-quiero.html",
+    "category": "Tecnología",
+    "date": "2026-11-06T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZS42QHDHLZGTXFR36KRNRCPTWI.jpg?auth=8e952198224805ea5a7a0c91c48a0ed4e94601247fca5832b8059db9024126cd",
+    "title_en": "Aloma, the \"influence\" that runs from parties and photocalls: \"They ask me if I'm autistic. I have no problem socializing, I just don't want to\"",
+    "summary_en": "Unlike Maria Pombo or Lola Lolita, this 22-year-old content creator triumphates at his place with his pajama and sharing with his more than 100,000 followers how she takes a hot chocolate and plays the 'Planet Zoo'. \"We are many that feel uncomfortable with consumerism and hyperproductivity that looks at networks,\" she says."
+  },
+  {
+    "title": "El euríbor me está comiendo. ¿Puedo vender mi vivienda y comprar otra acogiéndome a las ayudas del Gobierno?",
+    "summary": "Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/vivienda/consultorio/2026-11-06/el-euribor-me-esta-comiendo-puedo-vender-mi-vivienda-y-comprar-otra-acogiendome-a-las-ayudas-publicas-del-gobierno.html",
+    "category": "Política",
+    "date": "2026-11-06T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/EZGCNH2WGNASXBBSGWROB7NVVU.jpg?auth=0a43ad9cf690c494b57358dd2c3c04e3795410dbbdb8d19578b3a466da067af9",
+    "title_en": "The Euro's eating me. Can I sell my house and buy another one by receiving government assistance?",
+    "summary_en": "Readers send their questions to EL PAIS housing office in collaboration with Legálitas"
+  },
+  {
+    "title": "Cuánto cuesta comer en los 10 mejores restaurantes del mundo: menús desde 225 euros hasta 2.000",
+    "summary": "Lideran la lista de The 50 Best Restaurants con experiencias muy diferentes. En los dos españoles del ‘top 10’, la cuenta parte de 300 y 450 euros por persona, sin bebidas",
+    "source": "El País",
+    "url": "https://elpais.com/gastronomia/restaurantes/2026-11-06/cuanto-cuesta-comer-en-los-10-mejores-restaurantes-del-mundo-menus-de-hasta-2000-euros-y-la-prohibicion-de-fumar-marihuana.html",
+    "category": "Internacional",
+    "date": "2026-11-06T04:25:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/24HU4DM24JCVPNZ2M4HZMHRVC4.jpg?auth=55bd949263d35c976d36689dca1967567783488a3d2cba0b0b43a506a15a1da5",
+    "title_en": "How much to eat at the best 10 restaurants in the world: menus from 225 Euro to 2,000",
+    "summary_en": "They list The 50 Best Restaurants with very different experiences. The best 10 Spanish account includes 300 and 450 EUR per person with no drink"
+  },
+  {
+    "title": "Acciona sondea entre las grandes energéticas la venta por partes de su filial de renovables",
+    "summary": "EQT y Ardian mantienen el interés, pero ven caro el precio y no quieren entrar sin asegurarse el control de la gestión. La matriz exige una prima superior al 30% respecto al precio actual",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-11-06/acciona-sondea-entre-las-grandes-energeticas-la-venta-por-partes-de-su-filial-de-renovables.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:15:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/EFLPQMJMV5NZBNF33QUNJE3R3U.jpg?auth=d867c19cd3c4507968438c7b675a969b1212e65e7fa3c4fe37d3216e81ccba43",
+    "title_en": "The activity of its renewable subsidiary with its share of its production and production of",
+    "summary_en": "EQT and Ardian have an interest but they have an expensive price and do not want to get in without ensuring management monitoring. The matrix requires a premium more than 30% from the current price"
+  },
+  {
+    "title": "Acesur controlará el negocio de Deoleo en EE UU y Dcoop sus marcas españolas",
+    "summary": "Las dos compañías se repartirán los activos de Deoleo y los gestionarán de forma independiente, sin crear una empresa conjunta",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-11-06/acesur-controlara-el-negocio-de-deoleo-en-ee-uu-y-dcoop-sus-marcas-espanolas.html",
+    "category": "Economía",
+    "date": "2026-11-06T04:15:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/3EHTWKT6DRABXPWQIO4RR6QYHU.jpg?auth=1f1d7db161a288d70d8cce6a05b9f4a2ae685efd60a5b921d1194031c417524e",
+    "title_en": "Acesur will control Deoleo's business in the U.S. and Dcook his Spanish brands",
+    "summary_en": "The two companies will share and manage Deoleo's assets independently without creating a joint venture"
+  },
+  {
+    "title": "Flávio Bolsonaro reaparece en la mansión de Trump en Mar-a-Lago en una gala de la Conferencia de Acción Política Conservadora",
+    "summary": "El excandidato presidencial de Brasil, fugitivo en Florida tras perder las elecciones, fue uno de los ponentes en el evento en Florida",
+    "source": "El País",
+    "url": "https://elpais.com/america/2026-11-06/flavio-bolsonaro-reaparece-en-la-mansion-de-trump-en-mar-a-lago-en-una-gala-de-la-conferencia-de-accion-politica-conservadora.html",
+    "category": "Política",
+    "date": "2026-11-06T04:10:37+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/QUMT5ZZ3GBNSPJ5EQKB7YAIBIU.jpg?auth=65b7958afce66d896dcfd61cdb281996fce406f595313b66170658d757949614",
+    "title_en": "Flávio Bolsonaro Reappears at Trump's manor at Mar-a-Lake at a Gala from the Conservative Political Action Conference",
+    "summary_en": "Brazil's former presidential candidate, fugitive in Florida after losing his election, was one of the presenters at the Florida event"
+  },
+  {
+    "title": "Francia registra al menos 600.000 personas en las manifestaciones",
+    "summary": "Cientos de miles de manifestantes salieron a las calles de Francia para exigir aumento de los salarios y mayor justicia social. Las protestas iniciaron a mitades de septiembre y se han convertido en un movimiento generalizado, con sindicatos de varios gremios participando de las movilizaciones y sumando peticiones al Gobierno de Emmanuel Macron.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-francia-registra-al-menos-600-000-personas-en-las-manifestaciones",
+    "category": "Economía",
+    "date": "2026-11-06T04:00:59+00:00",
+    "image": "https://s.france24.com/media/display/541ee4b8-d991-11f1-a94f-1beafce15fea/w:1024/p:16x9/ES-20261105-191121-191317-CS-01.jpg",
+    "title_en": "France's registered at least 600,000 people at events",
+    "summary_en": "Hundreds of thousands of protesters went to the streets of France to demand increased wages and more social justice. The protests began at half of September and have become a widespread movement, with trade unions from several trade unions participating in the mobilizations and adding petitions to the Government of Emmanuel Macron."
+  },
+  {
+    "title": "Informe desde Lima: Fujimori cumple 100 días en el poder con crecientes críticas a su gestión",
+    "summary": "Keiko Fujimori cumple 100 días en el poder con críticas por la alta criminalidad, con 621 homicidios desde que llegó a la Presidencia. Según encuestas, el 47% de los ciudadanos califica su gestión como regular y el 38% la califica mala, contra un 10% que la considera buena. Amplía la información nuestro corresponsal Francisco Zacarías.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-informe-desde-lima-fujimori-cumple-100-d%C3%ADas-en-el-poder-con-crecientes-cr%C3%ADticas-a-su-gesti%C3%B3n",
+    "category": "Internacional",
+    "date": "2026-11-06T02:46:57+00:00",
+    "image": "https://s.france24.com/media/display/1c3995f8-d98b-11f1-ac31-bf1914cabd52/w:1024/p:16x9/ES-20261105-190827-191000-CS.jpg",
+    "title_en": "Report from Lima: Fujimori's 100-day power with growing challenges to his management",
+    "summary_en": "Keiko Fujimori's 100-day power with high crime challenges, with 621 murders since his office. According to polls, 47% of citizens have regular and 38% have bad management as against 10% as good. Expand information our correspondent Francisco Zacharias."
+  },
+  {
+    "title": "Informe desde Asunción: incertidumbre sobre paradero de Santiago Peña",
+    "summary": "A pesar de no tener certeza de la ubicación del presidente Santiago Peña, el todavía mandatario se pronunció en su cuenta oficial de X y aseguró que se presentaría al juicio político y ejercería su derecho a la defensa, por lo que los medios suponen que aún se encuentra en el país pese a los rumores de que ya abandonó territorio paraguayo. Nuestra…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-informe-desde-asunci%C3%B3n-incertidumbre-sobre-paradero-de-santiago-pe%C3%B1a",
+    "category": "Política",
+    "date": "2026-11-06T02:25:02+00:00",
+    "image": "https://s.france24.com/media/display/0ab9d7dc-d988-11f1-b0a2-bf1914cabd52/w:1024/p:16x9/ES-20261105-190340-190648-CS.jpg",
+    "title_en": "Report from Asunción: uncertainty about Santiago Peña's whereabouts",
+    "summary_en": "Despite his lack of certainty about the location of President Santiago Peña, his still president expressed his views at his official account of X and stated that he would come to his political trial and exercise his right to his defence and so the media assume that he's still in the country despite rumors about his leaving Paraguayan territory. Our..."
+  },
+  {
+    "title": "Por qué el Congreso de Paraguay no aceptó la renuncia de Santiago Peña como presidente y qué supone ahora el juicio político en su contra",
+    "summary": "El presidente anunció este jueves su renuncia por su papel en la gestión de uno de los principales bancos del país, que fue intervenido esta semana.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/crwyddpl789do?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-06T02:16:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f56a/live/8ff00310-d96d-11f1-9fd0-cdf612d1539f.jpg",
+    "title_en": "Why Paraguay's Congress did not accept Santiago Peña's resignation as president and what the political judgment currently means against him",
+    "summary_en": "The president announced his resignation Thursday for his role in managing one of the leading banks of the country, which was interacted this week."
+  },
+  {
+    "title": "Informe desde París: sindicatos registran más de un millón de manifestantes",
+    "summary": "Al menos 600.000 personas participaron en Francia en las movilizaciones por el poder adquisitivo y la defensa de los servicios públicos, según las primeras cifras del Ministerio del Interior, mientras que los sindicatos reportan más de un millón y medio de manifestantes. Nuestra periodista Erika Olavarría nos contó cuáles eran las exigencias durante las…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-informe-desde-par%C3%ADs-sindicatos-registran-m%C3%A1s-de-un-mill%C3%B3n-de-manifestantes",
+    "category": "Internacional",
+    "date": "2026-11-06T02:03:20+00:00",
+    "image": "https://s.france24.com/media/display/cc044e1c-d984-11f1-ac31-695cb59fade5/w:1024/p:16x9/ES-20261105-174127-174310-CS.jpg",
+    "title_en": "Report from Paris: trade unions register more than a million protesters",
+    "summary_en": "At least 6 million people have been involved in public service and purchasing and defence mobilization in France, as first reported by the Ministry of Internal Affairs while trade unions report more than a million and a half protesters. Our journalist Erika Olavarría told us what the demands were during his..."
+  },
+  {
+    "title": "Peña desafía al Congreso paraguayo y se defenderá en el juicio político en su contra",
+    "summary": "Los diputados se niegan a aceptar la renuncia presentada por el mandatario tras el estallido de un escándalo financiero",
+    "source": "El País",
+    "url": "https://elpais.com/america/2026-11-06/pena-desafia-al-congreso-paraguayo-y-se-defendera-en-el-juicio-politico-en-su-contra.html",
+    "category": "Política",
+    "date": "2026-11-06T01:56:16+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/AGZG23DMQZJZLJTW4E3SZEFO6Y.jpg?auth=07f85072eddc58de3440d09f6632b2d47dee67b8272e91c46d0630c091d9f875",
+    "title_en": "Peña challenges Paraguayan Congress and will defend itself at his political trial",
+    "summary_en": "The Members refused to accept the resignation put forward by the President after a financial scandal broke out."
+  },
+  {
+    "title": "Marco Rubio niega que tenga planes de dejar cargo de secretario de Estado",
+    "summary": "El jefe de la diplomacia de EE.UU. aseguró que no tiene previsto dejar el gobierno de Donald Trump para buscar la presidencia en 2028.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/marco-rubio-niega-que-tenga-planes-de-dejar-cargo-de-secretario-de-estado/a-79871453?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-06T01:45:00+00:00",
+    "image": "",
+    "title_en": "Marco Blonde denies his plans to leave office as Secretary of State",
+    "summary_en": "The head of U.S. diplomacy stated that his intention was to leave Donald Trump's government to seek his office in 2028."
+  },
+  {
+    "title": "La revista ‘The New Yorker’ arremete contra ‘La bola negra’: “No es un monumento; es un fracaso”",
+    "summary": "A pesar de la buena acogida de crítica y público en Estados Unidos, la reseña de la película de la publicación asegura que los directores son “pretenciosos” y que sus historias sufren de “insustancialidad” y son un “trauma repetitivo”",
+    "source": "El País",
+    "url": "https://elpais.com/us/entretenimiento/2026-11-05/la-revista-the-new-yorker-arremete-contra-la-bola-negra-no-es-un-monumento-es-un-fracaso.html",
+    "category": "Cultura",
+    "date": "2026-11-06T01:19:14+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/YTB6Z2NFUZON5FQK5QGOCL3ZK4.jpg?auth=fb4782587530f32fb46511fcdd657b3b670a5a2f440dc33e65772e91fcb96621",
+    "title_en": "The magazine 'The New Yorker' attacks' The Black Ball ': \"It's not a monument but a failure\"",
+    "summary_en": "Despite good public and critical reception in the U.S., the film's review of the paper claims that directors are \"pretentious\" and that their stories suffer from \"inmateriality\" and are a \"repetitive trauma\""
+  },
+  {
+    "title": "Amenazas de bomba retrasan más de una veintena de vuelos en Europa",
+    "summary": "Los avisos falsos de bomba en vuelos vuelven a poner en vilo a la seguridad en Europa, en medio de crecientes tensiones geopolíticas y varios incidentes que han subrayado el temor de las autoridades frente a las amenazas híbridas cada vez más frecuentes. Al menos 25 vuelos procedentes de ciudades recibieron estas alertas, lo que llevó a varios a aterrizar…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-amenazas-de-bomba-retrasan-m%C3%A1s-de-una-veintena-de-vuelos-en-europa",
+    "category": "Internacional",
+    "date": "2026-11-06T01:14:49+00:00",
+    "image": "https://s.france24.com/media/display/53781c72-d97e-11f1-82ba-1beafce15fea/w:1024/p:16x9/ES-20261105-173927-174108-CS.jpg",
+    "title_en": "Bomb threats delay more than 20 flights to Europe",
+    "summary_en": "Faked flight bomb warnings re-put security back into place in Europe, amidst growing geopolitical tensions and several incidents that have underscored the authorities' fear of increasingly frequent hybrids. At least 25 flights from cities received these alerts, leading several to land..."
+  },
+  {
+    "title": "Trump se reúne con el enviado de Putin mientras EE. UU. anuncia nuevas conversaciones de paz para Ucrania",
+    "summary": "El presidente de Estados Unidos, Donald Trump, confirmó este jueves 5 de noviembre que se reunió en la Casa Blanca con el enviado de Vladimir Putin, Kirill Dmitriev, pero no con los representantes ucranianos, que también estaban presentes en un acto encabezado por Melania Trump. Mientras tanto, Jared Kushner anunció que Washington convocará la próxima…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261106-trump-se-re%C3%BAne-con-el-enviado-de-putin-mientras-ee-uu-anuncia-nuevas-conversaciones-de-paz-para-ucrania",
+    "category": "Política",
+    "date": "2026-11-06T01:02:51+00:00",
+    "image": "https://s.france24.com/media/display/b9c7c790-d968-11f1-b608-bf1914cabd52/w:1024/p:16x9/056e83dfed741759a64dba89d61afeebc55e9bff.jpg",
+    "title_en": "Trump meets with Putin's envoy while the U.S. U.S. Announces New Peace Talks for Ukraine",
+    "summary_en": "The U.S. President, Donald Trump, confirmed his meeting with Vladimir Putin's envoy, Kirill Dmitriev, at the White House on Thursday, November 5 but not with Ukrainian representatives, who were also at an event led by Melania Trump. Meanwhile, Jared Kushner announced that Washington will call next..."
+  },
+  {
+    "title": "Francia reporta al menos 448 arrestos y 53 policías heridos en protestas",
+    "summary": "La jornada de manifestaciones transcurrió, en su mayor parte, de forma pacífica, a pesar de algunos enfrentamientos e incendios provocados en centros escolares.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/francia-reporta-al-menos-448-arrestos-y-53-policías-heridos-en-protestas/a-79871430?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-06T00:52:00+00:00",
+    "image": "",
+    "title_en": "France reports at least 448 arrests and 53 police officers wounded in protests",
+    "summary_en": "The day of demonstration was mostly peaceful, despite some confrontations and fires at schools."
+  },
+  {
+    "title": "Crisis en Paraguay: el cierre de Ueno Bank que desencadenó la renuncia del presidente Peña",
+    "summary": "El escándalo de Ueno Bank le cuesta el puesto al presidente de Paraguay, Santiago Peña. El mandatario presentó su renuncia al cargo en medio de la crisis desatada por la intervención y el cierre del banco digital, que afecta a casi tres millones de clientes, que temen no poder recuperar su dinero.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-crisis-en-paraguay-el-cierre-de-ueno-bank-que-desencaden%C3%B3-la-renuncia-del-presidente-pe%C3%B1a",
+    "category": "Tecnología",
+    "date": "2026-11-06T00:35:58+00:00",
+    "image": "https://s.france24.com/media/display/a39b80d8-d977-11f1-8fdd-a575454bc579/w:1024/p:16x9/ES-20261105-173608-173829-CS.jpg",
+    "title_en": "Paraguay's crisis: Ueno Bank's closure that triggered President Peña's resignation",
+    "summary_en": "The Ueno Bank scandal costs Paraguay's president, Santiago Peña. The president submitted his resignation from office amidst the crisis unleashed by the intervention and closure of the digital bank, which affects nearly 3 million customers, who fear they will be unable to get their money back."
+  },
+  {
+    "title": "Informe desde Asunción: Senado suspende votación sobre renuncia de Peña por falta de quórum",
+    "summary": "El Senado suspendió la sesión en la que votaba si aceptaba la renuncia del presidente Santiago Peña o avanza con un juicio político tras falta quórum. Según nuestra corresponsal Flávia Borja, varios legisladores habrían abandonado la sala y se escondieron en los baños para no completar la mayoría de votos, por lo que decenas de manifestantes en las afueras…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-informe-desde-asunci%C3%B3n-senado-suspende-votaci%C3%B3n-sobre-renuncia-de-pe%C3%B1a-por-falta-de-qu%C3%B3rum",
+    "category": "Política",
+    "date": "2026-11-05T23:54:32+00:00",
+    "image": "https://s.france24.com/media/display/fe9ed2c6-d96f-11f1-9ef3-1beafce15fea/w:1024/p:16x9/ES-20261105-173144-173540-CS.jpg",
+    "title_en": "Report from Asunción: Senate suspend vote on Peña's resignation for lack of quorum",
+    "summary_en": "The Senate suspended the sitting at which I voted whether I accept President Santiago Peña's resignation or advanced with a political trial after quorum. According to our correspondent Flávia Borja, several lawmakers have been forced to leave the room and have been hidden in the toilets so as not to complete most votes, so tens of protesters have been found outside..."
   },
   {
     "title": "Cinco palestinos mueren en ataques de Israel en Gaza",
@@ -53,28 +669,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/72b8a3be-d96e-11f1-ac2f-d18c5759e759/w:1024/p:16x9/AP23230090868081.jpg",
     "title_en": "Ecuador: To trial seven people, including an ex-Correist Minister, for the murder of Fernando Villavicencio",
     "summary_en": "The former Minister of the Interior, José Serrano, is among the six people who will be prosecuted for the murder of the presidential candidate, who was killed after his departure from an event of campaign a week before the first round of elections in Ecuador. Serrano was deported from the U.S., where he was arrested by ICE the year..."
-  },
-  {
-    "title": "Las autoridades cubanas liberan a la periodista Yoani Sánchez, pero la acusan de “atentar contra el orden constitucional”",
-    "summary": "La reportera fue apresada la mañana del martes y pudo avisar a la redacción del medio que dirige, en constante acoso de las autoridades cubanas",
-    "source": "El País",
-    "url": "https://elpais.com/america/2026-11-05/las-autoridades-cubanas-liberan-a-la-periodista-yoani-sanchez-pero-la-acusan-de-atentar-contra-el-orden-constitucional.html",
-    "category": "Internacional",
-    "date": "2026-11-05T23:20:46+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/CJWRJGSCZFSNHSBERXQRAOM6JM.jpg?auth=3644a8a1f91f2aa134930d356b4c3980852cac87d8044a1179b5f46dd683b8f1",
-    "title_en": "The Cuban authorities free journalist Yoani Sánchez but accused her of \"undermining the constitutional order\"",
-    "summary_en": "The journalist was arrested on Tuesday morning and was able to notify the paper about his conduct, with constant harassment from the Cuban authorities"
-  },
-  {
-    "title": "La revista ‘The New Yorker’ arremete contra ‘La bola negra’: “No es un monumento; es un fracaso”",
-    "summary": "A pesar de la buena acogida de crítica y público en Estados Unidos, la reseña de la película de la publicación asegura que los directores son “pretenciosos” y que sus historias sufren de “insustancialidad” y son un “trauma repetitivo”",
-    "source": "El País",
-    "url": "https://elpais.com/us/entretenimiento/2026-11-05/la-revista-the-new-yorker-arremete-contra-la-bola-negra-no-es-un-monumento-es-un-fracaso.html",
-    "category": "Cultura",
-    "date": "2026-11-05T23:17:03+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YTB6Z2NFUZON5FQK5QGOCL3ZK4.jpg?auth=fb4782587530f32fb46511fcdd657b3b670a5a2f440dc33e65772e91fcb96621",
-    "title_en": "The magazine 'The New Yorker' attacks' The Black Ball ': \"It's not a monument but a failure\"",
-    "summary_en": "Despite good public and critical reception in the U.S., the film's review of the paper claims that directors are \"pretentious\" and that their stories suffer from \"inmateriality\" and are a \"repetitive trauma\""
   },
   {
     "title": "Informe desde Asunción: paraguayos se movilizan tras anuncio de renuncia del presidente Peña",
@@ -143,6 +737,17 @@ window.PLANETA_NEWS = [
     "summary_en": "Colombian journalist Walter López was the victim of an attack on Wednesday, 4 November, when several armed men entered his house in the municipality of Barrancabermeja, in the department of Santander. The attack occurred weeks after he received threats from people who claimed to belong to a crime band and reported his..."
   },
   {
+    "title": "El secretario de Defensa, Pete Hegseth, en el punto de mira de los republicanos por su papel en la guerra de Irán",
+    "summary": "El senador republicano Tom Massie planea llevar adelante un juicio político contra el jefe del Pentágono, aunque Trump insiste en que apoya a su ministro",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-05/el-secretario-de-defensa-pete-hegseth-en-el-punto-de-mira-de-republicanos-por-su-papel-en-la-guerra-de-iran.html",
+    "category": "Política",
+    "date": "2026-11-05T22:40:23+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/HMDMTQ5VYFKG5EXTMIVJMR3BIU.jpg?auth=8da31d85f72a79020a26243a2238dd114f29b19bb1c1d3801a7ddc6e9bb920fb",
+    "title_en": "Secretary of Defense, Pete Hegseth, at the Republican's viewpoint for his role in Iran's war",
+    "summary_en": "Republican Senator Tom Massie plans to conduct a political suit against the Pentagon's head, though Trump insists that he supports his minister"
+  },
+  {
     "title": "Directo a... Washington y los movimientos internos del Partido Republicano tras las midterms",
     "summary": "Tras la dura derrota del Partido Republicano en las midterms, en la que perdieron todo el control del Congreso, sus seguidores buscan culpables a quienes responsabilizar. El vicepresidente JD Vance y otros partidarios republicanos han culpado a la guerra en Irán, una posición que ha sido tomada como un distanciamiento con el presidente Donald Trump con…",
     "source": "France 24",
@@ -165,17 +770,6 @@ window.PLANETA_NEWS = [
     "summary_en": "See details at the original source."
   },
   {
-    "title": "Antonia Dell’Atte responde a las disculpas públicas de Ana Obregón: “Te he salvado de una condena y de ir a la cárcel”",
-    "summary": "La exmodelo italiana ha compartido una publicación en su Instagram, que después ha eliminado, en la que dice aceptar el perdón de la presentadora, pero le reprocha haber tardado tanto tiempo: “Después de 35 años, has admitido que has encubierto y defendido a mi maltratador, Alessandro Lecquio”",
-    "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-05/antonia-dellatte-responde-a-las-disculpas-publicas-de-ana-obregon-te-he-salvado-de-una-condena-y-de-ir-a-la-carcel.html",
-    "category": "Internacional",
-    "date": "2026-11-05T22:14:20+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LLQIFV7WKVGBPFA2Y6OOBK7CKE.jpg?auth=2c1b8212431d488ac135efdac0c00d4a03106b98896688bc08628879b3114f2b",
-    "title_en": "Antonia Dell'Atte responded to Anne Obregón's public apology: \"I have saved you from a conviction and from going to jail\"",
-    "summary_en": "The former Italian model has shared a publication at his Instagram, which she later purported to accept the presenter's pardon but challenges her for so long: \"After 35 years, you have admitted that you have hidden and defended my abuser, Alessandro Lecco\""
-  },
-  {
     "title": "Kabul, una crisis de agua potable que agrava la emergencia humanitaria en Afganistán",
     "summary": "La escasez de agua potable agrava la crisis humanitaria en Kabul, donde las sequías recurrentes, el agotamiento de las reservas subterráneas y el crecimiento demográfico amenazan el acceso al agua de millones de personas. La emergencia se suma a una profunda crisis económica que golpea a Afganistán, donde cerca de 22 millones de habitantes necesitan…",
     "source": "France 24",
@@ -185,28 +779,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/21c53152-d964-11f1-a506-d18c5759e759/w:1024/p:16x9/capture-b25ea3e4.jpg",
     "title_en": "Kabul, a drinking water crisis that exacerbates the humanitarian emergency in Afghanistan",
     "summary_en": "A shortage of drinking water exacerbates the humanitarian crisis in Kabul, where recurrent droughts, depletion of ground reserves and population growth threaten access to water by millions of people. The emergency adds to a profound economic crisis that strikes Afghanistan, where about 22 million people require..."
-  },
-  {
-    "title": "Jueves negro para la Bolsa: el Nasdaq sufre un batacazo por el miedo al frenazo de la IA",
-    "summary": "El índice bursátil cierra con una caída del 5,5% arrastrado por la violenta caída de los fabricantes de chips mientras los inversores temen una ralentización del gasto en tecnología",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/la-bolsa-y-el-ibex-35.html",
-    "category": "Tecnología",
-    "date": "2026-11-05T21:49:21+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DQEU5FA63FJQVAJSEC5TRXTORE.jpg?auth=0831c16f0abcc282e72ddaf7c158bd47fe493403ffb8f138fe0eea9e2c57dc56",
-    "title_en": "Black Thursday for the Stock Exchange: The Nasdaq suffers a hit by fear of an IA brake",
-    "summary_en": "The stock market index closed with a 5.5% drop as a result of the violent fall of chip manufacturers while investors fear a slowdown of technology spending"
-  },
-  {
-    "title": "Cuerpo asegura que no hay “previsión” de cerrar durante las obras la línea Madrid-Barcelona",
-    "summary": "El ministro, que acaba de asumir las funciones de Transportes, dice que aún hay margen para tomar medidas antes de las elecciones",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/cuerpo-asegura-que-no-hay-prevision-de-cerrar-durante-las-obras-la-linea-madrid-barcelona.html",
-    "category": "Deportes",
-    "date": "2026-11-05T21:48:31+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/GZ7RSWJFINIHXGMWFPRHUBDETE.jpg?auth=5369e9f71a150c8a2a3394b46c2414ddcee7d8d3302e428ba270b1d161622012",
-    "title_en": "Body claims that there's no \"foresight\" to close the line Madrid- Barcelona",
-    "summary_en": "The Minister, who just assumed his role as Transport, says that there's still room for action before the elections"
   },
   {
     "title": "Del vino a las bebidas sin alcohol: la nueva era de los sommeliers",
@@ -231,17 +803,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The mobilization, the largest since the protests began in September, brought hundreds of thousands of people across the country. The trade unions demand wage increases, fiscal justice and better public services."
   },
   {
-    "title": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
-    "summary": "Los inversores castigan a las compañías de Elon Musk tras la victoria demócrata en Texas y la toma de control del Congreso de Estados Unidos",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
-    "category": "Política",
-    "date": "2026-11-05T21:19:37+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/OS4WRHA2AJBS5NCHA6PV554QTM.JPG?auth=54bf3bc77ebad14f13896389fc2bbce342e8dd7df26c87fc6e23ef4bd3506b52",
-    "title_en": "Tesla and SpaceX lose 45 billion worth in two days after the Democratic triumph",
-    "summary_en": "Inverters punish Elon Musk's companies after the Texas Democratic victory and U.S. Congress's takeover"
-  },
-  {
     "title": "Trump pierde poder y los países del Golfo se replantean sus alianzas",
     "summary": "Las elecciones intermedias en EE. UU. mostraron el rechazo a la guerra contra Irán impulsada por Trump. Tras meses atrapados en el conflicto, los países del Golfo ven motivos para el optimismo.",
     "source": "DW Español",
@@ -264,17 +825,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The ministry sets up the mechanism intended for surplus campaigns, questioned by industry, packaging and competition"
   },
   {
-    "title": "El gobernador de California perdona la vida a 563 reclusos del corredor de la muerte",
-    "summary": "El plan de Gavin Newsom no contempla liberar a ninguno de los presos, sino que sus condenas sean conmutadas por cadena perpetua sin posibilidad de libertad condicional",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-05/el-gobernador-de-california-perdona-la-vida-a-563-reclusos-del-corredor-de-la-muerte.html",
-    "category": "Internacional",
-    "date": "2026-11-05T20:37:54+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/O4CZKSFMGFOC3G3Y3WNYQZHLME.jpg?auth=1b3e03ecff53c1b01c4ce05d54f8533c34467d58dd41f2cd08fd11b1ef2a78d9",
-    "title_en": "The Governor of California forgives the lives of 563 death row inmates",
-    "summary_en": "The Gavin Newsom's plan did not cover the release of any of the prisoners but rather his sentences were commuted to life imprisonment without parole"
-  },
-  {
     "title": "El gobernador Gavin Newsom conmuta la condena a 548 personas que estaban en el corredor de la muerte en California",
     "summary": "Históricamente, California ha tenido la mayor población de presos condenados a muerte en Estados Unidos.",
     "source": "BBC Mundo",
@@ -284,105 +834,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f727/live/1aa45900-d952-11f1-b7f4-8bd3c0617693.jpg",
     "title_en": "Governor Gavin Newsom commutes his conviction to 548 people who were on death row in California",
     "summary_en": "Historically, California has had the largest population of prisoners sentenced to death in the U.S.."
-  },
-  {
-    "title": "Una lista de 77 religiosos acusados de abuso sexual en Perú sacude a la Iglesia antes de la visita de León XIV",
-    "summary": "La organización Bishop Accountability reúne acusaciones contra sacerdotes y otros miembros del clero. La visita del pontífice peruano reaviva las demandas de las víctimas por justicia y cambios dentro de la institución",
-    "source": "El País",
-    "url": "https://elpais.com/sociedad/2026-11-05/una-lista-de-77-religiosos-acusados-de-abuso-sexual-en-peru-sacude-a-la-iglesia-antes-de-la-visita-de-leon-xiv.html",
-    "category": "Internacional",
-    "date": "2026-11-05T20:23:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PYYHMQWF5ROWTHPRAQIP773KQA.jpg?auth=de616026fd1002222f773149770776bd2ee20876ab9066d5e1968a15a960770d",
-    "title_en": "A list of 77 religious accused of sexual abuse in Peru pounding the Church before Leo XIV's visit",
-    "summary_en": "Bishop Accountability brings up charges against priests and other members of the clergy. The visit of the Peruvian pontif revives the claims of the victims for justice and changes within the institution"
-  },
-  {
-    "title": "Israel: Gadi Eisenkot busca consolidar sus apoyos para formar Gobierno tras las elecciones",
-    "summary": "El bloque de oposición israelí, encabezado por Gadi Eisenkot, busca reunir los apoyos necesarios para formar una mayoría parlamentaria tras las elecciones legislativas del 27 de octubre, que no dejaron un vencedor claro. El papel de los partidos árabes, que consiguieron un récord histórico de 19 escaños, se encuentra en el centro de las negociaciones. Por…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/medio-oriente/20261105-israel-gadi-eisenkot-busca-consolidar-sus-apoyos-para-formar-gobierno-tras-las-elecciones",
-    "category": "Política",
-    "date": "2026-11-05T20:05:16+00:00",
-    "image": "https://s.france24.com/media/display/9361e280-d908-11f1-937a-bf1914cabd52/w:1024/p:16x9/7115210ef211be26605d71f75f79d5b316b5ad59.jpg",
-    "title_en": "Israel: Gadi Eisenkot seeks to consolidate his support to form Government after elections",
-    "summary_en": "The Israeli opposition bloc, headed by Gadi Eisenkot, seeks to gather the necessary support to form a parliamentary majority after the 27 October legislative elections, which did not leave a clear winner. The role of the Arab parties, which had achieved a historic record of 19 seats, was at the heart of negotiations. To..."
-  },
-  {
-    "title": "La borrasca ‘Bruna’ causará un fuerte temporal de lluvia, viento y mala mar a partir del sábado",
-    "summary": "Se trata de la primera borrasca con nombre de la temporada y la ha bautizado Portugal al afectar primero a las Azores",
-    "source": "El País",
-    "url": "https://elpais.com/el-tiempo/2026-11-05/la-borrasca-bruna-causara-un-fuerte-temporal-de-lluvia-viento-y-mala-mar-a-partir-del-sabado.html",
-    "category": "Internacional",
-    "date": "2026-11-05T19:40:36+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LW2IGQ76YRAANKKTLTULM4ADDM.JPG?auth=053f065a31ddc7078a4e9951b4b82d50b4617f524942d65ae1a9e25884ff766d",
-    "title_en": "The purge 'Bruna' will cause a strong rain, wind and bad sea as of Saturday",
-    "summary_en": "The first purge with the name of the season and has been christened by Portugal as it first affects the Azores"
-  },
-  {
-    "title": "Santiago Abascal acudirá este lunes a ‘La revuelta’ mientras que Ada Colau lo hará el martes",
-    "summary": "El líder de Vox y la política catalana han aceptado la oferta de David Broncano y serán los invitados estrella del programa de La 1 la próxima semana",
-    "source": "El País",
-    "url": "https://elpais.com/television/2026-11-05/santiago-abascal-acudira-este-lunes-a-la-revuelta-mientras-que-ada-colau-lo-hara-el-martes.html",
-    "category": "Política",
-    "date": "2026-11-05T19:39:22+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LXAOLG77GFDA3A3NPM7IM5O3VI.jpg?auth=fb8921a35e3599d438e09e8097e1ab1cf0b39482da1271bb833fe2c8e5fe84e0",
-    "title_en": "Santiago Abascal will come this Monday to La Revollo while Ada Colau will come Tuesday",
-    "summary_en": "Vox's leader and Catalan politics have accepted David Broncano's offer and will be the star guest of The 1 program next week"
-  },
-  {
-    "title": "Cuatro países rompen el consenso en la Cumbre XXX Iberoamericana de Madrid",
-    "summary": "En España finalizó la XXX Cumbre Iberoamericana con diferencias entre los líderes políticos de la región, divididos por sus orillas ideológicas: Argentina, Colombia, Costa Rica y Paraguay se desmarcaron del consenso en la Declaración de Madrid, en el párrafo que rechaza la coerción y la aplicación a los países de medidas contrarias al derecho internacional…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-cuatro-pa%C3%ADses-rompen-el-consenso-en-la-cumbre-xxx-iberoamericana-de-madrid",
-    "category": "Deportes",
-    "date": "2026-11-05T19:37:52+00:00",
-    "image": "https://s.france24.com/media/display/c021204c-d94e-11f1-bc2a-bf1914cabd52/w:1024/p:16x9/ES-20261105-110737-111139-CS.jpg",
-    "title_en": "Four countries break up consensus at the Ibero-American XXX Summit in Madrid",
-    "summary_en": "The 34th Ibero-American Summit with differences between the political leaders of the region, divided by their ideological banks, was concluded in Spain: Argentina, Colombia, Costa Rica and Paraguay have broken from the consensus in the Madrid Declaration, with a paragraph that rejects the coercion and application to countries of measures contrary to international law..."
-  },
-  {
-    "title": "Activista de Hong Kong condenado a 10 años más de prisión por colusión con fuerzas extranjeras",
-    "summary": "El activista prodemocracia de Hong Kong Joshua Wong fue condenado este jueves a 10 años más de prisión por colusión con potencias extranjeras, la segunda vez que recibe una pena bajo la ley de seguridad nacional de la ciudad. Wong, de 30 años, es una de las figuras más reconocidas a nivel internacional del movimiento prodemocracia de Hong Kong y ya ha…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-activista-de-hong-kong-condenado-a-10-a%C3%B1os-m%C3%A1s-de-prisi%C3%B3n-por-colusi%C3%B3n-con-fuerzas-extranjeras",
-    "category": "Internacional",
-    "date": "2026-11-05T19:37:24+00:00",
-    "image": "https://s.france24.com/media/display/8b47167e-d949-11f1-927f-bf1914cabd52/w:1024/p:16x9/ES-20261105-084032-084231-CS.jpg",
-    "title_en": "Hong Kong Activist sentenced to 10 more years imprisonment for collusion with foreign forces",
-    "summary_en": "Hong Kong pro-democracy activist Joshua Wong was sentenced this Thursday to an additional 10 years of imprisonment for collusion with foreign powers, the second time he's been sentenced under the city's national security law. Wong, 30, is one of the most internationally recognized figures of Hong Kong's pro-democracy movement and has been..."
-  },
-  {
-    "title": "\"Llegó el día de devolver la camiseta número siete\": Cristiano Ronaldo se retira de Portugal",
-    "summary": "Cristiano Ronaldo anunció este 5 de noviembre su retirada definitiva de la selección de Portugal, con la que disputó 234 partidos y marcó 146 goles. A los 41 años, el delantero puso fin a una trayectoria de 23 años en la que conquistó la Eurocopa de 2016 y dos ediciones de la Liga de Naciones, aunque no logró ganar el Mundial. \"Llegó el día de devolver la…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-lleg%C3%B3-el-d%C3%ADa-de-devolver-la-camiseta-n%C3%BAmero-siete-cristiano-ronaldo-se-retira-de-portugal",
-    "category": "Deportes",
-    "date": "2026-11-05T19:37:18+00:00",
-    "image": "https://s.france24.com/media/display/0dda6306-d950-11f1-b55b-d18c5759e759/w:1024/p:16x9/2026-11-05T104154Z-187535869-RC2L8MAGU02I-RTRMADP-3-SOCCER-RONALDO.jpg",
-    "title_en": "\"The day came to give back his number seven t-shirt\": Christian Ronaldo retreates from Portugal",
-    "summary_en": "On November 5, Cristiano Ronaldo announced his final retirement from Portugal's selection, with which he held 234 matches and scored 146 goals. At age 41, the prog put an end to a 23-year-old track that won the 2016 Euro and two League of Nations editions, but did not gain the World Cup. \"The day came to give back the..."
-  },
-  {
-    "title": "Huelga general en Francia por el alto costo de la vida: así avanza la jornada",
-    "summary": "Con un minuto de silencio, los manifestantes en Francia recordaron a las víctimas del acto racista de Trappes e iniciaron la huelga general convocada para este 5 de noviembre. El movimiento fue convocado por los sindicatos, pero también por estudiantes, jubilados y chalecos amarillos, por el alto costo de la vida. Nuestra periodista, Erika Olavarría, nos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-huelga-general-en-francia-por-el-alto-costo-de-la-vida-as%C3%AD-avanza-la-jornada",
-    "category": "Internacional",
-    "date": "2026-11-05T19:36:41+00:00",
-    "image": "https://s.france24.com/media/display/531121a6-d94d-11f1-98be-695cb59fade5/w:1024/p:16x9/ES-20261105-090428-090547-CS.jpg",
-    "title_en": "General strike in France for the high cost of living: this advanced day",
-    "summary_en": "With a minute of silence, protesters in France reminded the victims of the Trappes racist act and initiated the general strike called for this November 5. The movement was called by trade unions but also by students, retirement and yellow vests for the high cost of living. Our journalist, Erika Olavarría, we..."
-  },
-  {
-    "title": "¿Quién pagará la derrota?: Recrudece la lucha interna en el Partido Republicano tras las midterms",
-    "summary": "En nuestra sección En Contexto analizamos las luchas internas y diferencias en la Administración de Donald Trump a partir de las elecciones de mitad de mandato del martes. El vicepresidente J.D. Vance responsabiliza a la guerra con Irán y sus defensores como causa de la derrota republicana, mientras que los integrantes del partido quieren abrirse camino…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/en-contexto/20261105-qui%C3%A9n-pagar%C3%A1-la-derrota-recrudece-la-lucha-interna-en-el-partido-republicano-tras-las-midterms",
-    "category": "Deportes",
-    "date": "2026-11-05T19:35:54+00:00",
-    "image": "https://s.france24.com/media/display/5d8eb2b0-d899-11f1-b70e-bf1914cabd52/w:1024/p:16x9/2026-11-03T112707Z-496333801-RC29GOA693FU-RTRMADP-3-IRAN-CRISIS.jpg",
-    "title_en": "Who will pay for defeat?: Restrict internal fight in the Republican Party after midterms",
-    "summary_en": "In our Section In Context we discuss internal struggles and differences in Donald Trump's administration from the midterm elections on Tuesday. Vice President J.D. Vance holds the war with Iran and its supporters accountable as a cause of Republican defeat while party members want to clear their way..."
   },
   {
     "title": "Nigeria pasó de ser un país de tránsito a centro de drogas en África",
@@ -409,46 +860,13 @@ window.PLANETA_NEWS = [
   {
     "title": "Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote",
     "summary": "Una revisión en ‘Science’ repasa la nueva generación de fármacos contra la obesidad. También avisa de que las patentes de los genéricos de semaglutida retrasarán su llegada a España hasta 2031, pese a que ya se venden en India y Brasil",
-    "source": "El País",
+    "source": "El País Ciencia",
     "url": "https://elpais.com/ciencia/2026-11-05/los-farmacos-que-vienen-despues-del-ozempic-buscan-adelgazar-mas-perder-menos-musculo-y-evitar-el-efecto-rebote.html",
-    "category": "Internacional",
+    "category": "Ciencia",
     "date": "2026-11-05T19:00:04+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/6LLQPENLCJFETDRDRI6EZTYNYQ.jpg?auth=6e8c6de6ce60f27f4ac0649de6faa888e78e239f69e8504ad15ea1a7563d4ea4",
     "title_en": "Medicines that come after Ozempic: seek to lose more, lose less muscle and avoid bouncing effect",
     "summary_en": "A review of Science reviews the new generation of drugs against obesity. Also warns that the patents of semaglitida generics will delay their arrival to Spain until 2031, although they are already sold in India and Brazil"
-  },
-  {
-    "title": "Esto sabemos del escándalo del Ueno Bank, la crisis que tumbó al presidente paraguayo Santiago Peña",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-esto-sabemos-del-esc%C3%A1ndalo-del-ueno-bank-la-crisis-que-tumb%C3%B3-al-presidente-paraguayo-santiago-pe%C3%B1a",
-    "category": "Política",
-    "date": "2026-11-05T18:58:55+00:00",
-    "image": "",
-    "title_en": "That's what we know about the Ueno Bank's scandal, the crisis that killed Paraguayan president Santiago Peña.",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "Directo Latam y la polémica “ley de rescate” del Gobierno colombiano de De la Espriella",
-    "summary": "El Gobierno de Abelardo de la Espriella presentó al Congreso de Colombia un extenso proyecto de ley de ajuste fiscal destinado, según afirma, a recortar el gasto público en un 15 % y aumentar los ingresos mediante medidas tributarias. La iniciativa apunta a modificar diversos impuestos para incrementar los ingresos del Estado. Las voces críticas instan a…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-directo-latam-y-la-pol%C3%A9mica-ley-de-rescate-del-gobierno-colombiano-de-de-la-espriella",
-    "category": "Política",
-    "date": "2026-11-05T18:41:49+00:00",
-    "image": "https://s.france24.com/media/display/2732f26c-d948-11f1-a1fc-695cb59fade5/w:1024/p:16x9/ES-20261105-074340-075023-CS.jpg",
-    "title_en": "Direct Latin and the controversial \"law of rescue\" of the Colombian Government of La Espriella",
-    "summary_en": "The Government of Abelardo de la Espriella submitted to the Congress of Colombia an extensive fiscal adjustment bill aimed at reducing public spending by 15% and increasing income through tax measures. The initiative aims at amending a number of taxes to increase public income. Critical voices urge..."
-  },
-  {
-    "title": "Falsas alertas de bomba en aerolíneas europeas obligan a aterrizajes de emergencia",
-    "summary": "Por segunda vez esta semana, varias aerolíneas europeas recibieron falsas amenazas de bomba. Al menos 12 vuelos se vieron afectados, con desvíos y aterrizajes no programados o escoltados, y con trastornos en los viajes. Irene Savio, corresponsal en Roma, nos amplió la información.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-falsas-alertas-de-bomba-en-aerol%C3%ADneas-europeas-obligan-a-aterrizajes-de-emergencia",
-    "category": "Internacional",
-    "date": "2026-11-05T18:40:53+00:00",
-    "image": "https://s.france24.com/media/display/8ceb5664-d946-11f1-a4d5-a575454bc579/w:1024/p:16x9/ES-20261105-073301-073534-CS.jpg",
-    "title_en": "False bomb alerts at European airlines require emergency landing",
-    "summary_en": "For the second time this week, several European airlines received false bomb threats. At least 12 flights were affected with unscheduled or escorted detour and landing and with travel challenges. Irene Savio, correspondent in Rome, gave us information."
   },
   {
     "title": "Los centros de datos también perdieron las elecciones en Estados Unidos",
@@ -462,72 +880,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The rejection of 40 out of 41 proposals to build these installations means a serious blow to the sector and anticipates a change in the vision of Congress about industry"
   },
   {
-    "title": "“Mr. Veto”: ¿convertirá Trump sus amenazas en realidad tras el triunfo demócrata en las midterms?",
-    "summary": "La contundente victoria demócrata ha cambiado el equilibrio de poder en Estados Unidos. Aunque el presidente Donald Trump mantiene la Casa Blanca y conserva el poder de veto, ahora deberá enfrentarse a un Congreso controlado por la oposición. ¿Optará por el bloqueo y la confrontación o buscará acuerdos para sacar adelante parte de su agenda?",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-mr-veto-convertir%C3%A1-trump-sus-amenazas-en-realidad-tras-el-triunfo-dem%C3%B3crata-en-las-midterms",
-    "category": "Política",
-    "date": "2026-11-05T18:40:32+00:00",
-    "image": "https://s.france24.com/media/display/4bdaef58-d947-11f1-9650-bf1914cabd52/w:1024/p:16x9/ES-20261105-073826-074008-CS.jpg",
-    "title_en": "\"Mr. Veto\": Do Trump turn his threats into reality after the Democratic triumph at midterms?",
-    "summary_en": "The strong democratic victory has changed the balance of power in the U.S.. Although President Donald Trump keeps the White House and preserves veto power, he will now have to face an opposition-controlled Congress. Do you choose blockade and confrontation or will you seek agreements to put some of his agenda forward?"
-  },
-  {
-    "title": "Tres derrotas en 10 días: ¿se acaba la era dorada de la ultraderecha en el mundo?",
-    "summary": "En 10 días, las elecciones en Brasil, Israel y Estados Unidos se saldaron con derrotas para líderes de ultraderecha. Brasil fue el único país de América Latina que resistió la ola de ultraderecha, con una sorpresiva victoria de Luiz Inácio Lula da Silva; en Israel, Benjamin Netanyahu perdió la mayoría en el Parlamento; y Donald Trump sufrió una derrota en…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-tres-derrotas-en-10-d%C3%ADas-se-acaba-la-era-dorada-de-la-ultraderecha-en-el-mundo",
-    "category": "Política",
-    "date": "2026-11-05T18:39:15+00:00",
-    "image": "https://s.france24.com/media/display/08b72580-d946-11f1-a4cc-d18c5759e759/w:1024/p:16x9/ES-20261105-071331-072323-CS.jpg",
-    "title_en": "Three defeates in 10 days: Do we end the golden age of the ultra-right in the world?",
-    "summary_en": "In 10 days, elections in Brazil, Israel and the U.S. have been filled with defeates for ultra-right leaders. Brazil was the only Latin American country to resist the ultra-right wave with a surprising victory by Luiz Inácio Lula da Silva, and Benjamin Netanyahu lost his majority to Parliament and Donald Trump suffered a defeat at his..."
-  },
-  {
-    "title": "Sánchez defiende la diversidad ideológica en la Cumbre Iberoamericana: “Creemos en el valor de este foro multilateral”",
-    "summary": "El presidente del Gobierno destaca la adopción de una declaración conjunta que logra reflejar un “mínimo común denominador” entre los 22 países",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/sanchez-defiende-la-diversidad-ideologica-en-la-cumbre-iberoamericana-creemos-en-el-valor-de-este-foro-multilateral.html",
-    "category": "Política",
-    "date": "2026-11-05T18:38:24+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/G3H3G23BMBGP3PCRWKIK3O6UDE.jpg?auth=05ea25dd609aa50f89bd759efa5135dd28ae0e5f3eb25ac7a81d61842c27af20",
-    "title_en": "Sanchez challenges ideological diversity at the Ibero-American Summit: \"We believe in the value of this multilateral forum\"",
-    "summary_en": "The President of the Government points to the adoption of a joint declaration that can reflect a \"minimum common denominator\" among the 22 countries"
-  },
-  {
-    "title": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
-    "summary": "El juez Moreno, que abrió este martes una pieza secreta tras un informe de la Guardia Civil, autoriza entradas en domicilios de Madrid, Sevilla y Córdoba y pide información a Adif y una constructora",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
-    "category": "Deportes",
-    "date": "2026-11-05T18:36:57+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SOZTB5J5F5DYXIGGNWQFGR6QNA.jpg?auth=4c82416f4b709291d2087c8ed712be0b459058366d15e3a2a1a640daea136313",
-    "title_en": "The UCO searches the house of Ábalos in Valencia with a new Koldo case operation with 6 detainees",
-    "summary_en": "Judge Moreno, who opened a secret piece after a Civil Guard report this Tuesday, authorized entrance to Madrid, Seville and Córdoba and requested information from Adif and a construction company"
-  },
-  {
-    "title": "¿Qué significa para Alemania la derrota de Trump en las \"midterms\"?",
-    "summary": "La derrota en las elecciones intermedias fue histórica para los republicanos en EE. UU., aunque Trump no perdió poder en el escenario internacional. ¿A qué riesgos se enfrentan ahora Alemania y Europa?",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/¿qué-significa-para-alemania-la-derrota-de-trump-en-las-midterms/a-79869946?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-05T18:27:00+00:00",
-    "image": "",
-    "title_en": "What does Trump's defeat at midterms mean to Germany?",
-    "summary_en": "The defeat in the mid-term elections was historic for Republicans in the U.S.. Although Trump did not lose power on the international stage. What risks are Germany and Europe currently facing?"
-  },
-  {
-    "title": "El ataque a un centro de ayuda en la provincia ucrania de Zaporiyia suma ya 43 víctimas mortales",
-    "summary": "Los equipos de rescate buscan aún a una treintena de desaparecidos entre los escombros",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-05/el-ataque-a-un-centro-de-ayuda-en-la-provincia-ucrania-de-zaporiyia-suma-ya-43-victimas-mortales.html",
-    "category": "Internacional",
-    "date": "2026-11-05T17:43:37+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/GZGXDRQCNVOR7JQRKTL77V4SC4.jpg?auth=01b8b59b497a5b34a14364261a05c8d8f91d3f8636c420037c96cd188cb53382",
-    "title_en": "The attack on an aid centre in the Ukrainian province of Zaporiyia and 43 killed",
-    "summary_en": "The rescue teams are still looking for about 30 missing persons from the rubble."
-  },
-  {
     "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
     "summary": "La intervención de Ueno Bank, una de las mayores entidades financieras de Paraguay, ha sacudido al sistema bancario del país y su cúpula política. El presidente del país enfrenta un juicio político que podría aprobarse este mismo jueves.",
     "source": "BBC Mundo",
@@ -539,39 +891,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The intervention of Ueno Bank, one of Paraguay's largest financial institutions, has shaken the country's banking system and its political leadership. The president of the country faces a political trial that could be passed on Thursday."
   },
   {
-    "title": "Los impuestos, las armas, los derechos de las personas trans y el ‘foie gras’: las otras cuestiones que decidieron las ‘midterms’",
-    "summary": "Tres de cuatro Estados que llevaron el tema del aborto a las urnas se pronunciaron a favor de garantizar el derecho a la interrupción voluntaria del embarazo",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-05/los-impuestos-las-armas-los-derechos-de-las-personas-trans-y-el-foie-gras-las-otras-cuestiones-que-decidieron-las-midterms.html",
-    "category": "Política",
-    "date": "2026-11-05T17:35:52+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/M4QFCFYSDZHI7ARE3XECZ77GWE.jpg?auth=59c580a7f6589e8d28d26adf2c8169080a587924a754cb202c2f6d4367686009",
-    "title_en": "Taxes, arms, trans person rights and \"foie gras\": the other issues that have been decided by midterms",
-    "summary_en": "3 out of 4 States that brought abortion to the polls expressed their support for guaranteeing the right to voluntary termination of pregnancy"
-  },
-  {
-    "title": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones en Europa",
-    "summary": "Tres aeronaves han tenido origen o destino en Madrid. Bruselas pide colaboración a los Estados para aclarar la incidencia, similar a la registrada el martes en otros siete vuelos",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
-    "category": "Deportes",
-    "date": "2026-11-05T17:14:36+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MKZUVNWTWZDONLAFNXV4YCKDHE.JPG?auth=a01729b8dbe86f00123d5f4122b8150ac0374e556321472c2212fa45a43dcc39",
-    "title_en": "A new wave of false bomb threats affects at least 27 aircraft in Europe",
-    "summary_en": "Three aircraft have been from or from Madrid. Brussels calls for cooperation with states to clarify the incidence, similar to that recorded on Tuesday for another seven flights"
-  },
-  {
-    "title": "La OMS alerta sobre la falta de ejercicio entre los adolescentes",
-    "summary": "Un nuevo estudio revela que uno de cada cuatro jóvenes no realizó actividad física durante al menos una hora en toda una semana.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/la-oms-alerta-sobre-la-falta-de-ejercicio-entre-los-adolescentes/a-79869667?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T17:11:00+00:00",
-    "image": "",
-    "title_en": "WHO warns about lack of exercise among adolescents",
-    "summary_en": "A new study reveals that one out of four youth did not conduct physical activity for at least an hour throughout an hour."
-  },
-  {
     "title": "El Como de Fàbregas hace historia con una goleada récord en la Champions League",
     "summary": "El conjunto italiano goleó 1-9 al Lens y se convirtió en el primer equipo en alcanzar esa cifra como visitante en la historia del torneo.",
     "source": "DW Español",
@@ -581,61 +900,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "The Como de FÃ bregas makes history with a hit record at the Champions League",
     "summary_en": "The Italian set hit 1-9 at the Lens and became the first team to reach that figure as a visitor in the history of the tournament."
-  },
-  {
-    "title": "El Gran Wyoming se jubila y Gonzo presentará ‘El intermedio’ desde enero",
-    "summary": "El relevo al frente del espacio satírico de La Sexta supondrá la salida de Gonzo de ‘Salvados’, aunque aún no se ha elegido su sustituto",
-    "source": "El País",
-    "url": "https://elpais.com/television/2026-11-05/el-gran-wyoming-se-jubila-y-gonzo-presentara-el-intermedio-desde-enero.html",
-    "category": "Internacional",
-    "date": "2026-11-05T16:49:26+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7TT3LLHZYNB3VBZOIRSTVEZ67I.jpg?auth=dc791551d93ff25da189f7be7af78e09d301699173908d77cd5b76914da503c7",
-    "title_en": "The Great Wyoming Retiring and Gonzo will be presenting \"The Intermediate\" from January",
-    "summary_en": "Replay at the front of the satirical space of The Sixth will mean the exit of Gonzo from 'Salvados', but his replacement has yet to be chosen"
-  },
-  {
-    "title": "Satisfacción y escepticismo en Irán tras elecciones en EE. UU.",
-    "summary": "Tras las elecciones intermedias de EE. UU., los líderes de Teherán no prevén un cambio de rumbo de Washington. Sin embargo, tras la victoria demócrata en el Congreso, otros ven un claro mensaje en contra de la guerra.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/satisfacción-y-escepticismo-en-irán-tras-elecciones-en-ee-uu/a-79868489?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-05T16:47:00+00:00",
-    "image": "",
-    "title_en": "Satisfaction and skepticism in Iran after U.S. elections. Estados Unidos",
-    "summary_en": "Following the mid-term U.S. elections. The leaders of Tehran do not anticipate a shift from Washington. Nevertheless, after the Democratic victory at Congress, others saw a clear message against war."
-  },
-  {
-    "title": "El actor británico Russell Brand, declarado culpable de violación y agresiones sexuales",
-    "summary": "Un jurado de Londres declaró culpable al actor de violación y tres agresiones sexuales contra cuatro mujeres. Brand, de 51 años, fue enviado a prisión preventiva y conocerá su sentencia el próximo lunes.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/el-actor-británico-russell-brand-declarado-culpable-de-violación-y-agresiones-sexuales/a-79868634?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Cultura",
-    "date": "2026-11-05T16:15:00+00:00",
-    "image": "",
-    "title_en": "The British actor Russell Brand found guilty of rape and sexual assault",
-    "summary_en": "A London jury found the rape actor guilty and three sexual assault against four women. He was sent to pretrial detention and his sentence will be heard next Monday."
-  },
-  {
-    "title": "La capucha negra de Bob Dylan",
-    "summary": "El músico odia los protocolos y siempre es capaz de llamar la atención con sus escasas apariciones públicas. Las imágenes con el Papa guardan simbolismo, incluso político justo después de la derrota de Trump en EE UU",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/ruta-norteamericana/2026-11-05/la-capucha-negra-de-bob-dylan.html",
-    "category": "Política",
-    "date": "2026-11-05T16:13:43+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/BVUP3OQBWBIWVCZIXAUTSLNR5I.jpg?auth=0a1bbbe5862c6093930482b5257e93bff836d0a436f483d7fc755b70adcfbd0d",
-    "title_en": "Bob Dylan's black hood",
-    "summary_en": "The musician hates protocols and is always capable of drawing attention to his few public appearances. Images with the Pope have symbolism, even politics just after Trump's defeat in the U.S."
-  },
-  {
-    "title": "El fútbol español despide al delantero Jesús de Miguel con un duelo unánime en Navahermosa",
-    "summary": "La plantilla del Tenerife, representantes del Andorra y los principales dirigentes nacionales acuden al funeral en el pueblo toledano del que era la familia del jugador para ofrecerle el último adiós y darle el pésame a sus seres queridos",
-    "source": "El País",
-    "url": "https://elpais.com/deportes/futbol/2026-11-05/el-futbol-espanol-despide-al-delantero-jesus-de-miguel-con-un-duelo-unanime-en-navahermosa.html",
-    "category": "Deportes",
-    "date": "2026-11-05T15:46:39+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/TTDC4HBPBJDE7PALNXUCFEBYMI.JPG?auth=83283e3160813fa781b4c9ec3ad2433ad3ecbce9e65f6bba5d21ef4bf99f3123",
-    "title_en": "Spanish football fired the forward Jesus of Michael with a unanimous duel at Navahermosa",
-    "summary_en": "The personnel of Tenerife, representatives of Andorra and the leading national leaders come to the funeral in the town of Toledan from which the player's family was to offer his final farewell and to give his condolences to his loved ones"
   },
   {
     "title": "El actor y comediante británico Russell Brand es declarado culpable de violación y agresión sexual",
@@ -671,28 +935,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The CNMC approves the Government's proposal after finding that commercial networks cover demand and low financing costs"
   },
   {
-    "title": "La Policía identifica en la frontera con Marruecos a dos altos cargos de las fuerzas marroquíes el día del asalto masivo",
-    "summary": "La Comisaría General de Información ha enviado un informe a la jueza con fotografías de Mohamed El Oualidi y Abdel Fattah El Sayed en Castillejos y está analizando qué papel tuvieron",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/la-policia-identifica-en-la-frontera-con-marruecos-a-dos-altos-cargos-de-las-fuerzas-marroquies-el-dia-del-asalto-masivo.html",
-    "category": "Internacional",
-    "date": "2026-11-05T14:20:14+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/Q63T3HYAUFDILLCI4NJ4C2A3CE.jpg?auth=b949937eacd75f97ea9e91ef228797d60227ab731195ee499ce667d6a3d297f4",
-    "title_en": "The police have identified at the border with Morocco two high officials of the Moroccan forces on the day of mass assault",
-    "summary_en": "The General Information Commission has sent a report to the judge with photographs of Mohamed El Oualidi and Abdel Fattah The Sayed at Castlejos and she's analyzing what role they had"
-  },
-  {
-    "title": "Detenido un profesor de Secundaria en una concentración por la educación pública en Madrid",
-    "summary": "Agentes de la policía municipal arrestan al hombre, que protestaba junto a otros docentes en un acto de la huelga indefinida convocada en la Comunidad",
-    "source": "El País",
-    "url": "https://elpais.com/educacion/2026-11-05/detenido-un-profesor-de-secundaria-en-una-concentracion-por-la-educacion-publica-en-madrid.html",
-    "category": "Deportes",
-    "date": "2026-11-05T13:15:44+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/3JMPA7M5RRCLLP6GUSIGJN4YAE.jpg?auth=95b7412b5139f317290f161c9e79276d620cc26b82331c464d33a05400c93359",
-    "title_en": "Detained a high school teacher at a concentration for public education in Madrid",
-    "summary_en": "Municipal police officers arrest man, who protested with other teachers at an event of an indefinite strike called in the Community"
-  },
-  {
     "title": "El Banco de Inglaterra sube los tipos de interés por primera vez en tres años hasta alcanzar el 4%",
     "summary": "La libra esterlina, en su nivel más alto frente al euro desde el referéndum del Brexit de 2016",
     "source": "El País Economía",
@@ -702,17 +944,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/4QWT7EY4YVL6HFKYEIA3J34EGI.jpg?auth=f9e29911b2cf367ac9f338a54a6007d9832e6a70c044c9f93d4eb438640c9499",
     "title_en": "Bank of England first up interest rates in 3 years to 4%",
     "summary_en": "The sterling pound at its highest level versus the euro since the 2016 Brexit referendum"
-  },
-  {
-    "title": "Koldo García asegura que acordó con el abogado del PP un millón de euros a cambio de información para hacer caer a Sánchez",
-    "summary": "En un audio publicado por la Cadena SER, el exasesor de Ábalos afirma que el letrado le ofreció una rebaja de la pena que suponía no entrar en la cárcel",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
-    "category": "Internacional",
-    "date": "2026-11-05T12:53:10+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PQYG2ODFVZFEXOUQ2OUGJV6QNY.jpg?auth=90c7a04f496c00bcdebf6a9c65ed7c063a6de7097662929426a0972bfa47f229",
-    "title_en": "Koldo García claims that she agreed with his lawyer about a million dollars for information to put Sanchez down.",
-    "summary_en": "In an audio published by the Chain SER, his former Abalos counsellor claims that his lawyer offered him a reduction of his sentence that was supposed to have been put out of jail."
   },
   {
     "title": "Las empresas reclaman dejar de pagar las bajas laborales y dar el control a las mutuas para frenar el absentismo",
@@ -770,6 +1001,17 @@ window.PLANETA_NEWS = [
     "summary_en": "The strong appraisal by his vice president of the Republican electoral defeat had been one of the most marked breakdowns with an incumbent president in recent history."
   },
   {
+    "title": "Así se prepara la banca para los próximos años",
+    "summary": "Más educación financiera, planes acordes con la mayor longevidad de la población y digitalización inclusiva. En el horizonte, las entidades bancarias quieren pasar de un papel reactivo a otro más proactivo que acompañe, oriente y anticipe las necesidades de los clientes",
+    "source": "El País",
+    "url": "https://elpais.com/aniversario/branded/un-futuro-por-escribir/2026-11-05/asi-se-prepara-la-banca-para-los-proximos-anos.html",
+    "category": "Internacional",
+    "date": "2026-11-05T11:14:38+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/OBBFQGJQFRBDJML6D4XD36HJVY.jpg?auth=4a9a2a22fdf3960844ac75bf25ba248176e12c162d2b59d7fe6fe4941f38b027",
+    "title_en": "That's how banks get ready for the next few years.",
+    "summary_en": "More financial education, plans with the highest population longevity and inclusive digitalization. On the horizon, banks wish to move from a proactive to a more proactive role that will accompany, orient and anticipate the needs of customers"
+  },
+  {
     "title": "\"Ha llegado el día de devolver la camiseta número 7\": Cristiano Ronaldo anuncia su retiro de la selección de Portugal",
     "summary": "El delantero de 41 años es considerado el mejor jugador en la historia de su país, además de ser el mayor goleador histórico.",
     "source": "BBC Mundo",
@@ -790,28 +1032,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/69c4/live/05b4e120-d46d-11f1-a701-fddedf244c16.jpg",
     "title_en": "\"I didn't know I had vitamin D deficiency till I fainted at work.\"",
     "summary_en": "Doctors are finding that vitamin D deficiency is increasingly widespread in the UK, especially among young people. Nevertheless, symptoms are difficult to detect and can pass unnoticed."
-  },
-  {
-    "title": "Colau propone aumentar los impuestos a ultrarricos y grandes empresas para recaudar 10.000 millones de euros",
-    "summary": "La candidata de Frente Amplio aboga por gravar el patrimonio de las grandes fortunas, los beneficios de la banca y la acumulación de vivienda",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html",
-    "category": "Economía",
-    "date": "2026-11-05T10:28:48+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MYTOBLTOSRAKFBRLT7N2MMRTNE.jpg?auth=edc20ab96e49b01c5d0a18b755b8e79e3ad79160f1d6b0a83c2390718972f0af",
-    "title_en": "Colau proposes to increase taxes to ultra and large companies to raise 10 billion euro",
-    "summary_en": "Front Expanda's candidate advocates to tax the wealth of great fortunes, the benefits of banking and housing accumulation"
-  },
-  {
-    "title": "Jan Martínez Ahrens, director de EL PAÍS: “Los suscriptores son la piedra angular del periódico”",
-    "summary": "El responsable del diario explica en el programa ‘Hoy por hoy’ cómo ha alcanzado el medio millón de personas suscritas en el año de su 50º aniversario",
-    "source": "El País",
-    "url": "https://elpais.com/videos/2026-11-05/jan-martinez-ahrens-director-de-el-pais-habla-en-hoy-por-hoy-de-la-cadena-ser-de-los-500000-suscriptores-del-diario.html",
-    "category": "Internacional",
-    "date": "2026-11-05T09:56:59+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PKYWQYWKWVHFNPIIQKS73FYHEM.jpg?auth=3318b9d7a7c54d882ca45f6da2a9a67b196a0f8a56647719a8dd94b1afa4e834",
-    "title_en": "Jan Martínez Ahrens, director of EL PAIS: \"Subscribers are the cornerstone of the paper\"",
-    "summary_en": "The paper's manager explain how half a million people have been signed in his 50th anniversary year."
   },
   {
     "title": "Ballenas piloto varadas en Nueva Zelanda: voluntarios intentan rescatar a las cuatro que siguen vivas",
@@ -836,59 +1056,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The Captain of the British selection and winner of the Golden Ball, Harry Kane, signed a new contract with Munich's Bayern, as announced by the German club."
   },
   {
-    "title": "El Ministerio de Transportes solo recibe el 2% de las modificaciones presupuestarias del Gobierno",
-    "summary": "El Ejecutivo dispara las modificaciones de crédito hasta los 81.700 millones a cierre del tercer trimestre, de los que solo 1.779 millones han ido al departamento responsable de las infraestructuras",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-05/el-ministerio-de-transportes-solo-recibe-el-2-de-las-modificaciones-presupuestarias-del-gobierno.html",
-    "category": "Política",
-    "date": "2026-11-05T08:20:41+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DKEXO4KZMJESBK6V2ERU3LKNOQ.jpg?auth=79db9695449aa6bf590e0013c448ef2b5f24e870f6c27f17e3a4c2e1ed97fd18",
-    "title_en": "The Ministry of Transport receives only 2% of the Government's budget amendments",
-    "summary_en": "The Executive fires credit modifications up to 81.7 billion at the end of the third quarter, of which only 1.779 million have been to the department with responsibility for infrastructure"
-  },
-  {
-    "title": "Dcoop y Acesur se imponen en la puja para repartirse Deoleo con una oferta de 520 millones",
-    "summary": "La unión de los dos grupos españoles resulta la ganadora ante la alianza de Migasa y Coricelli",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-05/dcoop-y-acesur-se-imponen-en-la-puja-por-deoleo-por-520-millones-para-crear-un-gigante-aceitero-espanol.html",
-    "category": "Economía",
-    "date": "2026-11-05T07:10:54+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/NXKRHD3FRZHWTETLPV7U32N5NU.jpg?auth=10f741eaf50ff607b44e5b1ce4c7c171c992d58e9b314c24913b332e370440d5",
-    "title_en": "Dcoop and Acesur have been forced to share Deoleo with an offer of 520 million",
-    "summary_en": "The union of the two Spanish groups is the winner of Migasa and Coricelli's alliance"
-  },
-  {
     "title": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
     "summary": "La cifra definitiva, ya en audiencia pública y que aprobará en breve el Consejo de Ministros, marca un aumento de 65 euros, cinco más que la propuesta de los expertos",
-    "source": "El País",
+    "source": "El País Economía",
     "url": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
-    "category": "Internacional",
+    "category": "Economía",
     "date": "2026-11-05T06:49:00+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/SWX2LGGUDJMQBILEN42D6XRRWU.jpg?auth=41be50f12b25aaa33719333bd0eb7de663eac915247658623a183d1d3122129b",
     "title_en": "The minimum wage will rise by 5.3% in 2027, up to EUR 1,286 per month",
     "summary_en": "The final figure, currently at public hearing and soon to be adopted by the Council of Ministers, indicates an increase of 65 EUR, five more than the expert proposal"
-  },
-  {
-    "title": "¿Cómo se están moviendo las encuestas tras el accidente?",
-    "summary": "EL PAÍS estrena el pódcast ‘Entre datos, con Kiko Llaneras’, analizando los cambios de los sondeos para las elecciones generales del 29N",
-    "source": "El País",
-    "url": "https://elpais.com/podcasts/2026-11-05/como-estan-cambiando-las-encuestas-tras-el-accidente.html",
-    "category": "Política",
-    "date": "2026-11-05T04:45:01+00:00",
-    "image": "",
-    "title_en": "How are polls moving after the accident?",
-    "summary_en": "The Country Reforms the Podcast 'Between Data, with Kiko Llaneras', analyzing the changes of polls for the general elections of 29N"
-  },
-  {
-    "title": "500.000 gracias",
-    "summary": "El director de EL PAÍS envía una carta a sus suscriptores para celebrar que ya son medio millón. El diario alcanza este hito en un año muy especial: el de su 50º aniversario",
-    "source": "El País",
-    "url": "https://elpais.com/comunicacion/2026-11-05/500000-gracias.html",
-    "category": "Internacional",
-    "date": "2026-11-05T04:45:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/OL2GJ4QTX5F7LB7G5ZKFF245XU.jpg?auth=c626e08ad97bddc4de16a8ee61c0680913b60b04344eee58eb394019ab453a68",
-    "title_en": "500,000 thank you",
-    "summary_en": "The director of EL PAIS sends a letter to his subscribers to celebrate that they are already half a million. The paper reached this milestone in a very special year: that of its fiftieth anniversary"
   },
   {
     "title": "El decreto de vivienda tendrá un coste de unos 1.300 millones anuales hasta 2031",
@@ -913,17 +1089,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The number of members remains far from its historic high and from the sector they have been alerting that submerged employment remains a majority"
   },
   {
-    "title": "Los refugios fiscales británicos restan cada año 8.000 millones a la UE en recaudación",
-    "summary": "Tres países de la UE destacan en las diez primeras posiciones del índice de paraísos fiscales empresariales que elabora la ONG Tax Justice Network",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-05/los-refugios-fiscales-britanicos-restan-cada-ano-8000-millones-a-la-ue-en-recaudacion.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:45:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/A3B6UQXLSVFT7BJLK4P4Y4XLG4.jpg?auth=2711c0a4961541e90645f1cc9e394a30f7ca40ca1b38dd9c1ed614d4897682c4",
-    "title_en": "UK tax shelters have been held up by an EU billion every year to collect",
-    "summary_en": "Three EU countries stand out at the top ten positions of the corporate tax havens index prepared by the NGO Tax Justice Network"
-  },
-  {
     "title": "Reforma fiscal y más casas: la receta en vivienda del laboratorio de ideas del PSOE para la campaña",
     "summary": "El ‘think tank’ Avanza plantea gravar más el suelo, movilizar patrimonio público y multiplicar por tres la vivienda social para frenar la crisis habitacional",
     "source": "El País Economía",
@@ -933,94 +1098,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/WPLO42RYERJYJAYNTDRMY2RG54.jpg?auth=7b4dd0aeb59c602ccfcf85bfcd752411a43822eed5aad0f793332fce46690016",
     "title_en": "Tax Reforms and More Houses: The Housing Reforms of the PSOE Ideas Laboratory for the Campaign",
     "summary_en": "The 'think tank' Advance aims to tax more soil, mobilise public heritage and 3 times social housing to stop housing crisis"
-  },
-  {
-    "title": "Las restricciones gobiernan la IA",
-    "summary": "Los controles de EE UU a los chips han sostenido su ventaja, pero DeepSeek y Huawei amenazan con reducirla",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-05/las-restricciones-gobiernan-la-ia.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DI67R5B4VJEV7EGJXZKBRAUSAQ.jpg?auth=9dfdfcb0f4de7191ffb0bfdbe5de0d1b06657c77d5b3c114ebfbae7e33497253",
-    "title_en": "The restrictions govern the IA",
-    "summary_en": "U.S. controls of chips have sustained their advantage but DepSeek and Huawei threaten to reduce them"
-  },
-  {
-    "title": "Las claves: lo crucial sigue siendo que se tomen las medidas necesarias sobre el ferrocarril",
-    "summary": "Óscar Puente anunció su dimisión tras el segundo accidente mortal de la alta velocidad en nueve meses",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-05/las-claves-lo-crucial-sigue-siendo-que-se-tomen-las-medidas-necesarias-sobre-el-ferrocarril.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/A2FUNVTMCREGJIFMQ3QW7QIANM.jpg?auth=a8f736f7312550b7304e861063d1d365f59bf6d1ef83f94076e42c9cd3c4a81f",
-    "title_en": "The key: the crucial remains that necessary measures be taken about the railways",
-    "summary_en": "Óscar Puente announced his resignation after the second high-speed deadly accident in 9 months"
-  },
-  {
-    "title": "Grand Theft Auto VI es el test de Rorschach de la industria del videojuego",
-    "summary": "La reacción de los inversores revela una euforia contenida, y su verdadero valor dependerá de que se convierta en un ‘título perpetuo’",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-05/grand-theft-auto-vi-es-el-test-de-rorschach-de-la-industria-del-videojuego.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7DVWDTS32RLSXLR45YDYIXWTMM.jpg?auth=7530c57d84d68617d8b771d7d543d1f58c879d817d503be25b055ab7bedc0fc1",
-    "title_en": "Grand Theft Auto VI's Rorshach Test from the video game industry",
-    "summary_en": "The reactions of investors reveal a contained euphoria, and its true value will depend on its becoming a 'perpetual title'"
-  },
-  {
-    "title": "Más contratos, misma incertidumbre",
-    "summary": "España suma afiliados, pero persisten la inestabilidad laboral y los salarios insuficientes",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-05/mas-contratos-misma-incertidumbre.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/VIHE3W3ZRVHEDPXJCG5JXLER7I.jpg?auth=6e1a2cf2653ab899a0788b44efc516e0a58d6c5afd6a9bc1f113c2fbdd31e10f",
-    "title_en": "More contracts, same uncertainty",
-    "summary_en": "Spain adds up to its membership but jobs and insufficient wages persist"
-  },
-  {
-    "title": "El fiasco electoral de Donald Trump lo deja como un animal herido",
-    "summary": "El revés le limita, pero deja en sus manos las decisiones comerciales y militares que alimentaron el castigo",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-05/el-fiasco-electoral-de-donald-trump-lo-deja-como-un-animal-herido.html",
-    "category": "Política",
-    "date": "2026-11-05T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZERQWNXM4VJN5OWIKIMA2STHPE.jpg?auth=4e6cb8fba9ea9161151ad9a4eb772b9693a292a6fbb83a5d9ecf9d354364134e",
-    "title_en": "Donald Trump's electoral fiasco leaves him as an animal wounded",
-    "summary_en": "The backlash limits him but leaves his hands with commercial and military decisions that fuelled his punishment"
-  },
-  {
-    "title": "Las vidas que se pararon para siempre en Urda",
-    "summary": "Tras una semana de identificaciones y certificaciones, estas son las víctimas del trágico accidente de tren que ha conmocionado a España",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/las-vidas-que-se-pararon-para-siempre-en-urda.html",
-    "category": "Internacional",
-    "date": "2026-11-05T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7QMXYBXQ65AYPKUSHYVLEFJXQE.jpg?auth=fa313f8dc94810472a3c47f703ea7d6d2f40cf1bb7bb486c381d42b4f89bd5dc",
-    "title_en": "The lives that stopped forever at Urda",
-    "summary_en": "After a week of identification and certification, these are the victims of the tragic train accident that has shocked Spain"
-  },
-  {
-    "title": "El hackeo de Binance reabre el debate sobre quién protege a los usuarios cripto en caso de ciberataque",
-    "summary": "La regulación no establece un fondo de garantía de depósitos, como el de los bancos, si la plataforma no puede hacer frente a las pérdidas. Las entidades suelen contratar seguros para cubrir estos incidentes",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/criptoactivos/2026-11-05/el-hackeo-de-binance-reabre-el-debate-sobre-quien-protege-a-los-usuarios-cripto-en-caso-de-ciberataque.html",
-    "category": "Tecnología",
-    "date": "2026-11-05T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SVMBHWQUFNOE5KHIG7M6WKHLHU.jpg?auth=2c22147e0e3dcf11ffaf8a328466666e10725e038fb7505b08477eb402ee1e0f",
-    "title_en": "The Binance Hacking Reopens The Debate About Who Protects Critical Users in Cyber Attack",
-    "summary_en": "The Regulation does not set up a deposit guarantee fund, such as that of banks, if the platform cannot face losses. Institutions often hire insurance to cover these incidents"
-  },
-  {
-    "title": "Los expertos anticipan que la carnicería electoral sufrida por Trump reordenará el mapa de la inversión mundial",
-    "summary": "Las elecciones de medio mandato ponen fin a dos años de sobresaltos a golpe de mensajes en las redes sociales. Wall Street ve en un Congreso hostil al actual presidente un contrapeso que promete más estabilidad",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/los-expertos-anticipan-que-la-carniceria-electoral-sufrida-por-trump-reordenara-el-mapa-de-la-inversion-mundial.html",
-    "category": "Tecnología",
-    "date": "2026-11-05T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/H7VLDTOD2ZMGHD7AF5QUKAUY6U.jpg?auth=e1c7ef2107d5525c37fe62f4899d69d1b3dc0cccaafad6cb43bcc119289f7b03",
-    "title_en": "Experts anticipate that Trump's electoral butcher will reorder the global investment map",
-    "summary_en": "The half-term elections put an end to two years of pounding up messages on social networks. Wall Street sees at a Congress hostile to today's president a counterbalance that promises more stability"
   },
   {
     "title": "El canadiense que fue a la Luna abandera un proyecto urbanístico en Madrid con 12.000 viviendas de lujo: “Va a ser algo extraordinario”",
@@ -1045,61 +1122,6 @@ window.PLANETA_NEWS = [
     "summary_en": "One of the best Spanish scientists, Marta Shahbazi, died at the train crash at Urda. Her thesis director recalls that \"she had a curiosity that she never seemed to have been exhausted but also a less common quality: she knew what to do with her\""
   },
   {
-    "title": "Orange disputará a Telefónica el mercado de seguridad de comunicaciones en sectores estratégicos",
-    "summary": "La compañía lanza Orange Continuity Services para mantener operativos procesos críticos y prevenir interrupciones del servicio en administraciones públicas y grandes empresas",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-05/orange-disputara-a-telefonica-el-mercado-de-seguridad-de-comunicaciones-en-sectores-estrategicos.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:15:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/M3YS27XRVVBYLETKKTBOXBVZQE.png?auth=0439450d92128684463f679e8ea7bdff545d2c91cb9314ef49fcaf6c9d15b11a",
-    "title_en": "Orange challenges Telefónica's market for communications security in strategic sectors",
-    "summary_en": "The company launches Orange Continuity Services to maintain critical processes and prevent service interruptions in public administrations and large companies"
-  },
-  {
-    "title": "Telefónica Brasil negocia la compra del operador de fibra Vero en medio de la consolidación del sector",
-    "summary": "Vivo busca ampliar su red fija en el país, aunque la compañía brasileña arrastra un fuerte endeudamiento",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-05/telefonica-brasil-negocia-la-compra-del-operador-de-fibra-vero-en-medio-de-la-consolidacion-del-sector.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:15:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PF4PWJ3XLZHPLEQP3TLRVE3QJI.png?auth=cbf8b56fe912997faf91b7ed3ad2b8272e2bddd4eb0fdeee150f4e130ccc8b7d",
-    "title_en": "Telefónica Brazil negotiates the purchase of the von fibre operator amidst the consolidation of the sector",
-    "summary_en": "Vivo aims to expand its fixed network in the country, although Brazil's company drags up high debt"
-  },
-  {
-    "title": "El Banco de España lanza una oleada de inspecciones para vigilar el crecimiento de los créditos rápidos",
-    "summary": "El supervisor vigila que estos se concedan con criterios de transparencia y de forma responsable",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-05/el-banco-de-espana-lanza-una-oleada-de-inspecciones-para-vigilar-el-crecimiento-de-los-creditos-rapidos.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:15:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XVXR4CILXBAGJDFUKNUIKYHCVI.jpg?auth=ffefd015af72a6e3f7d02610a842ad67d4654e42d415d5a82d6717520186f1e7",
-    "title_en": "Bank of Spain launches a wave of inspections to monitor fast credit growth",
-    "summary_en": "The supervisor monitors that these are granted with transparency and accountability criteria"
-  },
-  {
-    "title": "La banca pone en un aprieto la reestructuración de la firma de moda Mirto por falta de viabilidad",
-    "summary": "El tribunal mantiene el plan para el resto de acreedores, pero no ve una “perspectiva razonable” de que se pueda atender la deuda financiera a corto plazo",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-05/la-banca-pone-en-un-aprieto-la-reestructuracion-de-la-firma-de-moda-mirto-por-falta-de-viabilidad.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:15:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/USZMAAXJ5JCMXNK2I3XWC577OI.jpg?auth=b9ff97890730be67e49ed3b4289347d016a0599665aab18d2692834bb94e9c8c",
-    "title_en": "The Bank puts at an end the restructuring of the Mirto fashion firm for lack of viability",
-    "summary_en": "The court keeps its plan for other creditors but sees no \"reasonable perspective\" that short term financial debt can be met"
-  },
-  {
-    "title": "El piloto de MotoGP Álex Márquez sube su apuesta inversora por la ‘start-up’ de alquiler de motos Momoven",
-    "summary": "La compañía cierra una ronda de financiación por 3,5 millones con la participación también de Enisa, el IVF y ex Hawkers. Busca impulsar el desarrollo de producto, captar talento e impulsar la internacionalización",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-05/el-piloto-de-motogp-alex-marquez-sube-su-apuesta-inversora-por-la-start-up-de-alquiler-de-motos-momoven.html",
-    "category": "Economía",
-    "date": "2026-11-05T04:15:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ALZ4M2IXPVK7XNGN35JOVS6GE4.jpg?auth=8bdb811bc5920958cbdbc3e8b0387f835cf03800fa681968f156d58366b0a47d",
-    "title_en": "MotoGP's pilot Álex Márquez uploads his inverting bet for Momoven's start-up motor rental",
-    "summary_en": "The company closes a 3.5 million round of financing with participation also from enisa, IVF and ex Hawkers. aims to boost product development, capture talent and promote internationalisation"
-  },
-  {
     "title": "\"La derrota de Trump limita su poder interno, pero no necesariamente su influencia en el mundo\"",
     "summary": "Con los decepcionantes resultados de las elecciones de medio mandato, el presidente Trump va a querer demostrar que todavía puede sacudir al mundo, escribe el editor internacional de la BBC.",
     "source": "BBC Mundo",
@@ -1109,17 +1131,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fdbd/live/46f2aba0-d917-11f1-a81d-35e942472442.jpg",
     "title_en": "\"Trump's defeat limits his inner power but his influence on the world isn't necessary.\"",
     "summary_en": "With the disappointing results of the half-term elections, President Trump will have to prove that he can still shake the world, writes the BBC's international editor."
-  },
-  {
-    "title": "El Asador Etxebarri, elegido el mejor restaurante del mundo",
-    "summary": "Gaggan, en Bangkok, y Alchemist, en Copenhague, ocupan la segunda y la tercera posición, respectivamente, en la lista de The 50 Best Restaurants 2026. DiverXO cae del cuarto al noveno puesto",
-    "source": "El País",
-    "url": "https://elpais.com/gastronomia/2026-11-05/el-asador-etxebarri-elegido-el-mejor-restaurante-del-mundo.html",
-    "category": "Internacional",
-    "date": "2026-11-05T03:42:20+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PUWE2EVWYRH5FIKDAFDMORA7LA.jpg?auth=64f5d09f52d401e6bf781684a211e7dc3cd5d21dfa2736cbe189af456f099659",
-    "title_en": "The Asador Etxebarri, chosen the best restaurant in the world",
-    "summary_en": "Gaggan, Bangkok and Alchemist, Copenhagen, have second and third place, respectively, at The 50 Best Restaurants 2026. DiverXO drops from fourth to ninth place"
   },
   {
     "title": "La debacle de las elecciones de medio mandato debilita a Trump, pero por ahora aún conserva poder",
@@ -1152,17 +1163,6 @@ window.PLANETA_NEWS = [
     "date": "2026-11-04T19:00:13+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/6VXW5VOVERCV5KJSDHI6DYXPMI.jpg?auth=a72113abf81c4ea74d4e59ed4c55b81179c8fde10616a1db5c0218ea4db2b39c",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Las claves de la victoria histórica de los demócratas en EE.UU. y qué supone para Trump",
-    "summary": "¿Qué llevó a la barrida demócrata en las elecciones de medio término en EE.UU.?",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/watch/cm369lj9g433o?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-11-04T18:36:58+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b37c/live/524bcad0-d878-11f1-93e1-3b657b665bcf.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
