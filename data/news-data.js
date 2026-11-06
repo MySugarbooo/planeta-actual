@@ -1,25 +1,509 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Renuncia de Santiago Peña: Diputados de Paraguay votan por unanimidad el juicio político al presidente a pesar de su dimisión",
-    "summary": "El presidente de Paraguay dimitió este jueves en medio de la crisis desatada por la intervención de Ueno Bank. La Cámara de Diputados aprobó el juicio político y, si el Senado decide seguir con el proceso y no aceptar la renuncia, Peña podría perder los fueros.",
+    "title": "Crisis en Paraguay: el presidente Santiago Peña se someterá a juicio político horas después de anunciar su renuncia",
+    "summary": "El presidente de Paraguay dimitió en medio de la crisis desatada por la intervención de Ueno Bank. El Congreso iniciará este mismo jueves un juicio político contra Peña después de no tener quorum para decidir si aceptaba o no su renuncia.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
     "category": "Política",
-    "date": "2026-11-05T18:47:25.112899+00:00",
+    "date": "2026-11-06T00:18:39.296483+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/21f39400-d948-11f1-93e1-3b657b665bcf.jpg",
-    "title_en": "Resignation of Santiago Peña: Paraguay's deputies unanimously vote for the president's political trial despite his resignation",
-    "summary_en": "The president of Paraguay resigned this Thursday amidst the crisis unleashed by Ueno Bank's intervention. The Chamber of Deputies passed the political trial and, if the Senate decides to continue with the process and did not accept his resignation, Peña could lose his best."
+    "title_en": "Paraguay's Crisis: President Santiago Peña will be put to political trial hours after his resignation",
+    "summary_en": "The president of Paraguay resigned amidst the crisis unleashed by Ueno Bank's intervention. The Congress will start a political trial with Peña this Thursday after we have no quorum to decide whether or not to accept his resignation."
+  },
+  {
+    "title": "Cinco palestinos mueren en ataques de Israel en Gaza",
+    "summary": "El ejército israelí dijo que atacó \"a terroristas de Hamás\". La Defensa Civil gazatí reportó entre las víctimas a un niño.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/cinco-palestinos-mueren-en-ataques-de-israel-en-gaza/a-79871408?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-05T23:46:00+00:00",
+    "image": "",
+    "title_en": "Five Palestinians die in Israeli attacks in Gaza",
+    "summary_en": "The Israeli army said they attacked \"Hamas terrorists.\" The Ghanatan Civil Defense reported a child to his and her families."
+  },
+  {
+    "title": "Machado avala que se declare vacante la presidencia de Venezuela",
+    "summary": "La propuesta es impulsada por el Departamento de Estado de Estados Unidos y es respaldada por la líder de la oposición venezolana.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/machado-avala-que-se-declare-vacante-la-presidencia-de-venezuela/a-79871415?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-05T23:38:00+00:00",
+    "image": "",
+    "title_en": "Machado claims that his office will be declared vacant",
+    "summary_en": "The proposal is advanced by the U.S. State Department and supported by the Venezuelan opposition leader."
+  },
+  {
+    "title": "Guadalupe: la crisis del agua impulsa un mercado clandestino en la isla francesa",
+    "summary": "En Guadalupe, territorio francés de ultramar, el acceso al agua potable se ha convertido en una lucha cotidiana para miles de habitantes. Las redes de distribución obsoletas y las constantes fugas dejan a algunas familias sin suministro durante semanas, mientras crece un mercado clandestino que abastece a particulares, hoteles y restaurantes a precios muy…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/en-foco/20261105-guadalupe-la-crisis-del-agua-impulsa-un-mercado-clandestino-en-la-isla-francesa",
+    "category": "Economía",
+    "date": "2026-11-05T23:26:39+00:00",
+    "image": "https://s.france24.com/media/display/831cdc56-d96f-11f1-b2b0-bf1914cabd52/w:1024/p:16x9/capture-9f24bf78.jpg",
+    "title_en": "Guadalupe: The water crisis drives a clandestine market on the French island",
+    "summary_en": "In Guadeloupe, an overseas French territory, access to drinking water has become a daily fight for thousands of people. The outdated distribution networks and constant leaking leave some families without supply for weeks while growing a clandestine market that supplies individuals, hotels and restaurants at very high prices..."
+  },
+  {
+    "title": "Ecuador: a juicio siete personas, entre ellas un exministro correísta, por el asesinato de Fernando Villavicencio",
+    "summary": "El exministro del Interior ecuatoriano, José Serrano, se encuentra entre las seis personas que serán procesadas por el asesinato del candidato presidencial, que fue acribillado a su salida de un acto de campaña una semana antes de la primera vuelta de las elecciones en Ecuador. Serrano fue deportado desde Estados Unidos, donde fue detenido por ICE el año…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ecuador-a-juicio-siete-personas-entre-ellas-un-exministro-corre%C3%ADsta-por-el-asesinato-de-fernando-villavicencio",
+    "category": "Política",
+    "date": "2026-11-05T23:24:03+00:00",
+    "image": "https://s.france24.com/media/display/72b8a3be-d96e-11f1-ac2f-d18c5759e759/w:1024/p:16x9/AP23230090868081.jpg",
+    "title_en": "Ecuador: To trial seven people, including an ex-Correist Minister, for the murder of Fernando Villavicencio",
+    "summary_en": "The former Minister of the Interior, José Serrano, is among the six people who will be prosecuted for the murder of the presidential candidate, who was killed after his departure from an event of campaign a week before the first round of elections in Ecuador. Serrano was deported from the U.S., where he was arrested by ICE the year..."
+  },
+  {
+    "title": "Las autoridades cubanas liberan a la periodista Yoani Sánchez, pero la acusan de “atentar contra el orden constitucional”",
+    "summary": "La reportera fue apresada la mañana del martes y pudo avisar a la redacción del medio que dirige, en constante acoso de las autoridades cubanas",
+    "source": "El País",
+    "url": "https://elpais.com/america/2026-11-05/las-autoridades-cubanas-liberan-a-la-periodista-yoani-sanchez-pero-la-acusan-de-atentar-contra-el-orden-constitucional.html",
+    "category": "Internacional",
+    "date": "2026-11-05T23:20:46+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/CJWRJGSCZFSNHSBERXQRAOM6JM.jpg?auth=3644a8a1f91f2aa134930d356b4c3980852cac87d8044a1179b5f46dd683b8f1",
+    "title_en": "The Cuban authorities free journalist Yoani Sánchez but accused her of \"undermining the constitutional order\"",
+    "summary_en": "The journalist was arrested on Tuesday morning and was able to notify the paper about his conduct, with constant harassment from the Cuban authorities"
+  },
+  {
+    "title": "La revista ‘The New Yorker’ arremete contra ‘La bola negra’: “No es un monumento; es un fracaso”",
+    "summary": "A pesar de la buena acogida de crítica y público en Estados Unidos, la reseña de la película de la publicación asegura que los directores son “pretenciosos” y que sus historias sufren de “insustancialidad” y son un “trauma repetitivo”",
+    "source": "El País",
+    "url": "https://elpais.com/us/entretenimiento/2026-11-05/la-revista-the-new-yorker-arremete-contra-la-bola-negra-no-es-un-monumento-es-un-fracaso.html",
+    "category": "Cultura",
+    "date": "2026-11-05T23:17:03+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/YTB6Z2NFUZON5FQK5QGOCL3ZK4.jpg?auth=fb4782587530f32fb46511fcdd657b3b670a5a2f440dc33e65772e91fcb96621",
+    "title_en": "The magazine 'The New Yorker' attacks' The Black Ball ': \"It's not a monument but a failure\"",
+    "summary_en": "Despite good public and critical reception in the U.S., the film's review of the paper claims that directors are \"pretentious\" and that their stories suffer from \"inmateriality\" and are a \"repetitive trauma\""
+  },
+  {
+    "title": "Informe desde Asunción: paraguayos se movilizan tras anuncio de renuncia del presidente Peña",
+    "summary": "Los paraguayos se movilizan en las calles hacia la Plaza de Armas de Asunción tras el anuncio de la renuncia del presidente Santiago Peña por su vinculación con el banco Ueno Bank, plataforma que anunció su disolución por insolvencia financiera. Los manifestantes exigen un juicio político contra el mandatario y piden a sus conciudadanos salir a las calles a…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-informe-desde-asunci%C3%B3n-paraguayos-se-movilizan-tras-anuncio-de-renuncia-del-presidente-pe%C3%B1a",
+    "category": "Tecnología",
+    "date": "2026-11-05T23:07:48+00:00",
+    "image": "https://s.france24.com/media/display/59c794cc-d965-11f1-9668-d18c5759e759/w:1024/p:16x9/ES-20261105-123401-123713-CS.jpg",
+    "title_en": "Report from Asunción: Paraguayans mobilise after announcement of resignation of President Peña",
+    "summary_en": "The Paraguayas have been moved onto the streets to Asunción's Plaza de Armas after an announcement of President Santiago Peña's resignation from his association with Ueno Bank, a platform that announced his dissolution with financial insolvency. The protesters demand a political trial against the president and ask his fellow citizens to go to the streets and..."
+  },
+  {
+    "title": "Paraguayos se movilizan en Asunción tras renuncia del presidente Santiago Peña",
+    "summary": "Decenas de paraguayos se movilizan en Asunción al grito de \"juicio político\" y \"ni un paso atrás\", luego de que el presidente Santiago Peña anunciara su renuncia en medio de la crisis desatada por la intervención y el cierre de Ueno Bank, que afecta a millones de clientes.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-paraguayos-se-movilizan-en-asunci%C3%B3n-tras-renuncia-del-presidente-santiago-pe%C3%B1a",
+    "category": "Política",
+    "date": "2026-11-05T23:05:10+00:00",
+    "image": "https://s.france24.com/media/display/109b8fda-d96d-11f1-9653-a575454bc579/w:1024/p:16x9/000-D6KR6AK.jpg",
+    "title_en": "Paraguayas Mobilize at Asunción after President Santiago Peña's resignation",
+    "summary_en": "Tens of Paraguayans are mobilized at Asunción to the cry of \"political judgment\" and \"no step back,\" after President Santiago Peña announced his resignation amidst the crisis unleashed by the intervention and closure of Ueno Bank, which affects millions of customers."
+  },
+  {
+    "title": "El exilio venezolano cobra vida en un recorrido sensorial en Francia",
+    "summary": "El desarraigo, la memoria y las heridas del exilio venezolano se transforman en una experiencia artística que combina fotografía y música. Las artistas Oleñka Carrasco y La Chica unen sus talentos en El caos que me da la vida, Atlas de un país imaginado, una instalación inmersiva que evoca los paisajes, las tradiciones y los recuerdos de Venezuela. La…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/carrusel-de-las-artes/20261105-el-exilio-venezolano-cobra-vida-en-un-recorrido-sensorial-en-francia",
+    "category": "Cultura",
+    "date": "2026-11-05T23:00:49+00:00",
+    "image": "https://s.france24.com/media/display/73f44340-d96a-11f1-bbbd-d18c5759e759/w:1024/p:16x9/CARRUSEL-DE-LAS-ARTS.jpeg",
+    "title_en": "Venezuelan exile comes to life on a sensory journey in France",
+    "summary_en": "The uprooting, memory and injuries of Venezuelan exile are transformed into an artistic experience that combines photography and music. The artists Oleñka Carrasco and La Chica join their talents in The chaos that gives me life, Atlas of an imagined country, an immersive installation that evokes the landscapes, traditions and memories of Venezuela. The..."
+  },
+  {
+    "title": "¿Valió la pena? La guerra en Irán y la sutil ruptura republicana con Trump tras el fiasco en las midterms",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/medio-oriente/20261105-vali%C3%B3-la-pena-la-guerra-en-ir%C3%A1n-y-la-sutil-ruptura-republicana-con-trump-tras-el-fiasco-en-las-midterms",
+    "category": "Política",
+    "date": "2026-11-05T23:00:03+00:00",
+    "image": "",
+    "title_en": "That's worth it? The war in Iran and the subtle Republican break with Trump after fiasco at midterms",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
+    "summary": "La decisión llega después de que legisladores de la oposición y de su propio partido impulsaran un juicio político para destituirlo.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
+    "category": "Deportes",
+    "date": "2026-11-05T22:50:27+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c1d/live/ca13cd00-d937-11f1-8bce-2396c9c50357.jpg",
+    "title_en": "Paraguay's Congress Begins Political Trial Against Santiago Peña for Ueno Bank's Case Despite his Retirement to Chair",
+    "summary_en": "The decision comes after opposition and his own party's lawmakers have been leading a political trial to remove him."
+  },
+  {
+    "title": "Colombia: un periodista sufre un atentado tras denunciar amenazas; la protección le había sido retirada",
+    "summary": "El periodista colombiano Walter López fue víctima de un atentado el miércoles 4 de noviembre, cuando varios hombres armados ingresaron a su vivienda en el municipio de Barrancabermeja, en el departamento de Santander. El ataque se produjo semanas después de que recibiera amenazas de personas que aseguraron pertenecer a una banda criminal y denunciara el…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-colombia-un-periodista-sufre-un-atentado-tras-denunciar-amenazas-la-protecci%C3%B3n-le-hab%C3%ADa-sido-retirada",
+    "category": "Internacional",
+    "date": "2026-11-05T22:45:45+00:00",
+    "image": "https://s.france24.com/media/display/35ec93de-efbc-11ef-a890-005056a90284/w:1024/p:16x9/509c2c415047cf4244850d8c00e3740370ae0ca2.jpg",
+    "title_en": "Colombia: A journalist suffers an attack after denouncing threats and his protection had been withdrawn",
+    "summary_en": "Colombian journalist Walter López was the victim of an attack on Wednesday, 4 November, when several armed men entered his house in the municipality of Barrancabermeja, in the department of Santander. The attack occurred weeks after he received threats from people who claimed to belong to a crime band and reported his..."
+  },
+  {
+    "title": "Directo a... Washington y los movimientos internos del Partido Republicano tras las midterms",
+    "summary": "Tras la dura derrota del Partido Republicano en las midterms, en la que perdieron todo el control del Congreso, sus seguidores buscan culpables a quienes responsabilizar. El vicepresidente JD Vance y otros partidarios republicanos han culpado a la guerra en Irán, una posición que ha sido tomada como un distanciamiento con el presidente Donald Trump con…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-directo-a-washington-y-los-movimientos-internos-del-partido-republicano-tras-las-midterms",
+    "category": "Deportes",
+    "date": "2026-11-05T22:38:51+00:00",
+    "image": "https://s.france24.com/media/display/b7c2c230-d961-11f1-90f0-a575454bc579/w:1024/p:16x9/ES-20261105-124925-125515-CS.jpg",
+    "title_en": "Direct to... Washington and internal Republican Party movements after midterms",
+    "summary_en": "Following the dubious defeat of the Republican Party at midterms, where they lost all control of Congress, their followers seek to blame them. Vice President JD Vance and other Republican supporters have blamed the war in Iran, a position that has been taken as an alienation with President Donald Trump with..."
+  },
+  {
+    "title": "En directo: Congreso paraguayo fracasa al intentar decidir sobre la renuncia de Peña, que sigue en el cargo",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ensi%C3%B3n-en-paraguay-diputados-debate-un-juicio-pol%C3%ADtico-contra-el-presidente-santiago-pe%C3%B1a",
+    "category": "Política",
+    "date": "2026-11-05T22:25:03+00:00",
+    "image": "",
+    "title_en": "Live: Paraguayan Congress Failed to Decide about Peña's Retirement, Still in office",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Antonia Dell’Atte responde a las disculpas públicas de Ana Obregón: “Te he salvado de una condena y de ir a la cárcel”",
+    "summary": "La exmodelo italiana ha compartido una publicación en su Instagram, que después ha eliminado, en la que dice aceptar el perdón de la presentadora, pero le reprocha haber tardado tanto tiempo: “Después de 35 años, has admitido que has encubierto y defendido a mi maltratador, Alessandro Lecquio”",
+    "source": "El País",
+    "url": "https://elpais.com/gente/2026-11-05/antonia-dellatte-responde-a-las-disculpas-publicas-de-ana-obregon-te-he-salvado-de-una-condena-y-de-ir-a-la-carcel.html",
+    "category": "Internacional",
+    "date": "2026-11-05T22:14:20+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/LLQIFV7WKVGBPFA2Y6OOBK7CKE.jpg?auth=2c1b8212431d488ac135efdac0c00d4a03106b98896688bc08628879b3114f2b",
+    "title_en": "Antonia Dell'Atte responded to Anne Obregón's public apology: \"I have saved you from a conviction and from going to jail\"",
+    "summary_en": "The former Italian model has shared a publication at his Instagram, which she later purported to accept the presenter's pardon but challenges her for so long: \"After 35 years, you have admitted that you have hidden and defended my abuser, Alessandro Lecco\""
+  },
+  {
+    "title": "Kabul, una crisis de agua potable que agrava la emergencia humanitaria en Afganistán",
+    "summary": "La escasez de agua potable agrava la crisis humanitaria en Kabul, donde las sequías recurrentes, el agotamiento de las reservas subterráneas y el crecimiento demográfico amenazan el acceso al agua de millones de personas. La emergencia se suma a una profunda crisis económica que golpea a Afganistán, donde cerca de 22 millones de habitantes necesitan…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/corresponsales/20261105-kabul-una-crisis-de-agua-potable-que-agrava-la-emergencia-humanitaria-en-afganist%C3%A1n",
+    "category": "Economía",
+    "date": "2026-11-05T22:10:56+00:00",
+    "image": "https://s.france24.com/media/display/21c53152-d964-11f1-a506-d18c5759e759/w:1024/p:16x9/capture-b25ea3e4.jpg",
+    "title_en": "Kabul, a drinking water crisis that exacerbates the humanitarian emergency in Afghanistan",
+    "summary_en": "A shortage of drinking water exacerbates the humanitarian crisis in Kabul, where recurrent droughts, depletion of ground reserves and population growth threaten access to water by millions of people. The emergency adds to a profound economic crisis that strikes Afghanistan, where about 22 million people require..."
+  },
+  {
+    "title": "Jueves negro para la Bolsa: el Nasdaq sufre un batacazo por el miedo al frenazo de la IA",
+    "summary": "El índice bursátil cierra con una caída del 5,5% arrastrado por la violenta caída de los fabricantes de chips mientras los inversores temen una ralentización del gasto en tecnología",
+    "source": "El País",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/la-bolsa-y-el-ibex-35.html",
+    "category": "Tecnología",
+    "date": "2026-11-05T21:49:21+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/DQEU5FA63FJQVAJSEC5TRXTORE.jpg?auth=0831c16f0abcc282e72ddaf7c158bd47fe493403ffb8f138fe0eea9e2c57dc56",
+    "title_en": "Black Thursday for the Stock Exchange: The Nasdaq suffers a hit by fear of an IA brake",
+    "summary_en": "The stock market index closed with a 5.5% drop as a result of the violent fall of chip manufacturers while investors fear a slowdown of technology spending"
+  },
+  {
+    "title": "Cuerpo asegura que no hay “previsión” de cerrar durante las obras la línea Madrid-Barcelona",
+    "summary": "El ministro, que acaba de asumir las funciones de Transportes, dice que aún hay margen para tomar medidas antes de las elecciones",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-05/cuerpo-asegura-que-no-hay-prevision-de-cerrar-durante-las-obras-la-linea-madrid-barcelona.html",
+    "category": "Deportes",
+    "date": "2026-11-05T21:48:31+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/GZ7RSWJFINIHXGMWFPRHUBDETE.jpg?auth=5369e9f71a150c8a2a3394b46c2414ddcee7d8d3302e428ba270b1d161622012",
+    "title_en": "Body claims that there's no \"foresight\" to close the line Madrid- Barcelona",
+    "summary_en": "The Minister, who just assumed his role as Transport, says that there's still room for action before the elections"
+  },
+  {
+    "title": "Del vino a las bebidas sin alcohol: la nueva era de los sommeliers",
+    "summary": "Una nueva generación de sommeliers franceses redefine los códigos de una profesión en plena transformación, marcada por los cambios en los hábitos de consumo y el auge de las bebidas sin alcohol. En esta emisión, los periodistas siguen de cerca a Pascaline Lepeltier, subcampeona del mundo 2026 del concurso Mejor sommelier del mundo, durante su exigente…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/francia-en-foco/20261105-del-vino-a-las-bebidas-sin-alcohol-la-nueva-era-de-los-sommeliers",
+    "category": "Internacional",
+    "date": "2026-11-05T21:26:52+00:00",
+    "image": "https://s.france24.com/media/display/fd76e0dc-cc68-11f1-a173-2d1c143cdef3/w:1024/p:16x9/vin-2.jpg",
+    "title_en": "From wine to drink without alcohol: the new age of sommeliers",
+    "summary_en": "A new generation of French sommeliers redefines the code of a fully transformed profession, marked by changes in consumption habits and the boom of nonalcoholic beverages. At this issue, journalists closely follow Pascaline Lepeltier, a 2026 world champion of the best sommelier contest in the world, during his picky..."
+  },
+  {
+    "title": "Más de 600 mil personas se manifiestan en Francia por mejores salarios",
+    "summary": "La movilización, la mayor desde el inicio de las protestas en septiembre, reunió a cientos de miles de personas en todo el país. Los sindicatos reclaman aumentos salariales, justicia fiscal y mejores servicios públicos.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/más-de-600-mil-personas-se-manifiestan-en-francia-por-mejores-salarios/a-79871134?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Economía",
+    "date": "2026-11-05T21:21:00+00:00",
+    "image": "",
+    "title_en": "More than 600 thousand people have shown up in France for better wages",
+    "summary_en": "The mobilization, the largest since the protests began in September, brought hundreds of thousands of people across the country. The trade unions demand wage increases, fiscal justice and better public services."
+  },
+  {
+    "title": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
+    "summary": "Los inversores castigan a las compañías de Elon Musk tras la victoria demócrata en Texas y la toma de control del Congreso de Estados Unidos",
+    "source": "El País",
+    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
+    "category": "Política",
+    "date": "2026-11-05T21:19:37+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/OS4WRHA2AJBS5NCHA6PV554QTM.JPG?auth=54bf3bc77ebad14f13896389fc2bbce342e8dd7df26c87fc6e23ef4bd3506b52",
+    "title_en": "Tesla and SpaceX lose 45 billion worth in two days after the Democratic triumph",
+    "summary_en": "Inverters punish Elon Musk's companies after the Texas Democratic victory and U.S. Congress's takeover"
+  },
+  {
+    "title": "Trump pierde poder y los países del Golfo se replantean sus alianzas",
+    "summary": "Las elecciones intermedias en EE. UU. mostraron el rechazo a la guerra contra Irán impulsada por Trump. Tras meses atrapados en el conflicto, los países del Golfo ven motivos para el optimismo.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/trump-pierde-poder-y-los-países-del-golfo-se-replantean-sus-alianzas/a-79871039?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-05T21:05:00+00:00",
+    "image": "",
+    "title_en": "Trump loses power and Gulf countries rethink their alliances",
+    "summary_en": "The Mid-term Elections in the U.S. The U.S. have shown Trump's rejection of Iran's war. After months trapped in conflict, the Gulf countries saw reason for optimism."
+  },
+  {
+    "title": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
+    "summary": "El ministerio estrena el mecanismo previsto para campañas excedentarias, cuestionado por parte de la industria, los envasadores y Competencia",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
+    "category": "Economía",
+    "date": "2026-11-05T21:01:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/X42AJGXDEJCRBBHL7DANOINM5U.jpg?auth=cf1e139a9a8ed795bab22199787ca1ed8854c2189bd53e0be93de172c81283c7",
+    "title_en": "Farming activates for the first time the withdrawal of 12% of oil production to avoid price collapse",
+    "summary_en": "The ministry sets up the mechanism intended for surplus campaigns, questioned by industry, packaging and competition"
+  },
+  {
+    "title": "El gobernador de California perdona la vida a 563 reclusos del corredor de la muerte",
+    "summary": "El plan de Gavin Newsom no contempla liberar a ninguno de los presos, sino que sus condenas sean conmutadas por cadena perpetua sin posibilidad de libertad condicional",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-05/el-gobernador-de-california-perdona-la-vida-a-563-reclusos-del-corredor-de-la-muerte.html",
+    "category": "Internacional",
+    "date": "2026-11-05T20:37:54+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/O4CZKSFMGFOC3G3Y3WNYQZHLME.jpg?auth=1b3e03ecff53c1b01c4ce05d54f8533c34467d58dd41f2cd08fd11b1ef2a78d9",
+    "title_en": "The Governor of California forgives the lives of 563 death row inmates",
+    "summary_en": "The Gavin Newsom's plan did not cover the release of any of the prisoners but rather his sentences were commuted to life imprisonment without parole"
+  },
+  {
+    "title": "El gobernador Gavin Newsom conmuta la condena a 548 personas que estaban en el corredor de la muerte en California",
+    "summary": "Históricamente, California ha tenido la mayor población de presos condenados a muerte en Estados Unidos.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cr74pp8wl8xyo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-05T20:29:18+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f727/live/1aa45900-d952-11f1-b7f4-8bd3c0617693.jpg",
+    "title_en": "Governor Gavin Newsom commutes his conviction to 548 people who were on death row in California",
+    "summary_en": "Historically, California has had the largest population of prisoners sentenced to death in the U.S.."
+  },
+  {
+    "title": "Una lista de 77 religiosos acusados de abuso sexual en Perú sacude a la Iglesia antes de la visita de León XIV",
+    "summary": "La organización Bishop Accountability reúne acusaciones contra sacerdotes y otros miembros del clero. La visita del pontífice peruano reaviva las demandas de las víctimas por justicia y cambios dentro de la institución",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-05/una-lista-de-77-religiosos-acusados-de-abuso-sexual-en-peru-sacude-a-la-iglesia-antes-de-la-visita-de-leon-xiv.html",
+    "category": "Internacional",
+    "date": "2026-11-05T20:23:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PYYHMQWF5ROWTHPRAQIP773KQA.jpg?auth=de616026fd1002222f773149770776bd2ee20876ab9066d5e1968a15a960770d",
+    "title_en": "A list of 77 religious accused of sexual abuse in Peru pounding the Church before Leo XIV's visit",
+    "summary_en": "Bishop Accountability brings up charges against priests and other members of the clergy. The visit of the Peruvian pontif revives the claims of the victims for justice and changes within the institution"
+  },
+  {
+    "title": "Israel: Gadi Eisenkot busca consolidar sus apoyos para formar Gobierno tras las elecciones",
+    "summary": "El bloque de oposición israelí, encabezado por Gadi Eisenkot, busca reunir los apoyos necesarios para formar una mayoría parlamentaria tras las elecciones legislativas del 27 de octubre, que no dejaron un vencedor claro. El papel de los partidos árabes, que consiguieron un récord histórico de 19 escaños, se encuentra en el centro de las negociaciones. Por…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/medio-oriente/20261105-israel-gadi-eisenkot-busca-consolidar-sus-apoyos-para-formar-gobierno-tras-las-elecciones",
+    "category": "Política",
+    "date": "2026-11-05T20:05:16+00:00",
+    "image": "https://s.france24.com/media/display/9361e280-d908-11f1-937a-bf1914cabd52/w:1024/p:16x9/7115210ef211be26605d71f75f79d5b316b5ad59.jpg",
+    "title_en": "Israel: Gadi Eisenkot seeks to consolidate his support to form Government after elections",
+    "summary_en": "The Israeli opposition bloc, headed by Gadi Eisenkot, seeks to gather the necessary support to form a parliamentary majority after the 27 October legislative elections, which did not leave a clear winner. The role of the Arab parties, which had achieved a historic record of 19 seats, was at the heart of negotiations. To..."
+  },
+  {
+    "title": "La borrasca ‘Bruna’ causará un fuerte temporal de lluvia, viento y mala mar a partir del sábado",
+    "summary": "Se trata de la primera borrasca con nombre de la temporada y la ha bautizado Portugal al afectar primero a las Azores",
+    "source": "El País",
+    "url": "https://elpais.com/el-tiempo/2026-11-05/la-borrasca-bruna-causara-un-fuerte-temporal-de-lluvia-viento-y-mala-mar-a-partir-del-sabado.html",
+    "category": "Internacional",
+    "date": "2026-11-05T19:40:36+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/LW2IGQ76YRAANKKTLTULM4ADDM.JPG?auth=053f065a31ddc7078a4e9951b4b82d50b4617f524942d65ae1a9e25884ff766d",
+    "title_en": "The purge 'Bruna' will cause a strong rain, wind and bad sea as of Saturday",
+    "summary_en": "The first purge with the name of the season and has been christened by Portugal as it first affects the Azores"
+  },
+  {
+    "title": "Santiago Abascal acudirá este lunes a ‘La revuelta’ mientras que Ada Colau lo hará el martes",
+    "summary": "El líder de Vox y la política catalana han aceptado la oferta de David Broncano y serán los invitados estrella del programa de La 1 la próxima semana",
+    "source": "El País",
+    "url": "https://elpais.com/television/2026-11-05/santiago-abascal-acudira-este-lunes-a-la-revuelta-mientras-que-ada-colau-lo-hara-el-martes.html",
+    "category": "Política",
+    "date": "2026-11-05T19:39:22+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/LXAOLG77GFDA3A3NPM7IM5O3VI.jpg?auth=fb8921a35e3599d438e09e8097e1ab1cf0b39482da1271bb833fe2c8e5fe84e0",
+    "title_en": "Santiago Abascal will come this Monday to La Revollo while Ada Colau will come Tuesday",
+    "summary_en": "Vox's leader and Catalan politics have accepted David Broncano's offer and will be the star guest of The 1 program next week"
+  },
+  {
+    "title": "Cuatro países rompen el consenso en la Cumbre XXX Iberoamericana de Madrid",
+    "summary": "En España finalizó la XXX Cumbre Iberoamericana con diferencias entre los líderes políticos de la región, divididos por sus orillas ideológicas: Argentina, Colombia, Costa Rica y Paraguay se desmarcaron del consenso en la Declaración de Madrid, en el párrafo que rechaza la coerción y la aplicación a los países de medidas contrarias al derecho internacional…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-cuatro-pa%C3%ADses-rompen-el-consenso-en-la-cumbre-xxx-iberoamericana-de-madrid",
+    "category": "Deportes",
+    "date": "2026-11-05T19:37:52+00:00",
+    "image": "https://s.france24.com/media/display/c021204c-d94e-11f1-bc2a-bf1914cabd52/w:1024/p:16x9/ES-20261105-110737-111139-CS.jpg",
+    "title_en": "Four countries break up consensus at the Ibero-American XXX Summit in Madrid",
+    "summary_en": "The 34th Ibero-American Summit with differences between the political leaders of the region, divided by their ideological banks, was concluded in Spain: Argentina, Colombia, Costa Rica and Paraguay have broken from the consensus in the Madrid Declaration, with a paragraph that rejects the coercion and application to countries of measures contrary to international law..."
+  },
+  {
+    "title": "Activista de Hong Kong condenado a 10 años más de prisión por colusión con fuerzas extranjeras",
+    "summary": "El activista prodemocracia de Hong Kong Joshua Wong fue condenado este jueves a 10 años más de prisión por colusión con potencias extranjeras, la segunda vez que recibe una pena bajo la ley de seguridad nacional de la ciudad. Wong, de 30 años, es una de las figuras más reconocidas a nivel internacional del movimiento prodemocracia de Hong Kong y ya ha…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-activista-de-hong-kong-condenado-a-10-a%C3%B1os-m%C3%A1s-de-prisi%C3%B3n-por-colusi%C3%B3n-con-fuerzas-extranjeras",
+    "category": "Internacional",
+    "date": "2026-11-05T19:37:24+00:00",
+    "image": "https://s.france24.com/media/display/8b47167e-d949-11f1-927f-bf1914cabd52/w:1024/p:16x9/ES-20261105-084032-084231-CS.jpg",
+    "title_en": "Hong Kong Activist sentenced to 10 more years imprisonment for collusion with foreign forces",
+    "summary_en": "Hong Kong pro-democracy activist Joshua Wong was sentenced this Thursday to an additional 10 years of imprisonment for collusion with foreign powers, the second time he's been sentenced under the city's national security law. Wong, 30, is one of the most internationally recognized figures of Hong Kong's pro-democracy movement and has been..."
+  },
+  {
+    "title": "\"Llegó el día de devolver la camiseta número siete\": Cristiano Ronaldo se retira de Portugal",
+    "summary": "Cristiano Ronaldo anunció este 5 de noviembre su retirada definitiva de la selección de Portugal, con la que disputó 234 partidos y marcó 146 goles. A los 41 años, el delantero puso fin a una trayectoria de 23 años en la que conquistó la Eurocopa de 2016 y dos ediciones de la Liga de Naciones, aunque no logró ganar el Mundial. \"Llegó el día de devolver la…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-lleg%C3%B3-el-d%C3%ADa-de-devolver-la-camiseta-n%C3%BAmero-siete-cristiano-ronaldo-se-retira-de-portugal",
+    "category": "Deportes",
+    "date": "2026-11-05T19:37:18+00:00",
+    "image": "https://s.france24.com/media/display/0dda6306-d950-11f1-b55b-d18c5759e759/w:1024/p:16x9/2026-11-05T104154Z-187535869-RC2L8MAGU02I-RTRMADP-3-SOCCER-RONALDO.jpg",
+    "title_en": "\"The day came to give back his number seven t-shirt\": Christian Ronaldo retreates from Portugal",
+    "summary_en": "On November 5, Cristiano Ronaldo announced his final retirement from Portugal's selection, with which he held 234 matches and scored 146 goals. At age 41, the prog put an end to a 23-year-old track that won the 2016 Euro and two League of Nations editions, but did not gain the World Cup. \"The day came to give back the..."
+  },
+  {
+    "title": "Huelga general en Francia por el alto costo de la vida: así avanza la jornada",
+    "summary": "Con un minuto de silencio, los manifestantes en Francia recordaron a las víctimas del acto racista de Trappes e iniciaron la huelga general convocada para este 5 de noviembre. El movimiento fue convocado por los sindicatos, pero también por estudiantes, jubilados y chalecos amarillos, por el alto costo de la vida. Nuestra periodista, Erika Olavarría, nos…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-huelga-general-en-francia-por-el-alto-costo-de-la-vida-as%C3%AD-avanza-la-jornada",
+    "category": "Internacional",
+    "date": "2026-11-05T19:36:41+00:00",
+    "image": "https://s.france24.com/media/display/531121a6-d94d-11f1-98be-695cb59fade5/w:1024/p:16x9/ES-20261105-090428-090547-CS.jpg",
+    "title_en": "General strike in France for the high cost of living: this advanced day",
+    "summary_en": "With a minute of silence, protesters in France reminded the victims of the Trappes racist act and initiated the general strike called for this November 5. The movement was called by trade unions but also by students, retirement and yellow vests for the high cost of living. Our journalist, Erika Olavarría, we..."
+  },
+  {
+    "title": "¿Quién pagará la derrota?: Recrudece la lucha interna en el Partido Republicano tras las midterms",
+    "summary": "En nuestra sección En Contexto analizamos las luchas internas y diferencias en la Administración de Donald Trump a partir de las elecciones de mitad de mandato del martes. El vicepresidente J.D. Vance responsabiliza a la guerra con Irán y sus defensores como causa de la derrota republicana, mientras que los integrantes del partido quieren abrirse camino…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/en-contexto/20261105-qui%C3%A9n-pagar%C3%A1-la-derrota-recrudece-la-lucha-interna-en-el-partido-republicano-tras-las-midterms",
+    "category": "Deportes",
+    "date": "2026-11-05T19:35:54+00:00",
+    "image": "https://s.france24.com/media/display/5d8eb2b0-d899-11f1-b70e-bf1914cabd52/w:1024/p:16x9/2026-11-03T112707Z-496333801-RC29GOA693FU-RTRMADP-3-IRAN-CRISIS.jpg",
+    "title_en": "Who will pay for defeat?: Restrict internal fight in the Republican Party after midterms",
+    "summary_en": "In our Section In Context we discuss internal struggles and differences in Donald Trump's administration from the midterm elections on Tuesday. Vice President J.D. Vance holds the war with Iran and its supporters accountable as a cause of Republican defeat while party members want to clear their way..."
+  },
+  {
+    "title": "Nigeria pasó de ser un país de tránsito a centro de drogas en África",
+    "summary": "El reciente hallazgo de laboratorios de metanfetamina sugiere que algunas regiones de África están dejando atrás su rol como simple zona de tránsito y se transforman en grandes centros de producción de drogas sintéticas.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/nigeria-pasó-de-ser-un-país-de-tránsito-a-centro-de-drogas-en-áfrica/a-79869908?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-05T19:32:00+00:00",
+    "image": "",
+    "title_en": "Nigeria moved from a transit country to a drug centre in Africa",
+    "summary_en": "The recent finding of methamphetamine laboratories suggests that some regions of Africa are lagging behind their role as a mere transit area and are transformed into large production centres for synthetic drugs."
+  },
+  {
+    "title": "Paraguay: claves del escándalo bancario que llevó a la renuncia a Peña",
+    "summary": "Millones de ahorristas afectados, fondos públicos comprometidos y sospechas de irregularidades financieras. Seis claves para entender el caso.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/paraguay-claves-del-escándalo-bancario-que-llevó-a-la-renuncia-a-peña/a-79870050?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-05T19:23:00+00:00",
+    "image": "",
+    "title_en": "Paraguay: keys to the banking scandal leading to Peña's resignation",
+    "summary_en": "Millions of affected savers, committed public funds and suspicions of financial irregularities. Six keys to understanding the case."
+  },
+  {
+    "title": "Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote",
+    "summary": "Una revisión en ‘Science’ repasa la nueva generación de fármacos contra la obesidad. También avisa de que las patentes de los genéricos de semaglutida retrasarán su llegada a España hasta 2031, pese a que ya se venden en India y Brasil",
+    "source": "El País",
+    "url": "https://elpais.com/ciencia/2026-11-05/los-farmacos-que-vienen-despues-del-ozempic-buscan-adelgazar-mas-perder-menos-musculo-y-evitar-el-efecto-rebote.html",
+    "category": "Internacional",
+    "date": "2026-11-05T19:00:04+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/6LLQPENLCJFETDRDRI6EZTYNYQ.jpg?auth=6e8c6de6ce60f27f4ac0649de6faa888e78e239f69e8504ad15ea1a7563d4ea4",
+    "title_en": "Medicines that come after Ozempic: seek to lose more, lose less muscle and avoid bouncing effect",
+    "summary_en": "A review of Science reviews the new generation of drugs against obesity. Also warns that the patents of semaglitida generics will delay their arrival to Spain until 2031, although they are already sold in India and Brazil"
+  },
+  {
+    "title": "Esto sabemos del escándalo del Ueno Bank, la crisis que tumbó al presidente paraguayo Santiago Peña",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-esto-sabemos-del-esc%C3%A1ndalo-del-ueno-bank-la-crisis-que-tumb%C3%B3-al-presidente-paraguayo-santiago-pe%C3%B1a",
+    "category": "Política",
+    "date": "2026-11-05T18:58:55+00:00",
+    "image": "",
+    "title_en": "That's what we know about the Ueno Bank's scandal, the crisis that killed Paraguayan president Santiago Peña.",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Directo Latam y la polémica “ley de rescate” del Gobierno colombiano de De la Espriella",
+    "summary": "El Gobierno de Abelardo de la Espriella presentó al Congreso de Colombia un extenso proyecto de ley de ajuste fiscal destinado, según afirma, a recortar el gasto público en un 15 % y aumentar los ingresos mediante medidas tributarias. La iniciativa apunta a modificar diversos impuestos para incrementar los ingresos del Estado. Las voces críticas instan a…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-directo-latam-y-la-pol%C3%A9mica-ley-de-rescate-del-gobierno-colombiano-de-de-la-espriella",
+    "category": "Política",
+    "date": "2026-11-05T18:41:49+00:00",
+    "image": "https://s.france24.com/media/display/2732f26c-d948-11f1-a1fc-695cb59fade5/w:1024/p:16x9/ES-20261105-074340-075023-CS.jpg",
+    "title_en": "Direct Latin and the controversial \"law of rescue\" of the Colombian Government of La Espriella",
+    "summary_en": "The Government of Abelardo de la Espriella submitted to the Congress of Colombia an extensive fiscal adjustment bill aimed at reducing public spending by 15% and increasing income through tax measures. The initiative aims at amending a number of taxes to increase public income. Critical voices urge..."
+  },
+  {
+    "title": "Falsas alertas de bomba en aerolíneas europeas obligan a aterrizajes de emergencia",
+    "summary": "Por segunda vez esta semana, varias aerolíneas europeas recibieron falsas amenazas de bomba. Al menos 12 vuelos se vieron afectados, con desvíos y aterrizajes no programados o escoltados, y con trastornos en los viajes. Irene Savio, corresponsal en Roma, nos amplió la información.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-falsas-alertas-de-bomba-en-aerol%C3%ADneas-europeas-obligan-a-aterrizajes-de-emergencia",
+    "category": "Internacional",
+    "date": "2026-11-05T18:40:53+00:00",
+    "image": "https://s.france24.com/media/display/8ceb5664-d946-11f1-a4d5-a575454bc579/w:1024/p:16x9/ES-20261105-073301-073534-CS.jpg",
+    "title_en": "False bomb alerts at European airlines require emergency landing",
+    "summary_en": "For the second time this week, several European airlines received false bomb threats. At least 12 flights were affected with unscheduled or escorted detour and landing and with travel challenges. Irene Savio, correspondent in Rome, gave us information."
+  },
+  {
+    "title": "Los centros de datos también perdieron las elecciones en Estados Unidos",
+    "summary": "El rechazo de 40 de 41 propuestas para construir estas instalaciones supone un duro golpe para el sector y anticipa un cambio en la visión del Congreso sobre la industria",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-05/los-centros-de-datos-tambien-perdieron-las-elecciones-en-estados-unidos.html",
+    "category": "Política",
+    "date": "2026-11-05T18:40:33+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FKRRHIRTXNFPFJBI2AIQW2RQAI.jpg?auth=4bd99fcdc6e04697713b7817b1a1196ce1dfd5e633f21688e12a8828a220a435",
+    "title_en": "Data centers have also lost their choices in the U.S.",
+    "summary_en": "The rejection of 40 out of 41 proposals to build these installations means a serious blow to the sector and anticipates a change in the vision of Congress about industry"
+  },
+  {
+    "title": "“Mr. Veto”: ¿convertirá Trump sus amenazas en realidad tras el triunfo demócrata en las midterms?",
+    "summary": "La contundente victoria demócrata ha cambiado el equilibrio de poder en Estados Unidos. Aunque el presidente Donald Trump mantiene la Casa Blanca y conserva el poder de veto, ahora deberá enfrentarse a un Congreso controlado por la oposición. ¿Optará por el bloqueo y la confrontación o buscará acuerdos para sacar adelante parte de su agenda?",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-mr-veto-convertir%C3%A1-trump-sus-amenazas-en-realidad-tras-el-triunfo-dem%C3%B3crata-en-las-midterms",
+    "category": "Política",
+    "date": "2026-11-05T18:40:32+00:00",
+    "image": "https://s.france24.com/media/display/4bdaef58-d947-11f1-9650-bf1914cabd52/w:1024/p:16x9/ES-20261105-073826-074008-CS.jpg",
+    "title_en": "\"Mr. Veto\": Do Trump turn his threats into reality after the Democratic triumph at midterms?",
+    "summary_en": "The strong democratic victory has changed the balance of power in the U.S.. Although President Donald Trump keeps the White House and preserves veto power, he will now have to face an opposition-controlled Congress. Do you choose blockade and confrontation or will you seek agreements to put some of his agenda forward?"
+  },
+  {
+    "title": "Tres derrotas en 10 días: ¿se acaba la era dorada de la ultraderecha en el mundo?",
+    "summary": "En 10 días, las elecciones en Brasil, Israel y Estados Unidos se saldaron con derrotas para líderes de ultraderecha. Brasil fue el único país de América Latina que resistió la ola de ultraderecha, con una sorpresiva victoria de Luiz Inácio Lula da Silva; en Israel, Benjamin Netanyahu perdió la mayoría en el Parlamento; y Donald Trump sufrió una derrota en…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261105-tres-derrotas-en-10-d%C3%ADas-se-acaba-la-era-dorada-de-la-ultraderecha-en-el-mundo",
+    "category": "Política",
+    "date": "2026-11-05T18:39:15+00:00",
+    "image": "https://s.france24.com/media/display/08b72580-d946-11f1-a4cc-d18c5759e759/w:1024/p:16x9/ES-20261105-071331-072323-CS.jpg",
+    "title_en": "Three defeates in 10 days: Do we end the golden age of the ultra-right in the world?",
+    "summary_en": "In 10 days, elections in Brazil, Israel and the U.S. have been filled with defeates for ultra-right leaders. Brazil was the only Latin American country to resist the ultra-right wave with a surprising victory by Luiz Inácio Lula da Silva, and Benjamin Netanyahu lost his majority to Parliament and Donald Trump suffered a defeat at his..."
+  },
+  {
+    "title": "Sánchez defiende la diversidad ideológica en la Cumbre Iberoamericana: “Creemos en el valor de este foro multilateral”",
+    "summary": "El presidente del Gobierno destaca la adopción de una declaración conjunta que logra reflejar un “mínimo común denominador” entre los 22 países",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-05/sanchez-defiende-la-diversidad-ideologica-en-la-cumbre-iberoamericana-creemos-en-el-valor-de-este-foro-multilateral.html",
+    "category": "Política",
+    "date": "2026-11-05T18:38:24+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/G3H3G23BMBGP3PCRWKIK3O6UDE.jpg?auth=05ea25dd609aa50f89bd759efa5135dd28ae0e5f3eb25ac7a81d61842c27af20",
+    "title_en": "Sanchez challenges ideological diversity at the Ibero-American Summit: \"We believe in the value of this multilateral forum\"",
+    "summary_en": "The President of the Government points to the adoption of a joint declaration that can reflect a \"minimum common denominator\" among the 22 countries"
   },
   {
     "title": "La UCO registra la casa de Ábalos en Valencia en un nuevo operativo del ‘caso Koldo’ con seis detenidos",
-    "summary": "El juez Moreno, que abrió este miércoles una pieza secreta tras un informe de la Guardia Civil, autoriza entradas en domicilios de Madrid, Sevilla y Córdoba y pide información a Adif y una constructora",
+    "summary": "El juez Moreno, que abrió este martes una pieza secreta tras un informe de la Guardia Civil, autoriza entradas en domicilios de Madrid, Sevilla y Córdoba y pide información a Adif y una constructora",
     "source": "El País",
     "url": "https://elpais.com/espana/2026-11-05/la-uco-despliega-un-nuevo-operativo-tras-entregar-un-informe-sobre-amanos-en-el-caso-koldo.html",
     "category": "Deportes",
     "date": "2026-11-05T18:36:57+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/SOZTB5J5F5DYXIGGNWQFGR6QNA.jpg?auth=4c82416f4b709291d2087c8ed712be0b459058366d15e3a2a1a640daea136313",
     "title_en": "The UCO searches the house of Ábalos in Valencia with a new Koldo case operation with 6 detainees",
-    "summary_en": "Judge Moreno, who opened a secret piece after a Civil Guard report this Wednesday, authorized entrance to Madrid, Seville and Córdoba and requested information from Adif and a construction company"
+    "summary_en": "Judge Moreno, who opened a secret piece after a Civil Guard report this Tuesday, authorized entrance to Madrid, Seville and Córdoba and requested information from Adif and a construction company"
   },
   {
     "title": "¿Qué significa para Alemania la derrota de Trump en las \"midterms\"?",
@@ -31,72 +515,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "What does Trump's defeat at midterms mean to Germany?",
     "summary_en": "The defeat in the mid-term elections was historic for Republicans in the U.S.. Although Trump did not lose power on the international stage. What risks are Germany and Europe currently facing?"
-  },
-  {
-    "title": "Última hora de la Cumbre Iberoamericana, en directo | Sánchez afirma que la dimisión de Puente fue “por empatía por las víctimas y para restablecer la confianza” en el sistema ferroviario",
-    "summary": "El presidente, sobre Milei: “El insulto no forma parte de mi forma de hacer política” | Felipe VI: “Somos el contrapunto a un tiempo marcado por los bloques, los frentes y la rivalidad”",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/ultima-hora-de-la-cumbre-iberoamericana-de-madrid-en-directo.html",
-    "category": "Política",
-    "date": "2026-11-05T18:17:13+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/TVD37S57PFD57IIQUAKOPI5K2I.jpg?auth=d778fd9abebe996f36e267fa5982cdff39828d0e557beff0e7645baa4527fd02",
-    "title_en": "Last hour of the Ibero-American Summit, live) 124. Sánchez claims that Puente's resignation was \"by empathy for the victims and to restore confidence\" in the railway system",
-    "summary_en": "The president, about Milei: \"The insult isn't part of my conduct of politics\")) 124) Philip VI: \"We are the counterpoint at a time marked by blocks, fronts and rivalry\""
-  },
-  {
-    "title": "Tesla y SpaceX pierden 417.000 millones de valor en dos días tras el triunfo demócrata",
-    "summary": "Los inversores castigan a las compañías de Elon Musk tras la victoria demócrata en Texas y la toma de control del Congreso de Estados Unidos",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/el-triunfo-democrata-en-las-midterms-borra-111000-millones-de-valor-en-tesla-y-spacex.html",
-    "category": "Política",
-    "date": "2026-11-05T18:15:27+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/UBEKBEBDPLNDPX2HIN2LOU4YVE.jpg?auth=a19f115d37135c59efd2691e7156407f8b340e612c69593f684f1fb4e39560b3",
-    "title_en": "Tesla and SpaceX lose 45 billion worth in two days after the Democratic triumph",
-    "summary_en": "Inverters punish Elon Musk's companies after the Texas Democratic victory and U.S. Congress's takeover"
-  },
-  {
-    "title": "La Junta Electoral permitirá votar identificándose con la aplicación móvil del DNI",
-    "summary": "La JEC levanta la suspensión a la ‘app’ MiDNI porque Interior confirma que todas las mesas electorales tendrán dispositivos para comprobar la autenticidad",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/la-junta-electoral-permitira-votar-identificandose-con-la-aplicacion-movil-del-dni.html",
-    "category": "Política",
-    "date": "2026-11-05T18:12:42+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/KDDROS5VWVJJ7N7DWRXTB5VMDA.jpg?auth=0ab69e8f871832a93498ba1129e654f492d9117cbf17c7f770b5a06483cb6f52",
-    "title_en": "The Electoral Board will allow to vote by identifying with the mobile implementation of the IID",
-    "summary_en": "The JEC puts up the suspension to the \"app 'MiDNI because Inner confirms that all polling stations will have equipment to check authenticity"
-  },
-  {
-    "title": "El Gobierno PP-Vox de Aragón recorta a cero los fondos para cooperación internacional por primera vez en 30 años",
-    "summary": "La Federación Aragonesa de Solidaridad, que aglutina a 60 organizaciones que operan en 46 países, denuncia la eliminación de la partida en los presupuestos de 2027",
-    "source": "El País",
-    "url": "https://elpais.com/planeta-futuro/2026-11-05/el-gobierno-pp-vox-de-aragon-recorta-a-cero-los-fondos-para-cooperacion-internacional-por-primera-vez-en-30-anos.html",
-    "category": "Política",
-    "date": "2026-11-05T18:04:47+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/A6ESOXIGAVLHREKKHAOAQPDSZQ.jpg?auth=d76a9772fa02edea2c62c4b40fe2806ebfc61d2fd86ff5a15932851130ae72d7",
-    "title_en": "The Government PP-Vox of Aragon cuts to zero funds for international cooperation for the first time in 30 years",
-    "summary_en": "The Aragonese Federation of Solidarity, bringing together 60 organizations operating in 46 countries, denounces the phase out of the 2027 budgets"
-  },
-  {
-    "title": "Santiago Peña renuncia a la presidencia de Paraguay pero la Cámara de Diputados aprueba someterlo a juicio político por el caso Ueno Bank",
-    "summary": "La decisión llega después de que legisladores de la oposición y de su propio partido impulsaran un juicio político para destituirlo.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
-    "category": "Deportes",
-    "date": "2026-11-05T17:57:00+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c1d/live/ca13cd00-d937-11f1-8bce-2396c9c50357.jpg",
-    "title_en": "Santiago Peña renounces Paraguay's presidency but the House of Deputies approves to put him to political trial for Ueno Bank",
-    "summary_en": "The decision comes after opposition and his own party's lawmakers have been leading a political trial to remove him."
-  },
-  {
-    "title": "Emirates Airlines pierde millones mientras la guerra frena los viajes en Medio Oriente",
-    "summary": "La aerolínea emiratí registró un beneficio neto de 903 millones de dólares durante el primer semestre, un 66% menos que en el mismo periodo del año anterior. Los cierres del espacio aéreo, las cancelaciones y los desvíos de vuelos por el conflicto entre Estados Unidos, Israel e Irán afectaron el tráfico de pasajeros, que cayó un 22%, mientras que el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261105-emirates-airlines-pierde-millones-mientras-la-guerra-frena-los-viajes-en-medio-oriente",
-    "category": "Internacional",
-    "date": "2026-11-05T17:44:10+00:00",
-    "image": "https://s.france24.com/media/display/2c5b1cba-1ce7-11f1-ab0e-005056bf30b7/w:1024/p:16x9/AP25323279012959.jpg",
-    "title_en": "Emirates Airlines Looses Millions while War Starts Travel in the Middle East",
-    "summary_en": "The carrier emirati had a net profit of 903 million dollars during the first half, 66% less than in the same period of the previous year. The closure of airspace, cancellations and flight detour from the conflict between the U.S., Israel and Iran affected traffic of passengers, which fell by 22% while..."
   },
   {
     "title": "El ataque a un centro de ayuda en la provincia ucrania de Zaporiyia suma ya 43 víctimas mortales",
@@ -121,28 +539,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The intervention of Ueno Bank, one of Paraguay's largest financial institutions, has shaken the country's banking system and its political leadership. The president of the country faces a political trial that could be passed on Thursday."
   },
   {
-    "title": "Una nueva oleada de amenazas de bomba afecta más de una veintena de vuelos en Europa",
-    "summary": "Por segunda vez esta semana, múltiples aerolíneas recibieron alarmas por la posible presencia de explosivos, forzando aterrizajes no planificados o bajo escolta, aunque ninguna de las amenazas resultó ser creíble. Esto afectó a más de una decena de vuelos con destinos a ciudades europeas, dos días después de que una serie de alertas similares obligaran a…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261105-una-nueva-oleada-de-amenazas-de-bomba-afecta-m%C3%A1s-de-una-veintena-de-vuelos-en-europa",
-    "category": "Internacional",
-    "date": "2026-11-05T17:36:12+00:00",
-    "image": "https://s.france24.com/media/display/e51feaa6-d924-11f1-bca9-a575454bc579/w:1024/p:16x9/FOTO-PORTADA-FRANCIA-VUELO-AMENAZA-BOMBA.jpg",
-    "title_en": "A new wave of bomb threats affects more than 20 flights in Europe",
-    "summary_en": "For the second time this week, several airlines received alarm about the potential presence of explosives, forcing unplanned or under escort landing, although none of the threats became credible. That affected more than a dozen flights with destinations to European cities, two days after a number of similar alerts forced them to..."
-  },
-  {
-    "title": "La periodista cubana Yoani Sánchez, detenida por la policía en La Habana",
-    "summary": "La reportera fue apresada la mañana del martes y pudo avisar a la redacción del medio que dirige, en constante acoso de las autoridades cubanas",
-    "source": "El País",
-    "url": "https://elpais.com/america/2026-11-05/la-periodista-cubana-yoani-sanchez-detenida-por-la-policia-en-la-habana.html",
-    "category": "Internacional",
-    "date": "2026-11-05T17:36:02+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/GZZJNVRAYNG6ZGMKPQZHBMTSLM.jpg?auth=f359f137c406246719c74c3fda93001e3d532f507c01bc0d8163eaaee65864b1",
-    "title_en": "Cuban journalist Yoani Sánchez, arrested by police in Havana",
-    "summary_en": "The journalist was arrested on Tuesday morning and was able to notify the paper about his conduct, with constant harassment from the Cuban authorities"
-  },
-  {
     "title": "Los impuestos, las armas, los derechos de las personas trans y el ‘foie gras’: las otras cuestiones que decidieron las ‘midterms’",
     "summary": "Tres de cuatro Estados que llevaron el tema del aborto a las urnas se pronunciaron a favor de garantizar el derecho a la interrupción voluntaria del embarazo",
     "source": "El País",
@@ -154,46 +550,13 @@ window.PLANETA_NEWS = [
     "summary_en": "3 out of 4 States that brought abortion to the polls expressed their support for guaranteeing the right to voluntary termination of pregnancy"
   },
   {
-    "title": "Ueno Bank y la renuncia de Peña: ¿en riesgo la confianza de los inversores en Paraguay?",
-    "summary": "En los últimos años, Paraguay ha ganado relevancia como destino de inversión por su estabilidad; sin embargo, la renuncia del presidente Santiago Peña cambia por completo el panorama. Hablamos con Gabriel Giménez Roche, analista político y profesor de Economía en la NEOMA Business School, sobre lo que está pasando en cuanto a la confiabilidad del país y a…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-ueno-bank-y-la-renuncia-de-pe%C3%B1a-en-riesgo-la-confianza-de-los-inversores-en-paraguay",
-    "category": "Economía",
-    "date": "2026-11-05T17:31:36+00:00",
-    "image": "https://s.france24.com/media/display/adbfadcc-d93c-11f1-8adc-d18c5759e759/w:1024/p:16x9/ES-20261105-113418-113725-CS.jpg",
-    "title_en": "Ueno Bank and Peña's resignation: at risk to investors confidence in Paraguay?",
-    "summary_en": "In recent years Paraguay has been an investment destination for its stability, but President Santiago Peña's resignation completely changes his picture. We have been talking with Gabriel Giménez Roche, a political analyst and an economic teacher at NEOMA Business School about what's happening with regard to the reliability of the country and how to..."
-  },
-  {
-    "title": "¿Qué le espera a Paraguay tras la renuncia del presidente Santiago Peña?",
-    "summary": "El presidente de Paraguay, Santiago Peña, renunció a su cargo en medio de la crisis desatada por la intervención y el cierre de Ueno Bank, que afecta a millones de clientes y abrió un frente de inestabilidad política. No obstante, el Congreso continúa debatiendo para llevar adelante el juicio político y rechazar su renuncia. ¿Qué le espera a Paraguay? Nos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-qu%C3%A9-le-espera-a-paraguay-tras-la-renuncia-del-presidente-santiago-pe%C3%B1a",
-    "category": "Política",
-    "date": "2026-11-05T17:31:15+00:00",
-    "image": "https://s.france24.com/media/display/ad0796b6-d93b-11f1-9fa4-695cb59fade5/w:1024/p:16x9/ES-20261105-113008-113343-CS.jpg",
-    "title_en": "What's with Paraguay after President Santiago Peña's resignation?",
-    "summary_en": "Paraguay's president, Santiago Peña, resigned his office amidst the crisis unleashed by the intervention and closure of Ueno Bank, which affects millions of customers and opened up a face of political instability. The Congress, however, continues to discuss to conduct the political trial and to reject its renunciation. What's with Paraguay? We..."
-  },
-  {
-    "title": "Renuncia Peña en Paraguay ante el juicio político y las protestas por Ueno Bank",
-    "summary": "Tras las presiones de un posible juicio político y las protestas en las calles, Santiago Peña renunció a la Presidencia de Paraguay. Peña presentó su dimisión mediante un vídeo publicado en sus redes sociales, tras la intervención y el cierre de Ueno Bank, que afecta a millones de clientes y abrió un frente de inestabilidad política. La decisión se produce…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-renuncia-pe%C3%B1a-en-paraguay-ante-el-juicio-pol%C3%ADtico-y-las-protestas-por-ueno-bank",
-    "category": "Tecnología",
-    "date": "2026-11-05T17:31:01+00:00",
-    "image": "https://s.france24.com/media/display/e84bb67e-d938-11f1-811d-bf1914cabd52/w:1024/p:16x9/ES-20261105-112444-112644-CS.jpg",
-    "title_en": "Peña Reborn in Paraguay at Political Trial and protests by Ueno Bank",
-    "summary_en": "Following pressures from a potential political trial and protests on the streets, Santiago Peña resigned from Paraguay's office. Peña submitted his resignation by means of a video published on his social networks after Ueno Bank's intervention and closure, involving millions of customers and opening up a face of political instability. The decision comes about..."
-  },
-  {
     "title": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones en Europa",
     "summary": "Tres aeronaves han tenido origen o destino en Madrid. Bruselas pide colaboración a los Estados para aclarar la incidencia, similar a la registrada el martes en otros siete vuelos",
     "source": "El País",
     "url": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html",
     "category": "Deportes",
     "date": "2026-11-05T17:14:36+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6A4ME6CNWRC3ZMEJWJZE43AY4E.JPG?auth=734e86a40e5375ddcf6cb5550ac7df697ddfb20a56400ec1050357afdd353c9b",
+    "image": "https://imagenes.elpais.com/resizer/v2/MKZUVNWTWZDONLAFNXV4YCKDHE.JPG?auth=a01729b8dbe86f00123d5f4122b8150ac0374e556321472c2212fa45a43dcc39",
     "title_en": "A new wave of false bomb threats affects at least 27 aircraft in Europe",
     "summary_en": "Three aircraft have been from or from Madrid. Brussels calls for cooperation with states to clarify the incidence, similar to that recorded on Tuesday for another seven flights"
   },
@@ -207,17 +570,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "WHO warns about lack of exercise among adolescents",
     "summary_en": "A new study reveals that one out of four youth did not conduct physical activity for at least an hour throughout an hour."
-  },
-  {
-    "title": "Antonia Dell’Atte responde a las disculpas públicas de Ana Obregón: “Te he salvado de una condena y de ir a la cárcel”",
-    "summary": "La exmodelo italiana ha compartido una publicación en su Instagram en la que dice aceptar el perdón de la presentadora, pero le reprocha haber tardado tanto tiempo: “Después de 35 años, has admitido que has encubierto y defendido a mi maltratador, Alessandro Lecquio”",
-    "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-05/antonia-dellatte-responde-a-las-disculpas-publicas-de-ana-obregon-te-he-salvado-de-una-condena-y-de-ir-a-la-carcel.html",
-    "category": "Internacional",
-    "date": "2026-11-05T16:58:54+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LLQIFV7WKVGBPFA2Y6OOBK7CKE.jpg?auth=2c1b8212431d488ac135efdac0c00d4a03106b98896688bc08628879b3114f2b",
-    "title_en": "Antonia Dell'Atte responded to Anne Obregón's public apology: \"I have saved you from a conviction and from going to jail\"",
-    "summary_en": "The old Italian model has shared a publication at his Instagram that claims to accept the presenter's pardon but challenges him for so long: \"After 35 years, you have admitted that you have hidden and defended my maltrator, Alessandro Lecloquo\""
   },
   {
     "title": "El Como de Fàbregas hace historia con una goleada récord en la Champions League",
@@ -237,20 +589,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/television/2026-11-05/el-gran-wyoming-se-jubila-y-gonzo-presentara-el-intermedio-desde-enero.html",
     "category": "Internacional",
     "date": "2026-11-05T16:49:26+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/TYYPNXBQ2BFK5LBRJUUSJ5FHYM.jpg?auth=ec1fb1cc12ece02a63cccd558dc364ef9957170cf7b862cc23ad9e9a60f32ae8",
+    "image": "https://imagenes.elpais.com/resizer/v2/7TT3LLHZYNB3VBZOIRSTVEZ67I.jpg?auth=dc791551d93ff25da189f7be7af78e09d301699173908d77cd5b76914da503c7",
     "title_en": "The Great Wyoming Retiring and Gonzo will be presenting \"The Intermediate\" from January",
     "summary_en": "Replay at the front of the satirical space of The Sixth will mean the exit of Gonzo from 'Salvados', but his replacement has yet to be chosen"
-  },
-  {
-    "title": "Santiago Peña renuncia a la Presidencia de Paraguay tras crisis por Ueno Bank",
-    "summary": "Por medio de un vídeo publicado en sus redes sociales, el presidente de Paraguay, Santiago Peña, renunció este 5 de noviembre tras la apertura de un debate en la Cámara de Diputados sobre un posible juicio político por la intervención y cierre de Ueno Bank, entidad vinculada al mandatario. La medida del Banco Central desató una crisis financiera y política…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-santiago-pe%C3%B1a-renuncia-a-la-presidencia-de-paraguay-tras-crisis-por-ueno-bank",
-    "category": "Tecnología",
-    "date": "2026-11-05T16:47:41+00:00",
-    "image": "https://s.france24.com/media/display/ba0b2e4e-d937-11f1-a72d-695cb59fade5/w:1024/p:16x9/ES-20261105-112109-112328-CS.jpg",
-    "title_en": "Santiago Peña Resigns Paraguay's Presidency Following Crisis by Ueno Bank",
-    "summary_en": "Through a video published on his social networks, Paraguay's president, Santiago Peña, resigned on November 5 after an open debate at the House of Deputies about a potential political trial for the intervention and closure of Ueno Bank, an entity linked to the president. The Central Bank's measure unleashed a financial and political crisis..."
   },
   {
     "title": "Satisfacción y escepticismo en Irán tras elecciones en EE. UU.",
@@ -262,39 +603,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Satisfaction and skepticism in Iran after U.S. elections. Estados Unidos",
     "summary_en": "Following the mid-term U.S. elections. The leaders of Tehran do not anticipate a shift from Washington. Nevertheless, after the Democratic victory at Congress, others saw a clear message against war."
-  },
-  {
-    "title": "Las comunidades del PP boicotean por segunda vez en tres meses a los ministerios de Ciencia y Educación",
-    "summary": "Los consejeros populares dan plantón al Gobierno en las reuniones para abordar un decreto contra los ‘chiringuitos’ de FP o cambios en tres carreras, entre otros asuntos",
-    "source": "El País",
-    "url": "https://elpais.com/educacion/2026-11-05/las-comunidades-del-pp-boicotean-por-segunda-vez-en-tres-meses-a-los-ministerios-de-ciencia-y-educacion.html",
-    "category": "Política",
-    "date": "2026-11-05T16:35:24+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/3OSW35IUVZAO3JDMLVBD5GCCYY.jpg?auth=c21585ec790c0e329592dc2f864456ac523dbf245c0166cda1a2eb78e8e177d7",
-    "title_en": "PP communities boycotting the Ministries of Science and Education for a second time in 3 months",
-    "summary_en": "People's counselors put up with the government at meetings to discuss a decree against the \"chiringuitos\" of FP or changes in three races, among other issues"
-  },
-  {
-    "title": "Santiago Peña renuncia a la Presidencia de Paraguay en medio del escándalo de Ueno Bank",
-    "summary": "El presidente de Paraguay, Santiago Peña, renunció a su cargo en medio de la crisis desatada por la intervención y el cierre de Ueno Bank, que afecta a millones de clientes y abrió un frente de inestabilidad política. La decisión se produce después de que los bloques de la Cámara de Diputados anunciaran su respaldo al juicio político y confirmaran los votos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ensi%C3%B3n-en-paraguay-diputados-debate-un-juicio-pol%C3%ADtico-contra-el-presidente-santiago-pe%C3%B1a",
-    "category": "Política",
-    "date": "2026-11-05T16:18:52+00:00",
-    "image": "",
-    "title_en": "Santiago Peña renounces Paraguay's presidency amidst Ueno Bank's scandal",
-    "summary_en": "Paraguay's president, Santiago Peña, resigned his office amidst the crisis unleashed by the intervention and closure of Ueno Bank, which affects millions of customers and opened up a face of political instability. The decision takes place after the blocks of the House of Deputies announced their support for the political trial and confirmed their votes..."
-  },
-  {
-    "title": "Jueves negro para la Bolsa: el Nasdaq se hunde ante el miedo a que se agudice el frenazo de la IA",
-    "summary": "El índice bursátil cae un 5% arrastrado por la violenta caída de los fabricantes de chips mientras los inversores temen una ralentización del gasto en tecnología",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-05/la-bolsa-y-el-ibex-35.html",
-    "category": "Tecnología",
-    "date": "2026-11-05T16:18:07+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DQEU5FA63FJQVAJSEC5TRXTORE.jpg?auth=0831c16f0abcc282e72ddaf7c158bd47fe493403ffb8f138fe0eea9e2c57dc56",
-    "title_en": "Black Thursday for the Stock Exchange: The Nasdaq sinks with fear that the A's brake will be tightened",
-    "summary_en": "The stock market index drops by about 5% as a result of the violent fall of chip manufacturers while investors fear a slowdown in technology spending"
   },
   {
     "title": "El actor británico Russell Brand, declarado culpable de violación y agresiones sexuales",
@@ -320,14 +628,14 @@ window.PLANETA_NEWS = [
   },
   {
     "title": "El fútbol español despide al delantero Jesús de Miguel con un duelo unánime en Navahermosa",
-    "summary": "La plantilla del Tenerife, representantes del Andorra y los principales dirigentes nacionales acuden al funeral en el pueblo toledano del que era la familia del jugador para ofrecerle el último adiós y dar el pésame a sus seres queridos",
+    "summary": "La plantilla del Tenerife, representantes del Andorra y los principales dirigentes nacionales acuden al funeral en el pueblo toledano del que era la familia del jugador para ofrecerle el último adiós y darle el pésame a sus seres queridos",
     "source": "El País",
     "url": "https://elpais.com/deportes/futbol/2026-11-05/el-futbol-espanol-despide-al-delantero-jesus-de-miguel-con-un-duelo-unanime-en-navahermosa.html",
     "category": "Deportes",
     "date": "2026-11-05T15:46:39+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/TTDC4HBPBJDE7PALNXUCFEBYMI.JPG?auth=83283e3160813fa781b4c9ec3ad2433ad3ecbce9e65f6bba5d21ef4bf99f3123",
     "title_en": "Spanish football fired the forward Jesus of Michael with a unanimous duel at Navahermosa",
-    "summary_en": "The Temenerife staff, representatives of Andorra and the leading national leaders come to the funeral in the town of Toledan from which the player's family was to offer his final farewell and to give his condolences to his loved ones"
+    "summary_en": "The personnel of Tenerife, representatives of Andorra and the leading national leaders come to the funeral in the town of Toledan from which the player's family was to offer his final farewell and to give his condolences to his loved ones"
   },
   {
     "title": "El actor y comediante británico Russell Brand es declarado culpable de violación y agresión sexual",
@@ -339,17 +647,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c654/live/d90bcd50-d926-11f1-ad94-e17fee4cd332.jpg",
     "title_en": "British actor and comedian Russell Brand found guilty of rape and sexual assault",
     "summary_en": "Following the verdict, Judge Joel Bennathan announced that the 51-year-old man would be held in pretrial detention."
-  },
-  {
-    "title": "La Junta Electoral permite tachar el nombre de Puente de la papeleta del PSOE en Valladolid para el 29-N",
-    "summary": "La JEP no autoriza suprimir al ministro dimitido pese a su renuncia a las listas y ratifica que no hace falta imprimir una nueva candidatura",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-05/la-junta-electoral-permite-tachar-el-nombre-de-puente-de-la-papeleta-del-psoe-en-valladolid-para-el-29-n.html",
-    "category": "Política",
-    "date": "2026-11-05T15:03:40+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XWT2YI4OTXQQLQBVWVOIDZRHTA.jpg?auth=41e77ae85b593d7408002d301d26c58e581485d1bf9a7bb8a296eddafb6d8801",
-    "title_en": "The Electoral Board allows to remove the name of Puente from the pSOE bin at Valladolid for the 29-N",
-    "summary_en": "JEP does not approve of abolishing the resigned minister despite his resignation from his list and confirms that there is no need to print a new nomination"
   },
   {
     "title": "El PP vincula el accidente de Urda y la crisis de vivienda con la falta de inversión del Gobierno",
@@ -374,28 +671,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The CNMC approves the Government's proposal after finding that commercial networks cover demand and low financing costs"
   },
   {
-    "title": "Tensión en Paraguay: el presidente Santiago Peña, ad portas de un juicio político",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ensi%C3%B3n-en-paraguay-diputados-debate-un-juicio-pol%C3%ADtico-contra-el-presidente-santiago-pe%C3%B1a",
-    "category": "Política",
-    "date": "2026-11-05T14:39:16+00:00",
-    "image": "",
-    "title_en": "Tension in Paraguay: President Santiago Peña, at a political trial",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "En vivo: Santiago Peña renuncia a la Presidencia de Paraguay en medio del escándalo de Ueno Bank",
-    "summary": "El presidente de Paraguay, Santiago Peña, renunció a su cargo en medio de la crisis desatada por la intervención y el cierre de Ueno Bank, que afecta a millones de clientes y abrió un frente de inestabilidad política. La decisión se produce después de que los bloques de la Cámara de Diputados anunciaran su respaldo al juicio político y confirmaran los votos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ensi%C3%B3n-en-paraguay-diputados-debate-un-juicio-pol%C3%ADtico-contra-el-presidente-santiago-pe%C3%B1a",
-    "category": "Política",
-    "date": "2026-11-05T14:25:49+00:00",
-    "image": "https://s.france24.com/media/display/76925a60-d8bb-11f1-87b9-a575454bc579/w:1024/p:16x9/5228dd14a8f41728915e8558cc1d411603de9551.jpg",
-    "title_en": "Live: Santiago Peña renounces Paraguay's presidency amidst Ueno Bank's scandal",
-    "summary_en": "Paraguay's president, Santiago Peña, resigned his office amidst the crisis unleashed by the intervention and closure of Ueno Bank, which affects millions of customers and opened up a face of political instability. The decision takes place after the blocks of the House of Deputies announced their support for the political trial and confirmed their votes..."
-  },
-  {
     "title": "La Policía identifica en la frontera con Marruecos a dos altos cargos de las fuerzas marroquíes el día del asalto masivo",
     "summary": "La Comisaría General de Información ha enviado un informe a la jueza con fotografías de Mohamed El Oualidi y Abdel Fattah El Sayed en Castillejos y está analizando qué papel tuvieron",
     "source": "El País",
@@ -407,39 +682,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The General Information Commission has sent a report to the judge with photographs of Mohamed El Oualidi and Abdel Fattah The Sayed at Castlejos and she's analyzing what role they had"
   },
   {
-    "title": "Huelga nacional en Francia: 270.000 manifestantes hasta el mediodía",
-    "summary": "La Torre Eiffel cerró sus puertas \"debido al movimiento de huelga nacional\". Con 70.000 policías movilizados, Francia espera entre 500.000 y 700.000 manifestantes en más de 180 marchas.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/huelga-nacional-en-francia-270-000-manifestantes-hasta-el-mediodía/a-79865967?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T14:18:00+00:00",
-    "image": "",
-    "title_en": "National strike in France: 270,000 protesters till noon",
-    "summary_en": "The Eiffel Tower closed its doors \"because of the national strike movement.\" With 70,000 police mobilized, France expects between 500,000 and 700,000 protesters in more than 180 marches."
-  },
-  {
-    "title": "La Policía detiene en Alicante a un monitor de surf por agredir sexualmente a 10 menores alemanas",
-    "summary": "El hombre tiene antecedentes por violencia sexual. La denuncia fue presentada por la directora de la escuela",
-    "source": "El País",
-    "url": "https://elpais.com/sociedad/2026-11-05/la-policia-detiene-en-alicante-a-un-monitor-de-surf-por-agredir-sexualmente-a-10-alemanas-menores-de-edad.html",
-    "category": "Internacional",
-    "date": "2026-11-05T13:36:52+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XIGCI4BCHJNSLEXTJB6IU7XQO4.jpg?auth=7543b01c467a3e4eaec7f04205f7097a281662a00c7c711178fbaef173509408",
-    "title_en": "The police stop a surf monitor in Alicante for sexually assaulting 10 German minors",
-    "summary_en": "The man has a record of sexual violence. The report was submitted by the school's director"
-  },
-  {
-    "title": "Crisis política en Paraguay: el presidente Santiago Peña, ad portas de un juicio político por crisis bancaria",
-    "summary": "Diputados opositores presentaron ante el Congreso un pedido de juicio de destitución contra el presidente de Paraguay y su vicepresidente por la crisis que envuelve a uno de los mayores bancos del país y que condujo al congelamiento de los depósitos de alrededor de tres millones de personas. El pedido se discute con intensidad este jueves 5 de noviembre.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-crisis-pol%C3%ADtica-en-paraguay-el-presidente-santiago-pe%C3%B1a-ad-portas-de-un-juicio-pol%C3%ADtico-por-crisis-bancaria",
-    "category": "Política",
-    "date": "2026-11-05T13:21:51+00:00",
-    "image": "https://s.france24.com/media/display/37388ab8-d868-11f1-a845-1beafce15fea/w:1024/p:16x9/6a24571d7d1035816b8b5f9d349f8fa717afba1c.jpg",
-    "title_en": "Political crisis in Paraguay: President Santiago Peña challenges a political trial for a banking crisis",
-    "summary_en": "Retiring deputies put before Congress a demand for an impeachment suit against Paraguay's president and his vice president for a crisis involving one of the largest banks in Paraguay and leading to the freezing of deposits of about 3 million people. The order will be discussed with intensity this Thursday, November 5."
-  },
-  {
     "title": "Detenido un profesor de Secundaria en una concentración por la educación pública en Madrid",
     "summary": "Agentes de la policía municipal arrestan al hombre, que protestaba junto a otros docentes en un acto de la huelga indefinida convocada en la Comunidad",
     "source": "El País",
@@ -449,50 +691,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/3JMPA7M5RRCLLP6GUSIGJN4YAE.jpg?auth=95b7412b5139f317290f161c9e79276d620cc26b82331c464d33a05400c93359",
     "title_en": "Detained a high school teacher at a concentration for public education in Madrid",
     "summary_en": "Municipal police officers arrest man, who protested with other teachers at an event of an indefinite strike called in the Community"
-  },
-  {
-    "title": "Ciberataques en Europa: ¿están en riesgo todos los equipos conectados a internet?",
-    "summary": "Toneladas de comida quedaron completamente dañadas, luego de que piratas informáticos entraran al software que controlaba las neveras de supermercados y ordenaran descongelarlas o subieran la temperatura hasta los 50 grados celsius. Se trata de un ataque que pone sobre relieve el concepto de obsolescencia programada digital, que hace que después de unos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/ciencia-y-tecnolog%C3%ADa/20261105-ciberataques-en-europa-est%C3%A1n-en-riesgo-todos-los-equipos-conectados-a-internet",
-    "category": "Tecnología",
-    "date": "2026-11-05T13:13:19+00:00",
-    "image": "https://s.france24.com/media/display/d34b0dc2-d8c7-11f1-87fb-d18c5759e759/w:1024/p:16x9/IMG-4539.jpeg",
-    "title_en": "Cyberattacks in Europe: are all equipment connected to the Internet at risk?",
-    "summary_en": "Tons of food became completely damaged after computer pirates entered the software that controlled the grocery refrigerates and ordered them to be thawed or their temperature up to 50 degrees Celsius. That's an attack that highlights the concept of digital scheduled obsolescence, that makes after some..."
-  },
-  {
-    "title": "El frío saludo entre Pedro Sánchez y Javier Milei en la Cumbre Iberoamericana de Madrid",
-    "summary": "El presidente argentino, Javier Milei, y el jefe del Gobierno español, Pedro Sánchez, protagonizaron este jueves un frío saludo durante la Cumbre Iberoamericana de Madrid, en su primer encuentro cara a cara tras meses de enfrentamientos diplomáticos.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-el-fr%C3%ADo-saludo-entre-pedro-s%C3%A1nchez-y-javier-milei-en-la-cumbre-iberoamericana-de-madrid",
-    "category": "Deportes",
-    "date": "2026-11-05T13:11:34+00:00",
-    "image": "https://s.france24.com/media/display/070f3666-d908-11f1-9403-a575454bc579/w:1024/p:16x9/a8388ed4672090ff76673559c7c568a2a4edc283.jpg",
-    "title_en": "The cold greeting between Pedro Sánchez and Javier Milei at the Ibero-American Summit in Madrid",
-    "summary_en": "Argentina's president, Javier Milei and Spanish government's head, Pedro Sánchez, startled a cold greeting this Thursday at the Ibero-American Summit in Madrid, at his first face to face meeting after months of diplomatic confrontations."
-  },
-  {
-    "title": "Xi Jinping intensifica la purga anticorrupción en el Partido Comunista",
-    "summary": "El presidente chino, Xi Jinping, intensifica su campaña contra la corrupción dentro del Partido Comunista chino (PCCh), con la expulsión de 33 dirigentes acusados de graves faltas disciplinarias y legales, la cifra más alta registrada en este tipo de purgas. Durante un cónclave de cuatro días, el mandatario también anunció una mayor vigilancia sobre el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20261105-xi-jinping-intensifica-la-purga-anticorrupci%C3%B3n-en-el-partido-comunista",
-    "category": "Deportes",
-    "date": "2026-11-05T13:11:08+00:00",
-    "image": "https://s.france24.com/media/display/5ee01524-d8ca-11f1-a820-a575454bc579/w:1024/p:16x9/IMG-4540.jpeg",
-    "title_en": "Xi Jinping intensifies anti-corruption purga in the Communist Party",
-    "summary_en": "The Chinese president, Xi Jinping, intensifies his anti-corruption campaign within the Chinese Communist Party (CCP) with the expulsion of 33 leaders accused of serious disciplinary and legal misconduct, the highest figure recorded in this type of purga. During a four-day conclave, the president also announced an increased vigilance about the..."
-  },
-  {
-    "title": "Los demócratas arrasan en las midterms: ¿usará Trump el veto para frenar al Congreso?",
-    "summary": "Las elecciones de medio término en Estados Unidos han dibujado un nuevo y desafiante mapa político: con mayorías holgadas en ambas cámaras del Congreso, los demócratas se perfilan como un contrapeso firme frente a la Casa Blanca, mientras el presidente Donald Trump ya advierte que recurrirá a su poder de veto para frenar la agenda legislativa de la…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/el-debate/20261105-los-dem%C3%B3cratas-arrasan-en-las-midterms-usar%C3%A1-trump-el-veto-para-frenar-al-congreso",
-    "category": "Política",
-    "date": "2026-11-05T13:09:13+00:00",
-    "image": "https://s.france24.com/media/display/8d8bbe66-d846-11f1-bc0a-695cb59fade5/w:1024/p:16x9/2026-11-02T201130Z-1068760776-RC2VFOA9KIAE-RTRMADP-3-USA-TRUMP-LINCOLNMEMORIAL.jpg",
-    "title_en": "The Democrats are raiding midterms: will Trump use the veto to stop Congress?",
-    "summary_en": "The midterm elections in the U.S. have drawn up a new and challenging political map: with a majority held in both chambers of Congress, the Democrats are profiled as a firm counterweight to the White House, while President Donald Trump already warns that he will resort to his veto power to stop the legislative agenda of the..."
   },
   {
     "title": "El Banco de Inglaterra sube los tipos de interés por primera vez en tres años hasta alcanzar el 4%",
@@ -512,42 +710,9 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/2026-11-05/koldo-garcia-asegura-que-acordo-con-el-abogado-del-pp-un-millon-de-euros-a-cambio-de-informacion-para-hacer-caer-a-sanchez.html",
     "category": "Internacional",
     "date": "2026-11-05T12:53:10+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/VK5TDQWPQRHRXASYJUSN32GCWE.jpg?auth=60318bd8e01b7930208dab8c293333b73c4cb68604f411efd513d6640068e525",
+    "image": "https://imagenes.elpais.com/resizer/v2/PQYG2ODFVZFEXOUQ2OUGJV6QNY.jpg?auth=90c7a04f496c00bcdebf6a9c65ed7c063a6de7097662929426a0972bfa47f229",
     "title_en": "Koldo García claims that she agreed with his lawyer about a million dollars for information to put Sanchez down.",
     "summary_en": "In an audio published by the Chain SER, his former Abalos counsellor claims that his lawyer offered him a reduction of his sentence that was supposed to have been put out of jail."
-  },
-  {
-    "title": "Otra leyenda se retira de su selección: Cristiano Ronaldo pone fin a su carrera con Portugal",
-    "summary": "Cristiano Ronaldo anunció este jueves su retirada definitiva de la selección de Portugal, con la que disputó 234 partidos y marcó 146 goles. A los 41 años, el delantero puso fin a una trayectoria de 23 años en la que conquistó la Eurocopa de 2016 y dos ediciones de la Liga de Naciones, aunque no logró ganar el Mundial.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/deportes/20261105-otra-leyenda-se-retira-de-su-selecci%C3%B3n-cristiano-ronaldo-pone-fin-a-su-carrera-con-portugal",
-    "category": "Deportes",
-    "date": "2026-11-05T12:39:14+00:00",
-    "image": "https://s.france24.com/media/display/e9ea7630-d912-11f1-875d-a575454bc579/w:1024/p:16x9/22a70deb14d413b2d358379f8260e7b8fc5401f0.jpg",
-    "title_en": "Another legend retirement from his selection: Cristiano Ronaldo puts an end to his race with Portugal",
-    "summary_en": "Cristiano Ronaldo announced his final retirement from Portugal's selection this Thursday, with which he dubbed 234 matches and scored 146 goals. At age 41, the prog put an end to a 23-year-old track that won the 2016 Euro and two League of Nations editions, but did not gain the World Cup."
-  },
-  {
-    "title": "Nueva ola de falsas amenazas de bomba en vuelos y aeropuertos europeos",
-    "summary": "Falsas amenazas de bomba afectaron este jueves a varios vuelos y aeropuertos de Francia, Italia, Austria, Bulgaria, Polonia, República Checa, Finlandia y Dinamarca, tras incidentes similares el martes.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/nueva-ola-de-falsas-amenazas-de-bomba-en-vuelos-y-aeropuertos-europeos/a-79861618?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T12:34:00+00:00",
-    "image": "",
-    "title_en": "New wave of false bomb threats at European flights and airports",
-    "summary_en": "Faked bomb threats affected several flights and airports from France, Italy, Austria, Bulgaria, Poland, the Czech Republic, Finland and Denmark this Thursday after similar incidents on Tuesday."
-  },
-  {
-    "title": "Las encuestas no los ven, pero las redes sí: Alvise tira de Ángel Gaitán, Míriam González es como una “influencer” y el azote de la ‘ley de nietos’",
-    "summary": "Los grandes sondeos les vaticinan cero escaños, pero SALF, Iustitia Europea y Democracia 21 tratan de captar votantes a través de sus seguidores",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/las-encuestas-no-los-ven-pero-las-redes-si-alvise-tira-de-angel-gaitan-miriam-gonzalez-es-como-una-influencer-y-el-azote-de-la-ley-de-nietos.html",
-    "category": "Política",
-    "date": "2026-11-05T12:33:19+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/5HG6DKETZRBWNKCAY66E737A5A.jpg?auth=6e845cc75ecb6a6f983a67e350aac0e45e0c2024effa6de5dbb4f119b9ba7fa0",
-    "title_en": "The polls do not see them but the networks do: Alvise tira de Ángel Gaitan, Mirian González is as an \"influence\" and the scourge of the 'law of grandchildren'",
-    "summary_en": "The great polls give them zero seats but SALF, European Iustitia and Democracy 21 are trying to get voters through their followers"
   },
   {
     "title": "Las empresas reclaman dejar de pagar las bajas laborales y dar el control a las mutuas para frenar el absentismo",
@@ -570,28 +735,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/MJHUS3LSNFNNRO772EUIQURSJ4.jpg?auth=1a8148406743e2594c4eb9bb01d4efc77458edf5f7e3230d5188200f378d7b56",
     "title_en": "Competition propose to make all unprotected soil to be urbanized to accelerate housing construction",
     "summary_en": "The body aims at a study to simplify urban processes, to boost responsible statements, to create a single digital window and to restrict the cancellation of planning by formal errors"
-  },
-  {
-    "title": "Una nueva jornada de huelgas y protestas vuelve a desafiar a Macron en Francia",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/francia/20261105-trabajadores-y-sindicatos-vuelven-a-las-calles-en-francia-con-una-jornada-de-huelgas-y-protestas",
-    "category": "Internacional",
-    "date": "2026-11-05T12:16:10+00:00",
-    "image": "",
-    "title_en": "A new day of strikes and protests challenges Macron again in France",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "En directo: Francia registra al menos 600.000 manifestantes en una nueva jornada de protestas",
-    "summary": "Al menos 600.000 personas participaron este jueves en Francia en las movilizaciones por el poder adquisitivo y la defensa de los servicios públicos, según las primeras cifras del Ministerio del Interior. La convocatoria superó los 450.000 manifestantes estimados por los sindicatos en la protesta del 6 de octubre, una jornada comparable por su alcance y el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/francia/20261105-trabajadores-y-sindicatos-vuelven-a-las-calles-en-francia-con-una-jornada-de-huelgas-y-protestas",
-    "category": "Internacional",
-    "date": "2026-11-05T12:11:41+00:00",
-    "image": "https://s.france24.com/media/display/25898794-d931-11f1-b83a-1beafce15fea/w:1024/p:16x9/2026-11-05T143354Z-1064050300-RC2QHOA9HQHQ-RTRMADP-3-FRANCE-PROTEST.jpg",
-    "title_en": "Live: France registers at least 600,000 protesters at a new day of protests",
-    "summary_en": "At least 6 million people have been involved in public service and purchasing and defence mobilisation in France this Thursday, according to first figures from the Ministry of Internal Affairs. The call exceeded the 450,000 protesters estimated by the trade unions at the protest of October 6, a comparable day for its reach and the..."
   },
   {
     "title": "Cristiano Ronaldo anuncia su retirada de la selección portuguesa",
@@ -638,17 +781,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The 41-year-old frontman's best player in his country's history, as well as his best historic scorer."
   },
   {
-    "title": "Dafne Keen recuerda sus inicios como actriz infantil en ‘Logan’: “Con 11 años me ofrecían cocaína en las fiestas de fin de rodaje”",
-    "summary": "La intérprete hispanobritánica asegura en un ‘podcast’ que su desinterés por las drogas y el alcohol se debe a los excesos que presenció durante su infancia en Hollywood, y agradece la buena influencia que fue Hugh Jackman para ella: “Era increíblemente protector y maravilloso”",
-    "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-05/dafne-keen-recuerda-sus-inicios-como-actriz-infantil-en-logan-con-11-anos-me-ofrecian-cocaina-en-las-fiestas-de-fin-de-rodaje.html",
-    "category": "Cultura",
-    "date": "2026-11-05T10:58:31+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/TSEPWDXJ3ZD25CFOYIULHWANP4.jpg?auth=eb299c9af40da560e8ffca158c8801dee640f507d2a5a18af70dcd404e6d2e2d",
-    "title_en": "Dafne Keen recalls his start as a child actress at Logan: \"At 11 they offered me cocaine at end of shooting parties\"",
-    "summary_en": "The hyppanebritanic interpreter claims at a 'podcast' that her lack of interest in drugs and alcohol was due to the excesses she witnessed during his childhood in Hollywood and appreciates the good influence Hugh Jackman was for her: \"He was incredibly protective and wonderful\""
-  },
-  {
     "title": "\"No sabía que tenía deficiencia de vitamina D hasta que me desmayé en el trabajo\"",
     "summary": "Los médicos están constatando que la deficiencia de vitamina D está cada vez más extendida en Reino Unido, especialmente entre los jóvenes. Sin embargo, los síntomas son difíciles de detectar y pueden pasar desapercibidos.",
     "source": "BBC Mundo",
@@ -666,7 +798,7 @@ window.PLANETA_NEWS = [
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-05/colau-propone-aumentar-los-impuestos-a-ultrarricos-y-grandes-empresas-para-recaudar-10000-millones-de-euros.html",
     "category": "Economía",
     "date": "2026-11-05T10:28:48+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/CE6TBXWEG5AQRJ2WZFD54JFPXY.jpg?auth=ac533de85bd76d0c9b4f9800d37236cabbac8d9552831981eda59f22bf838c14",
+    "image": "https://imagenes.elpais.com/resizer/v2/MYTOBLTOSRAKFBRLT7N2MMRTNE.jpg?auth=edc20ab96e49b01c5d0a18b755b8e79e3ad79160f1d6b0a83c2390718972f0af",
     "title_en": "Colau proposes to increase taxes to ultra and large companies to raise 10 billion euro",
     "summary_en": "Front Expanda's candidate advocates to tax the wealth of great fortunes, the benefits of banking and housing accumulation"
   },
@@ -691,17 +823,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Pilot whales stranded in New Zealand: volunteers trying to rescue the four that are still alive",
     "summary_en": "At least 20 pilot whales were stranded onto a remote beach on New Zealand's North Island. The rescutists are trying to get four of the cetaceans back into water and they are still alive."
-  },
-  {
-    "title": "En mapas: la frontera con México vuelve a los demócratas tras su breve coqueteo con Trump",
-    "summary": "Los candidatos demócratas ganan o van por delante en todos los distritos de la Cámara de Representantes que son limítrofes con el vecino del sur",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-05/en-mapas-la-frontera-con-mexico-vuelve-a-los-democratas-tras-su-breve-coqueteo-con-trump.html",
-    "category": "Política",
-    "date": "2026-11-05T09:30:00+00:00",
-    "image": "",
-    "title_en": "On maps: the border with Mexico returns to the Democrats after his brief flirting with Trump",
-    "summary_en": "Democratic candidates gain or go ahead in every House of Representatives district that's border with South neighbor"
   },
   {
     "title": "Harry Kane renueva su contrato con el FC Bayern Múnich hasta 2029",
@@ -746,28 +867,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/SWX2LGGUDJMQBILEN42D6XRRWU.jpg?auth=41be50f12b25aaa33719333bd0eb7de663eac915247658623a183d1d3122129b",
     "title_en": "The minimum wage will rise by 5.3% in 2027, up to EUR 1,286 per month",
     "summary_en": "The final figure, currently at public hearing and soon to be adopted by the Council of Ministers, indicates an increase of 65 EUR, five more than the expert proposal"
-  },
-  {
-    "title": "Irán afirma que tres navíos se incendian en el estrecho de Ormuz",
-    "summary": "Los Guardianes de la Revolución indicaron que las naves afectadas son dos buques petroleros y un remolcador.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/irán-afirma-que-tres-navíos-se-incendian-en-el-estrecho-de-ormuz/a-79860287?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T06:37:00+00:00",
-    "image": "",
-    "title_en": "Iran claims that three ships are on fire at the Strait of Ormuz",
-    "summary_en": "The Revolutionary Guardians indicated that the ships concerned are two oil ships and a tug."
-  },
-  {
-    "title": "Francia desplegará 70.000 agentes ante nueva jornada de protestas sindicales",
-    "summary": "Los servicios de inteligencia advierten de \"riesgos\" de altercados, tras detectar a grupos que buscan generar violencia.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/francia-desplegará-70-000-agentes-ante-nueva-jornada-de-protestas-sindicales/a-79860132?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T06:03:00+00:00",
-    "image": "",
-    "title_en": "France to deploy 70,000 agents to new union protests",
-    "summary_en": "Intelligence services warn about \"risks\" of disruptions after detecting groups that seek to generate violence."
   },
   {
     "title": "¿Cómo se están moviendo las encuestas tras el accidente?",
@@ -946,17 +1045,6 @@ window.PLANETA_NEWS = [
     "summary_en": "One of the best Spanish scientists, Marta Shahbazi, died at the train crash at Urda. Her thesis director recalls that \"she had a curiosity that she never seemed to have been exhausted but also a less common quality: she knew what to do with her\""
   },
   {
-    "title": "Hong Kong: condenan a 10 años más de prisión a activista prodemocracia",
-    "summary": "El exlíder estudiantil Joshua Wong fue acusado de pedir a otros países y entidades que impusieran sanciones contra el centro financiero y China.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/hong-kong-condenan-a-10-años-más-de-prisión-a-activista-prodemocracia/a-79859813?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T04:27:00+00:00",
-    "image": "",
-    "title_en": "Hong Kong: Prodemocracy activist sentenced to 10 more years imprisonment",
-    "summary_en": "Former student leader Joshua Wong was accused of asking other countries and entities to impose sanctions against the financial centre and China."
-  },
-  {
     "title": "Orange disputará a Telefónica el mercado de seguridad de comunicaciones en sectores estratégicos",
     "summary": "La compañía lanza Orange Continuity Services para mantener operativos procesos críticos y prevenir interrupciones del servicio en administraciones públicas y grandes empresas",
     "source": "El País Economía",
@@ -1032,94 +1120,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/PUWE2EVWYRH5FIKDAFDMORA7LA.jpg?auth=64f5d09f52d401e6bf781684a211e7dc3cd5d21dfa2736cbe189af456f099659",
     "title_en": "The Asador Etxebarri, chosen the best restaurant in the world",
     "summary_en": "Gaggan, Bangkok and Alchemist, Copenhagen, have second and third place, respectively, at The 50 Best Restaurants 2026. DiverXO drops from fourth to ninth place"
-  },
-  {
-    "title": "\"Yo voté\": electores recuerdan a las víctimas de ICE en las elecciones de EE. UU.",
-    "summary": "El tema de la migración y de la violencia de la agencia ICE en Estados Unidos marcó también la jornada de las elecciones de medio mandato, en las que los demócratas dieron un golpe a Donald Trump y los republicanos. Con pegatinas que decían \"Yo voté\", electores de Minnesota y Texas rindieron un homenaje a las personas muertas en operativos migratorios…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261105-yo-vot%C3%A9-electores-recuerdan-a-las-v%C3%ADctimas-de-ice-en-las-elecciones-de-ee-uu",
-    "category": "Política",
-    "date": "2026-11-05T03:26:09+00:00",
-    "image": "https://s.france24.com/media/display/fa0e4c18-d8ad-11f1-bc56-1beafce15fea/w:1024/p:16x9/cabd208e324843ca25c2a948dbec51a192efbc7cw.jpg",
-    "title_en": "\"I voted\": voters remember ICE's victims at the U.S. elections. Estados Unidos",
-    "summary_en": "The issue of ICE's migration and violence in the U.S. also marked the day of half-term elections, with Democrats beating Donald Trump and Republicans. With stickers that say \"I voted,\" voters from Minnesota and Texas paid a tribute to people killed in immigration operations..."
-  },
-  {
-    "title": "Corea del Sur apoyará a mantener abierto Ormuz con misión militar",
-    "summary": "Autoridades de Seúl aclararon que el refuerzo tiene fines estrictamente no bélicos y que la unidad operará de manera independiente de las fuerzas aliadas.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/corea-del-sur-apoyará-a-mantener-abierto-ormuz-con-misión-militar/a-79859771?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T03:11:00+00:00",
-    "image": "",
-    "title_en": "South Korea to Support Keep Ormuz Open with Military Mission",
-    "summary_en": "Seoul authorities clarified that the strengthening has strictly non-war aims and that the Unit will operate independently from allied forces."
-  },
-  {
-    "title": "Directo midterms: Florida desafía la ola azul con ajustadas victorias republicanas",
-    "summary": "La contienda por el Distrito 27 podría no haber terminado. Aunque María Elvira Salazar mantiene una ventaja de cerca de mil votos sobre Elliot Rodríguez, la diferencia actual ronda el 0,46 %, un margen que, según la legislación electoral, podría activar un recuento automático. Además, cerca de 200 votos siguen en proceso de verificación y conteo, por lo que…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-directo-midterms-florida-desaf%C3%ADa-la-ola-azul-con-ajustadas-victorias-republicanas",
-    "category": "Política",
-    "date": "2026-11-05T02:13:04+00:00",
-    "image": "https://s.france24.com/media/display/283da72c-d8be-11f1-8eb9-695cb59fade5/w:1024/p:16x9/MIDTERMS-ALE-1.png",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Irán, Israel, Ucrania y Latinoamérica: ¿qué cambia con un Congreso de EE. UU. bajo control demócrata?",
-    "summary": "La victoria de los demócratas en las midterms, que les dejó el control de ambas cámaras del Congreso estadounidense, puede abrir un nuevo frente de oposición a Donald Trump sobre política exterior. Desde la guerra contra Irán hasta el apoyo a Ucrania e Israel, pasando por la política hacia América Latina, los legisladores podrán utilizar su poder para…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261105-ir%C3%A1n-israel-ucrania-y-latinoam%C3%A9rica-qu%C3%A9-cambia-con-un-congreso-de-ee-uu-bajo-control-dem%C3%B3crata",
-    "category": "Política",
-    "date": "2026-11-05T02:09:12+00:00",
-    "image": "https://s.france24.com/media/display/7cf16ac4-6014-11f1-9e62-005056a90284/w:1024/p:16x9/AP26077712322034.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Israel sigue sin una mayoría clara y Herzog insta a los partidos a alcanzar acuerdos",
-    "summary": "Las conversaciones para formar gobierno siguen abiertas en Israel después de unas elecciones en las que ningún bloque consiguió los escaños necesarios para gobernar en solitario. El presidente Isaac Herzog inició una ronda de consultas con los líderes de los principales partidos y llamó a la conciliación para evitar un nuevo periodo de parálisis política.…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-israel-sigue-sin-una-mayor%C3%ADa-clara-y-herzog-insta-a-los-partidos-a-alcanzar-acuerdos",
-    "category": "Política",
-    "date": "2026-11-05T02:07:45+00:00",
-    "image": "https://s.france24.com/media/display/93bb843c-d8b0-11f1-a940-a575454bc579/w:1024/p:16x9/ES-20261104-190724-190920-CS.jpg",
-    "title_en": "mainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "El papa León XIV visitará Zaña, el pueblo marcado por la tragedia en Perú",
-    "summary": "Durante siglos, Zaña, en el norte de Perú, ha estado rodeada de relatos sobre tragedias y una supuesta maldición desde que una devastadora inundación destruyó gran parte de la ciudad colonial en el siglo XVIII. Hoy, este pueblo de unos 4.000 habitantes se prepara para un acontecimiento histórico: la visita del papa al santuario de Santo Toribio de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-el-papa-le%C3%B3n-xiv-visitar%C3%A1-za%C3%B1a-el-pueblo-que-lleva-una-supuesta-maldici%C3%B3n-en-per%C3%BA",
-    "category": "Internacional",
-    "date": "2026-11-05T02:03:15+00:00",
-    "image": "https://s.france24.com/media/display/b47d96f2-d8b9-11f1-bb5c-a575454bc579/w:1024/p:16x9/ES-20261104-201615-201759-CS.jpg",
-    "title_en": "Pope Leo XIV will visit Zaña, the people marked by the tragedy in Peru",
-    "summary_en": "For centuries, Zaña, in northern Peru, has been surrounded by accounts about tragedies and an alleged curse since a devastating flood destroyed much of the colonial town in the 18th century. Today, this town with about 4,000 inhabitants prepares for a historic event: the Pope's visit to the sanctuary of Santo Toribio from..."
-  },
-  {
-    "title": "¿Qué tan lejos puede llegar el poder de veto de Donald Trump en el Congreso de EE. UU.?",
-    "summary": "La victoria del Partido Demócrata en las elecciones de mitad de mandato dejó a Donald Trump frente a un Congreso controlado por la oposición. Aunque los demócratas podrán impulsar leyes, investigaciones y mayor supervisión sobre la Casa Blanca, el presidente conserva una herramienta clave: el veto. ¿Puede usarlo para frenar la agenda del Congreso? Carlos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-qu%C3%A9-tan-lejos-puede-llegar-el-poder-de-veto-de-donald-trump-en-el-congreso-de-ee-uu",
-    "category": "Deportes",
-    "date": "2026-11-05T02:00:07+00:00",
-    "image": "https://s.france24.com/media/display/803840d2-d8b8-11f1-be67-d18c5759e759/w:1024/p:16x9/ES-20261104-200416-200938-CS.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Maureen Meyer: \"ni el Partido Republicano ni el Demócrata han logrado conquistar el voto latino\"",
-    "summary": "El voto latino volvió a demostrar que no puede entenderse como un bloque único ni como un electorado fiel a un solo partido. En las elecciones de mitad de mandato, los jóvenes latinos tuvieron un papel clave, pero sus prioridades fueron tan diversas como la propia comunidad: economía, inmigración, educación, seguridad y costo de vida. Mientras algunos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261105-maureen-meyer-ni-el-partido-republicano-ni-el-dem%C3%B3crata-han-logrado-conquistar-el-voto-latino",
-    "category": "Deportes",
-    "date": "2026-11-05T01:56:40+00:00",
-    "image": "https://s.france24.com/media/display/cdcd40c4-d8bb-11f1-b8ea-a575454bc579/w:1024/p:16x9/ES-20261103-220149-220316-CS.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
     "title": "La debacle de las elecciones de medio mandato debilita a Trump, pero por ahora aún conserva poder",
@@ -1199,14 +1199,14 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "Los expertos de Trabajo expresan su inquietud porque las subidas del salario mínimo no impulsen más el resto de sueldos",
-    "summary": "Trabajo ha comunicado este miércoles a sindicatos y patronal las recomendaciones de los especialistas, que instan al Gobierno a “potenciar otras herramientas” además del SMI para mejorar las condiciones laborales",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-04/los-expertos-de-trabajo-expresan-su-inquietud-porque-las-subidas-del-salario-minimo-no-impulsen-mas-el-resto-de-sueldos.html",
-    "category": "Política",
-    "date": "2026-11-04T15:00:29+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/JLSAOYZM6NB3DMNSR27BIBH5CQ.jpg?auth=032d1684b82e5e027a76863e85c10a2050a06a0f82fadbbdf6959aa57a75d140",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
+    "title": "Muere el director italiano de cine erótico Tinto Brass, el \"más censurado\" de su tiempo",
+    "summary": "Tinto Brass, conocido principalmente por su película de culto \"Calígula\", murió el miércoles a los 93 años, informó su familia a la agencia de noticias ANSA.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/muere-el-director-italiano-de-cine-erótico-tinto-brass-el-más-censurado-de-su-tiempo/a-79855894?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Cultura",
+    "date": "2026-11-04T14:26:00+00:00",
+    "image": "",
+    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
+    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   }
 ];
