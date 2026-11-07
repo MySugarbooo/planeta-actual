@@ -1,36 +1,289 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Crisis en Paraguay: el Congreso emprende un juicio político contra Santiago Peña y deja en suspenso su renuncia como presidente",
-    "summary": "El presidente de Paraguay dimitió en medio de la crisis desatada por la intervención de Ueno Bank. El Congreso iniciará este mismo jueves un juicio político contra Peña después de no tener quorum para decidir si aceptaba o no su renuncia.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.co.uk/mundo/live/cmgr8vrv5w55t?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-11-06T21:31:46.076342+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f750/live/21f39400-d948-11f1-93e1-3b657b665bcf.jpg",
-    "title_en": "Paraguay's Crisis: Congress Begins Political Trial of Santiago Peña and Resigns as President",
-    "summary_en": "The president of Paraguay resigned amidst the crisis unleashed by Ueno Bank's intervention. The Congress will start a political trial with Peña this Thursday after we have no quorum to decide whether or not to accept his resignation."
-  },
-  {
-    "title": "Crisis en Paraguay: presentan los alegatos finales del juicio político al presidente Santiago Peña",
-    "summary": "El Senado de Paraguay avanza con el juicio político al presidente Santiago Peña por el escándalo desatado tras la caída de Ueno Bank.",
+    "title": "Crisis en Paraguay: detienen a Santiago Peña en su domicilio tras su destitución por el Congreso en juicio político",
+    "summary": "Pedro Alliana juró como presidente de Paraguay minutos después de que los legisladores aprobaran la destitución de Peña por el escándalo desatado por la caída de Ueno Bank.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
     "category": "Política",
-    "date": "2026-11-06T21:31:46.071245+00:00",
+    "date": "2026-11-07T01:57:47.735309+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3035/live/e2f8de40-d9d8-11f1-9e5a-c30c5e3d8c85.jpg",
-    "title_en": "Paraguay's Crisis: Final Promises to President Santiago Peña",
-    "summary_en": "The Paraguayan Senate advanced with the political trial of President Santiago Peña about the scandal unleashed after Ueno Bank's fall."
+    "title_en": "Paraguayan crisis: Santiago Peña arrested at his home after his dismissal by Congress at political trial",
+    "summary_en": "Pedro Alliana swore as president of Paraguay minutes after lawmakers passed Peña's dismissal as a result of the scandal unleashed by Ueno Bank's fall."
   },
   {
-    "title": "Carlos Alcaraz - Taylor Fritz, el partido de cuartos de final del Masters ATP de París en vivo|Alcaraz se lleva el segundo set e iguala el partido",
-    "summary": "El español busca acceder por primera vez a las semifinales de un torneo que se le ha complicado históricamente",
+    "title": "¿Quién es Stephen Miller? El hombre elegido por Trump para dirigir su gabinete",
+    "summary": "El presidente de Estados Unidos, Donald Trump, nombró a Stephen Miller como nuevo jefe de gabinete de la Casa Blanca en sustitución de Susie Wiles. Considerado uno de los asesores más cercanos al mandatario y uno de los principales arquitectos de su política migratoria de línea dura.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-qui%C3%A9n-es-stephen-miller-el-hombre-elegido-por-trump-para-dirigir-su-gabinete",
+    "category": "Política",
+    "date": "2026-11-07T01:19:23+00:00",
+    "image": "https://s.france24.com/media/display/e4ccbd52-da20-11f1-92bf-a575454bc579/w:1024/p:16x9/000-D6PN3T3.jpg",
+    "title_en": "Who's Stephen Miller? The man chosen by Trump to run his office",
+    "summary_en": "U.S. President Donald Trump appointed Stephen Miller as his new head of office at the White House to replace Susie Wiles. Considered as one of his closest counselors to his office and one of his leading architects of his hard-line migration policy."
+  },
+  {
+    "title": "Comienzan los pagos a ahorristas de Ueno Bank en Paraguay bajo ciertos requisitos",
+    "summary": "El Banco Central del Paraguay inició la devolución de depósitos a clientes de Ueno Bank, intervenido por problemas de solvencia. En esta primera etapa, los pagos están dirigidos a pequeños ahorristas que cumplen con los requisitos establecidos por las autoridades. La medida llega en medio de críticas, protestas e incertidumbre sobre la recuperación de los…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-comienzan-los-pagos-a-ahorristas-de-ueno-bank-en-paraguay-bajo-ciertos-requisitos",
+    "category": "Economía",
+    "date": "2026-11-07T01:15:27+00:00",
+    "image": "https://s.france24.com/media/display/b95bf306-da46-11f1-a7d4-bf1914cabd52/w:1024/p:16x9/ES-20261106-190925-191059-CS.jpg",
+    "title_en": "Ueno Bank's Safer Payments Begin Paraguay Under Certain Requirements",
+    "summary_en": "The Central Bank of Paraguay initiated the refund of deposits to Ueno Bank's customers, with solvency problems. At this first stage, payments are directed at small savers that meet the requirements established by the authorities. The measure comes amidst criticism, protests and uncertainty about the recovery of..."
+  },
+  {
+    "title": "Informe desde Asunción: la caída de Peña desata celebraciones; Alliana se juramenta como presidente",
+    "summary": "La crisis política en Paraguay sumó un nuevo capítulo tras la destitución de Santiago Peña por parte del Senado y su posterior detención. Mientras algunos manifestantes celebraban en las calles, otros anunciaron movilizaciones hacia la residencia del exmandatario. Fiscales señalaron que Peña podría enfrentar cargos por presunta lesión de confianza y…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-la-ca%C3%ADda-de-pe%C3%B1a-desata-celebraciones-alliana-se-juramenta-como-presidente",
+    "category": "Política",
+    "date": "2026-11-07T01:12:35+00:00",
+    "image": "https://s.france24.com/media/display/63d35e58-da44-11f1-bd63-bf1914cabd52/w:1024/p:16x9/ES-20261106-190230-190634-CS.jpg",
+    "title_en": "Report from Asunción: Peña's fall unleashes celebrations and Alliana's sworn president",
+    "summary_en": "The political crisis in Paraguay added a new chapter after the Senate's dismissal and subsequent detention of Santiago Peña. While some protesters held in the streets, others announced mobilizations to the former president's residence. Prosecutors stated that Peña could face charges for alleged confidence damage and..."
+  },
+  {
+    "title": "Informe desde Montevideo: así será la agenda del papa León XIV en Uruguay",
+    "summary": "El papa León XIV inició en Uruguay su gira por Sudamérica con una agenda que incluye reuniones con autoridades, encuentros con la Iglesia local, una visita a Paysandú, actividades con el mundo de la educación y una vigilia de oración en el Estadio Centenario. También presidirá una misa en Florida antes de partir hacia Argentina. En informe es de nuestra…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-informe-desde-montevideo-as%C3%AD-ser%C3%A1-la-agenda-del-papa-le%C3%B3n-xiv-en-uruguay",
+    "category": "Internacional",
+    "date": "2026-11-07T01:11:04+00:00",
+    "image": "https://s.france24.com/media/display/3a09f734-da45-11f1-832a-695cb59fade5/w:1024/p:16x9/ES-20261106-191132-191321-CS-01.jpg",
+    "title_en": "Report from Montevideo: this will be the agenda of Pope Leo XIV in Uruguay",
+    "summary_en": "Pope Leo XIV began his South American tour with an agenda that includes meetings with authorities, meetings with the local Church, a visit to Paysandu, activities with the world of education and a prayer vigil at the Centennial Stadium. He will also preside at a mass in Florida before leaving for Argentina. The report's from our..."
+  },
+  {
+    "title": "Informe desde Asunción: manifestantes celebran la destitución de Santiago Peña en Paraguay",
+    "summary": "La destitución de Santiago Peña desató escenas de celebración en las calles de Paraguay. Tras días de protestas y creciente presión ciudadana por la crisis vinculada a Ueno Bank, manifestantes salieron a las calles para exigir un juicio político al ahora expresidente. El Senado lo declaró culpable por \"mal desempeño de funciones\" y lo apartó del cargo. El…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-informe-desde-asunci%C3%B3n-manifestantes-celebran-la-destituci%C3%B3n-de-santiago-pe%C3%B1a-en-paraguay",
+    "category": "Política",
+    "date": "2026-11-07T01:09:42+00:00",
+    "image": "https://s.france24.com/media/display/7f3c9de0-da43-11f1-a2fb-d18c5759e759/w:1024/p:16x9/ES-20261106-180147-180334-CS-01.jpg",
+    "title_en": "Report from Asunción: protesters celebrate Santiago Peña's dismissal in Paraguay",
+    "summary_en": "Santiago Peña's dismissal unleashed scenes of celebration in Paraguay's streets. Following days of protests and growing public pressure about the Ueno Bank crisis, protesters went to the streets to demand a political trial from the currently expressive. The Senate found him guilty of \"bad performance\" and put him from office. The..."
+  },
+  {
+    "title": "Israel espera decisión de Herzog: Eisenkot dice tener ventaja para formar gobierno",
+    "summary": "El presidente de Israel, Isaac Herzog, concluyó las consultas con los partidos y anunció que este domingo designará al candidato encargado de formar gobierno. Quien reciba el mandato tendrá 28 días, prorrogables por otros 14, para construir una coalición. Si fracasa, el encargo pasará a otro aspirante y, de no lograrse una mayoría, el país podría volver a…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-israel-espera-decisi%C3%B3n-de-herzog-eisenkot-dice-tener-ventaja-para-formar-gobierno",
+    "category": "Política",
+    "date": "2026-11-07T01:08:10+00:00",
+    "image": "https://s.france24.com/media/display/1eb0beb2-da29-11f1-a8a8-d18c5759e759/w:1024/p:16x9/ES-20261106-140907-141059-CS.jpg",
+    "title_en": "Israel expects Herzog's decision: Eisenkot claims to have an advantage to form government",
+    "summary_en": "The president of Israel, Isaac Herzog, concluded his consultations with the parties and announced that his party will be elected to form his government. A person with his or her mandate will have 28 days, with an extension for another 14, to build a coalition. If it fails, the assignment will pass to another seeker and if a majority isn't achieved, the country could come back to..."
+  },
+  {
+    "title": "Arrestan a inmigrante venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según las autoridades",
+    "summary": "\"Cuando lo confrontaron, el hombre dijo que escuchaba voces en su cabeza que le ordenaban viajar a Washington DC para matar al presidente Trump\", informó el Departamento de Seguridad Nacional.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cvlyddxr5kz1o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-07T01:02:01+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2bd/live/b3c32680-da3c-11f1-bbee-f5614d7cfeb4.jpg",
+    "title_en": "Armed Venezuelan immigrant arrested near the White House threatening to attack Trump, authorities say",
+    "summary_en": "\"When they confronted him, the man said that he heard voices in his head that ordered him to travel to Washington DC to kill President Trump,\" the National Security Department reported."
+  },
+  {
+    "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
+    "summary": "Agentes federales han irrumpido en la residencia de ancianos donde vive Thomas Markle después de encontrar material pornográfico con menores en dos trasteros alquilados de Los Ángeles. Markle podría enfrentar 20 años de cárcel",
     "source": "El País",
-    "url": "https://elpais.com/deportes/2026-11-06/carlos-alcaraz-taylor-fritz-el-partido-de-cuartos-de-final-del-masters-atp-de-paris-en-vivo.html",
+    "url": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
+    "category": "Internacional",
+    "date": "2026-11-07T00:55:41+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/L3NDOYWHDJE2DA5HLKDFY6OPCM.jpg?auth=fcd34bee6aa3009ad51bc5620dc79b1ff2a029de14338e6fb34b3280af8e2c03",
+    "title_en": "Meghan Markle's father is arrested in Florida for possession of child pornography",
+    "summary_en": "Federal agents have been breaking into an old man's residence where Thomas Markle lives after finding porn with minors at two rental storage rooms in LA. Markle could face 20 years in jail"
+  },
+  {
+    "title": "Casa Blanca mantiene proyecto del arco del triunfo en Washington pese a revés judicial",
+    "summary": "La jueza Tanya Chutkan había bloqueado la construcción del monumento, mientras se revisan las impugnaciones sobre la legalidad de Trump.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/casa-blanca-mantiene-proyecto-del-arco-del-triunfo-en-washington-pese-a-revés-judicial/a-79882868?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-07T00:55:00+00:00",
+    "image": "",
+    "title_en": "White House keeps project of the arch of triumph in Washington despite judicial backlash",
+    "summary_en": "Judge Tanya Chutkan had blocked the construction of the monument while challenges about Trump's legality are reviewed."
+  },
+  {
+    "title": "¿Regulación o burbuja? Qué hay detrás de la caída de las tecnológicas luego de las midterms en EE. UU.",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261107-regulaci%C3%B3n-o-burbuja-qu%C3%A9-hay-detr%C3%A1s-de-la-ca%C3%ADda-de-las-tecnol%C3%B3gicas-luego-de-las-midterms-en-ee-uu",
+    "category": "Tecnología",
+    "date": "2026-11-07T00:24:49+00:00",
+    "image": "",
+    "title_en": "Regulation or bubble? What's after the fall of technologies after midterms in the U.S.? Estados Unidos",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "El Papa llega al país más laico de Sudamérica con un mensaje contra el aborto y la eutanasia",
+    "summary": "La visita a Uruguay genera más interés en la clase política que en la ciudadanía. Su postura humanista y la preocupación por la justicia social, la migración y la IA coinciden con valores arraigados en los uruguayos",
+    "source": "El País",
+    "url": "https://elpais.com/america/2026-11-07/el-papa-llega-al-pais-mas-laico-de-sudamerica-con-un-mensaje-contra-el-aborto-y-la-eutanasia.html",
+    "category": "Política",
+    "date": "2026-11-07T00:10:28+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/JR5ZJ2DR7FKQPC4BMRO25XKI4Y.jpg?auth=188e4a8486787b26346821d4b88cc7657a43a9e9bedeefb53feb38248d29f42f",
+    "title_en": "The Pope arrives in South America with a message against abortion and euthanasia",
+    "summary_en": "The visit to Uruguay generates more interest in the political class than in citizenship. His humanist posture and concern about social justice, migration and IA coincide with values rooted in the Uruguayan"
+  },
+  {
+    "title": "El fallido acuerdo de Trump sobre el diésel: ¿por qué los petroleros rusos no se dirigen a EE. UU.?",
+    "summary": "Los primeros buques petroleros que debían entregar diésel ruso a Estados Unidos en virtud de un acuerdo entre el presidente Donald Trump y su homólogo ruso Vladimir Putin han cambiado de rumbo y ya no se dirigen a la costa estadounidense. Esto supone probablemente el fin de un pacto anunciado con bombos y platillos antes de las elecciones de mitad de…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/econom%C3%ADa-y-tecnolog%C3%ADa/20261107-el-fallido-acuerdo-de-trump-sobre-el-di%C3%A9sel-por-qu%C3%A9-los-petroleros-rusos-no-se-dirigen-a-ee-uu",
+    "category": "Política",
+    "date": "2026-11-07T00:00:11+00:00",
+    "image": "https://s.france24.com/media/display/583fe45e-d93a-11f1-9d4e-bf1914cabd52/w:1024/p:16x9/image-tanker-diesel3.png",
+    "title_en": "Trump's bad agreement about diesel: why aren't Russian oil tankers going to America? U.S.?",
+    "summary_en": "The first oil ships to surrender Russian diesel to the U.S. under an agreement between President Donald Trump and his Russian counterpart Vladimir Putin have been changing their course and are no longer headed to the U.S. coast. That's probably an end to an announced pact with light and sauces before the mid-term elections of..."
+  },
+  {
+    "title": "El presidente de Paraguay, Santiago Peña, destituido y detenido por presunta corrupción",
+    "summary": "El Senado aprueba con los votos de todos los legisladores del oficialismo la muerte política del mandatario, alcanzado por un escándalo financiero. El vicepresidente Pedro Alliana es juramentado como nuevo jefe de Estado",
+    "source": "El País",
+    "url": "https://elpais.com/america/2026-11-06/santiago-pena-destituido-por-el-congreso-como-presidente-de-paraguay.html",
+    "category": "Política",
+    "date": "2026-11-06T23:56:54+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/HXTR3USNCZLYXDDU25MKXBW3HA.jpg?auth=7ee85a61b126d7b696770ed8d4f60f763d405a8b86f2c513b62776171e0a3b0a",
+    "title_en": "Paraguay's President, Santiago Peña, dismissed and arrested for alleged corruption",
+    "summary_en": "The Senate approves with the votes of all public officials the political death of the president, achieved by a financial scandal. Vice President Pedro Alliana is sworn as new head of state"
+  },
+  {
+    "title": "El expresidente de Paraguay Santiago Peña queda bajo arresto domiciliario tras ser destituido por el Congreso por el escándalo de Ueno Bank",
+    "summary": "Peña fue apartado del cargo y se enfrenta ahora a posibles responsabilidades penales por su papel en el escándalo de Ueno Bank.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-06T23:56:32+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0127/live/63aa53d0-da28-11f1-a78c-49bd6dfbb9b5.jpg",
+    "title_en": "Paraguay's former president Santiago Peña remains under house arrest after his dismissal by Congress for the Ueno Bank scandal",
+    "summary_en": "Peña was put from office and currently faces potential criminal liability for his role in the Ueno Bank scandal."
+  },
+  {
+    "title": "Quién es Pedro Alliana, el nuevo presidente de Paraguay con el que busca rearmarse el poderoso Partido Colorado",
+    "summary": "Pedro Alliana fue juramentado este viernes como nuevo presidente de Paraguay, tras el juicio político con el que el Congreso sacó del cargo a Santiago Peña.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cmqjnn8jrqq0o?at_medium=RSS&at_campaign=rss",
     "category": "Deportes",
-    "date": "2026-11-06T21:27:04+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/5IVQCT4AXJLZ3PWLT7KXQKTE6I.jpg?auth=096454ea126fe2e1d8ba368d9844dbd5563127a46877987985a76f77ed7700fa",
-    "title_en": "Carlos Alcaraz - Taylor Fritz, the final quarter match of Paris's ATP Masters live) 124. Alcaraz takes second set and equals the match",
-    "summary_en": "The Spanish seeks first to gain access to the semifinals of a tournament that has been historically complicated"
+    "date": "2026-11-06T23:48:43+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c3f8/live/e6e0a8b0-da39-11f1-959c-e95bd2c2a35f.jpg",
+    "title_en": "Who's Pedro Alliana, Paraguay's new president with whom his powerful Colorado Party wants to get back together",
+    "summary_en": "Pedro Alliana was sworn to his office this Friday as Paraguay's new president after a political trial with which Congress put Santiago Peña out of office."
+  },
+  {
+    "title": "Trump nombra a Stephen Miller, el \"arquitecto\" de su dura política migratoria, como nuevo jefe de gabinete de la Casa Blanca",
+    "summary": "En una publicación en Truth Social, Trump señaló que Susie Wiles, a quien sucederá Miller, hizo un trabajo \"sobresaliente\" y que pasará a formar parte de la \"Operación política de Trump\".",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c90k001drxxko?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-06T23:39:40+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c26/live/d3456da0-da1f-11f1-bba7-b50f1faa7672.png",
+    "title_en": "Trump appoints Stephen Miller, the \"architect\" of his harsh migration policy as his new head of office at the White House",
+    "summary_en": "In a paper at Social Truth, Trump noted that Susie Wiles, to whom Miller will succeed, did an \"outstanding\" work and became part of the \"Trump Political Operation.\""
+  },
+  {
+    "title": "En vivo: Detenido por la policía el presidente destituido Santiago Peña en Paraguay",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+    "category": "Política",
+    "date": "2026-11-06T23:37:33+00:00",
+    "image": "",
+    "title_en": "En vivo: Detained by police president dismissed Santiago Peña in Paraguay",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "En directo: Detenido por la policía el presidente destituido Santiago Peña en Paraguay",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+    "category": "Política",
+    "date": "2026-11-06T23:22:08+00:00",
+    "image": "",
+    "title_en": "En vivo: Detained by police president dismissed Santiago Peña in Paraguay",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Informe desde Asunción: comienzan pagos a ahorristas de Ueno Bank",
+    "summary": "El Banco Central del Paraguay (BCP) comenzó la devolución de depósitos a los clientes de Ueno Bank, intervenido por problemas de solvencia. En esta primera etapa, los pagos están dirigidos a ahorristas con depósitos de hasta 1.600 dólares siempre que no tengan deudas con la entidad y cuenten con una cuenta en otro banco para recibir los fondos. Según datos…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261106-informe-desde-asunci%C3%B3n-comienzan-pagos-a-ahorristas-de-ueno-bank",
+    "category": "Economía",
+    "date": "2026-11-06T23:05:37+00:00",
+    "image": "https://s.france24.com/media/display/7eed4a64-da26-11f1-853e-1beafce15fea/w:1024/p:16x9/ES-20261106-130234-130412-CS.jpg",
+    "title_en": "Report from Asunción: payments to Ueno Bank's savers start",
+    "summary_en": "The Central Bank of Paraguay (BCP) began the refund of deposits to Ueno Bank's customers, with a response to solvency problems. At this first stage, payments are directed at savers with deposits up to $1,600 as long as they have no debts with the entity and have an account at another bank to receive the funds. According to information..."
+  },
+  {
+    "title": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
+    "summary": "Vásquez es el accionista mayoritario del Grupo Vásquez, empresa dueña de Ueno Bank en Paraguay",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o?at_medium=RSS&at_campaign=rss",
+    "category": "Deportes",
+    "date": "2026-11-06T22:52:18+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df6b/live/bed1f1a0-da1e-11f1-bba7-b50f1faa7672.jpg",
+    "title_en": "Who's Miguel Vázquez, the millennial banker and athlete at the heart of Paraguay's crisis",
+    "summary_en": "Vásquez is the majority shareholder of the Vásquez Group, a company owned by Ueno Bank in Paraguay"
+  },
+  {
+    "title": "En directo: Fiscalía de Paraguay ordena la detención de Santiago Peña tras su destitución",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+    "category": "Internacional",
+    "date": "2026-11-06T22:52:12+00:00",
+    "image": "",
+    "title_en": "En vivo: Procuraduría de Paraguay ordenes la detención de Santiago Peña after his dismissal",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña fue destituido como presidente de Paraguay",
+    "summary": "La intervención de Ueno Bank, una de las mayores entidades financieras de Paraguay, ha sacudido al sistema bancario del país y su cúpula política.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-06T22:30:31+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbfc/live/8b5d7180-d93f-11f1-95ea-8df9a040b6bf.jpg",
+    "title_en": "What's Ueno Bank and what caused the crisis that Santiago Peña was dismissed as president of Paraguay",
+    "summary_en": "The intervention of Ueno Bank, one of Paraguay's largest financial institutions, has shaken the country's banking system and its political leadership."
+  },
+  {
+    "title": "En directo: Senado paraguayo aprueba la destitución de Santiago Peña tras un juicio político en ausencia",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-paraguay-santiago-pe%C3%B1a-pide-una-pr%C3%B3rroga-para-defenderse-del-juicio-pol%C3%ADtico",
+    "category": "Política",
+    "date": "2026-11-06T22:15:11+00:00",
+    "image": "",
+    "title_en": "En vivo: Paraguayan Senate approves of Santiago Peña's dismissal after a political trial in his absence",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Alcaraz pone a París en pie y premia a Jódar, ya maestro",
+    "summary": "El murciano salva dos bolas de partido ante Fritz (6-7(10), 7-5 y 6-3) y accede a las semifinales. Su triunfo y el de Shelton clasifican al madrileño para la cita de Turín",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/tenis/2026-11-06/alcaraz-pone-a-paris-en-pie-y-premia-a-jodar-ya-maestro.html",
+    "category": "Deportes",
+    "date": "2026-11-06T22:14:02+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2AIYV4BCWJLHRBKJUUF7BWFEJI.jpg?auth=c9a5a3e52bcfc2b631501776c44e79b2c74e374d5dda90f4519539546944f53f",
+    "title_en": "Alcaraz puts Paris up and rewarded Jodar, and his teacher",
+    "summary_en": "The bat saves two party balls before Fritz (6-7 (10), 7-5 and 6-3) and accesses the semifinals. His triumph and Shelton's have been his name and his name for his date."
+  },
+  {
+    "title": "Stephen Miller, el arquitecto de las deportaciones masivas de Trump, es promovido tras la debacle electoral",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261106-stephen-miller-el-arquitecto-de-las-deportaciones-masivas-de-trump-es-promovido-tras-la-debacle-electoral",
+    "category": "Política",
+    "date": "2026-11-06T21:48:40+00:00",
+    "image": "",
+    "title_en": "Stephen Miller, architect of Trump's mass deportations, was advanced after his electoral debacle",
+    "summary_en": "See details at the original source."
   },
   {
     "title": "Quién es Stephen Miller, el arquitecto de la dura política migratoria de Trump designado nuevo jefe de gabinete de la Casa Blanca",
@@ -88,17 +341,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Pope Leo XIV began an apostolic tour of Uruguay, Argentina and Peru, a journey that strengthens the links of the Catholic Church with Latin America and marks his return to a region with which he has a close personal and pastoral relationship. Martial Sánchez Gaete, a doctor and expert in the history of the Catholic Church, addresses the issue in France..."
   },
   {
-    "title": "Quién es Miguel Vázquez, el banquero milenial y atleta en el centro de la crisis de Paraguay",
-    "summary": "Vásquez es el accionista mayoritario del Grupo Vásquez, empresa dueña de Ueno Bank en Paraguay",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cwzd6684mgv5o?at_medium=RSS&at_campaign=rss",
-    "category": "Deportes",
-    "date": "2026-11-06T20:46:25+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df6b/live/bed1f1a0-da1e-11f1-bba7-b50f1faa7672.jpg",
-    "title_en": "Who's Miguel Vázquez, the millennial banker and athlete at the heart of Paraguay's crisis",
-    "summary_en": "Vásquez is the majority shareholder of the Vásquez Group, a company owned by Ueno Bank in Paraguay"
-  },
-  {
     "title": "El Consejo de Estado da vía libre al decreto de los centros de datos y podrá aprobarse antes del 29-N",
     "summary": "El órgano consultivo frena la ofensiva judicial y reglamentaria de energéticas y tecnológicas al respaldar por unanimidad la competencia estatal, el rango normativo y la tramitación de urgencia",
     "source": "El País",
@@ -121,17 +363,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The meeting of Valencia, more contained than previous and without dances, begins with a minute's silence for Urda's victims. The president claims \"exemplarity\" for the resignation of Puente in an event that goes beyond expectations of influx"
   },
   {
-    "title": "La visita del Papa León XIV en Uruguay, en vivo | El Papa: “Estoy orgulloso de ser estadounidense y haber ejercido mi derecho al voto”",
-    "summary": "El Pontífice inicia su gira sudamericana por Uruguay, Argentina y Perú, que se extenderá hasta el 17 de noviembre",
-    "source": "El País",
-    "url": "https://elpais.com/america/2026-11-06/la-visita-del-papa-leon-xiv-en-uruguay-en-vivo.html",
-    "category": "Internacional",
-    "date": "2026-11-06T20:13:51+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FP2ARUKKQNAYVFN75UBW6QOS5Y.jpg?auth=7e2f64093faf9132d91e7448649cf57d94eb05c4905caef0f2013295b4e2bfb9",
-    "title_en": "Pope Leo XIV's visit to Uruguay, live) 124 The Pope: \"I'm proud to be an American and have exercised my right to vote\"",
-    "summary_en": "The Pontiff begins his South American tour of Uruguay, Argentina and Peru, which will extend until November 17"
-  },
-  {
     "title": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca",
     "summary": "El nombramiento del hasta ahora asesor de política interna apunta a un giro más duro de la Administración tras la derrota de los republicanos en las elecciones de mitad de mandato",
     "source": "El País",
@@ -141,17 +372,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/4CIBN4N7DJESTFEM2RYMRH4C74.jpg?auth=3dcd04b77cddea996d56a8763779bf9338bf20cea73d6ab9ac5be7a41ae5e1f6",
     "title_en": "Trump appoints his immigration policy architect, Stephen Miller, as his new Chief of Staff at the White House",
     "summary_en": "The appointment of an internal policy advisor so far points to a tougher shift by the Administration after the Republicans have been defeated at the midterm elections"
-  },
-  {
-    "title": "Trump nombra a Stephen Miller, el \"arquitecto\" de su política migratoria, como nuevo jefe de gabinete de la Casa Blanca",
-    "summary": "En una publicación en Truth Social, Trump señaló que Susie Wiles, a quien sucederá Miller, hizo un trabajo \"sobresaliente\" y que pasará a formar parte de la \"Operación política de Trump\".",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c90k001drxxko?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-11-06T19:50:26+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5c26/live/d3456da0-da1f-11f1-bba7-b50f1faa7672.png",
-    "title_en": "Trump appoints Stephen Miller, the \"architect\" of his migration policy as his new head of office at the White House",
-    "summary_en": "In a paper at Social Truth, Trump noted that Susie Wiles, to whom Miller will succeed, did an \"outstanding\" work and became part of the \"Trump Political Operation.\""
   },
   {
     "title": "¿Adónde va el Partido Colorado? El desorden paraguayo tras los señalamientos a Santiago Peña",
@@ -174,6 +394,17 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Pope Leo XIV lands in Uruguayan territory and thus begins his Apostolic Tour of South America",
     "summary_en": "See details at the original source."
+  },
+  {
+    "title": "De vuelta a casa: el papa León XIV inicia en Uruguay su gira apostólica por América del Sur",
+    "summary": "Menos de un mes después de haber sido operado por un cáncer de pulmón, León XIV inicia una de las visitas pastorales más desafiantes para un pontífice, un recorrido de 12 días que también lo llevará a Argentina y a Perú, su segundo hogar. Se espera que el papa se reúna este 6 de noviembre con el presidente uruguayo Yamandú Orsi, antes de visitar la Catedral…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261106-el-papa-le%C3%B3n-xiv-aterriza-en-territorio-uruguayo-e-inicia-as%C3%AD-su-gira-apost%C3%B3lica-por-am%C3%A9rica-del-sur",
+    "category": "Salud",
+    "date": "2026-11-06T19:27:00+00:00",
+    "image": "https://s.france24.com/media/display/a73cf83e-da49-11f1-8476-695cb59fade5/w:1024/p:16x9/2026-11-07T000115Z-1484567098-RC2NIOA3O5P7-RTRMADP-3-POPE-LATAM-URUGUAY.jpg",
+    "title_en": "Back home: Pope Leo XIV begins his Apostolic tour of South America in Uruguay",
+    "summary_en": "Less than a month after being operated by lung cancer, Leo XIV starts one of his most challenging pastoral visits for a pontif, a 12-day tour that will also lead him to Argentina and Peru, his second home. The pope is expected to meet with Uruguayan President Yamandú Orsi on 6 November, before visiting the Cathedral..."
   },
   {
     "title": "Directo a... Bruselas y la investigación de la UE por presunto fraude de fondos europeos en España",
@@ -220,17 +451,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Ueno Bank's intervention in Paraguay raises questions about how many million users have been deposited and how their savings have been returned. The Deposit Guarantee Fund includes resources to respond to those affected but there are statutory limits of up to $37,000 per person. To this uncertainty are added about 850 million..."
   },
   {
-    "title": "Derrumbe en la bolsa de Taiwán tras desplome de las tecnológicas en Wall Street",
-    "summary": "Las bolsas asiáticas registraron fuertes pérdidas arrastradas por la ola de ventas en Wall Street y la incertidumbre sobre posibles regulaciones a la industria de inteligencia artificial en Estados Unidos. El índice taiwanés TAIEX llegó a caer un 8,85 % durante la jornada, mientras TSMC perdió hasta un 9,8 % y United Microelectronics se desplomó un 17 %.…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261106-derrumbe-en-la-bolsa-de-taiw%C3%A1n-tras-desplome-de-las-tecnol%C3%B3gicas-en-wall-street",
-    "category": "Tecnología",
-    "date": "2026-11-06T19:06:00+00:00",
-    "image": "https://s.france24.com/media/display/06aa6c20-d9eb-11f1-9d2e-695cb59fade5/w:1024/p:16x9/AP23030118476251.jpg",
-    "title_en": "It defeates into Taiwan's stock market after the collapse of technologies at Wall Street",
-    "summary_en": "The Asian stock markets have found high losses brought about by the Wall Street sales wave and uncertainty about potential regulations for the artificial intelligence industry in the U.S.. The Taiwanese TAIEX index fell by 8.85% during the day while TSMC lost up to 9.8% and United Microelectronics declined by 17%."
-  },
-  {
     "title": "14 detenidos en una operación de la Policía contra el grupo neonazi Núcleo Nacional",
     "summary": "Un juzgado de Gijón les investiga por delito de odio, asociación ilícita y tenencia de armas tras unos disturbios ocurridos en febrero en la ciudad asturiana",
     "source": "El País",
@@ -242,39 +462,6 @@ window.PLANETA_NEWS = [
     "summary_en": "A court at Gijón investigates them for hate crime, illicit association and possession of arms after riots in February in the town of Assyria"
   },
   {
-    "title": "Al menos dos muertos y 23 heridos por el accidente de un autobús regional en el este de Francia",
-    "summary": "Un autobús de una línea de transporte interurbano que transportaba a 43 personas, incluidos 15 menores, se salió de la carretera y contra un árbol en Lent, un pequeño municipio del departamento de Ain, al este de Francia. Según las autoridades, una niña de 7 años y un joven de 18 años murieron en el siniestro y otras 23 personas resultaron heridas, tres de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/francia/20261106-al-menos-dos-muertos-y-23-heridos-por-el-accidente-de-un-autob%C3%BAs-regional-en-el-este-de-francia",
-    "category": "Internacional",
-    "date": "2026-11-06T18:46:33+00:00",
-    "image": "https://s.france24.com/media/display/21ac1f66-da07-11f1-a86d-bf1914cabd52/w:1024/p:16x9/FOTO-PORTADA-FRANCIA-ACCIDENTE-BUS-LENT.jpg",
-    "title_en": "At least two killed and 23 wounded by a regional bus crash in eastern France",
-    "summary_en": "A bus with an interurban transport line with 43 people, including 15 minors, went off the road and against a tree in Lent, a small town in the department of Ain, to the east of France. According to the authorities, a 7-year-old girl and an 18-year-old girl were killed at the hospital and an additional 23 people were wounded, 3 of them were killed and 3 were killed."
-  },
-  {
-    "title": "Uruguay recibirá al papa León XIV en su primera visita a América Latina",
-    "summary": "Tras abordar un avión en Roma y aterrizar al otro lado del océano Atlántico, el papa León XIV iniciará su gira por América Latina. La primera parada del pontífice será Montevideo, donde permanecerá tres días y se reunirá con el presidente Yamandú Orsi, además de mantener encuentros con diplomáticos y representantes religiosos uruguayos. Los ciudadanos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-uruguay-recibe-al-papa-le%C3%B3n-xiv-en-su-primera-visita-a-am%C3%A9rica-latina",
-    "category": "Política",
-    "date": "2026-11-06T18:36:33+00:00",
-    "image": "https://s.france24.com/media/display/a0d7e14a-da10-11f1-9a37-1beafce15fea/w:1024/p:16x9/ES-20261106-120828-120956-CS.jpg",
-    "title_en": "Uruguay will welcome Pope Leo XIV on his first visit to Latin America",
-    "summary_en": "After boarding an aircraft in Rome and landing across the Atlantic Ocean, Pope Leo XIV will start his tour of Latin America. The first stop of the pontif will be Montevideo, where it will stay three days and will meet with President Yamandú Orsi and have meetings with Uruguayan diplomats and religious representatives. Citizens..."
-  },
-  {
-    "title": "Informe desde Roma: León XIV viaja a Suramérica para iniciar una gira de 12 días",
-    "summary": "El papa León XIV inició este 6 de noviembre su gira por Suramérica. Aterrizará en Uruguay, donde permanecerá hasta el 8 de noviembre; de ahí se trasladará a Argentina, hasta el 11, y luego a Perú, el país que lo acogió durante mucho tiempo como obispo y en el que se nacionalizó. La visita se desarrollará entre la política, los encuentros con víctimas de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-informe-desde-roma-le%C3%B3n-xiv-viaja-a-suram%C3%A9rica-para-iniciar-una-gira-de-12-d%C3%ADas",
-    "category": "Política",
-    "date": "2026-11-06T18:34:32+00:00",
-    "image": "https://s.france24.com/media/display/03c13a5a-da10-11f1-854b-a575454bc579/w:1024/p:16x9/ES-20261106-073648-074027-CS.jpg",
-    "title_en": "Report from Rome: Lion XIV travels to South America to start a 12 day tour",
-    "summary_en": "Pope Leo XIV began his South American tour on 6 November. It will land in Uruguay, where it will stay until November 8 and from there will be moved to Argentina, till 11 and later to Peru, the country that has long been a bishop and nationalized. The visit will be held between politics and meetings with the families of..."
-  },
-  {
     "title": "Más de una quincena de vuelos europeos reciben nuevas amenazas de bomba",
     "summary": "Los gobiernos de España e Irlanda apuntan a una campaña coordinada, aunque nadie ha señalado a un responsable. Cuatro de los aviones afectados tenían destino Madrid",
     "source": "El País",
@@ -284,61 +471,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/5Y52GYHWIRCTBHX4TVQLKZJDVY.jpg?auth=3105d1defc2fb4c99613a055d8c5768ddc2fd3d04c3eadfd43e3cb0163511923",
     "title_en": "More than a fortnight of European flights get new bomb threats",
     "summary_en": "The Spanish and Irish governments have been leading a coordinated campaign, but nobody has put an end to them. 4 of the affected aircraft were destined for Madrid"
-  },
-  {
-    "title": "Las amenazas falsas de bomba atormentan a la aviación europea con más de 40 vuelos afectados",
-    "summary": "Hungría despliega aviones de combate Gripen para escoltar tres aeronaves de pasajeros que recibieron amenazas falsas de bomba este viernes en menos de una hora, mientras que el aeropuerto de Praga informó de nueve alertas ficticias en contra de vuelos vinculados a esa terminal. Tres medios de comunicación también recibieron mensajes intimidatorios, entre…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261106-las-amenazas-falsas-de-bomba-atormentan-a-la-aviaci%C3%B3n-europea-con-m%C3%A1s-de-40-vuelos-afectados",
-    "category": "Internacional",
-    "date": "2026-11-06T18:21:37+00:00",
-    "image": "https://s.france24.com/media/display/418ec886-abf6-11f1-9002-005056bf30b7/w:1024/p:16x9/a0308b3667e49286ff82336ed86850679683f1c9.jpg",
-    "title_en": "Faked bomb threats torment European aviation with more than 40 affected flights",
-    "summary_en": "Hungary deployed Gripen combat aircraft to escort three passenger aircraft that received false bomb threats this Friday in less than an hour while Prague airport reported nine Founding Warnings against flights linked to that terminal. Three media outlets also received intimidating messages, including..."
-  },
-  {
-    "title": "Falsificación y contaminación: la preocupación por los alimentos en India",
-    "summary": "El aumento de la adulteración y la falsificación de alimentos plantea un desafío creciente para la salud pública en India. En un país que alimenta diariamente a más de mil millones de personas, garantizar la calidad y la seguridad de los productos que llegan a los consumidores se ha convertido en una tarea cada vez más compleja para las autoridades.…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/en-foco/20261106-falsificaci%C3%B3n-y-contaminaci%C3%B3n-la-preocupaci%C3%B3n-por-los-alimentos-en-india",
-    "category": "Medio Ambiente",
-    "date": "2026-11-06T18:21:03+00:00",
-    "image": "https://s.france24.com/media/display/b819c652-da0b-11f1-8c5d-695cb59fade5/w:1024/p:16x9/En-Foco-India-1.jpeg",
-    "title_en": "Faking and pollution: concern about food in India",
-    "summary_en": "The increased adulteration and food forgery challenges public health in India. In a country that feeds more than 1 billion people daily, ensuring the quality and safety of products that reach consumers has become an increasingly complex task for authorities...."
-  },
-  {
-    "title": "¿El gobierno de los algoritmos? Cómo la tecnología transforma la democracia occidental",
-    "summary": "En Carrusel de las Artes, analizamos las nuevas amenazas que enfrenta la democracia en la era digital, a partir de las reflexiones de la politóloga francesa Agathe Cagé, coautora, junto con Fabienne Brugère, del ensayo Le vol de la démocratie (El robo de la democracia). La autora advierte sobre el debilitamiento de las instituciones, el distanciamiento…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/escala-en-par%C3%ADs/20261106-el-gobierno-de-los-algoritmos-c%C3%B3mo-la-tecnolog%C3%ADa-transforma-la-democracia-occidental",
-    "category": "Tecnología",
-    "date": "2026-11-06T18:19:41+00:00",
-    "image": "https://s.france24.com/media/display/6719c616-da07-11f1-a3ae-695cb59fade5/w:1024/p:16x9/Carrusel-de-las-Artes-RFI.jpeg",
-    "title_en": "The algorithm government? How Technology Transforms Western Democracy",
-    "summary_en": "At Carrusel de las Artes, we analysed the new threats faced by democracy in the digital age, starting with the reflections of French politologist Agathe Cagé, co-author with Fabienne Brugère, of the essay Le vol de la démocatie (The Robbery of Democracy). The complainant warns about the weakening of the institutions, the distance..."
-  },
-  {
-    "title": "La ‘sed’ de los centros de datos en Texas: ¿cómo consumen agua para la IA?",
-    "summary": "En el segundo estado de Estados Unidos con más data centers, la polémica gira en torno al consumo directo e indirecto de agua, pues los microprocesadores de la inteligencia artificial se calientan más que un chip tradicional, al punto que necesitan evaporar esas altas temperaturas para poder seguir funcionando. El problema es cuando las infraestructuras se…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/medio-ambiente/20261106-la-sed-de-los-centros-de-datos-en-texas-c%C3%B3mo-consumen-agua-para-la-ia",
-    "category": "Tecnología",
-    "date": "2026-11-06T17:53:19+00:00",
-    "image": "https://s.france24.com/media/display/0356ec66-da03-11f1-85e7-695cb59fade5/w:1024/p:16x9/WEB-PORTADA-02NOV-MAM.png",
-    "title_en": "The 'thirst' of data centers in Texas: how do they consume water for IA?",
-    "summary_en": "In the second state of the U.S. with more data centers, the polemic revolves around direct and indirect water consumption, as artificial intelligence microprocessors are more hot than a traditional chip, and they need to evaporate these high temperatures so they can continue to work. The problem is when infrastructure gets..."
-  },
-  {
-    "title": "\"¿Dónde está la plata?\": Javier Panza analiza la crisis política en Paraguay",
-    "summary": "Los abogados del presidente de Paraguay, Santiago Peña, se presentaron ante la Cámara de Senadores para asumir la defensa técnica del mandatario, luego de que el Senado rechazara el pedido de una prórroga de 72 horas. La defensa aclaró que, por el momento, solo comparecerá el equipo legal y no el presidente, quien permanecerá a la espera de que el Senado…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-d%C3%B3nde-est%C3%A1-la-plata-javier-panza-analiza-la-crisis-pol%C3%ADtica-en-paraguay",
-    "category": "Política",
-    "date": "2026-11-06T17:41:48+00:00",
-    "image": "https://s.france24.com/media/display/08515ec6-da09-11f1-ac8d-a575454bc579/w:1024/p:16x9/ES-20261106-110404-111240-CS.jpg",
-    "title_en": "\"Where's the silver?\": Javier Panza analyzes the political crisis in Paraguay",
-    "summary_en": "The lawyers of Paraguay's president, Santiago Peña, came before the Senate to assume his technical defence after the Senate rejected his demand for an extension of 72 hours. The defence clarified that at the moment only the legal team will appear and not the president, who will be waiting for the Senate..."
   },
   {
     "title": "La vivienda, los alimentos y los combustibles se encarecen hasta tres veces más que los salarios desde 2019",
@@ -429,17 +561,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The tour that Pope Leo XIV starts with South America with his visits to Uruguay, Argentina and Peru is one of the main themes of the German press this week."
   },
   {
-    "title": "Europa respira: ¿un nuevo capítulo en la relación con EE. UU.?",
-    "summary": "El triunfo demócrata en las elecciones de medio mandato en Estados Unidos ha provocado una mezcla de alivio y cautela en las capitales europeas. Si bien la nueva correlación de fuerzas en el Congreso debilita el margen de maniobra de la Casa Blanca para imponer una agresiva agenda arancelaria y frena la amenaza de un quiebre abrupto en la OTAN, Bruselas…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/ventana-a-europa/20261106-europa-respira-un-nuevo-cap%C3%ADtulo-en-la-relaci%C3%B3n-con-ee-uu",
-    "category": "Política",
-    "date": "2026-11-06T17:04:36+00:00",
-    "image": "https://s.france24.com/media/display/7f5fbe92-d9fd-11f1-8b2a-695cb59fade5/w:1024/p:16x9/WEB-PORTADA-VAE-06NOV.png",
-    "title_en": "Europe breathes: a new chapter in its relationship with the US. U.S.?",
-    "summary_en": "The Democratic triumph in the half-term elections in the U.S. has been a mix of relief and care in European capitals. Although the new correlation of forces at Congress weakens the White House's space for manoeuvre to impose an aggressive tariff agenda and challenges the threat of an abrupt breach at NATO, Brussels..."
-  },
-  {
     "title": "Una jueza federal paraliza ‘in extremis’ las obras del arco del triunfo que Trump quiere construir en Washington",
     "summary": "La Casa Blanca pretendía iniciar este mismo viernes los trabajos para levantar el monumento de homenaje al presidente",
     "source": "El País",
@@ -462,17 +583,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The event was held at a park in Valdebeas neighborhood, to the north of the city and once again symbolizes the tuning of the town of Madrid with the government accused of genocide"
   },
   {
-    "title": "Crisis total en Paraguay: ¿cómo Santiago Peña ayudó a Ueno Bank a crecer?",
-    "summary": "¿Cómo logró crecer Ueno Bank en Paraguay y qué papel tuvieron los vínculos empresariales del presidente Santiago Peña con el grupo detrás de la entidad? El escándalo financiero que sacude al país abre interrogantes sobre la relación entre el poder político, los recursos públicos y el sistema bancario. Lo analizamos en El Debate de France 24.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/el-debate/20261106-crisis-total-en-paraguay-c%C3%B3mo-santiago-pe%C3%B1a-ayud%C3%B3-a-ueno-bank-a-crecer",
-    "category": "Política",
-    "date": "2026-11-06T16:36:56+00:00",
-    "image": "https://s.france24.com/media/display/6d08a08c-d945-11f1-b580-bf1914cabd52/w:1024/p:16x9/FOTO-PORTADA-PARAGUAY-SANTIAGO-PEN%CC%83A-RENUNCIA.jpg",
-    "title_en": "Total crisis in Paraguay: how did Santiago Peña help Ueno Bank grow?",
-    "summary_en": "How did Ueno Bank grow up in Paraguay and what role did President Santiago Peña's corporate links have with the group behind the entity? The financial scandal that pounding the country challenges the relationship between political power, public resources and the banking system. We discussed this at The France 24 Debate."
-  },
-  {
     "title": "Acciones de IA respiran tras desplome por elecciones en EE. UU",
     "summary": "Temor por posibles regulaciones y freno a infraestructura hicieron caer las acciones este jueves en Wall Street, pero la semana terminó al alza.",
     "source": "DW Español",
@@ -482,28 +592,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "IA actions breathing after collapse by elections in the U.S. USA",
     "summary_en": "Fear about potential regulations and infrastructure brake put stock down Thursday at Wall Street, but the week ended up up."
-  },
-  {
-    "title": "Arrestan en Florida al padre de Meghan Markle en una investigación por material de abuso sexual infantil",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261106-arrestan-en-florida-al-padre-de-meghan-markle-en-una-investigaci%C3%B3n-por-material-de-abuso-sexual-infantil",
-    "category": "Ciencia",
-    "date": "2026-11-06T16:28:12+00:00",
-    "image": "",
-    "title_en": "Meghan Markle's father arrested in Florida in an investigation into child sexual abuse material",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
-    "summary": "Agentes federales han irrumpido en la residencia de ancianos en la que reside Thomas Markle, después de encontrar material pornográfico con menores en dos trasteros de Los Ángeles que tenía alquilados. Markle podría enfrentar 20 años de cárcel",
-    "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
-    "category": "Internacional",
-    "date": "2026-11-06T16:23:39+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/L3NDOYWHDJE2DA5HLKDFY6OPCM.jpg?auth=fcd34bee6aa3009ad51bc5620dc79b1ff2a029de14338e6fb34b3280af8e2c03",
-    "title_en": "Meghan Markle's father is arrested in Florida for possession of child pornography",
-    "summary_en": "Feds have been breaking into an old man's residence that Thomas Markle lives with after finding porn with minors at two rental storage rooms in LA. Markle could face 20 years in jail"
   },
   {
     "title": "Icomos, órgano consultivo de la Unesco, defiende retirar los tubos de las gárgolas “sodomizadas” de Santiago",
@@ -517,17 +605,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The advisory body believes that the Torespaña project did not take into account the visual impact"
   },
   {
-    "title": "Arrestan en Florida al padre de Meghan Markle, acusado de poseer material de abuso sexual infantil",
-    "summary": "El Buró Federal de Investigaciones (FBI) de Estados Unidos confirmó que Thomas Markle Sr. fue detenido este 6 de noviembre en Lakeland, Florida, bajo cargos de posesión de material de abuso sexual infantil. El director del FBI aseguró que el padre de la duquesa de Sussex –con quien no tiene relación– \"presuntamente tomó como objetivo a niños inocentes y…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261106-arrestan-en-florida-al-padre-de-meghan-markle-en-una-investigaci%C3%B3n-por-material-de-abuso-sexual-infantil",
-    "category": "Internacional",
-    "date": "2026-11-06T16:19:07+00:00",
-    "image": "https://s.france24.com/media/display/beab8a84-d720-11f1-94ab-d18c5759e759/w:1024/p:16x9/5d6c990efd3ef17ebbee58bbe33518fe5857d66f.jpg",
-    "title_en": "Meghan Markle's father's arrested in Florida accused of possessing child sexual abuse material",
-    "summary_en": "The U.S. Federal Bureau of Research (FBI) confirmed that Thomas Markle Sr. was arrested on 6 November in Lakeland, Florida, on charges of possession of child sexual abuse material. The FBI director stated that the father of Sussex's duchess with whom she has no relation \"allegedly targeted innocent children and..."
-  },
-  {
     "title": "\"El envío de tropas a Haití es una apuesta política de Bukele: demostrar que no es solo un actor nacional, sino uno mucho más poderoso a nivel regional\"",
     "summary": "Tras la desaparición de cuatro militares salvadoreños en el país caribeño, Bukele advirtió a los líderes de los grupos criminales allí que puede acabar con ellos como lo hizo con la MS-13 y el Barrio 18. Hablamos al respecto con el especialista en Haití Romain Le Cour Grandmaison.",
     "source": "BBC Mundo",
@@ -537,39 +614,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c905/live/7db75ae0-d706-11f1-ac17-5d3d5470aaba.jpg",
     "title_en": "\"The sending of troops to Haiti is a political bet by Bukele: to prove that they are not only a national actor but a far more powerful at regional level\"",
     "summary_en": "Following the disappearance of four Salvadoran military personnel in the Caribbean countries, Bukele warned the leaders of the criminal groups there that she can put an end to them as she did with Ms.13 and Barrio 18. We have been talking about this with Haiti specialist Romain Le Cour Grandmaison."
-  },
-  {
-    "title": "Marco Rubio “sopesa abandonar la Administración Trump” tras Midterms: ‘Bloomberg’",
-    "summary": "Tras las elecciones de medio mandato en Estados Unidos, el secretario de Estado, Marco Rubio, estaría sopesando la posibilidad de “abandonar la Administración” del presidente Donald Trump, según una exclusiva de ‘Bloomberg’. Fuentes cercanas al asunto indicaron al medio financiero que el jefe de la diplomacia de Washington habría consultado con miembros de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/revista-de-prensa/20261106-marco-rubio-sopesa-abandonar-la-administraci%C3%B3n-trump-tras-midterms-bloomberg",
-    "category": "Política",
-    "date": "2026-11-06T16:02:59+00:00",
-    "image": "https://s.france24.com/media/display/0173ff78-d9eb-11f1-b09a-695cb59fade5/w:1024/p:16x9/ES-20261106-081430-082232-CS.jpg",
-    "title_en": "Marco Blonde \"pitted to leave the Trump Administration\" after midterms: 'Bloomberg'",
-    "summary_en": "Following the half-term elections in the U.S., Secretary of State, Marco Rubio, would be pondering the possibility of President Donald Trump's \"leave office\" as an exclusive of Bloomberg. Sources close to the issue indicated to the financial environment that the head of diplomacy in Washington would have consulted with members of..."
-  },
-  {
-    "title": "Senado de Paraguay niega prórroga solicitada por Peña para defenderse en juicio político",
-    "summary": "El Senado de Paraguay rechazó la solicitud de prórroga de 72 horas presentada por el presidente renunciante, Santiago Peña, para preparar su defensa en el juicio político. Ahora, el mandatario o su equipo jurídico deberán comparecer ante la Cámara. Informe de nuestra corresponsal, Flavia Borja.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-senado-de-paraguay-niega-pr%C3%B3rroga-solicitada-por-pe%C3%B1a-para-defenderse-en-juicio-pol%C3%ADtico",
-    "category": "Política",
-    "date": "2026-11-06T16:00:18+00:00",
-    "image": "https://s.france24.com/media/display/11ded35e-d9fc-11f1-8ea6-695cb59fade5/w:1024/p:16x9/ccd4f7355147c247f2406c41c1521e5e3554c807.jpg",
-    "title_en": "Senate of Paraguay Denies Extension Requested by Peña To Defend At Political Trial",
-    "summary_en": "The Paraguayan Senate rejected the 72 hour extension request put forward by Retiring President Santiago Peña to prepare his defence at his political trial. The incumbent or his legal team will now have to appear before the House. Report from our correspondent, Flavia Borja."
-  },
-  {
-    "title": "Directo España y las repercusiones políticas del choque de trenes de cara a las elecciones",
-    "summary": "El exministro de Transporte de España, Óscar Puente, y el expresidente de Adif (Administrador de Infraestructuras Ferroviarias), Luis Pedro Marco de la Peña, renunciaron a sus cargos en medio de las investigaciones por el choque de trenes en Urda (Toledo) el pasado 28 de octubre. Informe de nuestra corresponsal, Elise Gazengel.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-directo-espa%C3%B1a-y-las-repercusiones-pol%C3%ADticas-del-choque-de-trenes-de-cara-a-las-elecciones",
-    "category": "Política",
-    "date": "2026-11-06T15:58:44+00:00",
-    "image": "https://s.france24.com/media/display/ded01362-d9f9-11f1-8b21-d18c5759e759/w:1024/p:16x9/ES-20261106-074707-075250-CS.jpg",
-    "title_en": "Direct Spain and the political repercussions of an election train crash",
-    "summary_en": "The former Spanish Transport Minister, Óscar Puente, and the former president of Adif (Manager of Railway Infrastructure), Luis Pedro Marco de la Peña, resigned his office amidst investigations into the train crash at Urda (Toledo) last October 28. Report from our correspondent, elise Gazengel."
   },
   {
     "title": "La editorial Almadía mantiene su confianza en la novela de David Silva Rojas y no retira el premio",
@@ -757,17 +801,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Two killed and 16 wounded in a bus accident in eastern France",
     "summary_en": "Of those killed, one was minor. The bus had 43 people, including 15 schoolchildren attending their schools."
-  },
-  {
-    "title": "La ruta canaria acelera el ritmo de llegadas: 1.021 personas desde la noche del jueves, más de 3.200 en noviembre",
-    "summary": "El presidente canario avisa de que la situación en El Hierro es “insostenible”. El Gobierno central habilita un uevo campamento en Tenerife",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/la-ruta-canaria-acelera-el-ritmo-de-llegadas-1021-personas-desde-la-noche-del-jueves-mas-de-3200-en-noviembre.html",
-    "category": "Política",
-    "date": "2026-11-06T10:50:35+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/4R4MX5S46ZP2VORTEGI5EC6D3Q.jpg?auth=1a8c47ceab5d7ba16c7e7b86d24e3f7968f4d1e26ee0ecbc8540c7158b7a9a22",
-    "title_en": "The Spanish route accelerates the arrival rate: 1,021 people from Thursday night, more than 3,200 in November",
-    "summary_en": "The Spanish president warns that the situation at El Hierro is \"unsustainable.\" The central government has established a new camp in Tenerife"
   },
   {
     "title": "Comienza el juicio contra la organización extremista Königreich Deutschland",
@@ -1111,26 +1144,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The two companies will share and manage Deoleo's assets independently without creating a joint venture"
   },
   {
-    "title": "Por qué el Congreso de Paraguay no aceptó la renuncia de Santiago Peña como presidente y qué supone ahora el juicio político en su contra",
-    "summary": "El presidente anunció este jueves su renuncia por su papel en la gestión de uno de los principales bancos del país, que fue intervenido esta semana.",
+    "title": "Crisis de Ueno Bank: las claves de la renuncia de Peña en Paraguay",
+    "summary": "Peña presentó su renuncia por la crisis de Ueno Bank, pero Diputados aprobó la acusación y la remitió al Senado. Cerca de tres millones de clientes siguen sin acceso a su dinero.",
     "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/crwyddpl789do?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-11-06T02:16:10+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f56a/live/8ff00310-d96d-11f1-9fd0-cdf612d1539f.jpg",
-    "title_en": "Why Paraguay's Congress did not accept Santiago Peña's resignation as president and what the political judgment currently means against him",
-    "summary_en": "The president announced his resignation Thursday for his role in managing one of the leading banks of the country, which was interacted this week."
-  },
-  {
-    "title": "Marco Rubio niega que tenga planes de dejar cargo de secretario de Estado",
-    "summary": "El jefe de la diplomacia de EE.UU. aseguró que no tiene previsto dejar el gobierno de Donald Trump para buscar la presidencia en 2028.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/marco-rubio-niega-que-tenga-planes-de-dejar-cargo-de-secretario-de-estado/a-79871453?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-06T01:45:00+00:00",
-    "image": "",
-    "title_en": "Marco Blonde denies his plans to leave office as Secretary of State",
-    "summary_en": "The head of U.S. diplomacy stated that his intention was to leave Donald Trump's government to seek his office in 2028."
+    "url": "https://www.bbc.com/mundo/watch/cv8ezzdyzkrdo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-06T01:23:28+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ada/live/4c7519a0-d980-11f1-93e1-3b657b665bcf.png",
+    "title_en": "Ueno Bank crisis: The keys to Peña's resignation in Paraguay",
+    "summary_en": "Peña submitted his resignation from the Ueno Bank crisis but deputies approved the prosecution and referred it to the Senate. About 3 million customers still have no access to their money."
   },
   {
     "title": "La revista ‘The New Yorker’ arremete contra ‘La bola negra’: “No es un monumento; es un fracaso”",
@@ -1142,17 +1164,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/YTB6Z2NFUZON5FQK5QGOCL3ZK4.jpg?auth=fb4782587530f32fb46511fcdd657b3b670a5a2f440dc33e65772e91fcb96621",
     "title_en": "The magazine 'The New Yorker' attacks' The Black Ball ': \"It's not a monument but a failure\"",
     "summary_en": "Despite good public and critical reception in the U.S., the film's review of the paper claims that directors are \"pretentious\" and that their stories suffer from \"inmateriality\" and are a \"repetitive trauma\""
-  },
-  {
-    "title": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
-    "summary": "La decisión llega después de que legisladores de la oposición y de su propio partido impulsaran un juicio político para destituirlo.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/ckjwe5wy4nxyo?at_medium=RSS&at_campaign=rss",
-    "category": "Deportes",
-    "date": "2026-11-05T22:50:27+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9c1d/live/ca13cd00-d937-11f1-8bce-2396c9c50357.jpg",
-    "title_en": "Paraguay's Congress Begins Political Trial Against Santiago Peña for Ueno Bank's Case Despite his Retirement to Chair",
-    "summary_en": "The decision comes after opposition and his own party's lawmakers have been leading a political trial to remove him."
   },
   {
     "title": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
@@ -1197,16 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/6LLQPENLCJFETDRDRI6EZTYNYQ.jpg?auth=6e8c6de6ce60f27f4ac0649de6faa888e78e239f69e8504ad15ea1a7563d4ea4",
     "title_en": "Medicines that come after Ozempic: seek to lose more, lose less muscle and avoid bouncing effect",
     "summary_en": "A review of Science reviews the new generation of drugs against obesity. Also warns that the patents of semaglitida generics will delay their arrival to Spain until 2031, although they are already sold in India and Brazil"
-  },
-  {
-    "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
-    "summary": "La intervención de Ueno Bank, una de las mayores entidades financieras de Paraguay, ha sacudido al sistema bancario del país y su cúpula política. El presidente del país enfrenta un juicio político que podría aprobarse este mismo jueves.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cqx28zrgd0yxo?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-11-05T17:38:18+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dbfc/live/8b5d7180-d93f-11f1-95ea-8df9a040b6bf.jpg",
-    "title_en": "What's Ueno Bank and what caused the crisis that Santiago Peña resigned as president of Paraguay",
-    "summary_en": "The intervention of Ueno Bank, one of Paraguay's largest financial institutions, has shaken the country's banking system and its political leadership. The president of the country faces a political trial that could be passed on Thursday."
   }
 ];
