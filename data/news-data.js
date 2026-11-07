@@ -1,14 +1,487 @@
 window.PLANETA_NEWS = [
   {
-    "title": "Crisis en Paraguay: detienen a Santiago Peña en su domicilio tras su destitución por el Congreso en juicio político",
+    "title": "Crisis en Paraguay: Santiago Peña, en arresto domiciliario tras ser destituido por el Congreso en juicio político",
     "summary": "Pedro Alliana juró como presidente de Paraguay minutos después de que los legisladores aprobaran la destitución de Peña por el escándalo desatado por la caída de Ueno Bank.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.co.uk/mundo/live/c54g11vvvemkt?at_medium=RSS&at_campaign=rss",
     "category": "Política",
-    "date": "2026-11-07T01:57:47.735309+00:00",
+    "date": "2026-11-07T08:50:38.705292+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3035/live/e2f8de40-d9d8-11f1-9e5a-c30c5e3d8c85.jpg",
-    "title_en": "Paraguayan crisis: Santiago Peña arrested at his home after his dismissal by Congress at political trial",
+    "title_en": "Paraguay's Crisis: Santiago Peña, Remanded at Home after Retirement by Congress at Political Trial",
     "summary_en": "Pedro Alliana swore as president of Paraguay minutes after lawmakers passed Peña's dismissal as a result of the scandal unleashed by Ueno Bank's fall."
+  },
+  {
+    "title": "El Gobierno agota la legislatura sin anticipar la jubilación en los sectores con más muertes y bajas",
+    "summary": "Las peticiones afectan a unos dos millones de empleados, pero la Seguridad Social incumple sus propios plazos y no ha resuelto ni las que sí han pactado sindicatos y empresarios",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-07/el-gobierno-agota-la-legislatura-sin-anticipar-la-jubilacion-en-los-sectores-con-mas-muertes-y-bajas.html",
+    "category": "Política",
+    "date": "2026-11-07T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/LI33YERTXVHI5LI43RNI3HSEG4.jpg?auth=1b49a7e42df55ac1e588547ad2b603a12d987f09820a84a50c1531db9ff9f174",
+    "title_en": "Government Expand Legislature Without Retiring Retirement in The Most Dead and Low Sector",
+    "summary_en": "Requests have affected about two million employees but Social Security has broken its own deadlines and has been unable to resolve and have been agreed by trade unions and entrepreneurs"
+  },
+  {
+    "title": "Las comunidades autónomas proyectan rebajas fiscales por 2.300 millones hasta 2031",
+    "summary": "La mayor parte del impacto en la recaudación se concentra en IRPF, tributación inmobiliaria y sucesiones y donaciones",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/JJVBKPHZCFFX5AYXYNSR2JHSLE.jpg?auth=58b33ee3f7a61c0450a2ac1b9c26208e3beb1ad3ec72ce50cb5bcdc4b249e83c",
+    "title_en": "The autonomous communities project tax cuts by 2.3 billion up to 2031",
+    "summary_en": "Most impact on collection focuses on IRPF, real estate tax and inheritance and donations"
+  },
+  {
+    "title": "La población activa en España envejece más rápido que la media europea",
+    "summary": "Más de dos millones de personas se han integrado a la fuerza laboral entre 2019 y 2026, mientras que la edad media ha aumentado casi un año en ese periodo",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-07/la-poblacion-activa-en-espana-envejece-mas-rapido-que-la-media-europea.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/7E5I7VFWABGWJF2IDDSLCRGHJQ.jpg?auth=eefc5a3cc9680be75cf9c71d80a79091fd44f15d72a0b61665083073a594c417",
+    "title_en": "The labour force in Spain ages faster than the European average",
+    "summary_en": "More than two million people have been integrated into the labour force from 2019 to 2026, while the mean age has increased by about a year in that period."
+  },
+  {
+    "title": "Branko Milanovic: “Esta derrota de Trump no tendrá gran impacto en la política hacia Asia o hacia Europa”",
+    "summary": "El economista serbioestadounidense advierte del nacimiento de una nueva élite de alta formación, que combina altos ingresos por trabajo y capital",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-07/branko-milanovic-esta-derrota-de-trump-no-tendra-gran-impacto-en-la-politica-hacia-asia-o-hacia-europa.html",
+    "category": "Política",
+    "date": "2026-11-07T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/UBA2RAMA2ZBQRNU5EZS3GOZQPI.jpg?auth=f4b50f2979047af4305b1ab910ed52a7210d1088159edb7ff3fa3d8f5f02d752",
+    "title_en": "Branko Milanovic: \"That defeat of Trump will have little impact on politics to Asia or to Europe\"",
+    "summary_en": "Serbian American Economist warns of the birth of a new high-training elite that combines high income for jobs and capital"
+  },
+  {
+    "title": "Fulgor, desplomes y ruinas en la IA",
+    "summary": "La caída de una compañía encierra el peligro de arrastrar a otras del sector, con riesgo de propagación global",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-07/fulgor-desplomes-y-ruinas-en-la-ia.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/TPSRNCVPJJEWLBSQATQ22Z4HW4.jpg?auth=7641d268df5353f346171a6256aa57d24693b7c1aebf31db4b7d807e1a20fc00",
+    "title_en": "Fulgor, collapse and ruins at IA",
+    "summary_en": "The fall of a company puts at risk the drag of other industry with a risk of global spread"
+  },
+  {
+    "title": "Asesinados en Guatemala un diputado y tres oficiales en un ataque armado",
+    "summary": "Las víctimas del ataque son el diputado Julio Portillo, dos policías y uno de los guardaespaldas del legislador",
+    "source": "El País",
+    "url": "https://elpais.com/america/2026-11-07/asesinado-en-guatemala-un-diputado-y-tres-oficiales-en-un-ataque-armado.html",
+    "category": "Política",
+    "date": "2026-11-07T04:42:30+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/7YDRCH3FXRIZHCVZXQTKNXJY6A.jpg?auth=eb069e4c8bb9a40ebafc526664f0c6a0129b0f8c56f692fe871ac5b7392ae3f8",
+    "title_en": "One deputy and three officers killed in Guatemala in an armed attack",
+    "summary_en": "The victims of this attack are Congressman Julio Portillo, two police officers and one of his police officers."
+  },
+  {
+    "title": "Los votantes de EE UU dieron un palo a la IA. La Bolsa tardó en entenderlo",
+    "summary": "El freno a los centros de datos irrumpe en el programa de los demócratas. Elon Musk se mudó a Texas pero le llegó la marea azul. La culpa de que reviente una burbuja es más de quien la hincha que de quien la pincha",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-07/los-votantes-de-ee-uu-dieron-un-palo-a-la-ia-la-bolsa-tardo-en-entenderlo.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/CQW7EBP24RDR3CU7O6XSHM4MWY.jpg?auth=0f05bf179f07597b79b92eacd06bad6c9297cb5520f78f705b05c0b1dd05904b",
+    "title_en": "The U.S. voters gave an A stick. The Stock Exchange was slow to understand",
+    "summary_en": "The brake to data centers goes into the Democrats' program. Elon Musk moved to Texas but his blue tidal came. The fault that a bubble revels is more about who's swollen them than about who's pinching them."
+  },
+  {
+    "title": "Jubilación anticipada pendiente",
+    "summary": "El mecanismo para adelantar el retiro en profesiones penosas acumula año y medio de retraso y sigue sin aplicarse",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-07/jubilacion-anticipada-pendiente.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PBPYJOKC6TPHKSXQWWO325V624.jpg?auth=91370beb21cc3f4b79a322da8278cc92f3c96587e1f1249f3f23af511a5f30cc",
+    "title_en": "Advance retirement outstanding",
+    "summary_en": "The mechanism to advance retirement in bad jobs accumulates year and a half of delay and remains to be applied"
+  },
+  {
+    "title": "El pasado siempre tiene razón",
+    "summary": "Lo ya ocurrido parece lógico y previsible, pero invertir exige aceptar que el futuro sigue abierto a múltiples desenlaces",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-07/el-pasado-siempre-tiene-razon.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/CGOQ74Y6IBAGJB4NG3ZMWQY47M.jpg?auth=5c004022e12038c410bba776efd71ab3cae5e34442ef8583a3ecbfb03190a86d",
+    "title_en": "The past's always right",
+    "summary_en": "What has already happened seems logical and predictable but investing requires acceptance that the future remains open to multiple challenges"
+  },
+  {
+    "title": "El truco de magia de Mélenchon",
+    "summary": "Cancelar la deuda francesa en manos del banco central parece un alivio gratuito, pero solo traslada costes y riesgos",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-07/el-truco-de-magia-de-melenchon.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/WK3RZLWPIJL25CAOT24TO23NHY.jpg?auth=055eb43d8936d3bb491a3386bec403feaaf7e84e1bbee431a292a66ab2f3ab3e",
+    "title_en": "The magic trick of Mélenchon",
+    "summary_en": "Canceling French debt at the hands of the central bank looks free but only costs and risks"
+  },
+  {
+    "title": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
+    "summary": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo de EL PAÍS",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "",
+    "title_en": "Do polls move? From call and after train accident",
+    "summary_en": "A month later, the PP lost some ground at all the polls and Urda's accident barely moved his average. PP and Vox have a majority in 9 out of 10 simulations of the model"
+  },
+  {
+    "title": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
+    "summary": "Mientras el Gobierno presume de liderazgo en crecimiento y récords de empleo, con su ministro de Economía como el más valorado, la visión social sobre la situación y las perspectivas de futuro se deteriora por el alza de los precios",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/RDHKWBFK5NCUFCNKJP5CBOO4MI.png?auth=82d5568067679991f90320e617b9c10c0f36a05da9222ed8cb26e540577b2924",
+    "title_en": "Inflation dilute the electoral impact of good macroeconomic data and the \"Body Effect\"",
+    "summary_en": "While the Government boast about growing leadership and employment record with its Economics Minister as his most valued, social vision about the situation and prospects for the future deteriorated as prices rise"
+  },
+  {
+    "title": "Trump, de aliado a rémora: los ultras europeos se alejan de su antiguo socio tras la debacle en las urnas",
+    "summary": "Los partidos de extrema derecha de la UE pasan de jalear al presidente de Estados Unidos a separar su suerte en vísperas de un superaño electoral",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-07/trump-de-aliado-a-remora-los-ultras-europeos-se-alejan-de-su-antiguo-socio-tras-la-debacle-en-las-urnas.html",
+    "category": "Política",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/GHEXTUZ76NLGQGDDKQZOJZ3PZ4.jpg?auth=cf4b26d64fa7d79ab4a3748b4b6e46581572d4c37b89200b64ca8eb5da16fd51",
+    "title_en": "Trump from an ally to a branch: European Ultras are far from their old partner after debacle at polls",
+    "summary_en": "The far-right parties of the EU move from pounding the president of the US to breaking his luck up on the eve of an electoral super year"
+  },
+  {
+    "title": "Un profesor buscado por la Audiencia Nacional recluta soldados y espías españoles para Rusia",
+    "summary": "Un estudio advierte de la creación en Vietnam de una granja de cuentas de Internet para influir en la campaña electoral del 29-N",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-07/un-profesor-buscado-por-la-audiencia-nacional-recluta-soldados-y-espias-espanoles-para-rusia.html",
+    "category": "Tecnología",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/A7QSBLLARZEGJIX3627V4T7IWU.png?auth=7e809002ee6b48fa42baab15121a3be4d38cad6e532ab84c1ce26867685e6ec7",
+    "title_en": "A teacher sought by the National High Court recruits Spanish soldiers and spies for Russia",
+    "summary_en": "A study warns about the creation of an Internet account farm in Vietnam to influence the 29th-N electoral campaign"
+  },
+  {
+    "title": "Un juez indemniza con 5,7 millones a los padres de Oliver, un niño que se quedó tetrapléjico por errores en el parto",
+    "summary": "El testimonio de una enfermera ha sido clave para desvelar negligencias y el uso desmedido del instrumental en el Hospital de la Paz: “Fue el fórceps más agresivo que he visto en mi vida”",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-07/un-juez-indemniza-con-57-millones-a-los-padres-de-oliver-un-nino-que-se-quedo-tetraplejico-por-errores-en-el-parto.html",
+    "category": "Salud",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/TRKUKMQL3RGYVGE4YMO45RLQQY.JPG?auth=202777a5c39d2c807b3c87289216c4318543806de15ecaaf111e0e8fb9a7bdd2",
+    "title_en": "A judge compensates with 5.7 million to Oliver's parents, a child who remained tetraplegic for mistakes at birth",
+    "summary_en": "The testimony of a nurse has been key to reveal negligence and the disproportionate use of an instrument at the Peace Hospital: \"It was the most aggressive forceps I have seen in my life.\""
+  },
+  {
+    "title": "En un campo de almendros",
+    "summary": "Gracias a la crónica de Jiménez Barca veo ese campo de Toledo bajo el sol otoñal, los árboles entre los que se esparcen las chatarras del accidente, las personas sumidas en la irrealidad y el dolor",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-07/en-un-campo-de-almendros.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/P6BCVCZ5VNFZ7AUCHII7MMBDGA.jpg?auth=a71cc80eed00593a1409ae266b58416ea18936ba48c95d34b074e1e981ab3c3e",
+    "title_en": "In an almond field",
+    "summary_en": "Thanks to Jiménez Barca's chronicle I see that field of Toledo under the autumn sun, the trees among which are spread the fringes of the accident, the people put into reality and pain"
+  },
+  {
+    "title": "Cómo acabar de una vez por todas con la nostalgia del franquismo",
+    "summary": "Las madres de los supuestos nostálgicos ni siquiera podrían abrir una cuenta corriente sin permiso del marido",
+    "source": "El País",
+    "url": "https://elpais.com/eps/2026-11-07/como-acabar-de-una-vez-por-todas-con-la-nostalgia-del-franquismo.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/R5LBGRHT3NE4ZCRYVT3YXDOYTQ.jpg?auth=c9c054631e62edae00b988c016c6293d15dd46420b31ce73a56927250b1d09ba",
+    "title_en": "How to end once and for all with the nostalgia of Franco",
+    "summary_en": "The mothers of the so-called nostalgics cannot even open a current account without his husband's permission."
+  },
+  {
+    "title": "Milo Quifes, revelación de ‘La bola negra’: “Estoy cansado de tener que salir del armario una y otra vez”",
+    "summary": "El actor era, hasta hace pocos meses, un chaval solitario y en plena crisis vital a quien ni ser ‘tiktoker’ de éxito ni escritor publicado había sacado de su burbuja. Hoy, es una de las nuevas estrellas del cine español. Y empieza a ser feliz",
+    "source": "El País",
+    "url": "https://elpais.com/icon/2026-11-07/milo-quifes-revelacion-de-la-bola-negra-estoy-cansado-de-tener-que-salir-del-armario-una-y-otra-vez.html",
+    "category": "Cultura",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/WKSENPBRAVFKFO4AOFPVXKTWVE.jpg?auth=5e3962a289d9e2b713da56115fe7c6cd9bb2c3f7a9c8792eeff72f93d890a479",
+    "title_en": "Milo Quiffes, revelation from The Black Ball: \"I'm tired of getting out of the closet again and again\"",
+    "summary_en": "The actor was, until a few months ago, a lonely and vital child who had been neither tiktoker's success nor published writer from his bubble. Today, she's one of the new stars of Spanish cinema. And she's starting to be happy"
+  },
+  {
+    "title": "Casa Bosc, la espectacular cabaña prefabricada que encaja en cualquier sitio: “Llegas, la pones y listo”",
+    "summary": "Ubicada en un bosque de Girona, esta vivienda firmada por el estudio Ágora Arquitectura cuenta con manual de instrucciones para agilizar su autoconstrucción",
+    "source": "El País",
+    "url": "https://elpais.com/icon-design/2026-11-07/casa-bosc-la-espectacular-cabana-prefabricada-que-encaja-en-cualquier-sitio-llegas-la-pones-y-listo.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/5KZKENSTCZCJ7GW2FB7F2VLPNA.jpg?auth=3bbe3b22af9b7233b4f8f8bff12314d0c4ba527f1f75844eb83dc5ee5280c156",
+    "title_en": "Casa Bosc, the spectacular prefabricated cabin that fits anywhere: \"Arrives, puts and ready\"",
+    "summary_en": "Located in a forest of Girona, this house signed by the studio Agora Arquitectura has a manual of instructions to expedite its autoconstruction"
+  },
+  {
+    "title": "El debut teatral de Javier Bardem con su maestro: “A mis 57 años, me estoy poniendo en un lugar de vulnerabilidad que me hace más fuerte”",
+    "summary": "Tras una carrera plagada de éxitos y premios en el cine, el actor se estrena en las tablas de la mano de Juan Carlos Corazza, el director y profesor con el que dio sus primeros pasos y que le ha guiado en sus papeles más icónicos en la gran pantalla",
+    "source": "El País",
+    "url": "https://elpais.com/babelia/2026-11-07/el-debut-teatral-de-javier-bardem-con-su-maestro-a-mis-57-anos-me-estoy-poniendo-en-un-lugar-de-vulnerabilidad-que-me-hace-mas-fuerte.html",
+    "category": "Cultura",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/GFAHAYR2NBF2FI73JBROBDX2VU.jpg?auth=29af4a2d7b11136124c8a03853238a77687d777a44a6a38f932c20ed02a9bd61",
+    "title_en": "Javier Bardem's theatrical debut with his teacher: \"At my 57 years old, I'm getting into a place of vulnerability that makes me more powerful\"",
+    "summary_en": "Following a race filled with success and film awards, the actor premiered at the boards of Juan Carlos Corazza's hand, his first step and his leading director and teacher with his most iconic roles on his big screen."
+  },
+  {
+    "title": "Medio siglo de los secretarios de Estado: el poder detrás del poder",
+    "summary": "El próximo año se cumplen 50 de la creación de la figura del secretario de Estado. Una poderosa institución inédita en la Administración española, surgida de la chistera de Adolfo Suárez y que todos los gobiernos han mantenido. Hoy son auténticos viceministros, una bisagra técnico-política cuya función es hacer realidad los programas electorales. Pocos los…",
+    "source": "El País",
+    "url": "https://elpais.com/eps/2026-11-07/medio-siglo-de-los-secretarios-de-estado-el-poder-detras-del-poder.html",
+    "category": "Política",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/INE7B5LMP5HDFLPUDQBJ3WBGLA.jpg?auth=66423ac75482fecc834babb836b4a8eb25d283868e40f37002a0c4f7dac4949d",
+    "title_en": "Half a century of state secretaries: power after power",
+    "summary_en": "The figure of the Secretary of State was established at 50 a.m. next year. A powerful and unprecedented institution in the Spanish administration, stemming from the gossip of Adolfo Suárez and that all governments have maintained. Today they are true deputy ministers, a technical and political binge whose role is to make electoral programs a reality. Few of them..."
+  },
+  {
+    "title": "La línea Madrid-Sevilla, a examen: dos juzgados y dos causas de la Fiscalía Europea se mantienen activas",
+    "summary": "El Gobierno autorizó en marzo de 2020 las obras de renovación de desvíos en el corredor, e incluía trabajos en Urda que se financiaron con fondos europeos. La Fiscalía indaga en tres licitaciones que supusieron un desembolso de 136 millones de euros",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-07/la-linea-madrid-sevilla-a-examen-dos-juzgados-y-dos-causas-de-la-fiscalia-europea-se-mantienen-activas.html",
+    "category": "Deportes",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/X7TD5H2V2VCYPEAV3HYIVUB7QM.jpg?auth=47e52c423a4c918c379c4aed5a8dc3a9fbb7f270946f82e79e49b489a3b75801",
+    "title_en": "The line Madrid-Seville, to be reviewed: two courts and two cases of the European Prosecutor's Office are still active",
+    "summary_en": "The Government authorized work to revamp the corridor in March 2020 and included jobs at Urda that were financed with European funds. The Public Prosecutor's Office has been charged with three bids amounting to a disbursement of EUR 136 million"
+  },
+  {
+    "title": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+    "summary": "El dirigente ve prioritario colaborar con el bloque judío de oposición para reemplazar a Netanyahu, pese a las diferencias ideológicas",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/BITI57YILZH5LBSLTJQFEM7BJY.jpeg?auth=6a77c7e65cfb4f6a36ae9f0daf61dad7fe8f332c631511ccfae16bb0a2f20315",
+    "title_en": "Yusef Jabarín, leader of Israel's leading Arab list: \"By supporting Eisenkot, we have chosen at least bad\"",
+    "summary_en": "The leader sees as a priority to work with the Jewish opposition bloc to replace Netanyahu, despite ideological differences"
+  },
+  {
+    "title": "El archivo suizo del nazi Mengele: pistas que no llevan a nada y un supuesto espía israelí",
+    "summary": "Los documentos desclasificados sobre el ‘Ángel de la Muerte’ muestran el interés público por hallar al macabro criminal huido tras la II Guerra Mundial",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-07/el-archivo-suizo-del-nazi-mengele-pistas-que-no-llevan-a-nada-y-un-supuesto-espia-israeli.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/SGLOIKITYRHZ7DPTDJE2XNRG3Q.jpg?auth=ffbb55f2a81ba7532c3d0c6aec1dc28f77dc7868b2502a67dca80ff0098762f1",
+    "title_en": "The Swiss archives of Nazi Mengele: clues leading to nothing and an alleged Israeli spy",
+    "summary_en": "Unclassified papers about the Angel of Death show public interest in finding the crime macabre fleeing after World War II"
+  },
+  {
+    "title": "Tumbado un contrato valorado en 50 millones para 18 centros de atención a mujeres víctimas de violencia machista en Madrid",
+    "summary": "El Tribunal Administrativo de Contratación Pública obliga al Ayuntamiento de la capital a empezar de nuevo un proyecto que debía estar listo el próximo enero",
+    "source": "El País",
+    "url": "https://elpais.com/espana/madrid/2026-11-07/tumbado-un-contrato-valorado-en-50-millones-para-18-centros-de-atencion-a-mujeres-victimas-de-violencia-machista-en-madrid.html",
+    "category": "Deportes",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/OR4K5MG2JRG3PDKHLNM6RNMTPQ.jpg?auth=584d0d01675b3df9f43eb08b503dea12b3e6af3a018542ee2cadd38a28bacd73",
+    "title_en": "A contract valued at 50 million for 18 care centers for women who have been killed by male violence in Madrid",
+    "summary_en": "The Civil Procurement Administrative Tribunal forces the capital town council to start again a project that was to be ready next January"
+  },
+  {
+    "title": "El inaudito caso de Los Romeos: la enrevesada batalla por el nombre del grupo español",
+    "summary": "La banda castellonense, que regresó este año después de tres décadas, lucha por recuperar su marca, registrada por una persona “sin vinculación con la banda, y solo por dinero”, denuncian los músicos",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/2026-11-07/el-inaudito-caso-de-los-romeos-la-enrevesada-batalla-por-el-nombre-del-grupo-espanol.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/D3ZF3KIREFHDZFIRIRJUJL4FDY.jpeg?auth=9028d7c15408ec63ded855592dbbfc800e13f162649bb11b135401f7f4e40652",
+    "title_en": "The Unheard Case of Los Romeo: The Wraith Battle for the Name of Spanish Group",
+    "summary_en": "The Spanish band, who returned this year after three decades, struggles to get back their brand, registered by a person \"with no association with the band and only with money,\" say the musicians"
+  },
+  {
+    "title": "Ni Shakira ni Rosalía: ‘Delirium Pepitatorum’, la enfermedad del entusiasmo que desató la bailarina Pepita de Oliva",
+    "summary": "La artista malagueña que triunfó en la Europa del siglo XIX resurge del olvido en un libro de Vita Sackville-West y un texto autobiográfico inédito",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/2026-11-07/ni-shakira-ni-rosalia-delirium-pepitatorum-la-enfermedad-del-entusiasmo-que-desato-la-bailarina-pepita-de-oliva.html",
+    "category": "Salud",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/EWE7EVGKVZA2XOXWVGTPOK3GIE.jpg?auth=d41a0cc37d9689f02fe99ebc9dc21c6ce946711103e28da999fd776877a8d87e",
+    "title_en": "Neither Shakira nor Rosalia: 'Delirium Pepitatorum', the disease of enthusiasm that unleashed the dancer Pepita of Oliva",
+    "summary_en": "The Malaguean artist who triumphed in 19th century Europe resurges oblivion in a book by Vita Sackville- West and an unpublished autobiographical text"
+  },
+  {
+    "title": "Llega la primera movilización europea contra los centros de datos: “No queremos ser el patio trasero de nadie”",
+    "summary": "España es uno de los 15 países en los que hay convocados este sábado diversos actos para exigir una moratoria en la construcción de estas infraestructuras",
+    "source": "El País Tecnología",
+    "url": "https://elpais.com/tecnologia/2026-11-07/llega-la-primera-movilizacion-europea-contra-los-centros-de-datos-no-queremos-ser-el-patio-trasero-de-nadie.html",
+    "category": "Tecnología",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/TXRYKVTCEBDZTFFB7366Y7RVDI.jpg?auth=445161075ad2e25ff98a1c2803185023ea90606b6e0e62c62c3e9ddb3c2176ba",
+    "title_en": "The first European mobilization against data centers arrives: \"We don't want to be anyone's back yard\"",
+    "summary_en": "Spain is one of the 15 countries where several events have been convened this Saturday to demand a moratorium on the construction of these infrastructures"
+  },
+  {
+    "title": "Karl Deisseroth, Nobel de Medicina: “Los modelos avanzados de inteligencia artificial podrían leer la actividad cerebral de las personas”",
+    "summary": "El inventor de la optogenética para controlar el cerebro con luz explica cómo esta técnica acerca mejores tratamientos contra las enfermedades mentales",
+    "source": "El País Ciencia",
+    "url": "https://elpais.com/ciencia/2026-11-07/karl-deisseroth-nobel-de-medicina-los-modelos-avanzados-de-inteligencia-artificial-podrian-leer-la-actividad-cerebral-de-las-personas.html",
+    "category": "Tecnología",
+    "date": "2026-11-07T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FNBTPUO3MBFOHLXRKOT4QZTZFI.jpg?auth=3311ade22111899beeefb6fa18af8f2bb64b5a4a0e5ca267f2fcf31a43447e49",
+    "title_en": "Karl Deisseroth, Nobel of Medicine: \"Advanced models of artificial intelligence could read people's cerebral activity\"",
+    "summary_en": "The inventor of optogenetics to control the brain with light explain how this technique approaches better treatments against mental illnesses"
+  },
+  {
+    "title": "Burlas con IA, injerencias rusas y extremismo: campañas tóxicas al servicio de los algoritmos",
+    "summary": "Las redes sociales son un elemento clave cuando llegan unas elecciones. El grupo de WhatsApp con el que Lula organizó a sus votantes y los vídeos con inteligencia artificial que usurparon la imagen del senador James Talarico demuestran que se usan tanto para movilizar al electorado como para intentar manipular",
+    "source": "El País",
+    "url": "https://elpais.com/ideas/2026-11-07/burlas-con-ia-injerencias-rusas-y-extremismo-campanas-toxicas-al-servicio-de-los-algoritmos.html",
+    "category": "Tecnología",
+    "date": "2026-11-07T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2F5Z5M32PFCK3HUJUZQSOABNDI.jpg?auth=c31c4d7688a7242f30b71043a9e5bfff48590416e442ebf38c6fd6b7ebfa2acc",
+    "title_en": "Mocking with A, Russian interference and extremism: toxic campaigns at the service of algorithms",
+    "summary_en": "Social networks are a key factor with an election. The WhatsApp group with which Lula organized its voters and videos with artificial intelligence that usurped Senator James Talarico's image have shown that they are used both to mobilize the electorate and to attempt to manipulate"
+  },
+  {
+    "title": "Mariska de Jong, campeona mundial de tatuajes médicos: “Grabar en la piel un pezón hiperrealista ayuda al paciente a recuperar la autoestima”",
+    "summary": "La tatuadora neerlandesa, que acaba de ser reconocida en una competición en Turquía, es especialista en micropigmentación mamaria tras una mastectomía. Tras 15 años de experiencia, ahora la han empezado a contactar desde algunos hospitales",
+    "source": "El País",
+    "url": "https://elpais.com/estilo-de-vida/2026-11-07/mariska-de-jong-campeona-mundial-de-tatuajes-medicos-grabar-en-la-piel-un-pezon-hiperrealista-ayuda-al-paciente-a-recuperar-la-autoestima.html",
+    "category": "Salud",
+    "date": "2026-11-07T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/XUFWU2PGAVEEVAX2NQFEEUBKQE.jpg?auth=bac9de4fa0859a0ac68ad0dae0a933950f73edb99684949478d95fcb4eedee22",
+    "title_en": "Jong's Mariska, the world's champion of medical tattoos: \"To put a hyperRealist nipple onto his skin helps his patient to get his or her self-esteem back\"",
+    "summary_en": "The Dutch tattooer, who has just been recognised at a competition in Turkey, is a specialist in breast micropigmentation after a mastectomy. After 15 years of experience, she's now been contacted from some hospitals"
+  },
+  {
+    "title": "Hablan los suscriptores de EL PAÍS: “Valoro tener acceso a información veraz, accesible y de calidad”",
+    "summary": "Recibir información veraz y contrastada y confiar en “una herramienta importante para la defensa de la democracia”. Son algunas de las razones de la apuesta de los lectores por este periódico, que cuenta ya con 500.000 abonados",
+    "source": "El País",
+    "url": "https://elpais.com/videos/2026-11-07/hablan-los-suscriptores-de-el-pais-valoro-tener-acceso-a-informacion-veraz-accesible-y-de-calidad.html",
+    "category": "Internacional",
+    "date": "2026-11-07T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FL7SUAUDA5CDLIRQVIBOMKBC4A.jpg?auth=6a54f447bf25d299856816a0a5927bf40de53f5bc9c432363cb94ecb87cb2ade",
+    "title_en": "The subscribers of EL PAIS speak: \"I appreciate have access to true, accessible and quality information\"",
+    "summary_en": "To get truthful and contrast information and to trust \"an important tool for defending democracy.\" They are some of the reasons for readers' commitment to this paper, with 500,000 subscribers already"
+  },
+  {
+    "title": "Vecinos anclados en una calefacción contaminante que este invierno saldrá muy cara: qué alternativas hay en el mercado",
+    "summary": "Miles de comunidades siguen dependiendo de viejas calderas de gasóleo y gas pese al alza de los costes energéticos, las ayudas y la regulación",
+    "source": "El País",
+    "url": "https://elpais.com/economia/negocios/2026-11-07/vecinos-anclados-en-una-calefaccion-contaminante-que-este-invierno-saldra-muy-cara-que-alternativas-hay-en-el-mercado.html",
+    "category": "Economía",
+    "date": "2026-11-07T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/QCWJE4OKFJDALCSL46OS357HKY.jpg?auth=3e72496748d67fd5fa3d280769440e7522c35fa26d5c4d90caa9dc8cdaf89ad5",
+    "title_en": "Neighbors anchored in a pollutant heating that this winter will get very expensive: what alternatives are available at market",
+    "summary_en": "Thousands of communities continue to depend on old diesel and gas boilers despite rising energy costs, aids and regulation"
+  },
+  {
+    "title": "DJ Nano, vida y obra del rey del ‘remember’: “Hoy es muy difícil que una joven promesa pueda estar dentro de los grandes clubs”",
+    "summary": "José Luis Garaña de los Cobo lleva tres décadas en la industria de la música, es empresario, coleccionista empedernido, padre de un adolescente con el que ya intercambia canciones y creador de la fiesta ‘Oro Viejo’, que va camino de cumplir 25 años",
+    "source": "El País",
+    "url": "https://elpais.com/gente/2026-11-07/dj-nano-vida-y-obra-del-rey-del-remember-hoy-es-muy-dificil-que-una-joven-promesa-pueda-estar-dentro-de-los-grandes-clubs.html",
+    "category": "Cultura",
+    "date": "2026-11-07T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/KHXEYWSKRZEOTG5DBQL7WSJGLM.jpg?auth=66093f5ba9a071bb094d01f34950c9c5467ddc6ee493bb6ac6533ad7586de6e9",
+    "title_en": "DJ Nano, the life and work of the Reministering King: \"Today it's very difficult for a young promise to be within the great clubs.\"",
+    "summary_en": "José Luis Garaña de los Cobo has been an entrepreneur and an old man with whom he already interchanges songs and creator of his \"Oro Viejo\" party and his way to his 25 year old"
+  },
+  {
+    "title": "Correos, ‘whatsapps’, alertas, reuniones... por qué el nuevo lujo laboral es mantener la concentración más de una hora",
+    "summary": "La atención de las plantillas se ha fragmentado con la tecnología. Estas son algunas medidas para evitarlo y reducir el estrés",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/2026-11-07/correos-whatsapps-alertas-reuniones-por-que-el-nuevo-lujo-laboral-es-mantener-la-concentracion-mas-de-una-hora.html",
+    "category": "Tecnología",
+    "date": "2026-11-07T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/KNF7BYCWV5E5HAHKHMTYOBANSY.jpg?auth=7c38865e32d11edf8e2e7a3aaf2f9cf7fa3b323c9435c2dc234964ea773d0498",
+    "title_en": "Correos, Whatsapps, alerts, meetings... why the new job luxury is to maintain concentration more than an hour",
+    "summary_en": "The care of templates has been fragmented with technology. Here are some measures to avoid and reduce stress"
+  },
+  {
+    "title": "En Argentina florecen los ‘finfluencers’, supuestos expertos que prometen hacerte rico: “Deja de ser una perrita y conviértete en un hombre-gorila”",
+    "summary": "En una economía errática y con inflación crónica, muchos ciudadanos acuden a estos perfiles en las redes sociales para buscar consejos que les ayuden a rentabilizar su dinero",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-11-07/en-argentina-florecen-los-finfluencers-supuestos-expertos-que-prometen-hacerte-rico-deja-de-ser-una-perrita-y-convierte-en-un-hombre-gorila.html",
+    "category": "Tecnología",
+    "date": "2026-11-07T04:30:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/GVQ567VKQJAJRA4HYAXRJOIGEU.JPG?auth=691332107ff8a0a0522b1fbd6bff37ef5a9535abe7f84fd815cb3854c992cf16",
+    "title_en": "Argentina's \"finfluencers\" flourish, so-called experts who promise to get rich: \"Stop being a dog and become a man-gorilla\"",
+    "summary_en": "In an erratic and chronic inflation economy, many citizens come to these profiles on social networks to seek advice to help them gain their money"
+  },
+  {
+    "title": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
+    "summary": "Tres años después de asumir el poder, Santiago Peña terminó arrastrado por la crisis desatada tras la intervención del Ueno Bank.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-07T04:11:23+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd34/live/de4ee160-d9dc-11f1-b4ca-fd31344b71b9.jpg",
+    "title_en": "Who's Santiago Peña, the economist with whom the powerful Horacio Cartes engulfed Paraguay's presidency (and who now dropped)",
+    "summary_en": "Three years after his assumption of power, Santiago Peña had been dragged by the crisis after Ueno Bank's intervention."
+  },
+  {
+    "title": "De qué se acusa a Santiago Peña, el presidente de Paraguay que fue destituido por el Congreso en juicio político tras la crisis de Ueno Bank",
+    "summary": "La oposición acusó a Santiago Peña de conflicto de intereses por sus vínculos con el grupo propietario de Ueno Bank y cuestiona posibles beneficios económicos.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-07T03:36:27+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9b6/live/00622410-d9f6-11f1-bb10-cdca6001fbcf.jpg",
+    "title_en": "What's been charged with Santiago Peña, the president of Paraguay who was dismissed by Congress at political trial after the Ueno Bank crisis",
+    "summary_en": "The opposition accused Santiago Peña of conflict of interest for his links with Ueno Bank's own group and challenges potential economic benefits."
+  },
+  {
+    "title": "EE.UU. exige a China que respete el acuerdo comercial bilateral",
+    "summary": "Las dos principales potencias económicas mundiales mantienen una tregua comercial que fue prorrogada hasta el 10 de enero de 2027.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/ee-uu-exige-a-china-que-respete-el-acuerdo-comercial-bilateral/a-79882938?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-07T03:32:00+00:00",
+    "image": "",
+    "title_en": "U.S. Requires China to Respect Bilateral Trade Agreement",
+    "summary_en": "The two leading global economic powers maintain a trade truce that was extended to 10 January 2027."
+  },
+  {
+    "title": "Paraguay: la tormenta de Ueno Bank arrastró a Santiago Peña, destituido, detenido y sustituido",
+    "summary": "44 senadores votaron unánimemente a favor de la destitución del presidente, por sus vínculos con el Ueno Bank, cuyo cierre ha ocasionado una crisis política sin precedentes en el país. En una rápida sucesión, la Fiscalía ordenó la detención de Peña, la Policía Nacional ejecutó la medida, al notificarlo de su detención domiciliaria, el exmandatario fue…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261107-paraguay-la-tormenta-de-ueno-bank-arrastr%C3%B3-a-santiago-pe%C3%B1a-destituido-detenido-y-sustituido",
+    "category": "Medio Ambiente",
+    "date": "2026-11-07T03:07:40+00:00",
+    "image": "https://s.france24.com/media/display/f6018828-da57-11f1-9f09-d18c5759e759/w:1024/p:16x9/AP26308842915508.jpg",
+    "title_en": "Paraguay: Ueno Bank's storm dragged Santiago Peña, dismissed, stopped and replaced",
+    "summary_en": "44 senators voted unanimously for the President's dismissal, for his links with Ueno Bank, whose closure has resulted in an unprecedented political crisis in the country. In an early succession, the Prosecutor's Office ordered Peña's detention, and the National Police put his decision to his place of residence and his place of residence was..."
+  },
+  {
+    "title": "Presión sobre Pete Hegseth: ¿será una posible víctima de los resultados de las midterms?",
+    "summary": "A medida que se aclaran los resultados de las elecciones de medio mandato en Estados Unidos, el futuro político de Pete Hegseth parece cada vez más incierto. Con el propio Donald Trump reconociendo que la guerra influyó en el resultado electoral, aumentan las presiones sobre uno de sus colaboradores más cercanos. Medios estadounidenses señalan que la Casa…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-presi%C3%B3n-sobre-pete-hegseth-ser%C3%A1-una-posible-v%C3%ADctima-de-los-resultados-de-las-midterms",
+    "category": "Política",
+    "date": "2026-11-07T03:04:04+00:00",
+    "image": "https://s.france24.com/media/display/f6fdce1e-d924-11f1-9a6a-d18c5759e759/w:1024/p:16x9/AP26301214244363.jpg",
+    "title_en": "Pressure on Pete Hegseth: will she be a potential victim of midterm results?",
+    "summary_en": "As the results of the half-term elections in the U.S. are clarified, Pete Hegseth's political future appears increasingly uncertain. With Donald Trump's own recognition that the war had an impact on the electoral result, pressures on one of his closest partners have increased. American media indicates that the House..."
+  },
+  {
+    "title": "Kenia: condenan al líder sectario Paul Mackenzie a 200 años por llevar a sus fieles al ayuno extremo",
+    "summary": "Más de tres años después del hallazgo de cientos de cuerpos en el bosque de Shakahola, la justicia de Kenia dictó una de las condenas más severas de su historia reciente. Un tribunal sentenció a Paul Mackenzie, líder de una secta evangélica, a 200 años de prisión por la muerte de 191 personas, en su mayoría niños, que fallecieron tras seguir sus órdenes de…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-kenia-condenan-al-l%C3%ADder-sectario-paul-mackenzie-a-200-a%C3%B1os-por-llevar-a-sus-fieles-al-ayuno-extremo",
+    "category": "Internacional",
+    "date": "2026-11-07T03:01:52+00:00",
+    "image": "https://s.france24.com/media/display/ed59527e-cc00-11f1-a12e-6313a763b466/w:1024/p:16x9/000-D3PA67M.jpg",
+    "title_en": "Kenya: Civil Leader Paul Mackenzie sentenced to 200 years for leading his faithful to extreme fasting",
+    "summary_en": "More than three years after hundreds of bodies were found in the Shakahola forest, Kenyan justice pronounced one of the harshest sentences of its recent history. A court sentenced Paul Mackenzie, the leader of an Gospel sect, to 200 years imprisonment for the death of 191 people, most of them children, who died after following his orders to..."
+  },
+  {
+    "title": "Tensión en Tanzania tras la condena del líder opositor Tundu Lissu a cuatro años de cárcel",
+    "summary": "Tras 577 días en prisión, el líder opositor tanzano Tundu Lissu recibió un veredicto que tomó por sorpresa a muchos observadores. Aunque el Alto Tribunal lo absolvió del cargo de traición al considerar que la Fiscalía no demostró que intentara intimidar al Gobierno, sí lo declaró culpable de incitación por llamados a bloquear unas elecciones sin reformas…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261107-tensi%C3%B3n-en-tanzania-tras-la-condena-de-tundu-lissu-a-cuatro-a%C3%B1os-de-c%C3%A1rcel",
+    "category": "Política",
+    "date": "2026-11-07T03:00:00+00:00",
+    "image": "https://s.france24.com/media/display/e2bf017c-da53-11f1-8d1d-695cb59fade5/w:1024/p:16x9/ES-20261106-201034-201210-CS.jpg",
+    "title_en": "Tension in Tanzania following conviction of opposition leader Tundu Lissu to four years imprisonment",
+    "summary_en": "After 577 days in prison, the Tanzanian opposition leader Tundu Lissu received a verdict that was surprising to many observers. Although the High Court absolved him from the charge of treason by considering that the Prosecutor's Office did not prove his intention to intimidate the Government, it did declare him guilty of incitement for calls to block an election without reforms..."
   },
   {
     "title": "¿Quién es Stephen Miller? El hombre elegido por Trump para dirigir su gabinete",
@@ -77,26 +550,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The president of Israel, Isaac Herzog, concluded his consultations with the parties and announced that his party will be elected to form his government. A person with his or her mandate will have 28 days, with an extension for another 14, to build a coalition. If it fails, the assignment will pass to another seeker and if a majority isn't achieved, the country could come back to..."
   },
   {
-    "title": "Arrestan a inmigrante venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según las autoridades",
+    "title": "Arrestan a un inmigrante venezolano armado cerca de la Casa Blanca que amenazaba con atentar contra Trump, según las autoridades",
     "summary": "\"Cuando lo confrontaron, el hombre dijo que escuchaba voces en su cabeza que le ordenaban viajar a Washington DC para matar al presidente Trump\", informó el Departamento de Seguridad Nacional.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.com/mundo/articles/cvlyddxr5kz1o?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-11-07T01:02:01+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d2bd/live/b3c32680-da3c-11f1-bbee-f5614d7cfeb4.jpg",
-    "title_en": "Armed Venezuelan immigrant arrested near the White House threatening to attack Trump, authorities say",
+    "title_en": "Venezuelan immigrant arrested near the White House threatening to attack Trump, officials say",
     "summary_en": "\"When they confronted him, the man said that he heard voices in his head that ordered him to travel to Washington DC to kill President Trump,\" the National Security Department reported."
-  },
-  {
-    "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
-    "summary": "Agentes federales han irrumpido en la residencia de ancianos donde vive Thomas Markle después de encontrar material pornográfico con menores en dos trasteros alquilados de Los Ángeles. Markle podría enfrentar 20 años de cárcel",
-    "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-06/el-padre-de-meghan-markle-es-arrestado-en-florida-por-posesion-de-pornografia-infantil.html",
-    "category": "Internacional",
-    "date": "2026-11-07T00:55:41+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/L3NDOYWHDJE2DA5HLKDFY6OPCM.jpg?auth=fcd34bee6aa3009ad51bc5620dc79b1ff2a029de14338e6fb34b3280af8e2c03",
-    "title_en": "Meghan Markle's father is arrested in Florida for possession of child pornography",
-    "summary_en": "Federal agents have been breaking into an old man's residence where Thomas Markle lives after finding porn with minors at two rental storage rooms in LA. Markle could face 20 years in jail"
   },
   {
     "title": "Casa Blanca mantiene proyecto del arco del triunfo en Washington pese a revés judicial",
@@ -154,15 +616,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The Senate approves with the votes of all public officials the political death of the president, achieved by a financial scandal. Vice President Pedro Alliana is sworn as new head of state"
   },
   {
-    "title": "El expresidente de Paraguay Santiago Peña queda bajo arresto domiciliario tras ser destituido por el Congreso por el escándalo de Ueno Bank",
-    "summary": "Peña fue apartado del cargo y se enfrenta ahora a posibles responsabilidades penales por su papel en el escándalo de Ueno Bank.",
+    "title": "El escándalo de Ueno Bank en Paraguay se salda con la detención de Santiago Peña y con Pedro Alliana como nuevo presidente del país",
+    "summary": "Peña fue destituido por el Congreso en juicio político y se enfrenta ahora a posibles responsabilidades penales por su papel en el caso de Ueno Bank.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.com/mundo/articles/cwkg55edm8r7o?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-11-06T23:56:32+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0127/live/63aa53d0-da28-11f1-a78c-49bd6dfbb9b5.jpg",
-    "title_en": "Paraguay's former president Santiago Peña remains under house arrest after his dismissal by Congress for the Ueno Bank scandal",
-    "summary_en": "Peña was put from office and currently faces potential criminal liability for his role in the Ueno Bank scandal."
+    "title_en": "The Ueno Bank scandal in Paraguay with his arrest and with Pedro Alliana as his new president",
+    "summary_en": "Peña was dismissed by Congress at a political trial and currently faces potential criminal liability for his role in the Ueno Bank case."
   },
   {
     "title": "Quién es Pedro Alliana, el nuevo presidente de Paraguay con el que busca rearmarse el poderoso Partido Colorado",
@@ -319,17 +781,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Iran's fear of a new military escalation with the U.S. grows. Rumors about a potential nuclear attack and warning signs throughout the country have increased uncertainty among the population."
   },
   {
-    "title": "El Ibex firma su mejor semana en siete meses al calor de la banca y la caída del petróleo",
-    "summary": "El selectivo español sortea la tormenta tecnológica y sube un 3,8% en cinco jornadas. El ‘brent’ cae un 16,4%, el mayor descenso desde la pandemia",
-    "source": "El País",
-    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-06/la-bolsa-y-el-ibex-35.html",
-    "category": "Medio Ambiente",
-    "date": "2026-11-06T21:07:27+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/UF4LNKLCEZEHPEXRIG63PYZM2E.png?auth=3f2737f4bdfe9ea3ccd935d3e1ee130edb0be509ed7a15bbbeccc9e3db22def3",
-    "title_en": "The Ibex signs his best week in seven months at the heat of the bench and the fall of oil",
-    "summary_en": "The Spanish select scares the technological storm and increases by 3.8% in five days. The 'brent' drops by 16.4%, the highest decline since the pandemic"
-  },
-  {
     "title": "¿Qué mensaje busca transmitir el papa León XIV en su gira por Uruguay, Argentina y Perú?",
     "summary": "El papa León XIV inició una gira apostólica por Uruguay, Argentina y Perú, un viaje que refuerza los vínculos de la Iglesia católica con América Latina y marca su regreso a una región con la que mantiene una estrecha relación personal y pastoral. Marcial Sánchez Gaete, doctor en historia y experto en historia de la Iglesia católica, aborda el tema en France…",
     "source": "France 24",
@@ -350,17 +801,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/GLFWQVTCROYZYASWX5DMOIU6GM.jpg?auth=b8000523138897a4087d6a7b1e5f7177636416f113f004cc38d0c56a0e6f4e38",
     "title_en": "The Council of State lays free the decision of data centres and may be adopted before 29N",
     "summary_en": "The consultative body challenges the judicial and regulatory offensive of energy and technologies by unanimously supporting state competition, normative status and emergency management"
-  },
-  {
-    "title": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
-    "summary": "El mitin de Valencia, más contenido que los anteriores y sin bailes, empieza con un minuto de silencio por las víctimas de Urda. El presidente reivindica “la ejemplaridad” por la dimisión de Puente en un acto que supera las expectativas de afluencia",
-    "source": "El País",
-    "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html",
-    "category": "Política",
-    "date": "2026-11-06T20:27:08+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/4IHO4XN6XJAFZFRGLWRDOXZLGA.JPG?auth=f58128d4f5f30af0d4222a463020cd6ba707d5d6b380eff9a07bccd0dfa095a4",
-    "title_en": "Pedro Sánchez calls for mobilization at his return to his campaign: \"If we can have them in Brazil and the US, in Spain as well\"",
-    "summary_en": "The meeting of Valencia, more contained than previous and without dances, begins with a minute's silence for Urda's victims. The president claims \"exemplarity\" for the resignation of Puente in an event that goes beyond expectations of influx"
   },
   {
     "title": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca",
@@ -407,72 +847,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Less than a month after being operated by lung cancer, Leo XIV starts one of his most challenging pastoral visits for a pontif, a 12-day tour that will also lead him to Argentina and Peru, his second home. The pope is expected to meet with Uruguayan President Yamandú Orsi on 6 November, before visiting the Cathedral..."
   },
   {
-    "title": "Directo a... Bruselas y la investigación de la UE por presunto fraude de fondos europeos en España",
-    "summary": "La Fiscalía Europea anunció la apertura de una investigación en España por un posible fraude con fondos europeos destinados a las líneas de tren de alta velocidad del país, tras el accidente ferroviario ocurrido en Toledo el pasado 28 de octubre, que dejó 69 personas fallecidas. Nuestra corresponsal, Esther Herrera, amplió la información sobre el avance de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-directo-a-bruselas-y-la-investigaci%C3%B3n-de-la-ue-por-presunto-fraude-de-fondos-europeos-en-espa%C3%B1a",
-    "category": "Ciencia",
-    "date": "2026-11-06T19:15:56+00:00",
-    "image": "https://s.france24.com/media/display/0a1095e6-da14-11f1-9cc2-1beafce15fea/w:1024/p:16x9/ES-20261106-124534-124950-CS.jpg",
-    "title_en": "Direct to Brussels and the EU Research for alleged fraud of European funds in Spain",
-    "summary_en": "The European Prosecutor's Office announced an investigation into a potential fraud with European funds for high-speed train lines in Spain after the railway incident at Toledo on 28 October, with 69 people killed. Our correspondent, Esther Herrera, expanded information about the advancement of..."
-  },
-  {
-    "title": "Gavin Newsom conmuta la pena de muerte de 548 personas en California",
-    "summary": "En una carta emitida el 5 de noviembre, Gavin Newsom, gobernador de California, anunció la conmutación de la pena de muerte de 548 personas por cadena perpetua. Newsom lleva años oponiéndose a la pena capital y, en 2019, decretó una moratoria sobre las ejecuciones en su estado. No obstante, la Constitución de California exige la aprobación de la Corte…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-gavin-newsom-conmuta-la-pena-de-muerte-de-548-personas-en-california",
-    "category": "Internacional",
-    "date": "2026-11-06T19:15:09+00:00",
-    "image": "https://s.france24.com/media/display/4ad4fd40-da16-11f1-b0c3-bf1914cabd52/w:1024/p:16x9/capture-5b53a70d.jpg",
-    "title_en": "Gavin Newsom commutes the death sentence of 548 people in California",
-    "summary_en": "In a letter of November 5, Gavin Newsom, Governor of California, announced the commutation of the death sentence of 548 people for life imprisonment. Newsom has been opposition to capital punishment for years and decreed a moratorium on executions in his state in 2019. Nevertheless, the California Constitution requires the Court's approval..."
-  },
-  {
-    "title": "Francia: así transcurrió la jornada de protestas contra el aumento del costo de vida",
-    "summary": "El último punto de encuentro de los manifestantes en París fue la plaza de la Nación. La marcha partió desde la plaza de la República y reunió a estudiantes, sindicatos, chalecos amarillos, entre otros grupos. La huelga general fue convocada para protestar contra el aumento del costo de vida. La mayoría de las movilizaciones se desarrollaron de forma…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261106-francia-as%C3%AD-transcurri%C3%B3-la-jornada-de-protestas-contra-el-aumento-del-costo-de-vida",
-    "category": "Internacional",
-    "date": "2026-11-06T19:13:08+00:00",
-    "image": "https://s.france24.com/media/display/06fc20f4-da15-11f1-87cb-a575454bc579/w:1024/p:16x9/2026-11-05T182720Z-1639853732-RC2RHOA6R8JB-RTRMADP-3-FRANCE-PROTEST.jpg",
-    "title_en": "France: That's how the day of protests against rising living costs passed",
-    "summary_en": "The final meeting place for protesters in Paris was the National square. The march began from the Republic's square and brought together students, trade unions and yellow vests, among other groups. The general strike was called to protest an increased cost of living. Most of the mobilizations have been developed as an..."
-  },
-  {
-    "title": "La caída de Ueno Bank sacude el sistema financiero paraguayo: ¿A dónde fue el dinero?",
-    "summary": "La intervención de Ueno Bank en Paraguay abre interrogantes sobre el destino de los depósitos de millones de usuarios y la devolución de sus ahorros. El Fondo de Garantía de Depósitos contempla recursos para responder a los afectados, pero existen límites legales de hasta 37.000 dólares por persona. A esta incertidumbre se suman cerca de 850 millones de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261106-la-ca%C3%ADda-de-ueno-bank-sacude-el-sistema-financiero-paraguayo-a-d%C3%B3nde-fue-el-dinero",
-    "category": "Internacional",
-    "date": "2026-11-06T19:08:57+00:00",
-    "image": "https://s.france24.com/media/display/f18fe3fa-da09-11f1-9373-d18c5759e759/w:1024/p:16x9/AP26307802146650.jpg",
-    "title_en": "The fall of Ueno Bank cuts the Paraguayan financial system: where did money go?",
-    "summary_en": "Ueno Bank's intervention in Paraguay raises questions about how many million users have been deposited and how their savings have been returned. The Deposit Guarantee Fund includes resources to respond to those affected but there are statutory limits of up to $37,000 per person. To this uncertainty are added about 850 million..."
-  },
-  {
-    "title": "14 detenidos en una operación de la Policía contra el grupo neonazi Núcleo Nacional",
-    "summary": "Un juzgado de Gijón les investiga por delito de odio, asociación ilícita y tenencia de armas tras unos disturbios ocurridos en febrero en la ciudad asturiana",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/varios-detenidos-en-una-operacion-de-la-policia-contra-el-grupo-nucleo-nacional.html",
-    "category": "Internacional",
-    "date": "2026-11-06T18:55:38+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/A5RPEHLQ3NFGTFGVPCYL5NQOBM.jpg?auth=ec1dfc5f9d70cb262d5c7ddc1887308f88f0a73e3d4f953f8a671e2417aa58f3",
-    "title_en": "14 detainees at a police operation against Núcleo Nacional",
-    "summary_en": "A court at Gijón investigates them for hate crime, illicit association and possession of arms after riots in February in the town of Assyria"
-  },
-  {
-    "title": "Más de una quincena de vuelos europeos reciben nuevas amenazas de bomba",
-    "summary": "Los gobiernos de España e Irlanda apuntan a una campaña coordinada, aunque nadie ha señalado a un responsable. Cuatro de los aviones afectados tenían destino Madrid",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html",
-    "category": "Deportes",
-    "date": "2026-11-06T18:30:28+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/5Y52GYHWIRCTBHX4TVQLKZJDVY.jpg?auth=3105d1defc2fb4c99613a055d8c5768ddc2fd3d04c3eadfd43e3cb0163511923",
-    "title_en": "More than a fortnight of European flights get new bomb threats",
-    "summary_en": "The Spanish and Irish governments have been leading a coordinated campaign, but nobody has put an end to them. 4 of the affected aircraft were destined for Madrid"
-  },
-  {
     "title": "La vivienda, los alimentos y los combustibles se encarecen hasta tres veces más que los salarios desde 2019",
     "summary": "El gabinete económico de CC OO denuncia que los márgenes de las grandes empresas se han disparado un 65% en los últimos años, hasta los 342.000 millones",
     "source": "El País Economía",
@@ -495,17 +869,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The detention occurred at the old man's 82-year-old and dementially diagnosed residence, as reported by CBS."
   },
   {
-    "title": "El candidato español y el holandés competirán en la carrera por sustituir a Christine Lagarde al frente del BCE",
-    "summary": "El exgobernador Pablo Hernández de Cos se convierte en el primer español que aspira oficialmente a ser el jefe de la autoridad monetaria de la eurozona",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-06/espana-presenta-formalmente-la-candidatura-de-hernandez-de-cos-a-la-presidencia-del-bce.html",
-    "category": "Política",
-    "date": "2026-11-06T17:33:14+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/IW32AKLUGVQUM2BJSUL2UV7T44.jpg?auth=73fe686fc538fe7f75ed3aecadbf10e128a4768c059f548ac00d81cf366309d2",
-    "title_en": "Spanish and Dutch candidates will compete in the race to replace Christine Lagarde at the head of the ECB",
-    "summary_en": "The former Governor Pablo Hernandez de Cos became the first Spanish to officially purport to be the head of the Eurozone's monetary authority"
-  },
-  {
     "title": "Canarias recibe a más de 850 migrantes en un solo día",
     "summary": "Un total de 854 personas, entre ellas mujeres y menores, llegaron en siete cayucos a El Hierro. Las llegadas a Canarias se aceleran: más de 3.200 migrantes arribaron al archipiélago en los primeros cinco días del mes.",
     "source": "DW Español",
@@ -515,28 +878,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Canary Islands receives more than 850 migrants in a single day",
     "summary_en": "A total of 854 people, including women and minors, arrived at El Hierro in seven cayucumbers. Arrivals to the Canary Islands are accelerating: more than 3,200 migrants arrived at the archipelago in the first five days of the month."
-  },
-  {
-    "title": "La Guardia Civil cifra en más de 88.000 los retornos de migrantes de Ceuta, más de los que el Gobierno calculó que habían entrado en julio",
-    "summary": "Un informe presentado en la Audiencia Nacional recoge que 90 personas fallecieron en el lado español de la frontera y 862 fueron rescatadas el día de la avalancha",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/la-guardia-civil-cifra-en-mas-de-88000-los-retornos-de-migrantes-de-ceuta-a-marruecos.html",
-    "category": "Política",
-    "date": "2026-11-06T17:24:04+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FBUHZ35B7ZKOPPE5ZOAZDO3IVY.jpg?auth=bbb20f2c6db97ed9a56b1eaece69180d002e3546145af3a89d7bc4219b7eed32",
-    "title_en": "Civil Guard figure at more than 88,000 returns of migrants from Ceuta, more than the Government estimated to have entered in July",
-    "summary_en": "A report submitted to the National Court indicates that 90 people died on the Spanish side of the border and 862 were rescued on avalanche day"
-  },
-  {
-    "title": "Muere a los 52 años el director chileno Sebastián Lelio, ganador del Oscar por ‘Una mujer fantástica’",
-    "summary": "Según diversos reportes, el cineasta fue hallado sin vida en su casa ubicada en Las Condes, al oriente de la capital",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/cine/2026-11-06/muere-a-los-52-anos-el-director-chileno-sebastian-lelio-ganador-del-oscar-por-una-mujer-fantastica.html",
-    "category": "Internacional",
-    "date": "2026-11-06T17:19:59+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/W4FNBSLUBBY2O3GWI3H7VNHJJE.jpg?auth=35d98cbfd70f47ecdf336e379cc9f9b1576f4e0884fe088b6984b48887cea8ea",
-    "title_en": "Chilean director Sebastian Lelio, an Oscar winner, dies at 52 for \"A Fancy Women'",
-    "summary_en": "According to several reports, the filmmaker was found lifeless at his house at Las Condes, to the east of the capital"
   },
   {
     "title": "Niclas Füllkrug, el goleador que volvió a encontrar la felicidad en Bremen",
@@ -561,28 +902,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The tour that Pope Leo XIV starts with South America with his visits to Uruguay, Argentina and Peru is one of the main themes of the German press this week."
   },
   {
-    "title": "Una jueza federal paraliza ‘in extremis’ las obras del arco del triunfo que Trump quiere construir en Washington",
-    "summary": "La Casa Blanca pretendía iniciar este mismo viernes los trabajos para levantar el monumento de homenaje al presidente",
-    "source": "El País",
-    "url": "https://elpais.com/us/2026-11-06/una-jueza-federal-paraliza-in-extremis-las-obras-del-arco-del-triunfo-que-trump-quiere-construir-en-washington.html",
-    "category": "Política",
-    "date": "2026-11-06T16:55:11+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/NI5UXHS4I5M3PE46UD3GOKFYEI.jpg?auth=8490c9bc54ad8c2205bad7b3e6691172b53a589b59d845902332f8716eb7ede0",
-    "title_en": "A federal judge paralyzes the works of the arch of triumph that Trump wants to build in Washington",
-    "summary_en": "The White House intended to start its work this Friday to put up a memorial to honor the president"
-  },
-  {
-    "title": "El Gobierno de Almeida planta 40 olivos regalados por Israel mientras colonos judíos arrancan miles de estos árboles en Palestina",
-    "summary": "El acto se ha celebrado en un parque del barrio de Valdebebas, al norte de la ciudad, y simboliza, una vez más, la sintonía del Ayuntamiento de Madrid con el gobierno acusado de genocidio",
-    "source": "El País",
-    "url": "https://elpais.com/espana/madrid/2026-11-06/el-gobierno-de-almeida-planta-40-olivos-regalados-por-israel-mientras-colonos-judios-arrancan-miles-de-estos-arboles-en-palestina.html",
-    "category": "Deportes",
-    "date": "2026-11-06T16:38:12+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/IMFAHQIMS5HXJIFIQNA7CQKDPE.jpg?auth=9510c631ea8265b0f9705746467eaa963f61d530f93247ebfdd6924a73ccd169",
-    "title_en": "The Government of Almeida plant 40 olive trees awarded by Israel as Jewish settlers rip out thousands of these trees in Palestine",
-    "summary_en": "The event was held at a park in Valdebeas neighborhood, to the north of the city and once again symbolizes the tuning of the town of Madrid with the government accused of genocide"
-  },
-  {
     "title": "Acciones de IA respiran tras desplome por elecciones en EE. UU",
     "summary": "Temor por posibles regulaciones y freno a infraestructura hicieron caer las acciones este jueves en Wall Street, pero la semana terminó al alza.",
     "source": "DW Español",
@@ -594,17 +913,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Fear about potential regulations and infrastructure brake put stock down Thursday at Wall Street, but the week ended up up."
   },
   {
-    "title": "Icomos, órgano consultivo de la Unesco, defiende retirar los tubos de las gárgolas “sodomizadas” de Santiago",
-    "summary": "El órgano asesor cree que el proyecto de Turespaña no tuvo en cuenta el impacto visual",
-    "source": "El País",
-    "url": "https://elpais.com/espana/galicia/2026-11-06/icomos-organo-consultivo-de-la-unesco-defiende-retirar-los-tubos-de-las-gargolas-sodomizadas-de-santiago.html",
-    "category": "Internacional",
-    "date": "2026-11-06T16:21:29+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7JH62UM7HBFCVPBMHEUI6B5DWM.jpg?auth=fbd6a461afe88fb5c8ab44ce784490effc4c6f38640e8d332be7b4bb4f3ab4b2",
-    "title_en": "Icomos, an consultative body of Unesco, advocates to remove the pipes from the \"sodomized\" gargolas of Santiago",
-    "summary_en": "The advisory body believes that the Torespaña project did not take into account the visual impact"
-  },
-  {
     "title": "\"El envío de tropas a Haití es una apuesta política de Bukele: demostrar que no es solo un actor nacional, sino uno mucho más poderoso a nivel regional\"",
     "summary": "Tras la desaparición de cuatro militares salvadoreños en el país caribeño, Bukele advirtió a los líderes de los grupos criminales allí que puede acabar con ellos como lo hizo con la MS-13 y el Barrio 18. Hablamos al respecto con el especialista en Haití Romain Le Cour Grandmaison.",
     "source": "BBC Mundo",
@@ -614,39 +922,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c905/live/7db75ae0-d706-11f1-ac17-5d3d5470aaba.jpg",
     "title_en": "\"The sending of troops to Haiti is a political bet by Bukele: to prove that they are not only a national actor but a far more powerful at regional level\"",
     "summary_en": "Following the disappearance of four Salvadoran military personnel in the Caribbean countries, Bukele warned the leaders of the criminal groups there that she can put an end to them as she did with Ms.13 and Barrio 18. We have been talking about this with Haiti specialist Romain Le Cour Grandmaison."
-  },
-  {
-    "title": "La editorial Almadía mantiene su confianza en la novela de David Silva Rojas y no retira el premio",
-    "summary": "El sello da por concluida su investigación sobre la obra ganadora de su premio de Narrativa Breve y rechaza, sin aportar pruebas, el examen de Pangram que concluía que fue escrita con IA",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-06/la-editorial-almadia-mantiene-su-confianza-en-la-novela-de-david-silva-rojas-y-no-retira-el-premio.html",
-    "category": "Ciencia",
-    "date": "2026-11-06T15:41:34+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/442FQCGC6JHPJL667EUB75TJMQ.jpg?auth=50004a2373a2eedaf5ea5c51697b8788a7c9402fa7c2c26b349517136a6e0b05",
-    "title_en": "The publisher Almadía remains confident with David Silva Rojas's novel and doesn't withdraw his prize",
-    "summary_en": "The stamp concludes its research into his Narrative Brive prize-winning work and rejects, without providing evidence, Pangram's examination that concluded that it was written with IA"
-  },
-  {
-    "title": "Anabel Alonso: “Lo que más me preocupa del discurso de la ultraderecha es que se lo compre la clase media trabajadora”",
-    "summary": "En el sexto episodio de esta temporada de ‘Tercer Acto’, la actriz habla de su profesión, el amor, el humor, la pérdida de sus dos hermanos cuando eran niños y los problemas sociales que más le preocupan",
-    "source": "El País",
-    "url": "https://elpais.com/eps/2026-11-06/anabel-alonso-lo-que-mas-me-preocupa-del-discurso-de-la-ultraderecha-es-que-se-lo-compre-la-clase-media-trabajadora.html",
-    "category": "Cultura",
-    "date": "2026-11-06T15:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MGOCDMU3PFFGLEG6WYP7AGQGWU.jpg?auth=623d3d368e76ce7aab81027676fd07548a6bd3f03c343890ba17c1ce56af3e64",
-    "title_en": "Anabel Alonso: \"What worries me most about the discourse of the ultra-right is that I buy them from the middle class.\"",
-    "summary_en": "In the sixth episode of this season's \"Third Act,\" the actress talks about her profession, love, humor, the loss of her two brothers as children and the social problems she's most concerned about."
-  },
-  {
-    "title": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la crisis de Ueno Bank",
-    "summary": "La oposición acusa al Santiago Peña de conflicto de intereses por sus vínculos con el grupo propietario de Ueno Bank y cuestiona posibles beneficios económicos.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-11-06T15:28:23+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9b6/live/00622410-d9f6-11f1-bb10-cdca6001fbcf.jpg",
-    "title_en": "What's been accused of Santiago Peña, Paraguay's president facing a political trial after the Ueno Bank crisis",
-    "summary_en": "The opposition accuses Santiago Peña of conflict of interest for his links with Ueno Bank's own group and challenges potential economic benefits."
   },
   {
     "title": "El mecanismo para retirar parte de la producción de aceite satisface a los productores y disgusta a la industria del envasado",
@@ -715,50 +990,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Thousands of people in Paraguay have been unaware about what's going to happen with their money at the Ueno Bank that was closed this week."
   },
   {
-    "title": "El Gobierno aprobará antes de las elecciones una inversión récord de 17.000 millones en redes eléctricas",
-    "summary": "La vicepresidenta tercera y ministra para la Transición Ecológica defenderá la planificación de redes hasta 2030 el 12 de noviembre en la Diputación Permanente tras presentarla a todas las CCAA y superar todos los trámites necesarios, incluida la evaluación de impacto ambiental",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-06/el-gobierno-aprobara-antes-de-elecciones-una-inversion-record-de-17000-millones-en-redes-electricas.html",
-    "category": "Economía",
-    "date": "2026-11-06T13:49:56+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MKMKX7CLSWFQWKNE4USMWWOC7E.jpg?auth=a826667e6c029e454b884510053d63be612ad534e70323e8ef6ff09b2906485b",
-    "title_en": "The Government will approve a record investment of 17 billion in power networks before the elections",
-    "summary_en": "The third vice president and Minister for Environmental Transition will be defending network planning up to 2030 on 12 November at the Permanent Diputación after presenting them to all the CAA and passing all necessary formalities, including an environmental impact assessment"
-  },
-  {
-    "title": "Pedraz cita a declarar a la mujer que afirma que la trama del ‘caso Leire Díez’ quería “eliminar” a la jueza Biedma",
-    "summary": "Rocho, vinculada a un presunto clan de narcos, comparecerá como testigo cinco días antes de las elecciones generales del 29-N",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/pedraz-cita-a-declarar-a-la-mujer-que-afirma-que-la-trama-del-caso-leire-diez-queria-eliminar-a-la-jueza-biedma.html",
-    "category": "Política",
-    "date": "2026-11-06T13:42:12+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZBXIS77SFBCGPGILLMBL7WBNSI.jpg?auth=5164c544b4510ab98cdd88446f5d63df47c0b4bbd13f79aec1e5b314c549dc58",
-    "title_en": "Pedraz cites to declare the woman who claims that the \"Leire Diez case\" plot wanted to \"eliminate\" Judge Biedma",
-    "summary_en": "Rocchio, linked to an alleged clan of noses, will appear as a witness five days before the general elections of 29-N"
-  },
-  {
-    "title": "Rodrigo Sorogoyen, Carlos Bardem, Alana S. Portero y Sara Barquinero, entre los más de 800 trabajadores de la cultura que respaldan en un manifiesto la huelga general",
-    "summary": "Los firmantes llaman al paro del sector con el texto ‘El 11N, la cultura también para’",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-06/rodrigo-sorogoyen-carlos-bardem-alana-s-portero-y-sara-barquinero-entre-las-mas-de-800-personalidades-de-la-cultura-que-respaldan-en-un-manifiesto-la-huelga-general.html",
-    "category": "Cultura",
-    "date": "2026-11-06T13:31:06+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/Q24Y6RXNYJCERLTVMH55BYQOFM.jpg?auth=7ef88268affd0c3c6dbd31b59ca65e36f182db109610f8a5af88bbf8dcb9894f",
-    "title_en": "Rodrigo Sorogoyen, Carlos Bardem, Alana S. Portero and Sara Barquinero, among the more than 800 cultural workers who support a general strike manifold",
-    "summary_en": "The signatories call for industry unemployment with the text 'The 11N, culture as well para'"
-  },
-  {
-    "title": "El juez rechaza imputar a Zapatero un nuevo delito de malversación por las joyas",
-    "summary": "Calama descarta la petición de la Fiscalía, además de paralizar las inspecciones de Hacienda al expresidente y su familia",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html",
-    "category": "Internacional",
-    "date": "2026-11-06T13:10:10+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QZUESOP5XNEBPFRFGVT2FIGMDM.jpg?auth=f69bfe013c6823ab67c639d916ff2baf0a30eda46381da0255bdfcc481a67dd6",
-    "title_en": "The judge rejects charging Zapatero with a new crime of embezzlement for jewelry",
-    "summary_en": "Calama dismisses the Prosecutor's Office's request as well as paralyzing his and his family's inspections"
-  },
-  {
     "title": "\"Cuando vienes de una familia pobre que ha bregado tanto sientes la responsabilidad de salvar a tus padres\"",
     "summary": "La escritora y periodista peruana Rosa Chávez Yacila presenta \"Las nerviosas\", una novela autobiográfica en la que explora los padecimientos mentales que atraviesan su historia familiar.",
     "source": "BBC Mundo",
@@ -814,17 +1045,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The four leaders of the group who intended to set up a 'Kingdom of Germany' with Peter Fitzek leading them sit at the accused bench at Düsseldorf."
   },
   {
-    "title": "El anuncio de la Lotería de Navidad 2026: la esperanza de las segundas oportunidades y de compartir",
-    "summary": "Loterías y Apuestas del Estado presenta su nuevo ‘spot’ rodado en Santander y titulado ‘Corazonada’",
-    "source": "El País",
-    "url": "https://elpais.com/loteria-de-navidad/2026-11-06/el-anuncio-de-la-loteria-de-navidad-2026-la-esperanza-de-las-segundas-oportunidades-y-de-compartir.html",
-    "category": "Internacional",
-    "date": "2026-11-06T10:39:52+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/CVTSLIPRDVEQNBKXAPEW3DIT3Y.png?auth=2d5ff932a8c216c980dfa06f36fb223c3ea4b175c9f2843d4833c3a633a07040",
-    "title_en": "The announcement of Christmas Lotteries 2026: The hope of second opportunities and share",
-    "summary_en": "Loteries and Stateholders introduces their new 'spot' rolling at Santander and entitled 'Heart'"
-  },
-  {
     "title": "\"No hay fecha\" para el regreso de Vincent Kompany al banquillo del Bayern Múnich",
     "summary": "Kompany sufrió irritación de las meninges y salió del hospital, pero por el momento no regresa a las canchas.",
     "source": "DW Español",
@@ -836,17 +1056,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Kommanma suffered from meninges irritation and came out of hospital, but at the moment she doesn't come back to the courts."
   },
   {
-    "title": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
-    "summary": "Tres años después de asumir el poder, Santiago Peña terminó arrastrado por la crisis desatada tras la intervención del Ueno Bank.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cwe9le9yyzrzo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-06T10:28:39+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cd34/live/de4ee160-d9dc-11f1-b4ca-fd31344b71b9.jpg",
-    "title_en": "Who's Santiago Peña, the economist with whom the powerful Horacio Cartes engulfed Paraguay's presidency (and who now dropped)",
-    "summary_en": "Three years after his assumption of power, Santiago Peña had been dragged by the crisis after Ueno Bank's intervention."
-  },
-  {
     "title": "El mundo volverá a superar con casi \"total certeza\" este año los 1,5 ºC de calentamiento global",
     "summary": "Según el sistema de observación europeo Copernicus, este año será \"probablemente\" el segundo más cálido registrado en el mundo, aunque todavía podría superar a 2024.",
     "source": "DW Español",
@@ -856,17 +1065,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "The world will come back with about \"complete certainty\" this year with about 1.5 ° C global warming",
     "summary_en": "According to the European monitoring system Copernicus, this year will be \"likely\" the second warmest registered in the world, but it could still exceed 2024."
-  },
-  {
-    "title": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
-    "summary": "La UCO acude a Adif, el Tribunal de Cuentas y la Agencia Estatal de Seguridad Ferroviaria a requerir documentación",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html",
-    "category": "Internacional",
-    "date": "2026-11-06T09:12:28+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZKI6SCWZTNGL5NDIMWL6LUXSSE.jpg?auth=8514ad97ba16f533b7b80562e562821566454f00181c37df425c84e63950d5e8",
-    "title_en": "The European Public Prosecutor's Office investigates an alleged fraud at high-speed works after Urda's accident",
-    "summary_en": "The UCO goes to Adif, the Court of Auditors and the State Railway Security Agency to require documentation"
   },
   {
     "title": "Saber qué hacer con el dinero: la importancia de aprender a tomar decisiones financieras",
@@ -891,17 +1089,6 @@ window.PLANETA_NEWS = [
     "summary_en": "He died at age 44 after suffering from a glioblastoma, an aggressive brain tumor."
   },
   {
-    "title": "La UCO investiga como presunto blanqueo la compra de un local y una plaza de garaje por la novia de Ábalos",
-    "summary": "La Guardia Civil sospecha que los inmuebles fueron sufragados con fondos procedentes de supuestas mordidas recibidas por la trama del ‘caso Koldo’",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/la-uco-investiga-como-presunto-blanqueo-la-compra-de-un-local-y-una-plaza-de-garaje-por-la-novia-de-abalos.html",
-    "category": "Internacional",
-    "date": "2026-11-06T08:11:30+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QPTLHYUQYFFQDLM6RYGVNM5QDU.jpg?auth=6cf7631c8a3bf6cf4ffb68cf4b46cea996a7b22cd5633e10df72ec7616657392",
-    "title_en": "The UCO investigates as purported laundering the purchase of a place and a garage place by Ábalos's girlfriend",
-    "summary_en": "Civil Guard Suspects that Retirement Retirement Retirement Retirement Retirement Retirement Retirement Retirement"
-  },
-  {
     "title": "El Papa parte hacia Latinoamérica",
     "summary": "León XIV emprende su viaje de doce días a Suramérica, en el que visitará Uruguay, Argentina y Perú, tras haber sido recientemente operado de un cáncer de pulmón.",
     "source": "DW Español",
@@ -911,28 +1098,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "The Pope goes to Latin America",
     "summary_en": "Leo XIV takes his twelve-day journey to South America and will visit Uruguay, Argentina and Peru after his lung cancer."
-  },
-  {
-    "title": "El Gran Wyoming comunica su jubilación en ‘El intermedio’: “No vaya a ser que lleguen los de Vox al gobierno y encima me quiten la pensión”",
-    "summary": "El presentador de 71 años anunció este jueves que se retiraría en unos meses y que Gonzo ocuparía su lugar al frente del programa de La Sexta",
-    "source": "El País",
-    "url": "https://elpais.com/television/2026-11-06/el-gran-wyoming-comunica-su-jubilacion-en-el-intermedio-no-vaya-a-ser-que-lleguen-los-de-vox-al-gobierno-y-encima-me-quiten-la-pension.html",
-    "category": "Política",
-    "date": "2026-11-06T07:17:26+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6645ZX4NP5HZFFTM274OIW2JQI.png?auth=c68341c99f22960b3a74febc50864bdf090d83044e8275dbe986489d7ba21687",
-    "title_en": "The Grand Wyoming communicates his retirement at The Intermediate: \"Don't let Vox's get to the government and get his pension off me.\"",
-    "summary_en": "The 71-year-old presenter announced Thursday that he would retire in a few months and that Gonzo would place his place at the forefront of La Prenta's program"
-  },
-  {
-    "title": "Trump atribuye el desplome de las acciones a la victoria demócrata",
-    "summary": "Las 'Siete magníficas' de la tecnología de EE.UU. sufrieron pérdidas multimillonarias ante el temor de regulaciones a la IA.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/trump-atribuye-el-desplome-de-las-acciones-a-la-victoria-demócrata/a-79871846?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Tecnología",
-    "date": "2026-11-06T06:11:00+00:00",
-    "image": "",
-    "title_en": "Trump ascribes the collapse of actions to Democratic victory",
-    "summary_en": "The \"Magnificent Seven\" of US Technology suffered billionaire losses with fear of AI regulations."
   },
   {
     "title": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
@@ -968,39 +1133,6 @@ window.PLANETA_NEWS = [
     "summary_en": "MEP and ExResponsible for Energy Transition calls for accelerating integration of the common market"
   },
   {
-    "title": "Los riesgos económicos se intensifican a la espera del impacto del súper ciclo electoral",
-    "summary": "La inflación y la deuda entran en zona de peligro mientras las guerras se estancan a la espera de las consecuencias de los cambios de Gobierno en los países ricos",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-06/los-riesgos-economicos-se-intensifican-a-la-espera-del-impacto-del-super-ciclo-electoral.html",
-    "category": "Economía",
-    "date": "2026-11-06T04:45:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZWAVRKXN6ZMETPIBJQFS4DLOEM.jpg?auth=8788c227ee79b5e5448f2224ba0388db8c4101d9a4c5c31454793cbe5d52ff14",
-    "title_en": "The economic risks escalate pending the impact of the super electoral cycle",
-    "summary_en": "Inflation and debt come into danger while wars are stalling pending the consequences of government changes in rich countries"
-  },
-  {
-    "title": "Liberalizar no es privatizar",
-    "summary": "La liberalización del transporte de alta velocidad debe traducirse no solo en precios más bajos y más plazas, sino también en más recursos públicos para garantizar el buen estado de las vías",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-06/liberalizar-no-es-privatizar.html",
-    "category": "Economía",
-    "date": "2026-11-06T04:45:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/X7TD5H2V2VCYPEAV3HYIVUB7QM.jpg?auth=47e52c423a4c918c379c4aed5a8dc3a9fbb7f270946f82e79e49b489a3b75801",
-    "title_en": "Liberalizing isn't privatization",
-    "summary_en": "The liberalization of high-speed transport should translate not only into lower prices and more jobs but also into more public resources to ensure good track conditions"
-  },
-  {
-    "title": "La puesta a punto de BMW resuelve el problema de hoy, no el de mañana",
-    "summary": "Acelera su giro hacia la gama alta, pero la protección europea puede empujar a sus rivales chinos al lujo",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-06/la-puesta-a-punto-de-bmw-resuelve-el-problema-de-hoy-no-el-de-manana.html",
-    "category": "Economía",
-    "date": "2026-11-06T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YPFET36MPBEVFASQZVBDIWJ4KU.jpg?auth=f5dad35bb350c5c4726b034f182b86534265094fa257d3efa7e71612123f78df",
-    "title_en": "The development of BMW will solve today's problem, not tomorrow's problem.",
-    "summary_en": "Expand its turn to high range but European protection can push its Chinese Rivals to luxury"
-  },
-  {
     "title": "Fiesta en las bodegas, luto en Sanidad: el consumo de alcohol se dispara",
     "summary": "Tras 17 años de caída, vuelve a subir el porcentaje de españoles que bebe habitualmente, según la Encuesta de Salud de España",
     "source": "El País Economía",
@@ -1010,28 +1142,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/4LJWDGRGYFAP7M7UNWB5EYW2OI.jpg?auth=57b209760ce5c832fdd5571d8e34ca781277467c54cbe365c040f104d42c70d7",
     "title_en": "Festivals at the cellars, mourning at Health: alcohol consumption goes off",
     "summary_en": "After 17 years of fall, the percentage of Spanish they usually drink again, according to the Spanish Health Survey"
-  },
-  {
-    "title": "Las claves: subir el suelo salarial no basta para elevar los sueldos",
-    "summary": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-06/las-claves-subir-el-suelo-salarial-no-basta-para-elevar-los-sueldos.html",
-    "category": "Economía",
-    "date": "2026-11-06T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/K3LQLIVY45L3TOQROHKUWSXLHM.jpg?auth=2b751d7c06c72e238047551c910aadca7d28527ea15002e2a10e3ce716ff7b21",
-    "title_en": "The keys: rising the wage ground isn't enough to raise wages",
-    "summary_en": "The minimum wage will rise by 5.3% in 2027, up to EUR 1,286 per month"
-  },
-  {
-    "title": "Un grupo de parapentistas fuerza en los tribunales la demolición de un chalé con 11 dormitorios en la mejor atalaya de Zarautz",
-    "summary": "El Supremo mantiene la orden de derribo de una privilegiada edificación que ha construido la familia de una exedil del PNV",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-06/un-grupo-de-parapentistas-fuerza-en-los-tribunales-la-demolicion-de-un-chale-con-11-dormitorios-en-la-mejor-atalaya-de-zarautz.html",
-    "category": "Internacional",
-    "date": "2026-11-06T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/UKWAULJDEZA73K6X6CAVABGJ2I.jpg?auth=0f2c54f5964616f5edf0266b99e4d9efcc0f7dd59b890589eb226ff931f7d427",
-    "title_en": "A group of parapentists force at courts to demolish an 11-bedroom villa at the best atala of Zarautz",
-    "summary_en": "The Supreme keeps an order to demolish a privileged building that has built the family of an exedile of the NPV"
   },
   {
     "title": "Asustaviejas: la palabra que Cádiz popularizó para señalar el acoso inmobiliario",
@@ -1098,115 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/EZGCNH2WGNASXBBSGWROB7NVVU.jpg?auth=0a43ad9cf690c494b57358dd2c3c04e3795410dbbdb8d19578b3a466da067af9",
     "title_en": "The Euro's eating me. Can I sell my house and buy another one by receiving government assistance?",
     "summary_en": "Readers send their questions to EL PAIS housing office in collaboration with Legálitas"
-  },
-  {
-    "title": "Las tres casas de la semana: finca mallorquina de estilo toscano por casi 20 millones de euros",
-    "summary": "‘Negocios’ selecciona tres viviendas singulares, entre ellas un unifamiliar de lujo en Villaviciosa de Odón y una propiedad en Marbella",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/negocios/2026-11-06/las-tres-casas-de-la-semana-finca-mallorquina-de-estilo-toscano-por-casi-20-millones-de-euros.html",
-    "category": "Economía",
-    "date": "2026-11-06T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/X6LFAG3T3JDAXJHCIDISV3M2XM.jpg?auth=707b7a7176ea3ab8f30e04aa80f46c5fa048dba2b332192a2c0b434f2404f53b",
-    "title_en": "The 3 houses of the week: an area with a Tuscan style for about EUR 20 million",
-    "summary_en": "\"Business\" select three unique houses, including a luxury family at Villaviciosa de Odón and a property at Marbella"
-  },
-  {
-    "title": "Cuánto cuesta comer en los 10 mejores restaurantes del mundo: menús desde 225 euros hasta 2.000",
-    "summary": "Lideran la lista de The 50 Best Restaurants con experiencias muy diferentes. En los dos españoles del ‘top 10’, la cuenta parte de 300 y 450 euros por persona, sin bebidas",
-    "source": "El País",
-    "url": "https://elpais.com/gastronomia/restaurantes/2026-11-06/cuanto-cuesta-comer-en-los-10-mejores-restaurantes-del-mundo-menus-de-hasta-2000-euros-y-la-prohibicion-de-fumar-marihuana.html",
-    "category": "Internacional",
-    "date": "2026-11-06T04:25:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/24HU4DM24JCVPNZ2M4HZMHRVC4.jpg?auth=55bd949263d35c976d36689dca1967567783488a3d2cba0b0b43a506a15a1da5",
-    "title_en": "How much to eat at the best 10 restaurants in the world: menus from 225 Euro to 2,000",
-    "summary_en": "They list The 50 Best Restaurants with very different experiences. The best 10 Spanish account includes 300 and 450 EUR per person with no drink"
-  },
-  {
-    "title": "Acciona sondea entre las grandes energéticas la venta por partes de su filial de renovables",
-    "summary": "EQT y Ardian mantienen el interés, pero ven caro el precio y no quieren entrar sin asegurarse el control de la gestión. La matriz exige una prima superior al 30% respecto al precio actual",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-06/acciona-sondea-entre-las-grandes-energeticas-la-venta-por-partes-de-su-filial-de-renovables.html",
-    "category": "Economía",
-    "date": "2026-11-06T04:15:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/EFLPQMJMV5NZBNF33QUNJE3R3U.jpg?auth=d867c19cd3c4507968438c7b675a969b1212e65e7fa3c4fe37d3216e81ccba43",
-    "title_en": "The activity of its renewable subsidiary with its share of its production and production of",
-    "summary_en": "EQT and Ardian have an interest but they have an expensive price and do not want to get in without ensuring management monitoring. The matrix requires a premium more than 30% from the current price"
-  },
-  {
-    "title": "Acesur controlará el negocio de Deoleo en EE UU y Dcoop sus marcas españolas",
-    "summary": "Las dos compañías se repartirán los activos de Deoleo y los gestionarán de forma independiente, sin crear una empresa conjunta",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/companias/2026-11-06/acesur-controlara-el-negocio-de-deoleo-en-ee-uu-y-dcoop-sus-marcas-espanolas.html",
-    "category": "Economía",
-    "date": "2026-11-06T04:15:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/3EHTWKT6DRABXPWQIO4RR6QYHU.jpg?auth=1f1d7db161a288d70d8cce6a05b9f4a2ae685efd60a5b921d1194031c417524e",
-    "title_en": "Acesur will control Deoleo's business in the U.S. and Dcook his Spanish brands",
-    "summary_en": "The two companies will share and manage Deoleo's assets independently without creating a joint venture"
-  },
-  {
-    "title": "Crisis de Ueno Bank: las claves de la renuncia de Peña en Paraguay",
-    "summary": "Peña presentó su renuncia por la crisis de Ueno Bank, pero Diputados aprobó la acusación y la remitió al Senado. Cerca de tres millones de clientes siguen sin acceso a su dinero.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/watch/cv8ezzdyzkrdo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-06T01:23:28+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ada/live/4c7519a0-d980-11f1-93e1-3b657b665bcf.png",
-    "title_en": "Ueno Bank crisis: The keys to Peña's resignation in Paraguay",
-    "summary_en": "Peña submitted his resignation from the Ueno Bank crisis but deputies approved the prosecution and referred it to the Senate. About 3 million customers still have no access to their money."
-  },
-  {
-    "title": "La revista ‘The New Yorker’ arremete contra ‘La bola negra’: “No es un monumento; es un fracaso”",
-    "summary": "A pesar de la buena acogida de crítica y público en Estados Unidos, la reseña de la película de la publicación asegura que los directores son “pretenciosos” y que sus historias sufren de “insustancialidad” y son un “trauma repetitivo”",
-    "source": "El País",
-    "url": "https://elpais.com/us/entretenimiento/2026-11-05/la-revista-the-new-yorker-arremete-contra-la-bola-negra-no-es-un-monumento-es-un-fracaso.html",
-    "category": "Cultura",
-    "date": "2026-11-06T01:19:14+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YTB6Z2NFUZON5FQK5QGOCL3ZK4.jpg?auth=fb4782587530f32fb46511fcdd657b3b670a5a2f440dc33e65772e91fcb96621",
-    "title_en": "The magazine 'The New Yorker' attacks' The Black Ball ': \"It's not a monument but a failure\"",
-    "summary_en": "Despite good public and critical reception in the U.S., the film's review of the paper claims that directors are \"pretentious\" and that their stories suffer from \"inmateriality\" and are a \"repetitive trauma\""
-  },
-  {
-    "title": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
-    "summary": "El ministerio estrena el mecanismo previsto para campañas excedentarias, cuestionado por parte de la industria, los envasadores y Competencia",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
-    "category": "Economía",
-    "date": "2026-11-05T21:01:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/X42AJGXDEJCRBBHL7DANOINM5U.jpg?auth=cf1e139a9a8ed795bab22199787ca1ed8854c2189bd53e0be93de172c81283c7",
-    "title_en": "Farming activates for the first time the withdrawal of 12% of oil production to avoid price collapse",
-    "summary_en": "The ministry sets up the mechanism intended for surplus campaigns, questioned by industry, packaging and competition"
-  },
-  {
-    "title": "El gobernador Gavin Newsom conmuta la condena a 548 personas que estaban en el corredor de la muerte en California",
-    "summary": "Históricamente, California ha tenido la mayor población de presos condenados a muerte en Estados Unidos.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cr74pp8wl8xyo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-05T20:29:18+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f727/live/1aa45900-d952-11f1-b7f4-8bd3c0617693.jpg",
-    "title_en": "Governor Gavin Newsom commutes his conviction to 548 people who were on death row in California",
-    "summary_en": "Historically, California has had the largest population of prisoners sentenced to death in the U.S.."
-  },
-  {
-    "title": "Paraguay: claves del escándalo bancario que llevó a la renuncia a Peña",
-    "summary": "Millones de ahorristas afectados, fondos públicos comprometidos y sospechas de irregularidades financieras. Seis claves para entender el caso.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/paraguay-claves-del-escándalo-bancario-que-llevó-a-la-renuncia-a-peña/a-79870050?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-05T19:23:00+00:00",
-    "image": "",
-    "title_en": "Paraguay: keys to the banking scandal leading to Peña's resignation",
-    "summary_en": "Millions of affected savers, committed public funds and suspicions of financial irregularities. Six keys to understanding the case."
-  },
-  {
-    "title": "Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote",
-    "summary": "Una revisión en ‘Science’ repasa la nueva generación de fármacos contra la obesidad. También avisa de que las patentes de los genéricos de semaglutida retrasarán su llegada a España hasta 2031, pese a que ya se venden en India y Brasil",
-    "source": "El País Ciencia",
-    "url": "https://elpais.com/ciencia/2026-11-05/los-farmacos-que-vienen-despues-del-ozempic-buscan-adelgazar-mas-perder-menos-musculo-y-evitar-el-efecto-rebote.html",
-    "category": "Ciencia",
-    "date": "2026-11-05T19:00:04+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6LLQPENLCJFETDRDRI6EZTYNYQ.jpg?auth=6e8c6de6ce60f27f4ac0649de6faa888e78e239f69e8504ad15ea1a7563d4ea4",
-    "title_en": "Medicines that come after Ozempic: seek to lose more, lose less muscle and avoid bouncing effect",
-    "summary_en": "A review of Science reviews the new generation of drugs against obesity. Also warns that the patents of semaglitida generics will delay their arrival to Spain until 2031, although they are already sold in India and Brazil"
   }
 ];
