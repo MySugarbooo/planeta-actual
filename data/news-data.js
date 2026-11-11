@@ -1,5 +1,522 @@
 window.PLANETA_NEWS = [
   {
+    "title": "León XIV aterriza en Perú: la emotiva llegada del papa a su tierra adoptiva",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-en-directo-le%C3%B3n-xiv-visita-la-c%C3%A1rcel-de-devoto-un-lugar-emblem%C3%A1tico-para-el-papa-francisco-y-lleva-un-mensaje-de-esperanza-a-los-presos",
+    "category": "Internacional",
+    "date": "2026-11-11T22:09:05+00:00",
+    "image": "",
+    "title_en": "Lion XIV lands in Peru: the Pope's emotional arrival at his adopted land",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Huelga general 11N y actualidad política, en directo | Los altercados en Barcelona elevan a 74 el número de detenidos durante la huelga general",
+    "summary": "Miles de personas recorren las calles de numerosas ciudades|La Policía carga contra un grupo de manifestantes para dispersar las protestas en Madrid, mientras que en Barcelona grupos de encapuchados rompen escaparates y disparan material pirotécnico|Los sindicatos consideran que la convocatoria ha sido un “éxito” por encima de sus previsiones |CEOE cifra el…",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
+    "category": "Deportes",
+    "date": "2026-11-11T22:06:38+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/G5NJY2MOFJE7TA4RHQARYDD55A.jpg?auth=4758a16ca815d5be4feb409f4dbbdbc824016ae2e0265954479a9fe1c9877b68",
+    "title_en": "General strike 11N and political news, live) 124. The challenges in Barcelona raise the number of detainees during the general strike to 74.",
+    "summary_en": "Thousands of people walk through the streets of numerous cities) 124; The police have been charged with a group of protesters to disperse protests in Madrid while in Barcelona, hooded groups have broken windows and fired pyrotechnic material) 124) and trade unions have felt that the call has been a \"success\" above their forecasts) 124) and CEOE figure..."
+  },
+  {
+    "title": "OTAN asegura que Estados Unidos, Europa y Ucrania están \"completamente alineados y unidos\"",
+    "summary": "Ahora habrá que ver si \"Rusia está dispuesta a participar en el juego\", expresó el jefe de la alianza militar.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/otan-asegura-que-estados-unidos-europa-y-ucrania-están-completamente-alineados-y-unidos/a-79924342?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T21:18:00+00:00",
+    "image": "",
+    "title_en": "NATO claims that the U.S., Europe and Ukraine are \"completely aligned and united\"",
+    "summary_en": "Now we have to see if \"Russia's ready to participate in the game,\" expressed the head of the Military Alliance."
+  },
+  {
+    "title": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
+    "summary": "El paro ha sido más visible en las calles que en los centros de trabajo, con mayor seguimiento en la industria, la automoción y los puertos y decenas de detenidos. El PP se enfrenta duramente con las centrales",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+    "category": "Internacional",
+    "date": "2026-11-11T21:00:51+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PAJTWBTMAFFMBJPOWQX6HGSGBA.jpg?auth=b6ba1d572991d4229a322192967cf890722daad0db3008b7e3626bc8c4768ae7",
+    "title_en": "The general strike culminates with unequal monitoring and big protests on the street",
+    "summary_en": "Unemployment has been more visible on the streets than at jobs with more monitoring in industry, car and port and tens of detainees. The PP's face with power stations"
+  },
+  {
+    "title": "El 'ministerio del Noviazgo' en Brasil: Lula y su promesa de que todo el mundo va a tener pareja",
+    "summary": "“En mi Gobierno, todo el mundo va a tener pareja”. Esta fue la promesa que Luiz Inácio Lula da Silva hizo a los brasileños durante la campaña electoral de 2022, cuando aspiraba a conquistar su tercer mandato. Ahora, sus seguidores intentan materializar esa iniciativa. En la misma línea, el papa, en su gira por Suramérica, clamó: \"Atrévanse a dar el paso…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-el-ministerio-del-noviazgo-en-brasil-lula-y-su-promesa-de-que-todo-el-mundo-va-a-tener-pareja",
+    "category": "Política",
+    "date": "2026-11-11T20:55:33+00:00",
+    "image": "https://s.france24.com/media/display/0075e65c-ddee-11f1-8686-3f371022a770/w:1024/p:16x9/8023765563001w.jpg",
+    "title_en": "Brazil's' Nobility Ministry ': Lula and his promise that everyone will have a partner",
+    "summary_en": "\"In my government, everyone's gonna have a date.\" That was the promise that Luiz Inácio Lula da Silva made to Brazilians during the 2022 election campaign, as she wished to conquer his third term. Now his followers are trying to materialise that initiative. On his tour of South America, his father called out: \"Be ready to step up..."
+  },
+  {
+    "title": "Más de 500 firmantes asesinados y 36% del país en alerta: Colombia tras 10 años del acuerdo de paz",
+    "summary": "La Defensoría del Pueblo de Colombia publicó este miércoles 11 de noviembre su balance sobre la aplicación de los históricos acuerdos firmados entre el Gobierno y la extinta guerrilla de las FARC, a una década de su firma. Pese a algunos avances, la entidad advierte de un contexto de violencia \"muy desafiante\" en el país, con más de un tercio de sus…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-m%C3%A1s-de-500-firmantes-asesinados-y-36-del-pa%C3%ADs-en-alerta-colombia-tras-10-a%C3%B1os-del-acuerdo-de-paz",
+    "category": "Política",
+    "date": "2026-11-11T20:53:15+00:00",
+    "image": "https://s.france24.com/media/display/9a128ef6-ddde-11f1-8c02-29048b396e03/w:1024/p:16x9/01661c4f0609922cf60ae495c77fa85911008e81.jpg",
+    "title_en": "More than 500 signatories killed and 36% of the country on alert: Colombia after 10 years of peace agreement",
+    "summary_en": "The Office of the Ombudsman of Colombia published its report on Wednesday November 11 about the implementation of the historic agreements signed between the Government and the former FARC guerrillas, a decade after their signing. Despite some advances, the entity warns about a \"very challenging\" violence in the country with more than a third of its..."
+  },
+  {
+    "title": "España vive huelga general y protestas por la vivienda antes de elecciones",
+    "summary": "En Madrid, unas 120.000 personas marcharon y otras miles también salieron a las calles en numerosas ciudades del país.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/españa-vive-huelga-general-y-protestas-por-la-vivienda-antes-de-elecciones/a-79924314?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Deportes",
+    "date": "2026-11-11T20:50:00+00:00",
+    "image": "",
+    "title_en": "Spain lives general strike and housing protests before elections",
+    "summary_en": "In Madrid, about 120,000 people have been marching and thousands have also been put to the streets in numerous cities of the country."
+  },
+  {
+    "title": "Por qué hunden frente a la costa de Florida al mítico SS United States, el que fuera el transatlántico más rápido del mundo",
+    "summary": "Activistas lucharon sin éxito para que el histórico transatlántico, que cruzó el océano Atlántico cientos de veces, fuera preservado y convertido en museo.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c5lykgdkdlxlo?at_medium=RSS&at_campaign=rss",
+    "category": "Cultura",
+    "date": "2026-11-11T20:46:39+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg",
+    "title_en": "Why they sink off the coast of Florida to the legendary SS United States, the fastest transatlantic in the world",
+    "summary_en": "Activists have been fighting without success to have the historic transatlantic crossing the Atlantic Ocean preserved and transformed into a museum hundreds of times."
+  },
+  {
+    "title": "Mensaje enviado",
+    "summary": "La atípica huelga general interpela a todos los actores políticos y económicos sobre un problema fundamental que requiere respuestas conjuntas",
+    "source": "El País",
+    "url": "https://elpais.com/opinion/2026-11-11/mensaje-enviado.html",
+    "category": "Internacional",
+    "date": "2026-11-11T20:45:48+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/BNXIIEPYDZDRNC56QJML6HFMBI.JPG?auth=b94bcd03103189149c4aac9451b8611056cd7013d0d2a1e6f630b4b4d072a714",
+    "title_en": "Message sent",
+    "summary_en": "The atypical general strike interpels with all political and economic actors about a fundamental problem that requires joint responses"
+  },
+  {
+    "title": "COP31: ¿habrá esta vez más hechos que palabras en materia de clima?",
+    "summary": "Los líderes mundiales advierten que las divisiones geopolíticas desvían la atención de la crisis climática, mientras las negociaciones se centran en la energía limpia y el financiamiento.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/cop31-¿habrá-esta-vez-más-hechos-que-palabras-en-materia-de-clima/a-79924239?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Medio Ambiente",
+    "date": "2026-11-11T20:43:00+00:00",
+    "image": "",
+    "title_en": "COP31: Can we have more facts this time than climate words?",
+    "summary_en": "World leaders note that geopolitical divisions divert attention from the climate crisis while negotiations focus on clean energy and financing."
+  },
+  {
+    "title": "León XIV y su huella en Perú: sus amigos, su ahijada y su labor social en Chiclayo",
+    "summary": "🇵🇪⛪ La historia de León XIV mantiene vínculos cercanos con Perú. Héctor Camacho recuerda que eligió a quien entonces era Robert Prevost como padrino de su hija y destaca su sencillez y cercanía con la comunidad. Durante años, el hoy pontífice desarrolló una intensa labor pastoral y social en Chiclayo, donde fue obispo y promovió diversas iniciativas de…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261111-le%C3%B3n-xiv-y-su-huella-en-per%C3%BA-sus-amigos-su-ahijada-y-su-labor-social-en-chiclayo-1",
+    "category": "Internacional",
+    "date": "2026-11-11T20:32:23+00:00",
+    "image": "https://s.france24.com/media/display/e413e560-de0e-11f1-b327-f71d22e7fea9/w:1024/p:16x9/FORMATO-2-10.png",
+    "title_en": "Leo XIV and his prints in Peru: his friends, his goddaughter and his social work at Chiclayo",
+    "summary_en": "The history of Leo XIV has close links with Peru. Héctor Camacho recalls that he chose his daughter's best man and his simplicity and closeness with his community. For years today's Pontiff developed an intense pastoral and social work at Chiclayo, where he was bishop and advanced several initiatives of..."
+  },
+  {
+    "title": "El bao de ibérico de Jiale Pan gana el XXII Concurso Nacional de Pinchos y Tapas",
+    "summary": "La creación del restaurante asiático Jiapan, en Valladolid, participará el próximo año en el Campeonato Internacional de Pinchos y Tapas, que se celebrará de nuevo en la ciudad castellana",
+    "source": "El País",
+    "url": "https://elpais.com/gastronomia/2026-11-11/el-bao-de-iberico-de-jiale-pan-gana-el-xxii-concurso-nacional-de-pinchos-y-tapas.html",
+    "category": "Internacional",
+    "date": "2026-11-11T20:15:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/EJZKJ2FWF5ASFN47URJ42TGPH4.jpg?auth=c01e677fd56a9eb6e5fa96b72fd7abb33c78e02c7ce5a21444e85be52bfb3b69",
+    "title_en": "The Iberic Ace of Jiale Pan wins the XXII National Pig and Tapas Competition",
+    "summary_en": "The creation of the Asian restaurant Jiapan, in Valladolid, will participate next year in the International Championship of Pinchos and Tapas, to be held again in the Spanish town"
+  },
+  {
+    "title": "Amenazas de bomba en Europa: ¿quién está detrás?",
+    "summary": "Una nueva ola de amenazas de bomba llegaron a escuelas de Italia y otros países de Europa. Cientos de estudiantes fueron evacuados, en medio del pánico de padres de familia. Semanas atrás, amenazas similares provocaron terror en vuelos y aeropuertos. Tras señalar que eran falsas, las autoridades investigan quién está detrás de todo esto y si tienen relación…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/en-contexto/20261111-amenazas-de-bomba-en-europa-qui%C3%A9n-est%C3%A1-detr%C3%A1s",
+    "category": "Internacional",
+    "date": "2026-11-11T20:07:15+00:00",
+    "image": "https://s.france24.com/media/display/69dc09f6-de0b-11f1-ad3b-29048b396e03/w:1024/p:16x9/2026-11-11T120849Z-116381756-RC2NLOAE0MMD-RTRMADP-3-EUROPE-SECURITY-SCHOOLS-ITALY.jpg",
+    "title_en": "Bomb threats in Europe: who's behind them?",
+    "summary_en": "A new wave of bomb threats reached schools in Italy and other countries in Europe. Hundreds of students were evacuated amidst the panic of parents. Weeks ago, similar threats provoked terror at flights and airports. Noting that they were false, authorities investigate who's after all this and if they have a relationship..."
+  },
+  {
+    "title": "La cifra oculta del acoso sexual en las Fuerzas Armadas alemanas",
+    "summary": "Las conductas sexuales indebidas están más extendidas en las Fuerzas Armadas alemanas de lo que se sabía hasta ahora. Las principales afectadas son mujeres jóvenes. El ministro de Defensa exige \"tolerancia cero\".",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/la-cifra-oculta-del-acoso-sexual-en-las-fuerzas-armadas-alemanas/a-79922583?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-11T19:52:00+00:00",
+    "image": "",
+    "title_en": "The hidden figure of sexual harassment in the German Armed Forces",
+    "summary_en": "Unfair sexual conduct was more widespread in the German Armed Forces than had been known so far. The main challenges are young women. The Minister of Defence demands \"zero tolerance.\""
+  },
+  {
+    "title": "Huelga general en España: \"estoy a una hora y media de mi trabajo, eso es basura\"",
+    "summary": "España vive su primera huelga general desde 2014. Miles de personas salieron a las calles para reclamar soluciones a la crisis de la vivienda, salarios dignos y mejoras en las condiciones laborales.Muchos manifestantes recuerdan el caso de Maricarmen Abascal, cuya situación tras ser desalojada de la vivienda en la que residió durante décadas se convirtió en…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261111-huelga-general-en-espa%C3%B1a-estoy-a-una-hora-y-media-de-mi-trabajo-eso-es-basura",
+    "category": "Economía",
+    "date": "2026-11-11T19:49:24+00:00",
+    "image": "https://s.france24.com/media/display/ddcbbed4-de05-11f1-80e5-3f371022a770/w:1024/p:16x9/902059886-18395758687166644-5107441999798244721-n.jpg",
+    "title_en": "General Strike in Spain: \"I'm an hour and a half from my job, that's garbage\"",
+    "summary_en": "Spain has been living its first general strike since 2014. Thousands of people went to the streets to demand solutions to the housing crisis, decent wages and improved employment conditions. Many protesters remember the case of Maricarchen Abascal, whose situation after being evicted from his housing for decades became a..."
+  },
+  {
+    "title": "La manifestación por la vivienda digna acaba con altercados en el centro de Barcelona",
+    "summary": "“Ni la violencia ni el vandalismo representan a las personas que se han manifestado pacíficamente”, ha afirmado Salvador Illa ante los saqueos y la quema de contenedores",
+    "source": "El País",
+    "url": "https://elpais.com/espana/catalunya/2026-11-11/miles-de-personas-se-manifiestan-en-barcelona-por-una-vivienda-digna.html",
+    "category": "Internacional",
+    "date": "2026-11-11T19:49:11+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/OUUA24XMEZMJBE2Z3BNEAU6R7I.jpg?auth=e8dad4a7e607d8c40f0978bc5ba516835216298a377a5a5f17717c8cfbb93b0e",
+    "title_en": "The demonstration for decent housing ends with challenges in the centre of Barcelona",
+    "summary_en": "\"Neither violence nor vandalism represent people who have been peacefully manifested,\" Salvador Illa stated at the looting and burning of containers"
+  },
+  {
+    "title": "\"Un juez me ordenó por Zoom someterme a una cesárea mientras estaba pariendo en el hospital\"",
+    "summary": "Mientras estaba pariendo, Cherise tuvo que asistir a una audiencia virtual con un juez de Florida, después de que el hospital decidiera que debían realizarle una cesárea.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cv36ld8n4rpwo?at_medium=RSS&at_campaign=rss",
+    "category": "Salud",
+    "date": "2026-11-11T19:36:00+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6f5/live/b22bbc20-ccdf-11f1-bc2b-d96f63c66363.png",
+    "title_en": "\"A judge ordered me for Zoom to submit me to a C-Section while I was giving birth at hospital\"",
+    "summary_en": "While I was giving birth, Cherise had to attend a virtual hearing with a Florida judge after the hospital decided they had to conduct a C-section."
+  },
+  {
+    "title": "‘Charles’ deja vientos de 148 kilómetros por hora, alumnos sin clase, vuelos cancelados y ríos en alerta",
+    "summary": "La Junta de Andalucía envía un Es-Alert a 30 municipios de las provincias de Cádiz y Huelva",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-11/charles-deja-vientos-de-148-kilometros-por-hora-alumnos-sin-clase-vuelos-cancelados-y-rios-en-alerta.html",
+    "category": "Internacional",
+    "date": "2026-11-11T19:33:57+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PTEVVKCOWRJ2BCOSIPFEZTH5LY.jpg?auth=13f571430374432772a653e904612361d19e2284cc07c05e8171e34436250edc",
+    "title_en": "Charles leaves 148 km an hour wind, class-free, cancelled flights and rivers on alert",
+    "summary_en": "The Board of Andalucía sends an Es-Alert to 30 municipalities of the provinces of Cadiz and Huelva"
+  },
+  {
+    "title": "Irán amenaza con atacar bases de Estados Unidos en Europa si se usan para bombardear su régimen",
+    "summary": "\"Incluso podríamos atacar ciertas islas que ellos suponen que están fuera del alcance de nuestros misiles\", advirtió un alto cargo.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/irán-amenaza-con-atacar-bases-de-estados-unidos-en-europa-si-se-usan-para-bombardear-su-régimen/a-79924049?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T19:28:00+00:00",
+    "image": "",
+    "title_en": "Iran threatens to attack U.S. bases in Europe if used to bomb its regime",
+    "summary_en": "\"We could even attack some islands that they figure are out of our missile range,\" a high office warned."
+  },
+  {
+    "title": "La primera huelga general de toda una generación: “Es una protesta contra un problema”",
+    "summary": "El último paro nacional fue en 2012, cuando el 35% de los trabajadores actuales tenía menos de 16 años",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-11/la-primera-huelga-general-de-toda-una-generacion-es-una-protesta-contra-un-problema.html",
+    "category": "Internacional",
+    "date": "2026-11-11T19:11:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/354SJLZX2BC2VCWCV4E4B5RYLU.jpg?auth=4dd42e522c38cf7d84e9fb83acf6914d98cf0df82669d518d657a82c12bdc9ed",
+    "title_en": "The first general strike of an entire generation: \"It's a protest against a problem\"",
+    "summary_en": "Last national unemployment was in 2012, with 35% of currently employed under 16"
+  },
+  {
+    "title": "Megaspeed: la empresa en el centro del caso del CEO de Nvidia y la \"espía china\"",
+    "summary": "La relación extramatrimonial de Jensen Huang con una presunta espía china ha puesto el foco en Megaspeed, la empresa para la que ella trabajaba. La compañía está siendo investigada en EE. UU. por contrabando de chips.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/megaspeed-la-empresa-en-el-centro-del-caso-del-ceo-de-nvidia-y-la-espía-china/a-79923899?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T18:59:00+00:00",
+    "image": "",
+    "title_en": "Megasped: The company at the heart of Nvidia's CEO's case and the \"Chinese spy\"",
+    "summary_en": "Jensen Huang's extramarital relationship with an alleged Chinese spy focused on Megasped, the company she worked for. The company's been investigated in the U.S.. U.S. for smuggling chips."
+  },
+  {
+    "title": "Santiago Peña, de la impunidad a la cárcel",
+    "summary": "Santiago Peña fue destituido y tiene prisión preventiva. Mientras los allanamientos vinculados a Ueno Bank continúan, se van conociendo detalles de los turbios manejos financieros que dieron forma a lo que muchos califican como \"una gran estafa\" al pueblo paraguayo. Pero ¿qué llevó a Peña a cometer estos actos?, ¿sentía que tenía impunidad? En Aquí América…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261111-santiago-pe%C3%B1a-de-la-impunidad-a-la-c%C3%A1rcel",
+    "category": "Internacional",
+    "date": "2026-11-11T18:30:02+00:00",
+    "image": "https://s.france24.com/media/display/ad545326-dde0-11f1-9271-3f371022a770/w:1024/p:16x9/santip.png",
+    "title_en": "Santiago Peña, from impunity to jail",
+    "summary_en": "Santiago Peña was dismissed and held in pretrial detention. While the raids linked to Ueno Bank continue, details of the cloudy financial management have been known that have been shaping what many call a \"big scammer\" to the Paraguayan people. But what led Peña to commit these acts, did she feel that she had impunity? In here, America..."
+  },
+  {
+    "title": "Por qué la familia Kennedy demanda a Trump por la polémica construcción de su arco del triunfo",
+    "summary": "La Casa Blanca declaró que es \"lamentable\" ver que algunos miembros de la familia Kennedy se han sumado a un litigio contra el arco.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cmedq15xwnx9o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-11T18:27:20+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
+    "title_en": "Why the Kennedy family demand Trump for the controversial construction of his arch of triumph",
+    "summary_en": "The White House stated that it's \"pitiful\" to see some members of the Kennedy family have been added to an arch dispute."
+  },
+  {
+    "title": "Protestas de la Generación Z: ¿les va realmente mejor a los 'boomers' que los jóvenes?",
+    "summary": "¿Deben los jóvenes en Alemania preocuparse más por su futuro que la generación del 'baby boom' en los años 80 y 90? ¿O deberían ambas generaciones protestar juntas? Un análisis de datos de DW.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/protestas-de-la-generación-z-¿les-va-realmente-mejor-a-los-boomers-que-los-jóvenes/a-79922437?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T18:27:00+00:00",
+    "image": "",
+    "title_en": "Protests of Generation Z: Do boomers really care better about them than young people?",
+    "summary_en": "Do young people in Germany have to care more about their future than about their baby boom generation in the 80s and 1990s? Or should both generations protest together? A DW data analysis."
+  },
+  {
+    "title": "\"En el Vaticano hay una guerra entre dos bandos en la que los abusos sexuales se han convertido en un arma, y eso es suicida\"",
+    "summary": "El escritor peruano Santiago Roncagliolo habló con BBC Mundo sobre el año que pasó siguiendo las huellas del actual pontífice en Perú y reconstruyendo el camino que lo llevó hasta el trono de San Pedro.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-11T18:19:55+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3855/live/328130d0-de0b-11f1-9bc2-bf52ab7d7138.jpg",
+    "title_en": "\"At the Vatican there's a war between two sides where sexual abuse has become a weapon and that's suicidal\"",
+    "summary_en": "The Peruvian writer Santiago Rongagliolo talked with BBC Mundo about his year following the prints of the current Pontiff in Peru and reconstructing his path to the throne of St. Peter."
+  },
+  {
+    "title": "Quién es Wilson \"Lanmò San Jou\" Joseph, el poderoso líder pandillero de Haití cuya casa Bukele dice haber destruido",
+    "summary": "Dirigente de 400 Mawozo, ha sido acusado formalmente por las autoridades estadounidenses de secuestro. Además, el FBI ofrece una recompensa de hasta US$1 millón por información que conduzca a su captura.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-11T18:10:57+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ecc2/live/7ee16d20-ddc3-11f1-a50f-85eebf9e50e5.png",
+    "title_en": "Who's Wilson \"Lanmò San Jou\" Joseph, Haiti's powerful gang leader whose Bukele house claims to have destroyed",
+    "summary_en": "Leader of 400 Mawzo has been formally charged with kidnapping by U.S. authorities. The FBI also offers a reward of up to $1 million for information leading to its capture."
+  },
+  {
+    "title": "COP31: Erdogan y Lula alertan sobre el cambio climático en una cumbre marcada por las ausencias",
+    "summary": "La COP31 estuvo marcada por la cumbre de jefes de Estado, donde el presidente turco Recep Tayyip Erdogan buscó dar un nuevo impulso a la lucha contra el cambio climático y criticó la falta de acción de los países desarrollados frente a un año marcado por fenómenos meteorológicos extremos. La limitada asistencia de líderes mundiales también generó…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261111-cop31-erdogan-y-lula-alertan-sobre-el-cambio-clim%C3%A1tico-en-una-cumbre-marcada-por-las-ausencias",
+    "category": "Medio Ambiente",
+    "date": "2026-11-11T18:01:13+00:00",
+    "image": "https://s.france24.com/media/display/002ac8f8-dded-11f1-8e1c-29048b396e03/w:1024/p:16x9/ES-20261111-110716-110905-CS.jpg",
+    "title_en": "COP31: Erdovan and Lula alert about climate change at a summit marked by absences",
+    "summary_en": "The COP31 was marked by the summit of heads of state, where Turkish President Reep Tayyip Erdoğan sought to give a new impetus to the fight against climate change and criticized the lack of action by developed countries with a year marked by extreme weather events. The limited assistance of world leaders also generated..."
+  },
+  {
+    "title": "Guerra en Sudán: cada vez más emergencia y menos ayuda internacional",
+    "summary": "La crisis humanitaria crece en Sudán: 33,7 millones de personas necesitan ayuda, pero la asistencia internacional se redujo en muchas zonas. Además, la guerra y los ataques con drones dificultan cualquier apoyo.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/guerra-en-sudán-cada-vez-más-emergencia-y-menos-ayuda-internacional/a-79922605?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T17:57:00+00:00",
+    "image": "",
+    "title_en": "War in Sudan: an increasing emergency and less international assistance",
+    "summary_en": "The humanitarian crisis was growing in Sudan: 33.7 million people needed assistance but international assistance had been reduced in many areas. Moreover, war and drones have made any support difficult."
+  },
+  {
+    "title": "Taiwán revoca el permiso de entrada de Alice Huang, la presunta espía en el centro del escándalo de Nvidia",
+    "summary": "La empresaria se reunió varias veces en la isla con Jensen Huang, jefe de la tecnológica de chips estadounidense, con quien supuestamente tuvo una relación extramatrimonial",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-11/taiwan-revoca-el-permiso-de-entrada-de-alice-huang-la-presunta-espia-en-el-centro-del-escandalo-de-nvidia.html",
+    "category": "Internacional",
+    "date": "2026-11-11T17:53:15+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PV2UKTON7VNCDADYR27PXTZI34.jpg?auth=d734d4231f9507132fdd91c38bce187be557fbf76bee6bf64c743420da06015f",
+    "title_en": "Taiwan Withdraws Input Permit from Alice Huang, The Alleged Spying at The Center of Nvidia's Scene",
+    "summary_en": "The entrepreneur met several times on the island with Jensen Huang, head of American chip technologies, with whom she allegedly had an extramatronial relationship"
+  },
+  {
+    "title": "Fallece el embajador de Rusia en EE UU, Alexander Darchiev",
+    "summary": "Según el Ministerio de Exteriores, el funcionario murió de forma repentina, aunque no ofreció más detalles",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-11/fallece-el-embajador-de-rusia-en-eeuu-alexander-darchiev.html",
+    "category": "Internacional",
+    "date": "2026-11-11T17:33:36+00:00",
+    "image": "https://vdmedia.elpais.com/elpaistop/202611/11/1794426932_still.jpg",
+    "title_en": "Russia's US Ambassador Alexander Darchiev Fies",
+    "summary_en": "According to the Ministry of Foreign Affairs, his civil servants had been killed at once, but did not give more details."
+  },
+  {
+    "title": "Berlín reúne a disidentes para hallar respuestas ante las autocracias",
+    "summary": "En la Conferencia de Libertad en Berlín, disidentes y líderes democráticos analizaron los retos que enfrentan las sociedades abiertas y defendieron la cooperación internacional como respuesta al auge de las autocracias.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/berlín-reúne-a-disidentes-para-hallar-respuestas-ante-las-autocracias/a-79916089?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T17:31:00+00:00",
+    "image": "",
+    "title_en": "Berlin brings together dissidents to find responses to autocracies",
+    "summary_en": "At the Freedom Conference in Berlin, dissident and democratic leaders discussed challenges faced by open societies and defended international cooperation as a response to the boom of autocracies."
+  },
+  {
+    "title": "Estudio asegura que un cuarto de los alemanes quiere una dictadura de derecha",
+    "summary": "Los éxitos electorales de Alternativa para Alemania (AfD) parecen mostrar una tendencia clara: los prejuicios, resentimientos y extremismo de derecha van en aumento. ¿Qué significa esto para la democracia?",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/estudio-asegura-que-un-cuarto-de-los-alemanes-quiere-una-dictadura-de-derecha/a-79922826?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T17:31:00+00:00",
+    "image": "",
+    "title_en": "Study claims a quarter of Germans wants a right-wing dictatorship",
+    "summary_en": "The election success of Alternative for Germany (AFD) appears to have shown a clear trend: prejudice, resentment and right-wing extremism are growing. What does this mean for democracy?"
+  },
+  {
+    "title": "Enviados estadounidenses se reunirán con Putin en Moscú y con Zelenski en Dublín tras las conversaciones en Abu Dabi",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261111-enviados-estadounidenses-se-reunir%C3%A1n-con-putin-en-mosc%C3%BA-y-con-zelenski-en-dubl%C3%ADn-tras-las-conversaciones-en-abu-dabi",
+    "category": "Internacional",
+    "date": "2026-11-11T17:05:06+00:00",
+    "image": "",
+    "title_en": "U.S. envoys will meet with Putin in Moscow and Zelensky in Dublin after talks at Abu Dabi",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "La Casa Blanca amenaza a los demócratas del Congreso que intenten investigar al Gobierno de Trump",
+    "summary": "El principal abogado del Gobierno advierte que las pesquisas podrían constituir una “flagrante actividad delictiva”. El demócrata de mayor rango en el Comité de Supervisión de la Cámara responde: “No nos dejaremos intimidar”",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-11/la-casa-blanca-amenaza-a-los-democratas-del-congreso-que-intenten-investigar-al-gobierno-de-trump.html",
+    "category": "Política",
+    "date": "2026-11-11T17:02:04+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/UNSAMQRVONFWPDXCFWECZBDQLM.jpg?auth=3cea7323ccac4582a3c4b06f9fbfc7f3b29ac7e91e576d434a18de24d441862a",
+    "title_en": "The White House Threat Congressional Democrats To Investigate Trump's Government",
+    "summary_en": "The Government's leading lawyer warns that investigations could be a \"flagrant crime activity.\" The highest-ranking Democrat at at at the House's Supervisory Committee responded: \"We will not be intimidated\""
+  },
+  {
+    "title": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
+    "summary": "Con un seguimiento de la huelga dispar, los españoles protestan este miércoles por la crisis de la vivienda y el alto costo de la vida en el país europeo.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/ckx28e5lj300o?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-11T16:59:13+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3182/live/5efc2700-ddf7-11f1-8445-15eb55286f71.jpg",
+    "title_en": "In images: tens of detainees at the first general strike in Spain in 14 years",
+    "summary_en": "Following up with a separate strike, the Spanish protest this Wednesday about the housing crisis and the high cost of living in the European country."
+  },
+  {
+    "title": "\"Por la economía, para reducir el coste de vida\", el slogan a favor de la acción climática en la COP31",
+    "summary": "El mensaje, que se repite en la conferencia anual de la ONU, refleja el esfuerzo por captar la atención de Estados y Gobiernos que enfrentan conflictos y crisis que han puesto al cambio climático en un segundo plano en las prioridades. Según el secretario general, se debe alcanzar consenso en torno a cuatro principios: el fin de la dependencia de los…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/medio-ambiente/20261111-por-la-econom%C3%ADa-para-reducir-el-coste-de-vida-el-slogan-a-favor-de-la-acci%C3%B3n-clim%C3%A1tica-en-la-cop31",
+    "category": "Medio Ambiente",
+    "date": "2026-11-11T16:57:59+00:00",
+    "image": "https://s.france24.com/media/display/22f6a63c-dddd-11f1-bdde-f71d22e7fea9/w:1024/p:16x9/AP26315411603474.jpg",
+    "title_en": "\"For the economy, to reduce the cost of living,\" the slogan for climate action at COP31",
+    "summary_en": "The message, repeated at the UN's Annual Conference, reflects the efforts to get the attention of countries and governments that face conflicts and crises that have put climate change at the back of priorities. According to the Secretary General, consensus should be reached about four principles: an end to dependence on people with high..."
+  },
+  {
+    "title": "Anthropic da el pistoletazo de salida a su OPV para minoristas en España",
+    "summary": "Los particulares nacionales pueden pedir acciones desde este miércoles a través de JP Morgan, Deutsche Bank, eToro, Interactive Brokers, flatexDEGIRO, Revolut, Trade Republic y Scalable Capital. El debut se celebrará en el Nasdaq el 19 de noviembre",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-11/anthropic-da-el-pistoletazo-de-salida-a-su-opv-para-minoristas-en-espana.html",
+    "category": "Internacional",
+    "date": "2026-11-11T16:51:59+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/XJKZKRBQ3JK3HDSZ5SBMYCC6AQ.jpg?auth=9ca4b8a6ff76b003ce46cf1541d82e0a49affc26a0b45064de65134c66d2a60d",
+    "title_en": "Anthropic gives his exit pistoletzo to his OPV for retailers in Spain",
+    "summary_en": "National individuals can demand actions from this Wednesday through JP Morgan, Deutsche Bank, eToro, Interactive Brokers, flatexDEGiro, Revolut, Trade Republic and Scalable Capital. The debut will be held at the Nasdaq on November 19"
+  },
+  {
+    "title": "Finaliza ronda de negociaciones entre Ucrania y Rusia en Abu dabi: ¿hubo avances?",
+    "summary": "Las negociaciones entre Kiev y Moscú, celebradas en Abu Dabi con la mediación de Washington, concluyeron con varios avances destacados. Entre ellos figura un nuevo intercambio masivo de prisioneros entre Ucrania y Rusia, así como la creación de grupos de trabajo para estudiar un renovado marco de seguridad para Europa. Además, las partes acordaron preparar…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261111-finaliza-ronda-de-negociaciones-entre-ucrania-y-rusia-en-abu-dabi-hubo-avances",
+    "category": "Internacional",
+    "date": "2026-11-11T16:14:26+00:00",
+    "image": "https://s.france24.com/media/display/67986d36-dddb-11f1-8b33-5f54d898a954/w:1024/p:16x9/ES-20261111-080722-080859-CS.jpg",
+    "title_en": "Finalizes round of negotiations between Ukraine and Russia at Abu dabi: have there been progress?",
+    "summary_en": "The negotiations between Kiev and Moscow, held at Abu Dabi with the mediation of Washington, concluded with several outstanding advances. They include a new mass exchange of prisoners between Ukraine and Russia and the creation of working groups to study a renewed security framework for Europe. Also, the parties agreed to prepare..."
+  },
+  {
+    "title": "Aluvión de críticas al PP por ridiculizar a los sindicatos como unos ‘comegambas’: “Este país y sus trabajadores os quedan grandes”",
+    "summary": "“Feliz día de la juerga general”, se mofan las Nuevas Generaciones de los populares en Madrid",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-11/aluvion-de-criticas-al-pp-por-ridiculizar-a-los-sindicatos-como-unos-comegambas-este-pais-y-sus-trabajadores-os-quedan-grandes.html",
+    "category": "Deportes",
+    "date": "2026-11-11T16:08:46+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/6IGIZOXXIRB6LAUIXK6ZJVZZSQ.jpg?auth=280338a75b2e26730a24e3ab5720ee4b99237974b35c36bc565300529b21841e",
+    "title_en": "Retiring with opposition to the PP for ridiculing trade unions as' comegamas': \"That country and its workers are great for you\"",
+    "summary_en": "\"Happy Day of General Worship,\" the New Generations of the Popular in Madrid are moved"
+  },
+  {
+    "title": "España afronta una huelga general por la crisis de vivienda y la pérdida de poder adquisitivo",
+    "summary": "Los sindicatos españoles convocaron una huelga general para exigir medidas frente al encarecimiento de la vivienda y el deterioro del poder adquisitivo, en la primera movilización de este tipo desde 2012. Las protestas, con bloqueos y piquetes en varias ciudades, coinciden con un escenario de inflación del 4,9% interanual y alquileres que en Madrid alcanzan…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-espa%C3%B1a-afronta-una-huelga-general-por-la-crisis-de-vivienda-y-la-p%C3%A9rdida-de-poder-adquisitivo",
+    "category": "Deportes",
+    "date": "2026-11-11T16:07:42+00:00",
+    "image": "https://s.france24.com/media/display/f5051782-ddd6-11f1-a4da-695cb59fade5/w:1024/p:16x9/AP26315416425491.jpg",
+    "title_en": "Spain faces a general strike with housing crisis and loss of purchasing power",
+    "summary_en": "The Spanish trade unions called for a general strike to demand measures with a view to increasing housing and deteriorating purchasing power, with the first such mobilization since 2012. The protests, with blockades and picket in several cities, coincide with an inflation scenario of 4.9% interyear and rents that reach..."
+  },
+  {
+    "title": "UEFA prepara rival para Infantino: Blatter agita a la FIFA",
+    "summary": "El antiguo presidente de la FIFA arremete contra su sucesor y adelanta que la UEFA ofrecerá un frente común. Wenger o Coe, posibles candidatos.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/uefa-prepara-rival-para-infantino-blatter-agita-a-la-fifa/a-79922383?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-11T16:00:00+00:00",
+    "image": "",
+    "title_en": "UEFA prepares opposition for Infantino: Blatter challenges FIFA",
+    "summary_en": "The former FIFA president pitted his successor and advanced that UEFA would offer a common front. Wenger or Coe, potential candidates."
+  },
+  {
+    "title": "Jordi Wild reacciona a la cancelación de Abascal de su entrevista: “Es una falta de respeto a mi trabajo”",
+    "summary": "El líder de Vox ha suspendido su asistencia a ‘The Wild Project’ pocas horas antes de la cita acordada. “Después de salir tan reforzado de ‘La revuelta’, ha querido minimizar riesgos”, opina el ‘youtuber’ en un vídeo",
+    "source": "El País",
+    "url": "https://elpais.com/television/2026-11-11/jordi-wild-reacciona-a-la-cancelacion-de-abascal-de-su-entrevista-es-una-falta-de-respeto-a-mi-trabajo.html",
+    "category": "Internacional",
+    "date": "2026-11-11T15:47:49+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/4ATI75PXYNDPTC5LUBIDMTSZFU.png?auth=ffb7917533b209741915d9ae7f4c9d924a541406e9529e7a1307db99494fab4b",
+    "title_en": "Jordi Wild Reacts to Abascal's Cancellation of his interview: \"It's a lack of respect for my work\"",
+    "summary_en": "The Vox leader has suspended his attendance at The Wild Project a few hours before his date. \"After getting out so tightened up from\" The Revolt, \"she wants to minimize risks,\" says the \"youtuber\" in a video"
+  },
+  {
+    "title": "Adiós al sobreturismo: ¿cómo lograr que el turismo sea más sustentable e inclusivo?",
+    "summary": "El turismo comunitario gana terreno en América Latina, aseguran expertos reunidos en la ITB Américas, en Guadalajara. Pero el cambio es lento y exige repensar quién decide, quién financia y quién se beneficia.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/adiós-al-sobreturismo-¿cómo-lograr-que-el-turismo-sea-más-sustentable-e-inclusivo/a-79920822?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-11T15:22:00+00:00",
+    "image": "",
+    "title_en": "Farewell to Overtourism: how to make tourism more sustainable and inclusive?",
+    "summary_en": "Community tourism gain ground in Latin America and have been established by experts at the ITB Americas, Guadalajara. But change is slow and requires rethinking who decides, who funds and who benefits."
+  },
+  {
+    "title": "De la abundancia a la bancarrota: auge y caída de LIV Golf",
+    "summary": "LIV Golf se declaró en bancarrota y comenzó el proceso de liquidación ante los tribunales de Estados Unidos. El proyecto, fundado en 2021 con financiación saudita, atrajo a varias estrellas mundiales con una bolsa de premios muy superior a lo ofrecido por la PGA, de Estados Unidos, y el DP World Tour, de Europa. La retirada del presupuesto del reino hundió…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/deportes/20261111-de-la-abundancia-a-la-bancarrota-auge-y-ca%C3%ADda-de-liv-golf",
+    "category": "Economía",
+    "date": "2026-11-11T15:14:48+00:00",
+    "image": "https://s.france24.com/media/display/252ac242-dd7b-11f1-9bd9-695cb59fade5/w:1024/p:16x9/WEB-PORTADA-10NOV-DEP.png",
+    "title_en": "From abundance to bankruptcy: LIV Golf boom and fall",
+    "summary_en": "LIV Golf became bankrupt and the settlement process began before U.S. courts. The project, founded in 2021 with Saudi financing, attracted several world stars with a much higher prize exchange than was offered by the U.S. and the DP World Tour of Europe. The retirement from the kingdom's budget sank..."
+  },
+  {
+    "title": "Samantha Hudson, Laura Weissmahr y María Barrier denuncian violencia policial en las cargas de la huelga general en Madrid",
+    "summary": "Las tres artistas estaban en primera línea de los manifestantes en la Gran Vía de Madrid",
+    "source": "El País",
+    "url": "https://elpais.com/videos/2026-11-11/samantha-hudson-laura-weissmahr-y-maria-barrier-denuncian-violencian-policial-en-las-cargas-de-la-huelga-general-en-madrid.html",
+    "category": "Deportes",
+    "date": "2026-11-11T15:06:39+00:00",
+    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261111/1236554_145638_still.0000001.jpg",
+    "title_en": "Samantha Hudson, Laura Weissmahr and María Barrier report police violence at the loads of the general strike in Madrid",
+    "summary_en": "The three artists were at the front line of the protesters at Gran Via de Madrid"
+  },
+  {
+    "title": "La Fiscalía ordena investigar la difusión de contenido sexual de menores en TikTok",
+    "summary": "La fiscal general Peramato ha designado a la fiscal de Criminalidad Informática para indagar los delitos relacionados con posibles delitos relacionados con el abuso sexual infantil en la plataforma",
+    "source": "El País Tecnología",
+    "url": "https://elpais.com/espana/2026-11-11/la-fiscalia-ordena-investigar-la-difusion-de-contenido-sexual-de-menores-en-tiktok.html",
+    "category": "Tecnología",
+    "date": "2026-11-11T14:58:42+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/7OLRHQLS7RLAVIJT6FPNBBBA7E.jpg?auth=85a1c76d19faf66a3c41ee367c6520c4a347b1a294ddc91e7169e20abebf1e9b",
+    "title_en": "The Public Prosecutor's Office orders to investigate the dissemination of child sexual content at TikTok",
+    "summary_en": "The Prosecutor General Peramato has appointed the Prosecutor of Computer Criminality to investigate crimes related to potential crimes related to child sexual abuse on the platform"
+  },
+  {
+    "title": "Informe desde Madrid: España vive su primera huelga general desde 2014 tras crisis por la vivienda",
+    "summary": "En medio de una jornada marcada por la lluvia, España vive su primera huelga general desde 2014, una movilización impulsada por el malestar social ante la crisis de la vivienda y los bajos salarios. Las protestas han provocado cortes de carreteras y alteraciones en el transporte, especialmente en Cataluña. En Madrid, grupos de huelguistas recorrieron…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261111-informe-desde-madrid-espa%C3%B1a-vive-su-primera-huelga-general-desde-2014-tras-crisis-por-la-vivienda",
+    "category": "Deportes",
+    "date": "2026-11-11T14:58:09+00:00",
+    "image": "https://s.france24.com/media/display/6b38be10-ddda-11f1-97ca-5f54d898a954/w:1024/p:16x9/ES-20261111-080247-080632-CS-01.jpg",
+    "title_en": "Report from Madrid: Spain lives its first general strike since 2014 after housing crisis",
+    "summary_en": "Amidst a rainy day, Spain has been living its first general strike since 2014, a mobilization driven by social malaise as a result of the housing crisis and low wages. Protests have caused roadblocks and transport challenges, especially in Catalonia. In Madrid, strike groups visited..."
+  },
+  {
     "title": "\"El capitalismo ya trataba mal a las personas; lo que ha cambiado ahora es que esa lógica se ha adoptado (…) en discursos sobre liderazgo\"",
     "summary": "La filósofa eslovena Renata Salecl lleva varias décadas preguntándose cómo se infiltra la ideología imperante en nuestras mentes. En su libro más reciente en español, Maleducados, aborda cómo la grosería se ha normalizado desde la televisión hasta la política pasando por lo que pasa en el lugar de trabajo.",
     "source": "BBC Mundo",
@@ -44,48 +561,26 @@ window.PLANETA_NEWS = [
     "summary_en": "The Kremlin preses to put an end to an invasion of Security throughout Europe at talks between Moscow, Kiev and Washington"
   },
   {
-    "title": "Berlín reúne a disidentes para hallar respuestas ante las autocracias",
-    "summary": "En la Conferencia de Libertad en Berlín, disidentes y líderes democráticos analizaron los retos que enfrentan las sociedades abiertas y defendieron la cooperación internacional como respuesta al auge de las autocracias.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/berlín-reúne-a-disidentes-para-hallar-respuestas-ante-las-autocracias/a-79916089?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-11T14:38:00+00:00",
-    "image": "",
-    "title_en": "Berlin brings together dissidents to find responses to autocracies",
-    "summary_en": "At the Freedom Conference in Berlin, dissident and democratic leaders discussed challenges faced by open societies and defended international cooperation as a response to the boom of autocracies."
-  },
-  {
-    "title": "León XIV y su huella en Perú: sus amigos, su ahijada y su labor social en Chiclayo",
-    "summary": "La historia de León XIV mantiene vínculos cercanos con Perú. Héctor Camacho recuerda que eligió a quien entonces era Robert Prevost como padrino de su hija y destaca su sencillez y cercanía con la comunidad. Durante años, el hoy pontífice desarrolló una intensa labor pastoral y social en Chiclayo, donde fue obispo y promovió diversas iniciativas de ayuda a…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261111-le%C3%B3n-xiv-y-su-huella-en-per%C3%BA-sus-amigos-su-ahijada-y-su-labor-social-en-chiclayo",
-    "category": "Internacional",
-    "date": "2026-11-11T14:34:45+00:00",
-    "image": "https://s.france24.com/media/display/a177108c-ddce-11f1-b87a-5f54d898a954/w:1024/p:16x9/ES-20261111-071416-071610-CS.jpg",
-    "title_en": "Leo XIV and his prints in Peru: his friends, his goddaughter and his social work at Chiclayo",
-    "summary_en": "The history of León XIV has close links with Peru. Héctor Camacho recalls that he chose his daughter's best man and his simplicity and closeness with his community. For years today's Pontiff developed an intense pastoral and social work at Chiclayo, where he was bishop and advanced several initiatives to help with his..."
-  },
-  {
-    "title": "El factor de Irán en la derrota electoral de Trump",
+    "title": "Derrotado en las midterms, Trump da por \"terminada\" la guerra en Irán",
     "summary": "El 9 de noviembre, Donald Trump anunció que las operaciones militares contra Irán habían terminado, pese a que no se había alcanzado un acuerdo con Teherán. Tras la derrota republicana en las elecciones, el mandatario reconoció que la guerra tuvo un impacto electoral, aunque aseguró que volvería a tomar la misma decisión. Entretanto, el secretario de…",
     "source": "France 24",
     "url": "https://www.france24.com/es/programas/expreso-de-oriente/20261111-el-factor-de-ir%C3%A1n-en-la-derrota-electoral-de-trump",
     "category": "Política",
     "date": "2026-11-11T14:34:08+00:00",
     "image": "https://s.france24.com/media/display/963e552e-dddb-11f1-94bf-f71d22e7fea9/w:1024/p:16x9/WEB-PORTADA-11NOV-EXP.png",
-    "title_en": "Iran's Factor in Trump's Electoral defeat",
+    "title_en": "Destroyed at midterms, Trump \"ends\" the war in Iran",
     "summary_en": "On 9 November, Donald Trump announced that military operations against Iran had been completed, although an agreement with Tehran had been reached. Following the Republican defeat at the elections, the president recognized that the war had an electoral impact, but stated that his decision would again be made. Meanwhile, the secretary of..."
   },
   {
-    "title": "Enviados estadounidenses se reunirán con Putin en Moscú y con Zelenski en Dublín tras las conversaciones en Abu Dabi",
-    "summary": "Según el enviado especial Steve Witkoff, las negociaciones se centrarían en “acuerdos de seguridad, la desescalada” y cuestiones humanitarias. Pero analistas no auguran avances significativos hasta la primavera, cuando Moscú evalue los resultados de su campaña de bombardeos invernal sobre infraestructuras de calefacción, electricidad y agua en las ciudades…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261111-enviados-estadounidenses-se-reunir%C3%A1n-con-putin-en-mosc%C3%BA-y-con-zelenski-en-dubl%C3%ADn-tras-las-conversaciones-en-abu-dabi",
-    "category": "Internacional",
-    "date": "2026-11-11T14:24:45+00:00",
-    "image": "https://s.france24.com/media/display/a5cb4468-ddca-11f1-b69a-695cb59fade5/w:1024/p:16x9/2026-11-10T091241Z-2111918344-RC2WKOALN86H-RTRMADP-3-UKRAINE-CRISIS-TALKS-ABU-DHABI.jpg",
-    "title_en": "U.S. envoys will meet with Putin in Moscow and Zelensky in Dublin after talks at Abu Dabi",
-    "summary_en": "According to Special Envoy Steve Witkoff, negotiations would focus on \"Security Agreements, Deceleration\" and humanitarian issues. But analysts aren't about to awaken significant advances till spring, when Moscow will evaluate the results of its winter bombing campaign about heating, electricity and water infrastructure in cities..."
+    "title": "Muere Stacy Keach, el actor que dio vida al detective Mike Hammer y al alcaide de ‘Prison Break’, a los 85 años",
+    "summary": "El intérprete estadounidense, que también encarnó a Ernest Hemingway en una miniserie que le valió un Globo de Oro, desarrolló una carrera de más de seis décadas en el cine, el teatro y la televisión",
+    "source": "El País",
+    "url": "https://elpais.com/television/2026-11-11/muere-stacy-keach-el-actor-que-dio-vida-al-detective-mike-hammer-y-al-alcaide-de-prison-break-a-los-85-anos.html",
+    "category": "Cultura",
+    "date": "2026-11-11T14:22:28+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/56Q2SIJI4ZNXDFAUEINVKMFD44.jpg?auth=b449b6bb87bcbc187d43cc92e3406f54a74056450c4f0c66f9f9405ff373e1ac",
+    "title_en": "Stacy Keach's death, an actor who killed Detective Mike Hammer and the prison breaker at age 85",
+    "summary_en": "The American performer, who also embodying Ernest Hemingway in a miniserie worth a Golden Globe, developed a race of more than six decades in cinema, theater and television"
   },
   {
     "title": "A pesar de estar en una lista negra de Estados Unidos, una universidad china compró chips Nvidia",
@@ -97,17 +592,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/64fa6746-ddd6-11f1-a2c7-f71d22e7fea9/w:1024/p:16x9/ES-20261111-081440-082201-CS.jpg",
     "title_en": "Despite being on a U.S. blacklist, a Chinese university bought Nvidia chips",
     "summary_en": "At \"Press Review\" we analysed new chapters of the scandal unleashed at \"Nvidia,\" the technology whose owner Jensen Huang, would have been the target of an espionage operation from Beijing, according to the United States. Now, the Reuters agency claims that a Chinese university bought artificial intelligence chips indirectly from Nvidia despite their..."
-  },
-  {
-    "title": "Huelga general 11N y actualidad política, en directo | Los sindicatos hablan de “éxito” y de un seguimiento “muy relevante” de la huelga, mientras que las patronales lo ven “bajo”",
-    "summary": "La policía carga contra los manifestantes en la Gran Vía de Madrid | Al menos 40 detenidos por incidentes durante las primeras horas de huelga general | La demanda de electricidad cae un 7,5% sobre lo previsto, según REE, mientras CC OO eleva la cifra al 10%",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-11/ultima-hora-de-la-huelga-general-y-la-actualidad-politica-en-directo.html",
-    "category": "Deportes",
-    "date": "2026-11-11T14:01:20+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LHQCG7HB3FMODAX4P5WFTFQNPE.jpg?auth=bbc73945565e819544532d38b3f6e1955ce66677c1e9bf000fa29a8311ee302e",
-    "title_en": "General strike 11N and political news, live) 124. The trade unions talk about \"success\" and \"very important\" monitoring of the strike while the employers see it \"low\"",
-    "summary_en": "The police have been charged with protesters at Gran Via de Madrid (124), at least 40 have been arrested for incidents during the first few hours of general strike (124) and demand for electricity drops by 7.5% as scheduled, according to REE, while CC OO puts the figure at 10%"
   },
   {
     "title": "La huelga de los que no llegan",
@@ -143,14 +627,14 @@ window.PLANETA_NEWS = [
     "summary_en": "Although differences remained to be resolved, delegations had been talking about progress and had opened the door to new meetings to bring positions closer before 2026."
   },
   {
-    "title": "En directo: El derecho a la vivienda impulsa la primera huelga general en España en 14 años",
+    "title": "En directo: La huelga general en España continúa con manifestaciones multitudinarias en Madrid y Barcelona",
     "summary": "La huelga general convocada por los principales sindicatos españoles comenzó este miércoles con cortes de carreteras, bloqueos en centros de trabajo y enfrentamientos con la Policía en distintas ciudades. La movilización reclama alquileres asequibles y salarios dignos, y registra un fuerte seguimiento en sectores como el portuario y el automotriz, según UGT…",
     "source": "France 24",
     "url": "https://www.france24.com/es/europa/20261111-la-polic%C3%ADa-carga-contra-manifestantes-en-la-gran-v%C3%ADa-de-madrid-y-detiene-a-varias-personas",
-    "category": "Economía",
+    "category": "Deportes",
     "date": "2026-11-11T13:50:03+00:00",
-    "image": "https://s.france24.com/media/display/4b4e9302-ddb9-11f1-bb89-5f54d898a954/w:1024/p:16x9/2026-11-11T095939Z-2076100673-RC2KLOAWWZPO-RTRMADP-3-SPAIN-STRIKE-MADRID.jpg",
-    "title_en": "Live: The right to housing promotes the first general strike in Spain in 14 years",
+    "image": "https://s.france24.com/media/display/85d8d90e-de01-11f1-ba65-f71d22e7fea9/w:1024/p:16x9/8b949d431abe6c74f5f6ff803019353a7049c6c2.jpg",
+    "title_en": "Live: The general strike in Spain continues with massive protests in Madrid and Barcelona",
     "summary_en": "The general strike called for by the main Spanish trade unions began Wednesday with roadblocks, roadblocks and clashes with police in different cities. The mobilization demand affordable rents and decent wages, and has a strong monitoring in sectors such as port and car, according to UGT..."
   },
   {
@@ -163,17 +647,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/cece300e-ddd5-11f1-9230-29048b396e03/w:1024/p:16x9/capture-bdd4a14f.jpg",
     "title_en": "Italy: 20 explosions in four months put Rome on alert; they fear war among criminal clans",
     "summary_en": "In recent months, Rome has registered a wave of explosions that keeps the authorities alert. About 20 artifacts have caused damage to businesses and residential areas, while researchers and anti-Mafia agencies discuss a potential dispute between criminal clan for monitoring drug and territory. The police have..."
-  },
-  {
-    "title": "Cataluña, Galicia, Aragón y Asturias lideran el seguimiento de una jornada de protesta desigual",
-    "summary": "Los sindicatos destacan la movilización en zonas de gran actividad industrial y reconocen un menor impacto en Castilla-La Mancha, Extremadura o Castilla y León",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-11/cataluna-galicia-aragon-y-asturias-lideran-el-seguimiento-de-una-jornada-de-protesta-desigual.html",
-    "category": "Internacional",
-    "date": "2026-11-11T13:43:18+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZA4T5BZED5CZHKI7OUZF3QHVCI.jpg?auth=5ac213255097dbb81a334165abdec03ad1f531d38b0efa8bb5f9171d9896d287",
-    "title_en": "Catalonia, Galicia, Aragon and Asturias lead monitoring an unequal protest day",
-    "summary_en": "The trade unions highlight the mobilization in areas with high industrial activity and recognize a lower impact in Castilla-La Mancha, Extremadura or Castilla and León"
   },
   {
     "title": "Directo París y la última conmemoración de Macron por el fin de la I Guerra Mundial",
@@ -198,94 +671,6 @@ window.PLANETA_NEWS = [
     "summary_en": "That week, elas Hoy analyzes the role of women in the November 3 half-term elections in the U.S., with a record number of women elected to Congress and state governorates. They include names as Gina Holojosa in Texas or Keisha Lance Bottoms in Georgia. Can this more feminine presence push..."
   },
   {
-    "title": "Si EE. UU. da por \"concluida\" la guerra en Irán, ¿fracasó la presión militar?",
-    "summary": "Con el anuncio de Washington de dar por \"concluidas\" las operaciones militares en Irán, la estrategia conjunta con Israel abre un interrogante sobre el alcance real de la campaña, mientras la tensión continúa en el terreno económico. ¿Fracasó la presión armada en Oriente Medio? Lo analizamos en El Debate de France 24.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/el-debate/20261111-si-ee-uu-da-por-concluida-la-guerra-en-ir%C3%A1n-fracas%C3%B3-la-presi%C3%B3n-militar",
-    "category": "Economía",
-    "date": "2026-11-11T13:34:50+00:00",
-    "image": "https://s.france24.com/media/display/dd0750ea-3067-11f1-b661-005056bf30b7/w:1024/p:16x9/2026-04-04T180833Z-68276192-RC2PCKA26FXX-RTRMADP-3-IRAN-CRISIS.jpg",
-    "title_en": "If US. The U.S. \"concluded\" war in Iran, did military pressure fail?",
-    "summary_en": "With Washington's announcement of \"complete\" military operations in Iran, the joint strategy with Israel challenges the actual scope of the campaign while tensions continue on the economic ground. Failed armed pressure in the Middle East? We studied this at The France 24 Debate."
-  },
-  {
-    "title": "‘Charles’ deja vientos de 148 kilómetros por hora, alumnos sin clase, vuelos cancelados y ríos en alerta",
-    "summary": "La borrasca ya ha abandonado Canarias dejando un reguero de incidentes y lo peor se espera esta tarde en la Península",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-11/charles-deja-vientos-de-148-kilometros-por-hora-alumnos-sin-clase-vuelos-cancelados-y-rios-en-alerta.html",
-    "category": "Internacional",
-    "date": "2026-11-11T13:29:49+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PTEVVKCOWRJ2BCOSIPFEZTH5LY.jpg?auth=13f571430374432772a653e904612361d19e2284cc07c05e8171e34436250edc",
-    "title_en": "Charles leaves 148 km an hour wind, class-free, cancelled flights and rivers on alert",
-    "summary_en": "The purge has already left Canary Islands leaving an incident and the worse's expected this afternoon at the Peninsula"
-  },
-  {
-    "title": "\"Sin su paso por Perú León XIV nunca hubiera llegado a ser Papa\"",
-    "summary": "El escritor peruano Santiago Roncagliolo habló con BBC Mundo sobre el año que pasó siguiendo las huellas del actual pontífice en Perú y reconstruyendo el camino que lo llevó hasta el trono de San Pedro.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cm75pk2zx53xo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-11T13:29:13+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b339/live/b87d39b0-dc8d-11f1-8a0c-79d3a3fe49e0.jpg",
-    "title_en": "\"Without his passing through Peru Leo XIV would have never been a Pope\"",
-    "summary_en": "The Peruvian writer Santiago Rongagliolo talked with BBC Mundo about his year following the prints of the current Pontiff in Peru and reconstructing his path to the throne of St. Peter."
-  },
-  {
-    "title": "La Cámara de Representantes frena el intento de destituir a Hegseth; Trump celebra la decisión",
-    "summary": "La Cámara de Representantes de Estados Unidos rechazó el intento de abrir un proceso de impeachment contra el secretario de Defensa, Pete Hegseth, impulsado por el congresista republicano Thomas Massie. La iniciativa lo acusaba de exceder sus atribuciones en operaciones militares vinculadas a Irán. Con el voto, Hegseth mantiene su cargo, aunque el debate…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261111-la-c%C3%A1mara-de-representantes-frena-el-impeachment-contra-pete-hegseth-trump-celebra-la-decisi%C3%B3n",
-    "category": "Política",
-    "date": "2026-11-11T13:22:23+00:00",
-    "image": "https://s.france24.com/media/display/48dded8e-ddcd-11f1-bf68-f71d22e7fea9/w:1024/p:16x9/ES-20261111-071151-071343-CS.jpg",
-    "title_en": "The House of Representatives challenges an attempt to remove Hegseth and Trump welcomes the decision",
-    "summary_en": "The U.S. House of Representatives rejected an attempt to open an impeachment suit against Defense Secretary Pete Hegseth, led by Republican Congressman Thomas Massie. The initiative accused him of surpassing his powers in Iranian-related military operations. With the vote, Hegseth keeps his office, but the debate..."
-  },
-  {
-    "title": "Huelga general en España: ¿cuáles son las exigencias detrás de las masivas movilizaciones?",
-    "summary": "La crisis de la vivienda ha llevado a miles de personas a secundar una huelga general en España, donde trabajadores y ciudadanos reclaman acceso a viviendas asequibles, salarios dignos y mayor protección social. Las protestas reflejan el malestar por el aumento de los alquileres, la escasez de vivienda accesible y los desahucios, mientras colectivos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261111-huelga-general-en-espa%C3%B1a-cu%C3%A1les-son-las-exigencias-detr%C3%A1s-de-las-masivas-movilizaciones",
-    "category": "Economía",
-    "date": "2026-11-11T13:19:24+00:00",
-    "image": "https://s.france24.com/media/display/cb31a21a-ddcf-11f1-aa85-695cb59fade5/w:1024/p:16x9/ES-20261111-071617-072409-CS.jpg",
-    "title_en": "General strike in Spain: what are the challenges behind massive mobilizations?",
-    "summary_en": "The housing crisis has led thousands to join a general strike in Spain, where workers and citizens demand access to affordable housing, decent wages and more social protection. The protests reflect the malaise about increased rents, a shortage of affordable housing and evictions while collective..."
-  },
-  {
-    "title": "El derecho a la vivienda impulsa la primera huelga general en España en 14 años",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261111-efecto-maricarmen-espa%C3%B1a-vive-su-primera-huelga-general-en-14-a%C3%B1os-por-la-crisis-de-la-vivienda",
-    "category": "Internacional",
-    "date": "2026-11-11T13:18:54+00:00",
-    "image": "",
-    "title_en": "The right to housing drives the first general strike in Spain in 14 years",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "Informe desde Antalya: COP31 marcada por ausencias y advertencias sobre el calentamiento global",
-    "summary": "La COP31 reúne en Turquía a líderes mundiales en medio de crecientes alertas sobre la crisis climática. El secretario general de la ONU, António Guterres, advirtió que el objetivo de limitar el calentamiento a 1,5 °C ya es inevitablemente superado y pidió acelerar la reducción de emisiones. Por su parte, Luiz Inácio Lula da Silva criticó que la agenda…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261111-informe-desde-antalya-cop31-marcada-por-ausencias-y-advertencias-sobre-el-calentamiento-global",
-    "category": "Medio Ambiente",
-    "date": "2026-11-11T13:18:06+00:00",
-    "image": "https://s.france24.com/media/display/0dda4b62-ddcb-11f1-8b7d-695cb59fade5/w:1024/p:16x9/ES-20261111-070452-070814-CS.jpg",
-    "title_en": "Report from Antalya: COP31 marked by absences and warnings about global warming",
-    "summary_en": "COP31 brings together world leaders in Turkey amidst growing warnings about the climate crisis. UN Secretary General António Guterres warned that the goal of reducing warming to 1.5 ° C was inevitably exceeded and called for accelerating emission reductions. For his part, Luiz Inácio Lula da Silva criticized that the agenda..."
-  },
-  {
-    "title": "En directo: León XIV reúne a dos millones de fieles en Luján y viaja a Perú, donde vivió durante dos décadas",
-    "summary": "El papa León XIV cerró este miércoles su visita a Argentina con una misa multitudinaria en la Basílica de Luján, que congregó a unas dos millones de personas. En su homilía, pidió protección para el país y llamó a construir una sociedad que incluya a todos, \"especialmente a los más necesitados: los pobres y hambrientos, los migrantes, los enfermos y los…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261111-en-directo-le%C3%B3n-xiv-visita-la-c%C3%A1rcel-de-devoto-un-lugar-emblem%C3%A1tico-para-el-papa-francisco-y-lleva-un-mensaje-de-esperanza-a-los-presos",
-    "category": "Internacional",
-    "date": "2026-11-11T13:14:34+00:00",
-    "image": "https://s.france24.com/media/display/4ca35a92-ddd9-11f1-9039-f71d22e7fea9/w:1024/p:16x9/7936d773ec468336fc5df7a375237fdcab2ebae3.jpg",
-    "title_en": "Live: Leo XIV brings together two million faithful in Lujan and travels to Peru, where he lived for two decades",
-    "summary_en": "On Wednesday, Pope Leo XIV closed his visit to Argentina with a mass at the Basilica of Lujan, bringing together about two million people. In his homily, he called for protection for his country and called for a society that includes everyone, \"especially those most in need: the poor and hungry, migrants, the sick and the..."
-  },
-  {
     "title": "El Gobierno alemán aprueba la creación de una reserva nacional de gas",
     "summary": "El Gobierno alemán dio luz verde a una reserva nacional de gas destinada a afrontar crisis energéticas y cortes de suministro. La medida, que aún debe aprobar el Parlamento, se financiará con una tasa a consumidores.",
     "source": "DW Español",
@@ -297,15 +682,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The German Government gave a green light to a national gas reserve to face energy crises and cuts of supply. The measure, still to be adopted by Parliament, will be financed with a consumer tax."
   },
   {
-    "title": "El PP descalifica la huelga como “preventiva” contra Feijóo y Vox como “circo general”",
-    "summary": "Frente Amplio y Podemos reivindican cambios en vivienda, salarios y los servicios públicos",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-11/el-pp-descalifica-la-huelga-como-preventiva-contra-feijoo-y-vox-como-circo-general.html",
+    "title": "Avatel y los sindicatos pactan el ERE tras reducir los despidos forzosos a 383 personas",
+    "summary": "Los trabajadores tienen hasta el 15 de noviembre para solicitar la salida voluntaria que puede aumentar a 444 las bajas",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-11-11/avatel-y-los-sindicatos-pactan-el-ere-tras-reducir-los-despidos-forzosos-a-383-personas.html",
     "category": "Economía",
-    "date": "2026-11-11T12:49:34+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7MDFFTRLHRKKLJ7P6G6PDCHZ6U.jpg?auth=ee43844e9e08e931b7265eb7958c5850ca51c9ad582b987a8f9d124bc5450f60",
-    "title_en": "The PP denounces the strike as \"preventive\" against Feijóo and Vox as \"general circus\"",
-    "summary_en": "Wide Front and Can demand changes in housing, wages and public services"
+    "date": "2026-11-11T13:08:14+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/E55WH575YBDZREVOMY7UI2T5PA.png?auth=23d0cdefe4aeeef8a01a60c95136fa80685db6a1dbad271a75eda4f8caf69ca6",
+    "title_en": "Avatel and trade unions agree with EE after reducing forced dismissals to 383 people",
+    "summary_en": "Workers have till November 15th to apply for voluntary leave that can increase to 444 casualties"
   },
   {
     "title": "La inspiradora historia de Zaher, el niño que perdió sus dos piernas en Sudán y recibió el apoyo de su ídolo Vinicius Jr para volver a jugar al fútbol",
@@ -319,59 +704,15 @@ window.PLANETA_NEWS = [
     "summary_en": "Zaher talked last year with the BBC's World Service about his favorite football player and his dream of being able to walk back and play ball with his friends."
   },
   {
-    "title": "Efecto \"Maricarmen\": España vive su primera huelga general en 14 años por la crisis de la vivienda",
-    "summary": "La primera huelga general en 14 años en España comenzó este miércoles con cortes de carreteras, bloqueos en centros de trabajo y protestas en distintas ciudades contra la crisis de la vivienda, el aumento de los alquileres y la pérdida de poder adquisitivo. La movilización tiene como telón de fondo el caso de Maricarmen Abascal, la mujer de 87 años que…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261111-efecto-maricarmen-espa%C3%B1a-vive-su-primera-huelga-general-en-14-a%C3%B1os-por-la-crisis-de-la-vivienda",
-    "category": "Internacional",
-    "date": "2026-11-11T12:32:17+00:00",
-    "image": "https://s.france24.com/media/display/3e42ab36-dda4-11f1-9579-5f54d898a954/w:1024/p:16x9/2026-11-11T042126Z-330483324-RC2DLOAYE7CM-RTRMADP-3-SPAIN-STRIKE.jpg",
-    "title_en": "Effect \"Maricarman\": Spain lives its first general strike in 14 years because of housing crisis",
-    "summary_en": "The first general strike of 14 years in Spain began this Wednesday with roadblocks, jobs and protests in different cities against the housing crisis, increased rental and loss of purchasing power. Mobilization has as its background the case of Maricarchen Abascal, the 87-year-old woman who..."
-  },
-  {
-    "title": "La policía británica detiene a un soldado estadounidense acusado de espiar para Rusia",
-    "summary": "La operación se ha realizado de manera conjunta con el Pentágono y el FBI",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-11/la-policia-britanica-detiene-a-un-soldado-estadounidense-acusado-de-espiar-para-rusia.html",
-    "category": "Internacional",
-    "date": "2026-11-11T12:26:25+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/G46GAZDCUFJPTBCT776HOEZ4IM.jpg?auth=3214dcbd59c711df6c6d78a8a1847ab46d50bf9c846b431fc53da3c0a002c162",
-    "title_en": "British police stop an American soldier accused of spying for Russia",
-    "summary_en": "The operation has been conducted jointly with the Pentagon and the FBI"
-  },
-  {
-    "title": "Diputados y dirigentes del Frente Amplio y de Adelante Andalucía denuncian agresiones policiales",
-    "summary": "El secretario de Organización de Adelante acaba en el suelo con un golpe en las costillas en Granada. El líder del PCA y parlamentario autonómico Ernesto Alba relata haber recibido porrazos en un brazo en Málaga",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-11/diputados-y-dirigentes-del-frente-amplio-y-de-adelante-andalucia-denuncian-agresiones-policiales.html",
-    "category": "Internacional",
-    "date": "2026-11-11T12:19:12+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/3GORE33J5FHAHGAFOU3LYXRPGU.jpg?auth=a26206aa7abc561f3210711ecde1255f6f910e352c3add63438f723eaf63781c",
-    "title_en": "Deputies and leaders of the Expand Front and of Advente Andalucía report police attacks",
-    "summary_en": "The Secretary of Advance Organization ends up on the ground with a blow to his ribs in Granada. The leader of the PCA and an autonomous parliamentarian Ernesto Alba reports that they have received porrazos with an arm in Málaga"
-  },
-  {
-    "title": "Quién es Wilson \"Lanmò San Jou\" Joseph, el poderoso líder pandillero cuya casa en Haití Bukele dice haber destruido",
-    "summary": "Dirigente de 400 Mawozo, ha sido acusado formalmente por las autoridades estadounidenses de secuestro. Además, el FBI ofrece una recompensa de hasta US$1 millón por información que conduzca a su captura.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cmzx96kk0ly7o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-11T12:14:39+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ecc2/live/7ee16d20-ddc3-11f1-a50f-85eebf9e50e5.png",
-    "title_en": "Who's Wilson \"Lanmò San Jou\" Joseph, the powerful gang leader whose house in Haiti Bukele claims to have destroyed",
-    "summary_en": "Leader of 400 Mawzo has been formally charged with kidnapping by U.S. authorities. The FBI also offers a reward of up to $1 million for information leading to its capture."
-  },
-  {
-    "title": "Evacuadas alrededor de 300 escuelas de Italia por falsas amenazas de bomba",
-    "summary": "Centenares de colegios de Irlanda, Irlanda del Norte y Escocia también han recibido correos que alertaban de un atentado. No se han encontrado explosivos",
+    "title": "Miles de colegios de Italia, Irlanda y Reino Unido reciben falsas amenazas de bomba",
+    "summary": "Un aviso de atentado ha llegado a unas 6.300 escuelas italianas y ha obligado a evacuar cientos de ellas. No se han encontrado explosivos",
     "source": "El País",
     "url": "https://elpais.com/internacional/2026-11-11/evacuadas-alrededor-de-300-escuelas-de-italia-por-falsas-amenazas-de-bomba.html",
     "category": "Internacional",
     "date": "2026-11-11T12:06:10+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/LO6HHGRWJVFMPE7LCELLRFLLSM.JPG?auth=0d1935d8c3d5d92d170e87e160e08943511193a4c23e6b8d8b999297733286a4",
-    "title_en": "Evacuated about 300 schools from Italy by false bomb threats",
-    "summary_en": "Hundreds of schools in Ireland, Northern Ireland and Scotland have also been referred to an attack. No explosives have been found"
+    "title_en": "Thousands of schools from Italy, Ireland and UK get false bomb threats",
+    "summary_en": "A notice of an attack had reached about 6,300 Italian schools and had forced hundreds to evacuate. No explosives have been found"
   },
   {
     "title": "Evacúan cientos de colegios en Italia por una ola de amenazas de bomba",
@@ -385,17 +726,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Hundreds of Italian schools were evacuated after receiving post office with bomb threats. Similar cases concern the UK and have been added to recent warnings about flights and mass media from several European countries"
   },
   {
-    "title": "Italia evacúa al menos 300 escuelas tras recibir una misma amenaza de bomba",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261111-italia-evac%C3%BAa-al-menos-300-escuelas-tras-recibir-una-misma-amenaza-de-bomba",
-    "category": "Internacional",
-    "date": "2026-11-11T11:46:26+00:00",
-    "image": "",
-    "title_en": "Italy evacuates at least 300 schools after receiving a same bomb threat",
-    "summary_en": "See details at the original source."
-  },
-  {
     "title": "Ruta 66: la historia poco conocida de la carretera más famosa de EE.UU.",
     "summary": "La Ruta 66, que se extiende desde Chicago hasta Santa Mónica, en California, atraviesa territorios ancestrales de numerosos pueblos indígenas. Sin embargo, durante mucho tiempo sus voces quedaron al margen de la narrativa de la histórica carretera.",
     "source": "BBC Mundo",
@@ -407,26 +737,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The Route 66, from Chicago to Santa Monica, California, crosses ancestral territories of numerous indigenous peoples. Nevertheless, his voices for a long time remained outside the narrative of the historic road."
   },
   {
-    "title": "Barcelona se queda sin metro más de 10 horas durante la huelga general",
-    "summary": "Rodalies, Ferrocarrils, metro y autobuses suspenden el servicio entre las 9.30 y las 16.30 y de las 21.00 a las 24.00",
-    "source": "El País",
-    "url": "https://elpais.com/espana/catalunya/2026-11-11/barcelona-se-queda-sin-metro-durante-siete-horas-durante-la-huelga-general.html",
-    "category": "Internacional",
-    "date": "2026-11-11T11:32:18+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/OQG2L37MINJHFH5KDB34ZQSAJY.jpg?auth=8dff0e8045232dfa2a6637f3ad25f52cb143c4d8443e0e202f9cd332a030eb94",
-    "title_en": "Barcelona runs out of metro more than 10 hours during general strike",
-    "summary_en": "Rodalies, Railways, Metro and Bus suspend service from 9.30 a.m. to 4.30 p.m. and from 9 p.m. to 24 p.m."
-  },
-  {
     "title": "Vox cancela la entrevista de Abascal con Jordi Wild tras las exigencias sobre los 40 minutos inéditos de ‘La revuelta’",
-    "summary": "El partido amenaza con suspender nuevas entrevistas si los medios no aceptan sus exigencias sobre el uso y la edición de las respuestas de su candidato",
+    "summary": "El youtuber asegura estar “profundamente decepcionado” y carga contra la formación ultra: “Si hubieran querido venir, hubiesen venido”",
     "source": "El País",
     "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/vox-cancela-la-entrevista-de-abascal-con-jordi-wild-tras-la-polemica-por-los-40-minutos-ineditos-de-la-revuelta.html",
-    "category": "Deportes",
+    "category": "Internacional",
     "date": "2026-11-11T11:23:10+00:00",
     "image": "",
     "title_en": "Vox cancels Abascal's interview with Jordi Wild after demand about the unprecedented 40 minutes of \"La Revollo\"",
-    "summary_en": "The party's threat to suspend new interviews if the media doesn't accept their demands about using and editing their candidate's responses"
+    "summary_en": "The youtuber claims to be \"deeply disappointed\" and charged with ultra formation: \"If they had wished to come, they would have come.\""
   },
   {
     "title": "Por fin hay un tratamiento para la demencia de mi hijo de 5 años, pero tiene un costo de US$4 millones",
@@ -452,14 +771,14 @@ window.PLANETA_NEWS = [
   },
   {
     "title": "Pistas falsas y controles en carreteras: continúa la búsqueda del fugitivo responsable del explosivo que mató a un policía en Oviedo",
-    "summary": "La Policía busca a un individuo de 64 años con antecedentes por lesiones y hurto",
+    "summary": "La Policía busca a un individuo de 64 años con antecedentes por lesiones y hurto. Ha registrado varios domicilios y una fábrica de material de obra, sin éxito",
     "source": "El País",
     "url": "https://elpais.com/espana/2026-11-11/pistas-falsas-y-controles-en-carreteras-continua-la-busqueda-del-fugitivo-responsable-del-explosivo-que-mato-a-un-policia-en-oviedo.html",
     "category": "Internacional",
     "date": "2026-11-11T10:13:48+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/DJ3W7AJFNFDJJI2GXW44NPCT3Q.jpg?auth=e3e48d28377dda7f19d87e375dd896545466c122440c05ab6c084475ca53a5b2",
     "title_en": "Faked track and roadblocks: The fugitive's search for an explosive that killed a police officer in Oviedo continues",
-    "summary_en": "The police are looking for a 64-year-old with a record of injuries and theft"
+    "summary_en": "The police are looking for a 64-year-old with a record of injuries and theft. He's registered several houses and a construction factory with no success"
   },
   {
     "title": "España se paraliza: huelga general por vivienda y salarios",
@@ -506,15 +825,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The demand for electricity is a classic sign of the effect of a general unemployment. That's how it goes today with data every five minutes"
   },
   {
-    "title": "Un piquete irrumpe en el plató y corta en directo la emisión del programa de Gemma Nierga en TVE",
-    "summary": "“Los periodistas somos considerados un servicio esencial, pero hoy no podemos hacer nuestro trabajo”, ha afirmado la presentadora",
-    "source": "El País",
-    "url": "https://elpais.com/espana/catalunya/2026-11-11/un-piquete-irrumpe-en-el-plato-y-corta-en-directo-la-emision-del-programa-de-gemma-nierga-en-tve.html",
-    "category": "Internacional",
-    "date": "2026-11-11T08:02:39+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/WNQPHWWKMJGUJOWRUJT345Q3FY.png?auth=28a5ca0d0f89c4e76beedfe9a2fd6672119e9fbb901290e930fcb34a30fdac85",
-    "title_en": "A picket breaks into the set and cuts live Gemma Nierga's program broadcast at TVE",
-    "summary_en": "\"We journalists are an essential service, but today we cannot do our jobs,\" the presenter stated."
+    "title": "Digi sigue en pérdidas tras disparar sus amortizaciones y los costes de la salida a Bolsa",
+    "summary": "El grupo rumano de telecomunicaciones elevó sus ingresos un 15,3% en los nueve primeros meses por el crecimiento de su base de clientes",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-11-11/digi-sigue-en-perdidas-tras-disparar-sus-amortizaciones-y-por-los-costes-de-la-salida-a-bolsa.html",
+    "category": "Economía",
+    "date": "2026-11-11T07:41:44+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/QK363JJB35BAZBZZIKK5IXMUKQ.png?auth=bef1cbdf137a8b9e54adf0526425bc16d88f440187479060a48a5d07ed89465c",
+    "title_en": "Digi remains in losses after shooting his amortiations and costs of his leave to Stock Exchange",
+    "summary_en": "The Romanian telecommunications group increased its income by 15.3% in the first 9 months by the growth of its client base"
   },
   {
     "title": "De “superficial y frívolo” a “mala gente”; los prejuicios se sientan a la mesa en ‘La cena de los idiotas’",
@@ -526,17 +845,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/X2FINXHAQ5AMPOJE54NWNAURV4.png?auth=0dc7431dda5ed78eba78b1868694816e4c0beb6717b62e17d6eb6727440f444c",
     "title_en": "From \"superficial and frivolous\" to \"bad people\"; prejudice sits at the table at \"The Dines of Idiots\"",
     "summary_en": "At 1: 00 a.m. they continued to turn their first plate. It's a tent schedule with knives that cut a tomato as well as a screw."
-  },
-  {
-    "title": "RD Congo supera barrera de los 11.000 casos de ébola, incluidos 5.387 muertos",
-    "summary": "Se trata del segundo brote más grande y mortal de la historia, después del registrado en África Occidental en 2014-2016.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/rd-congo-supera-barrera-de-los-11-000-casos-de-ébola-incluidos-5-387-muertos/a-79914424?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-11T06:27:00+00:00",
-    "image": "",
-    "title_en": "DR Congo outweighs 11 000 ebola and 5,387 deaths",
-    "summary_en": "That's the second largest and most deadly outbreak in history after the 2012-2016 West Africa."
   },
   {
     "title": "3 claves de la primera huelga general en España en 14 años (y la paradoja de que el gobierno la defienda y la oposición la critique)",
@@ -605,17 +913,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Anthropic seeks to raise up to 90.4 billion dollars at his historic leave to Stock Exchange"
   },
   {
-    "title": "Aún queda el puente de diciembre: recomendaciones viajeras según tus gustos",
-    "summary": "Gran parte de España contará con cuatro días libres seguidos, una oportunidad para una buena escapada",
-    "source": "El País",
-    "url": "https://elpais.com/elviajero/escapadas/2026-11-11/aun-queda-el-puente-de-diciembre-recomendaciones-viajeras-segun-tus-gustos.html",
-    "category": "Internacional",
-    "date": "2026-11-11T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/WON7TRFB3VDOLLTH4KC7A2VOPY.jpg?auth=69ccda81f127bcc65e64674fda605856cc0afacaae5dd3c410549869358462c6",
-    "title_en": "The December bridge remains: Travel recommendations according to your tastes",
-    "summary_en": "A great part of Spain will have four free days in a row, an opportunity for a good escape"
-  },
-  {
     "title": "“El ‘cringe’ se ha cargado internet”: por qué los jóvenes ya no quieren subir nada a las redes",
     "summary": "Lejos de los tiempos en que los ‘millennials’ se exponían sin filtro, las nuevas generaciones son más conscientes de la huella digital. Sin embargo, que la vergüenza gane al sentido comunitario ‘online’ no es la mejor noticia",
     "source": "El País",
@@ -671,39 +968,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The wealth of Spanish, its plurality and the imagination of our brothers and sisters of his tongue became visible."
   },
   {
-    "title": "Núcleo Nacional planeó atacar mezquitas y sinagogas: “Hay que empezar con las incineraciones”",
-    "summary": "Los chats intervenidos por la Policía Nacional al grupo nazi revelan la obsesión de sus militantes contra centros de musulmanes, judíos y menores no acompañados",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-11/nucleo-nacional-planeo-atacar-mezquitas-y-sinagogas-hay-que-empezar-con-las-incineraciones.html",
-    "category": "Internacional",
-    "date": "2026-11-11T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FZB5VLXWWRCSPONTE2C42RNFGA.jpg?auth=5ba81192cd17830d02852867b27b6a5144ca29e8099ed2511136db2e8153ab0c",
-    "title_en": "National core planned to attack mosques and synagogues: \"We have to start with incinerations\"",
-    "summary_en": "The chats put by the National Police to the Nazi group reveal their militants' obsession with centers of unaccompanied Muslims, Jews and minors"
-  },
-  {
-    "title": "José Ignacio García, líder de Adelante Andalucía: “Lo mejor que tiene el PSOE es que no gobierne el PP”",
-    "summary": "La formación andalucista concurre por primera vez a las generales presentándose como la izquierda útil para los desencantados con el Gobierno",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-11/jose-ignacio-garcia-lider-de-adelante-andalucia-lo-mejor-que-tiene-el-psoe-es-que-no-gobierne-el-pp.html",
-    "category": "Política",
-    "date": "2026-11-11T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7B5PKL3Y4NHBLHUNO4LFU5KQM4.jpg?auth=eff4ff5d26b3e92bcf1f1af5bbc1412ba138f39f76db40cd24f4041dda89fe12",
-    "title_en": "José Ignacio García, leader of Advente Andalucía: \"The best thing about the PSOE is that it doesn't govern the PP\"",
-    "summary_en": "The Andalucist training goes to the generals for the first time and presents themselves as the useful left for those who have been disenchanted with the Government."
-  },
-  {
-    "title": "Los guiños a Vox en el programa electoral del PP",
-    "summary": "El Partido Popular ha endurecido su discurso en inmigración, ignora el tema del aborto y promete acabar con los pinganillos para traducir las lenguas cooficiales en el Congreso",
-    "source": "El País",
-    "url": "https://elpais.com/videos/2026-11-11/las-concesiones-a-vox-del-programa-electoral-del-pp.html",
-    "category": "Deportes",
-    "date": "2026-11-11T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7SN3NZUDSRB3HND2D5UWUMBTCU.jpg?auth=2ef86391db636c7391ff70280612198f4e532c8641add6f870d3b62c47e22724",
-    "title_en": "Vox's Wink at the PP's Electoral Program",
-    "summary_en": "The People's Party has tightened its immigration discourse, ignores the issue of abortion and promises to put an end to pinganillo to translate co-official languages into Congress"
-  },
-  {
     "title": "El Ibex lidera las grandes Bolsas en noviembre y se prepara para asaltar máximos históricos",
     "summary": "El selectivo español brilla con un alza superior al 7% en lo que va de mes y se beneficia de la remontada de los bancos y de la caída del petróleo",
     "source": "El País Economía",
@@ -724,17 +988,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/SXK5LZGH2ND3VFXI3FDEMHZBEI.JPG?auth=5dcb12a53045a256f3b3a64582f3fac9e431a01815b083329ba6e3fbc405e126",
     "title_en": "José Luis Pontón, computer engineer: \"An IA that understands human movement can learn how to mimic and suppress a person\"",
     "summary_en": "The researcher, awarded by SCIE and the BBVA Foundation for his advances in virtual reality, develops algorithms capable of rebuilding body language with few sensors"
-  },
-  {
-    "title": "Doce recetas más para el otoño: platos principales y guarniciones que preparamos cada semana",
-    "summary": "Tras las sopas y ensaladas, compartimos algunos segundos de temporada que están pasando por las cazuelas del equipo comidista y allegados. Con muchas ideas adaptables a lo que tengas en la nevera",
-    "source": "El País",
-    "url": "https://elpais.com/gastronomia/el-comidista/2026-11-11/doce-recetas-mas-para-el-otono-platos-principales-y-guarniciones-que-preparamos-cada-semana.html",
-    "category": "Internacional",
-    "date": "2026-11-11T04:30:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SRFD37SMWNGRFN5JZVUJI5543M.JPG?auth=c53a919ce7d44596e28b2c07357ee4d0aaf4f6867a7c797815136a7f81df7b9c",
-    "title_en": "Twelve more autumn recipes: main plates and garrison we prepare every week",
-    "summary_en": "Following the soups and salads, we share a few seconds of season that are passing through the crockies of the comidist and interiors. with a lot of ideas that suit what you have in the refrigerator"
   },
   {
     "title": "He heredado un piso en Madrid que está alquilado y quiero venderlo cuanto antes. ¿Con cuánto tiempo tengo que avisar a los inquilinos?",
@@ -792,103 +1045,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The offer to buy a Bankinter Investment fund from the Atom socii joins with the Loan Record and with other partners such as Santander, Banking March or Bank Sabadell"
   },
   {
-    "title": "\"Papá está encerrado\": el diario de la vida y muerte de un impresor internado en Francia durante la I Guerra Mundial",
-    "summary": "Con motivo del 11 de noviembre, France 24 nos cuenta la historia de Samuel Gunsberg, un impresor nacido en Budapest que se instaló en Francia en el año 1900 y fue internado en 1914 como \"sujeto enemigo\". Su diario inédito, hallado por su tataranieta, periodista de France 24, desvela el destino poco conocido de los cerca de 60.000 civiles extranjeros…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261111-pap%C3%A1-est%C3%A1-encerrado-el-diario-de-la-vida-y-muerte-de-un-impresor-internado-en-francia-durante-la-i-guerra-mundial",
-    "category": "Internacional",
-    "date": "2026-11-11T04:04:21+00:00",
-    "image": "https://s.france24.com/media/display/3f4166be-d9ce-11f1-a547-a575454bc579/w:1024/p:16x9/img-histoire-11nov-v1.jpg",
-    "title_en": "\"Dad's locked up\": The Life and Death Diary of an Impressor Inked into France during World War I",
-    "summary_en": "On November 11, France 24 tells us the story of Samuel Gunsberg, an impressor born in Budapest who settled in France in 1900 and was interned as an \"enemy subject.\" His unpublished daily, found by his great-great journalist from France 24, reveals his little known destination of about 60,000 foreign civilians..."
-  },
-  {
-    "title": "De los “ataques cinéticos” y Venezuela a la guerra en Irán: los momentos que acorralaron a Hegseth",
-    "summary": "El polémico secretario de Defensa de Estados Unidos se enfrentó a la perspectiva de ser el primero en su cargo objeto de un juicio político desde 1876. Su conducción del Pentágono ha incluido desde una purga “antiwoke” hasta la disposición a transmitir una ejecución en línea, pasando por refuerzos de testosterona para las tropas y, por supuesto, las…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261111-de-los-ataques-cin%C3%A9ticos-a-la-guerra-en-ir%C3%A1n-los-momentos-que-acorralaron-a-hegseth",
-    "category": "Política",
-    "date": "2026-11-11T03:32:28+00:00",
-    "image": "https://s.france24.com/media/display/41cc5bba-dd7e-11f1-a5e8-f71d22e7fea9/w:1024/p:16x9/AP26294694444631.jpg",
-    "title_en": "From the \"kinetic attacks\" and Venezuela to the war in Iran: the moments that cornered Hegseth",
-    "summary_en": "The controversial U.S. Secretary of Defense had been faced with the perspective of being the first to be the first person to have been the subject of a political trial since 1876. His Pentagon conduct has been from an \"anti-lake\" purga to his willingness to transmit an online execution, passing through testosterone reinforcements for his troops and, of course, his..."
-  },
-  {
-    "title": "El diésel acorrala también a Latinoamérica: transportistas chilenos ponen presión al presidente Kast",
-    "summary": "Una parte del gremio de camioneros de Chile protagoniza una paralización en sus actividades para llamar la atención por el elevado precio de los combustibles. Luego de un encuentro con representantes del Gobierno chileno, los conductores decidieron mantener la protesta tras no alcanzar un acuerdo en sus peticiones.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261111-economia-chile-camiones-paro-diesel",
-    "category": "Economía",
-    "date": "2026-11-11T03:11:01+00:00",
-    "image": "https://s.france24.com/media/display/e8a2ce9e-dd77-11f1-b42e-5f54d898a954/w:1024/p:16x9/2026-11-10T180145Z-1167662671-RC23LOA6DLPY-RTRMADP-3-CHILE-STRIKE-TRUCKERS.jpg",
-    "title_en": "Diesel also cuts South America: Chilean carriers put pressure on President Kast",
-    "summary_en": "A portion of Chile's truck truck industry challenges a standstill in its activities to draw attention to high fuel prices. Following a meeting with representatives of the Chilean Government, the drivers decided to maintain the protest after they had been unable to reach an agreement on their requests."
-  },
-  {
-    "title": "90 días del terremoto en Colombia: \"Seguimos esperando acompañamiento del Gobierno\", Leonardo Reales",
-    "summary": "Han pasado tres meses del terremoto de magnitud 7,4 que sacudió a Colombia el pasado 10 de agosto y muchos de los damnificados siguen en la incertidumbre. Según cifras de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), la tragedia dejó 334 fallecidos, 4.516 heridos y 102 desaparecidos. Pereira fue una de las ciudades más afectadas. Para…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261111-90-d%C3%ADas-del-terremoto-en-colombia-seguimos-esperando-acompa%C3%B1amiento-del-gobierno-leonardo-reales",
-    "category": "Política",
-    "date": "2026-11-11T02:48:27+00:00",
-    "image": "https://s.france24.com/media/display/ecffb144-dd79-11f1-a977-3f371022a770/w:1024/p:16x9/ES-20261110-203627-204243-CS.jpg",
-    "title_en": "90 Days of the earthquake in Colombia: \"We Keep Waiting for Government accompaniment,\" Leonardo Reales",
-    "summary_en": "Three months have passed from the 7.4 magnitude earthquake that hit Colombia last August 10 and many of them have remained uncertain. According to figures from the National Unit for Disaster Risk Management (UNGRD), the tragedy resulted in 334 deaths, 4,516 injuries and 102 missing. Pereira was one of the most affected cities. To..."
-  },
-  {
-    "title": "Choque de versiones sobre las negociaciones entre Estados Unidos e Irán",
-    "summary": "Luego de que las Fuerzas Armadas de Irán publicaran imágenes de nuevos supuestos depósitos subterráneos de misiles balísticos, este 10 de noviembre el secretario del Consejo Supremo de Seguridad Nacional de la República Islámica, Mohsen Rezaei, declaró a un medio libanés que la Administración de Donald Trump miente sobre las supuestas conversaciones de paz…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261111-choque-de-versiones-sobre-las-negociaciones-entre-estados-unidos-e-ir%C3%A1n",
-    "category": "Política",
-    "date": "2026-11-11T02:47:49+00:00",
-    "image": "https://s.france24.com/media/display/a6e13468-dd78-11f1-9956-695cb59fade5/w:1024/p:16x9/ES-20261110-191616-191751-CS.jpg",
-    "title_en": "Linkages about US-Iran negotiations",
-    "summary_en": "After Iran's Armed Forces published images of new so-called underground ballistic missile deposits, on 10 November, the Secretary of the Supreme National Security Council of the Islamic Republic, Mohsen Rezaei, told a Lebanese medium that the Donald Trump Administration lies about the so-called peace talks..."
-  },
-  {
-    "title": "EEUU inculpa tres \"agentes iraníes\" por presunto complot en base aérea en Reino Unido",
-    "summary": "Mohamad Baqer Saad Daud al Saadi, Mohsen Mohajeri y Mohamad Ali al Hasani fueron acusados en relación con el incidente ocurrido el 27 de septiembre cerca de la base aérea de Fairford, en el suroeste de Inglaterra.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/eeuu-inculpa-tres-agentes-iraníes-por-presunto-complot-en-base-aérea-en-reino-unido/a-79913854?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-11T01:42:00+00:00",
-    "image": "",
-    "title_en": "U.S. Inculpates Three \"Iranian Agents\" for Alleged Air Base Plot in UK",
-    "summary_en": "Mohamad Baqer Saad Daud al-Saadi, Mohsen Mohajeri and Mohamad Ali al-Hasani were charged with the incident of 27 September near the Fairford Air Base in South-West England."
-  },
-  {
-    "title": "Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití",
-    "summary": "El presidente salvadoreño lo anunció en una publicación en la red social X en la que incluyó un vídeo que muestra un ataque aéreo a varias instalaciones.",
+    "title": "Bukele asegura que fuerzas de El Salvador destruyeron el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití",
+    "summary": "El presidente salvadoreño lo anunció en una publicación en la red social X en la que incluyó un video que muestra un ataque aéreo a varias instalaciones.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.com/mundo/articles/c98r7xd65z7ko?at_medium=RSS&at_campaign=rss",
     "category": "Política",
     "date": "2026-11-11T00:56:31+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2ae1/live/1259e210-dd62-11f1-a0a3-93bf44f3de01.png",
-    "title_en": "Bukele claims that El Salvador's forces have destroyed Mawzo's 400 band headquarters in an air strike in Haiti",
-    "summary_en": "The Salvadoran president announced that this was published on social network X and included a video showing an air strike at several locations."
-  },
-  {
-    "title": "Fracasa moción de censura contra jefe del Pentágono en EE.UU.",
-    "summary": "Tras conocer la decisión, el presidente Donald Trump elogió a Pete Hegseth, a quien calificó como un gran \"patriota\".",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/fracasa-moción-de-censura-contra-jefe-del-pentágono-en-ee-uu/a-79913767?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-11T00:23:00+00:00",
-    "image": "",
-    "title_en": "Fracasa motion of censorship against Pentagon's head in the U.S.",
-    "summary_en": "Following his decision, President Donald Trump commended Pete Hegseth, whom he described as a great \"patriot.\""
-  },
-  {
-    "title": "Eisenkot cancela reunión con Likud para negociar un Gobierno tras discurso de Netanyahu",
-    "summary": "\"Netanyahu no quiere unidad\", afirmó el líder opositor en respuesta al discurso del primer ministro israelí en funciones, de quien dijo \"no es apto para permanecer un minuto más en el cargo\" ..",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/eisenkot-cancela-reunión-con-likud-para-negociar-un-gobierno-tras-discurso-de-netanyahu/a-79913750?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-10T23:49:00+00:00",
-    "image": "",
-    "title_en": "Eisenkot cancels meeting with Likud to negotiate a government after Netanyahu's speech",
-    "summary_en": "\"Netanyahu wants no unity,\" the opposition leader stated in response to his speech by the incumbent Israeli Prime Minister, from whom he said \"He isn't suitable to stay another minute in office.\""
+    "title_en": "Bukele claims that El Salvador's forces destroyed the 400 Mawzo band's headquarters in an air strike in Haiti",
+    "summary_en": "The Salvadoran president announced that this was published on Social Network X and included a video showing an air strike at several locations."
   },
   {
     "title": "Vivo eleva su beneficio hasta los 1.200 millones de euros hasta septiembre",
@@ -898,39 +1063,6 @@ window.PLANETA_NEWS = [
     "category": "Economía",
     "date": "2026-11-10T23:06:12+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/FU3KHTRTT5ATBAHNFJLHUF4NJY.png?auth=847cf2461ebfcbfa0d545742d31acc219a47b90cc8afbdd62a0e5a10c0af7309",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Aliado de Trump es el nuevo líder de los republicanos en la Cámara de Representantes",
-    "summary": "Jim Jordan, miembro fundador del ultraderechista House Freedom Caucus, tendrá un papel fundamental en la nueva etapa que se abrirá el 3 de enero cuando asuma el nuevo Congreso de mayoría demócrata",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/aliado-de-trump-es-el-nuevo-líder-de-los-republicanos-en-la-cámara-de-representantes/a-79913634?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-10T22:50:00+00:00",
-    "image": "",
-    "title_en": "Tajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Análisis: Hegseth se enfrenta al \"impeachment\" por la guerra en Irán, pero es Trump quien definirá su destino",
-    "summary": "Pete Hegseth podría enfrentarse a un juicio político pero es Trump quien podría determinar su destino, plantea este análisis de Gary O'Donoghue.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/ck8dzdvn6d0mo?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
-    "date": "2026-11-10T22:40:31+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ab2/live/65887550-dd2b-11f1-a701-fddedf244c16.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "700 barras de pan, un centro de datos y 4.000 personas en un grupo de mensajería",
-    "summary": "La huelga general empieza en el mercado de abastos de Mercabarna tras semanas de preparación y unas últimas horas de llamadas, bocadillos y la constitución de los primeros piquetes",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-10/700-barras-de-pan-un-centro-de-datos-y-4000-personas-en-un-grupo-de-mensajeria.html",
-    "category": "Economía",
-    "date": "2026-11-10T22:29:49+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/KWFDAEEKMFFNPKGJG6CO3Y7QEI.jpg?auth=b7f729621d032cae021ae710d61491c05e0595d3951b4351d9dd3f651cdb0e5f",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
@@ -990,17 +1122,6 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la única persona que ha decepcionado a la izquierda más que Rufián”",
-    "summary": "El presentador comienza la emisión de este martes con una explicación a la polémica entrevista con Santiago Abascal y reconoce a EL PAÍS que nunca ha recibido presiones por parte de RTVE",
-    "source": "El País",
-    "url": "https://elpais.com/television/2026-11-10/broncano-rectifica-y-vuelve-al-humor-en-la-revuelta-soy-la-persona-que-mas-ha-decepcionado-a-la-izquierda-despues-de-gabriel-rufian.html",
-    "category": "Internacional",
-    "date": "2026-11-10T21:26:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/BYAVFY35CZBAJOR7USDXKLGUEM.jpg?auth=52046f45216ae49ecad0874c0154b05767492e73b886d7ca6e9f7b9840bcd20d",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
     "title": "Detienen en Reino Unido a un militar de alto rango de EE.UU. bajo sospecha de espiar para Rusia",
     "summary": "El militar de 41 años está acusado de colaborar con los rusos. Fue detenido en una base que sirve a EE.UU. y la OTAN en Inglaterra.",
     "source": "BBC Mundo",
@@ -1010,17 +1131,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4624/live/ae961ae0-dd49-11f1-a2ff-1f577adb9bef.jpg",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Conversaciones entre Rusia y Ucrania en Abu Dabi: ¿se producirá un avance decisivo?",
-    "summary": "La delegación rusa que participa en las conversaciones con Ucrania cuenta con una representación de alto nivel. También viajan a Abu Dabi representantes de países europeos. ¿Qué significa?",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/conversaciones-entre-rusia-y-ucrania-en-abu-dabi-¿se-producirá-un-avance-decisivo/a-79910461?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-10T21:02:00+00:00",
-    "image": "",
-    "title_en": "Russia-Ukraine talks at Abu Dabi: will there be a decisive step forward?",
-    "summary_en": "The Russian delegation participating in the talks with Ukraine had high-level representation. Representatives from European countries also travel to Abu Dabi. What does that mean?"
   },
   {
     "title": "¿Remará Australia en contra de los combustibles fósiles en la COP31?",
@@ -1098,115 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/WRJEJH26PJGWFBRWVHVSFVDLEI.jpg?auth=be7a99635900a367805777b62a13774cf7d250c885a74e7fef4cbf20f6cc7136",
     "title_en": "The percentage of women entrepreneurs doubles in 10 years but remains low",
     "summary_en": "The Global Performance Monitor identifies financing, lack of contact and unequal job sharing at home as the main challenges"
-  },
-  {
-    "title": "Broncano y Abascal: catástrofe y muerte del periodismo político",
-    "summary": "La pluralidad informativa no consiste en dar voz acríticamente a todos los actores políticos, sino en forzarlos a exponer sus ideas",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-11/broncano-y-abascal-catastrofe-y-muerte-del-periodismo-politico.html",
-    "category": "Política",
-    "date": "2026-11-10T17:31:42+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/KK3HBDS4KRGX3IOXA6KJHEF2IQ.jpg?auth=4d7f28944f31d5989db332a023e7a9061e8d065f2b2036c14a3ce00e96d4563e",
-    "title_en": "Broncano and Abascal: Disaster and Death of Political Journalism",
-    "summary_en": "The information plurality does not consist of giving an acronytically sound voice to all political actors but of forcing them to put their ideas forward."
-  },
-  {
-    "title": "Alemania prevé perder 800.000 empleos por la inteligencia artificial",
-    "summary": "La presidenta de la Oficina Federal de Empleo advierte de una profunda transformación del mercado laboral, pero prevé también la creación de puestos equivalentes.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/alemania-prevé-perder-800-000-empleos-por-la-inteligencia-artificial/a-79912582?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Tecnología",
-    "date": "2026-11-10T17:24:00+00:00",
-    "image": "",
-    "title_en": "Germany expects to lose 800,000 jobs to artificial intelligence",
-    "summary_en": "The President of the Federal Employment Office warns about a profound transformation of the labour market but also envisages the creation of equivalent jobs."
-  },
-  {
-    "title": "Establecen récord Guinness de vuelo humano impulsado por una catapulta",
-    "summary": "Dos atletas fueron impulsados a velocidades de hasta 180 km/h desde la chimenea más alta de Europa.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/establecen-récord-guinness-de-vuelo-humano-impulsado-por-una-catapulta/a-79911550?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-10T16:41:00+00:00",
-    "image": "",
-    "title_en": "They set a record Guinness of human flight powered by a catapult",
-    "summary_en": "Two athletes were driven at speeds up to 180 km / h from the highest fireplace in Europe."
-  },
-  {
-    "title": "Por qué la electrificación es el factor decisivo que necesitamos frente al cambio climático",
-    "summary": "Vehículos y autobuses eléctricos que circulan por nuestras carreteras, bombas de calor en los hogares o paneles solares: la transición hacia la electrificación está en marcha. ¿Qué cambia con esta tecnología?",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/por-qué-la-electrificación-es-el-factor-decisivo-que-necesitamos-frente-al-cambio-climático/a-79911079?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Medio Ambiente",
-    "date": "2026-11-10T16:23:00+00:00",
-    "image": "",
-    "title_en": "Why electrification is the crucial factor we need to face climate change",
-    "summary_en": "Electrical vehicles and buses that run our roads, hot bombs at our homes or solar panels: the transition to electrification is currently under way. What's with this technology?"
-  },
-  {
-    "title": "El Gobierno obliga a las plataformas a dar mayor visibilidad al cine español y europeo en sus catálogos",
-    "summary": "El decreto establece que deberán reservar al menos el 30% de su parrilla a obras europeas y garantizar su prominencia en las páginas principales, los buscadores y las recomendaciones",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-10/el-gobierno-obliga-a-las-plataformas-a-dar-mayor-visibilidad-al-cine-espanol-y-europeo-en-sus-catalogos.html",
-    "category": "Política",
-    "date": "2026-11-10T16:17:59+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LSX4HUA7FV22RKLI2EOHBADXEA.jpg?auth=9d7f2bfbfc61caca457fb03518035e9bee06f5adb7833b7be62f2232337c376e",
-    "title_en": "The Government forces the platforms to give more visibility to Spanish and European cinema in its catalogues",
-    "summary_en": "The Decree lays down that at least 30% of its grill will have to be reserved for European works and that its prominence will be guaranteed on the main pages, search engines and recommendations"
-  },
-  {
-    "title": "Mi hermano murió tras rechazar una transfusión por sus creencias; semanas después los Testigos de Jehová eliminaron esa prohibición",
-    "summary": "Muchos testigos de Jehová han muerto en las últimas décadas por seguir un precepto ahora revisado.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cm9dzdq3p48zo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-10T16:02:51+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3537/live/8e12a100-dc61-11f1-8fe6-5becaee5408f.jpg",
-    "title_en": "My brother died after rejecting a transfusion for his beliefs. The Jehovah's Witnesses have put an end to this ban.",
-    "summary_en": "Many Jehovah's Witnesses have been killed in recent decades for following an currently revised precept."
-  },
-  {
-    "title": "La falta de coordinación entre países desarma a la UE ante ciberataques",
-    "summary": "Un informe de la agencia comunitaria de ciberseguridad destaca que la mala comunicación y la dependencia de proveedores tecnológicos externos reducen el margen para contener los ‘hackeos’",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-10/la-falta-de-coordinacion-entre-paises-desarma-a-la-ue-ante-ciberataques.html",
-    "category": "Tecnología",
-    "date": "2026-11-10T15:36:40+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7TYENZDBZFEJDPEOR47RDRRWZ4.JPG?auth=e5c3f8a1c227abaa93b5ec4b86774eafd86e234d75cc8b1108b0426ed502a24a",
-    "title_en": "Lack of intercountry co-ordination challenges the EU to cyber attacks",
-    "summary_en": "A report from the Community cyber security agency points out that bad communication and dependence on outside technological providers reduce the space to contain \"hackes'"
-  },
-  {
-    "title": "Vincent Kompany regresa al campo de entrenamiento del Bayern Múnich",
-    "summary": "Kompany acudió a las instalaciones del Bayern para hacerse revisar por el cuerpo médico del club. Versiones dicen que portaba un cabestrillo.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/vincent-kompany-regresa-al-campo-de-entrenamiento-del-bayern-múnich/a-79910293?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Deportes",
-    "date": "2026-11-10T14:28:00+00:00",
-    "image": "",
-    "title_en": "Vincent Kommanra returns to Bayern Munich's training camp",
-    "summary_en": "Kommana went to Bayern's place to have his body checked by his club's medical body. Versions say she was with a steelhead."
-  },
-  {
-    "title": "Por qué México recauda tan pocos impuestos (y cómo financia su creciente Estado de bienestar)",
-    "summary": "México es de los países que menos recauda impuestos en América Latina, pero el gasto público es un motor de su consumo interno y arma clave contra la pobreza. Análisis de las “anomalías fiscales” mexicanas.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cm4g109r03npo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-10T13:52:26+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/936f/live/88d0d610-dd17-11f1-b4f2-5145cca625ab.jpg",
-    "title_en": "Why Mexico collects so few taxes (and how it finances its growing welfare state)",
-    "summary_en": "Mexico was among the countries with least tax collection in Latin America, but public spending was an engine of its domestic consumption and a key weapon against poverty. Analysis of Mexican \"fiscal anomalies.\""
-  },
-  {
-    "title": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
-    "summary": "La pérdida de poder de compra supera en lo que va de año todo lo que se recuperó entre 2023 y 2025",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
-    "category": "Economía",
-    "date": "2026-11-10T13:04:30+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QTBTVY5SVNKQLKV36PNFOYTXIM.jpg?auth=4a845078f7b44f618ba43e67c91cadf7afa10e06ebe8d9efb70c4d4a6777e214",
-    "title_en": "Convention wages are growing by 3.1%, nearly two points lower than inflation",
-    "summary_en": "The loss of purchasing power goes far beyond what was recovered from 2023 to 2025"
   }
 ];
