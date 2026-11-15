@@ -5,10 +5,263 @@ window.PLANETA_NEWS = [
     "source": "BBC Mundo",
     "url": "https://www.bbc.co.uk/mundo/live/c62e8kkl9rlrt?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
-    "date": "2026-11-15T17:44:18.297324+00:00",
+    "date": "2026-11-15T22:51:23.646877+00:00",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa48/live/e5e3b300-df87-11f1-a8e2-5b59832bb2f1.jpg",
     "title_en": "\"What a joy to come back to Chiclayo!\": this was the mass mass of Leo XIV in Peru's town that launched his career to his papacy",
     "summary_en": "Following his tour of Argentina and Uruguay, his father visited Peru and returned to Chiclayo, his place as bishop from 2015 to 2023. At 900,000 people held an emotional mass at Pimentel's pampas esplanade."
+  },
+  {
+    "title": "\"Después de que me despojaran de la ciudadanía nicaragüense, España fue mi lugar de asilo y decidí bien\": el escritor Sergio Ramírez ingresa a la Real Academia Española",
+    "summary": "Ramírez es autor de decenas de publicaciones entre novelas, cuentos, crónicas y ensayos y fue ganador del Premio Cervantes 2017.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cmx20d0y7j8jo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-15T22:45:01+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/65a5/live/ca52ef40-e142-11f1-b838-e76e4fa8abe5.jpg",
+    "title_en": "\"After I was stripped of Nicaraguan citizenship, Spain was my asylum place and I decided well\": writer Sergio Ramírez enters the Spanish Royal Academy",
+    "summary_en": "Ramirez was an author of dozens of publications among novels, stories, chronicles and essays and was a winner of the 2017 Cervantes Award."
+  },
+  {
+    "title": "Inglaterra devora la leyenda de España",
+    "summary": "En un despliegue de intensidad, el equipo de Tuchel arrolla a la Roja y acaba con la racha de 44 partidos invicta de la campeona del mundo, que rozó una remontada increíble cuando la despertó Lamine con 0-3",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/futbol/2026-11-15/inglaterra-devora-la-leyenda-de-espana.html",
+    "category": "Internacional",
+    "date": "2026-11-15T22:19:40+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZA77ALIAFRHVXFSMKU22WJL3ZY.jpg?auth=ff438cd8268288a3829c711dc99678937de55a18a76c7dc64f8339ec8084ba2f",
+    "title_en": "England devors Spanish legend",
+    "summary_en": "At an intense display, Tuchel's team engulfed the Red and put an end to the 44-party round of the world champion's invicta, who shattered an amazing backstage as Lamine awoke with 0-3"
+  },
+  {
+    "title": "Mano dura y un terremoto: los primeros 100 días de De la Espriella en Colombia",
+    "summary": "Tres días después de asumir la Presidencia, el 7 de agosto de 2026, Abelardo de la Espriella enfrentó la prueba más dura de su Gobierno: un terremoto de magnitud 7,4 dejó más de 300 muertos, miles de heridos y daños millonarios. Para un 'outsider' que nunca había ocupado un cargo público, liderar la respuesta fue un bautizo de fuego. Creó el Fondo Milagro…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261115-mano-dura-y-un-terremoto-los-primeros-100-d%C3%ADas-de-de-la-espriella-en-colombia",
+    "category": "Política",
+    "date": "2026-11-15T22:03:27+00:00",
+    "image": "https://s.france24.com/media/display/37d7c7d2-e140-11f1-b1f1-29048b396e03/w:1024/p:16x9/8023878179001.jpg",
+    "title_en": "Harsh Hand and an earthquake: The first 100 days of La Espriella in Colombia",
+    "summary_en": "Three days after his assumption of his office on 7 August 2026, Abelardo de la Espriella faced his Government's toughest test: an earthquake with magnitude 7.4 killed more than 300 people, wounded thousands and damaged millions. To an outsider who had never been public office, leading his response was a baptism of fire. He created the Miracle Fund..."
+  },
+  {
+    "title": "Escritor nicaragüense Sergio Ramírez entra a la RAE y ocupa la silla de Vargas Llosa",
+    "summary": "El autor, exiliado en España desde 2021, dedicó parte de su discurso a su antecesor, y lamentó que Nicaragua sea un país “sojuzgado por una tiranía estrambótica y cruel como pocas en la historia de América Latina”.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/escritor-nicaragüense-sergio-ramírez-entra-a-la-rae-y-ocupa-la-silla-de-vargas-llosa/a-79953698?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-15T21:53:00+00:00",
+    "image": "",
+    "title_en": "Nicaraguan writer Sergio Ramirez enters the RAE and occupies Varga Llosa's chair",
+    "summary_en": "The complainant, who had been in exile in Spain since 2021, dedicated his speech to his predecessor and expressed his regret that Nicaragua was a \"bereaved by an outmoded and cruel tyranny as few in Latin American history.\""
+  },
+  {
+    "title": "Jensen Huang planea su regreso a Nvidia con el apoyo de Silicon Valley",
+    "summary": "El fundador del mayor fabricante de chips del mundo presiona a la junta directiva para que lo reincopore tras el escándalo por el caso de espionaje, según Financial Times",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-15/jensen-huang-planea-su-regreso-a-nvidia-con-el-apoyo-de-silicon-valley.html",
+    "category": "Internacional",
+    "date": "2026-11-15T21:21:49+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/5X3HWAYOUFLKBAGGJ4DT6IHJ6Q.jpg?auth=c2828ae7ae57613290e475a3fe8e86bcb303a516850522b94067651d14cfb4eb",
+    "title_en": "Jensen Huang plans his return to Nvidia with the support of Silicon Valley",
+    "summary_en": "The founder of the world's largest chip maker preses the board to re-introduce him after the espionage scandal, according to Financial Times"
+  },
+  {
+    "title": "León XIV llega a la Amazonía peruana tras desafiar la altura de Cusco",
+    "summary": "El papa León XIV, a quien le extirparon parte de un pulmón hace un mes, aterrizó en Pucallpa después de pasar por Cusco, la antigua capital inca, a más de 3.400 metros sobre el nivel del mar. En la ciudad selvática se reunió con líderes indígenas para escuchar sus preocupaciones sobre la deforestación, la tala ilegal y el narcotráfico que amenazan a sus…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-le%C3%B3n-xiv-llega-a-la-amazon%C3%ADa-peruana-tras-desafiar-la-altura-de-cusco",
+    "category": "Internacional",
+    "date": "2026-11-15T21:18:59+00:00",
+    "image": "https://s.france24.com/media/display/b1483712-e138-11f1-b497-5f54d898a954/w:1024/p:16x9/2026-11-15T203825Z-2059305633-RC2KOOAVD6E6-RTRMADP-3-POPE-LATAM-PERU.jpg",
+    "title_en": "Lion XIV arrives at the Peruvian Amazon after challenges to Cusco's height",
+    "summary_en": "Pope Leo XIV, who was removed from his lung about a month ago, landed at Pucallpa after passing through Cusco, the old Inca capital, more than 3,400 metres above sea level. In the jungle town she met with indigenous leaders to listen to their concerns about deforestation, illegal logging and drug trafficking that threaten their families and their families."
+  },
+  {
+    "title": "León XIV en Perú: la Fuerza Aérea comparte video del papa viajando en helicóptero",
+    "summary": "🇵🇪✝️ En el marco de la visita del papa León XIV a Perú, la Fuerza Aérea Peruana compartió imágenes del pontífice en la cabina de un helicóptero, mientras era transportado hacia Santa Cruz el 14 de noviembre ➡️ https://f24.my/CHjx",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261115-le%C3%B3n-xiv-en-per%C3%BA-la-fuerza-ae%CC%81rea-comparte-video-del-papa-viajando-en-helico%CC%81ptero",
+    "category": "Internacional",
+    "date": "2026-11-15T21:11:24+00:00",
+    "image": "https://s.france24.com/media/display/c8fac436-e135-11f1-a210-3f371022a770/w:1024/p:16x9/La-Fuerza-Ae%CC%81rea-comparte-ima%CC%81genes-del-papa-en-helico%CC%81ptero.png",
+    "title_en": "Lion XIV in Peru: The Ae ́ rea Force shares video of the pope travelling in helics",
+    "summary_en": "Following his visit to Peru by Pope Leo XIV, the Peruvian Air Force shared images of the pontif at a helicopter's cabin while being moved to Santa Cruz on November 14, 1942 https: / / f24.my / CHjx"
+  },
+  {
+    "title": "Estonia cerrará en diciembre su frontera con Rusia tras acusar al Kremlin de un intento de sabotaje",
+    "summary": "La Fiscalía del país báltico anuncia la detención de ocho personas en relación con una supuesta acción contra una fábrica de material militar",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
+    "category": "Internacional",
+    "date": "2026-11-15T20:33:37+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/NDWJR4P6SBGHTBXYJZJZRA2NDE.jpg?auth=42f10fbacd169263a1b482d5ce463e13679a958003335dc00c757be0fb936e62",
+    "title_en": "Estonia will close its border with Russia in December after accusing Kremlin of an attempt at sabotage",
+    "summary_en": "The Baltic Country Prosecutor's Office announces that eight persons have been arrested with respect to an alleged suit against a military equipment factory"
+  },
+  {
+    "title": "Rebeldes hutíes se encuentran a solo 60 kilómetros de la capital provisional de Yemen",
+    "summary": "Los insurgentes avanzan hacia la capital provisional del país, donde desde 2014 el gobierno reconocido internacionalmente tiene instaladas sus instituciones.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/rebeldes-hutíes-se-encuentran-a-solo-60-kilómetros-de-la-capital-provisional-de-yemen/a-79953488?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-15T20:31:00+00:00",
+    "image": "",
+    "title_en": "Rebeldes Huties are only 60 km from the capital of Yemen",
+    "summary_en": "The insurgents have advanced to the country's interim capital, where since 2014 the internationally recognized government has established its institutions."
+  },
+  {
+    "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
+    "summary": "El presidente del Gobierno habla de su papel como suegro y de cómo conoció a su esposa, Begoña Gómez",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html",
+    "category": "Política",
+    "date": "2026-11-15T19:56:07+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/55NSY5TQGFE5BO5IW5OUBLVM2Y.jpg?auth=f18f55479353141deb858df1586b3d4f759fa1b122a698551f1f1449e88acdae",
+    "title_en": "Sánchez and Chelo García Cortés for La Joctima's or \"La Peter's\" challenges at \"Out of Control\"",
+    "summary_en": "The president of the government talks about his role as father-in-law and how he met his wife, Begoña Gómez"
+  },
+  {
+    "title": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con más de 1.500 personas",
+    "summary": "El ministro Ángel Víctor Torres admite que el repunte es “muy importante” y que este año han llegado unas 17.000 personas a El Hierro, donde quedan ahora unas 1.600",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
+    "category": "Política",
+    "date": "2026-11-15T19:47:39+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/K26KCW54FRMP5IX2DW5H7EM74M.jpg?auth=73a35e027fc136bf8cdac04ec20c8998e4a6a5dbb7804aa6909a7794975ad753",
+    "title_en": "The migration route to Canarias pits its its arrival record in a single day with more than 1,500 people",
+    "summary_en": "Minister Ángel Víctor Torres admits that the rebound is \"very important\" and that this year about 17,000 people have come to El Hierro, with currently about 1,600 more"
+  },
+  {
+    "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+    "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios, y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
+    "category": "Economía",
+    "date": "2026-11-15T19:30:47+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/IF7MOBEEMFFMPANS2YNOO4ZWLE.jpg?auth=58fe4b5c24f3d5f1237fc587dda97f02c646a6f62a491ea4345e145fedadefa0",
+    "title_en": "The FSOE propose to assign 1% of GDP to social housing and to create a public care benefits",
+    "summary_en": "The Socialist electoral program incorporates a new \"anti-speculation\" tax from vulture and big owners and advocates the impetus of renewables to achieve 81% power generation by 2030"
+  },
+  {
+    "title": "España registra cifras récord en las Islas Canarias con llegada masiva de migrantes",
+    "summary": "Las Islas Canarias han vivido uno de los fines de semana de mayor intensidad migratoria de su historia reciente. Solo durante el sábado, los servicios de Salvamento Marítimo rescataron inicialmente a 1.488 personas que viajaban en 14 embarcaciones, según el balance provisional recopilado por la agencia de noticias EFE. La cifra ascendió posteriormente, este…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261115-espa%C3%B1a-registra-cifras-r%C3%A9cord-en-las-islas-canarias-con-llegada-masiva-de-migrantes",
+    "category": "Internacional",
+    "date": "2026-11-15T19:28:27+00:00",
+    "image": "https://s.france24.com/media/display/4da913fa-e121-11f1-aec7-5f54d898a954/w:1024/p:16x9/ES-20261115-130147-130342-CS.jpg",
+    "title_en": "Spain records record figures in the Canary Islands with massive influx of migrants",
+    "summary_en": "The Canary Islands have been living one of the most highly migratory weekends of its recent history. On Saturday only, the Maritime Salvamento services first rescued 1,488 people travelling on 14 ships, according to an interim balance collection by the EFE news agency. The figure later increased, this..."
+  },
+  {
+    "title": "Zelensky pide a EE.UU. y Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
+    "summary": "El presidente ucraniano afirma que las restricciones siguen vigentes y dificultan las operaciones defensivas de su ejército.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-15T19:16:49+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+    "title_en": "Zelensky calls on the U.S. and Elon Musk to re-establish Ukraine's full access to Starlink to stop Russian attacks",
+    "summary_en": "The Ukrainian President claims that the restrictions are still in place and make his army's defensive operations more difficult."
+  },
+  {
+    "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
+    "summary": "Abelardo de la Espriella cumple este domingo 15 de noviembre 100 días al mando de Colombia en medio de un clima de violencia por otra ola de atentados, una lenta reconstrucción tras el terremoto de agosto y señalamientos sobre la gestión de ayudas millonarias para las víctimas del desastre. En tanto, la oposición que prometió liderar Gustavo Petro pierde…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella",
+    "category": "Medio Ambiente",
+    "date": "2026-11-15T19:11:02+00:00",
+    "image": "https://s.france24.com/media/display/e8ee6276-e120-11f1-a7f8-29048b396e03/w:1024/p:16x9/WEB-PORTADA-COLOMBIA-100-DIAS.png",
+    "title_en": "A quake, untold about aids and a terrorist wave: the 100-day government of La Espiella",
+    "summary_en": "Abelardo de la Espriella's performance on Sunday November 15th was 100 days with Colombia's command amidst an atmosphere of violence from another wave of attacks, a slow reconstruction after the August earthquake and statements about how to manage million dollars for the victims of the disaster. Meanwhile, opposition that promised to lead Gustavo Petro lose..."
+  },
+  {
+    "title": "Sergio Ramírez ingresa en la RAE: “Perdí un país, pero nunca he sido extranjero en España”",
+    "summary": "El nuevo académico, exiliado de Nicaragua en 2021, glosa en su discurso la figura de Vargas Llosa, cuya silla L hereda",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/2026-11-15/sergio-ramirez-ingresa-en-la-rae-perdi-un-pais-pero-nunca-he-sido-extranjero-en-espana.html",
+    "category": "Internacional",
+    "date": "2026-11-15T19:11:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/ZFZSHVNXXNFUNBFYQRMOKU4OYA.jpg?auth=4adf0b8abde03a4c48cacdf9b650da7f4a90b05a07b60415d77f1d6830f97527",
+    "title_en": "Sergio Ramirez enters the RAE: \"I lost a country but have never been an alien to Spain\"",
+    "summary_en": "The new academic, exiled from Nicaragua in 2021, glosa in his speech figure Varga Llosa, whose L-chair inherits"
+  },
+  {
+    "title": "El Sindicato de Inquilinas exhibe músculo en Vistalegre tras la huelga general por la vivienda",
+    "summary": "La asociación que apoyó a Maricarmen en su desahucio y que lideró las protestas que condujeron al 11-N celebra un acto con miles de asistentes, con la participación de Amaral, Rozalén, Alberto San Juan o Facu Díaz",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-15/el-sindicato-de-inquilinas-exhibe-musculo-en-vistalegre-tras-la-huelga-general-por-la-vivienda.html",
+    "category": "Internacional",
+    "date": "2026-11-15T18:54:53+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/HUGXJQBZKZFNVESEEV2S6RUXO4.jpeg?auth=18d3c35179ec303143a0d021f39bffaeda9da8796dcb955a538e0b58c1afd300",
+    "title_en": "The Inquilines Union exhibits muscle at Vistalezo after the general strike for housing",
+    "summary_en": "The association that supported Maricarman in his eviction and that led the protests leading to 11-N celebrates an event with thousands of attendees with the participation of Amaral, Rozalén, Alberto San Juan or Facu Díaz"
+  },
+  {
+    "title": "Feijóo hará campaña en Gipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+    "summary": "El líder del PP reitera su propuesta de no pagar el IRPF durante el primer año del primer empleo",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
+    "category": "Economía",
+    "date": "2026-11-15T18:48:56+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PIEAM3URUZFJVP7IGB5WOVRTC4.jpg?auth=e3fdbc53e19fa6ba8e8ec0ee5f09c1ea17415bc91a74c214b161ebe5e0918989",
+    "title_en": "Feijóo will campaign at Gipuzkoa after his assault on youth from New Generations in Hernani",
+    "summary_en": "The PM's leader reiterates his proposal to avoid payment of the IRPF during the first year of first employment"
+  },
+  {
+    "title": "Estonia cerrará los pasos fronterizos con Rusia tras un intento de “sabotaje” en una fábrica de drones",
+    "summary": "Estonia cerrará todos sus pasos fronterizos con Rusia a partir del próximo 1 de diciembre, indicó este domingo 15 de noviembre su ministro de Asuntos Exteriores. El anuncio llega tras un presunto acto de sabotaje contra una empresa de defensa estonia, del cual Tallin responsabiliza a Moscú.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261115-estonia-cerrar%C3%A1-los-pasos-fronterizos-con-rusia-tras-un-intento-de-sabotaje-en-una-f%C3%A1brica-de-drones",
+    "category": "Política",
+    "date": "2026-11-15T18:47:22+00:00",
+    "image": "https://s.france24.com/media/display/13c60f24-e114-11f1-9b5e-29048b396e03/w:1024/p:16x9/AP25285374646326.jpg",
+    "title_en": "Estonia will close border crossings with Russia after an attempt to \"sabotage\" at a drones factory",
+    "summary_en": "Estonia will close all its border crossings with Russia as from 1 December next, his Minister for Foreign Affairs stated this Sunday, November 15. The announcement comes after an alleged act of sabotage against an Estonian defence company, of which Tallin holds Moscow accountable."
+  },
+  {
+    "title": "Marina francesa intercepta sumergible con toneladas de cocaína en el Atlántico",
+    "summary": "La operación se realizó en el océano Atlántico y dejó cuatro personas detenidas. Buena parte de la droga se hundió con la embarcación.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/marina-francesa-intercepta-sumergible-con-toneladas-de-cocaína-en-el-atlántico/a-79953291?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-15T18:10:00+00:00",
+    "image": "",
+    "title_en": "French Navy's Submersible Intercept with Tons of Cocaine in the Atlantic",
+    "summary_en": "The operation was conducted in the Atlantic Ocean and put four people in custody. A good part of the drug sink with the boat."
+  },
+  {
+    "title": "Trump rompe 37 horas de inusual silencio para culpar del parón aeronáutico al Gobierno de Biden",
+    "summary": "El presidente de Estados Unidos tardó un día y medio en pronunciarse sobre la mayor crisis de la aviación del país desde los atentados terroristas de 2001",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-15/trump-rompe-37-horas-de-inusual-silencio-para-culpar-del-paron-aeronautico-al-gobierno-de-biden.html",
+    "category": "Política",
+    "date": "2026-11-15T18:01:46+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/7OEAP7PYB5LIZEALKOI4H7HNWQ.jpg?auth=f9c518ae7f7e5740b9c095069e161785cc852ead0d9a345e3fa8740644c3f649",
+    "title_en": "Trump breaks 37 hours of unusual silence to blame the Biden Government for its aeronautical stop",
+    "summary_en": "The President of the United States had been about a day and a half after his decision about his largest aviation crisis since the terrorist attacks of 2001."
+  },
+  {
+    "title": "Informe desde Lima: León XIV resalta la importancia de las tradiciones religiosas populares",
+    "summary": "El papa León XIV entregó la Rosa de Oro a la Virgen Reina de Belén en su visita al Parque Arqueológico de Sacsayhuamán, donde resaltó la importancia de las tradiciones religiosas populares como símbolo de unidad. Informa nuestro corresponsal Francisco Zacarías.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261115-informe-desde-lima-le%C3%B3n-xiv-resalta-la-importancia-de-las-tradiciones-religiosas-populares",
+    "category": "Internacional",
+    "date": "2026-11-15T17:54:51+00:00",
+    "image": "https://s.france24.com/media/display/94edd3c2-e11c-11f1-9fa9-3f371022a770/w:1024/p:16x9/ES-20261115-113152-113352-CS.jpg",
+    "title_en": "Report from Lima: Lion XIV Highlights The Importance of Popular Religious Traditions",
+    "summary_en": "Pope Leo XIV gave his Golden Pink to the Virgin Queen of Bethlehem at his visit to the Archaeological Park of Sacbayhuaman, where he emphasized the importance of popular religious traditions as a symbol of unity. Inform our correspondent Francisco Zacharias."
+  },
+  {
+    "title": "Véronique Lecaros: \"La Iglesia católica se ha dado cuenta de la importancia de las tradiciones\"",
+    "summary": "En su visita a Cusco, el papa León XIV fue recibido por cientos de fieles en el Parque Arqueológico de Sacsayhuamán, ubicada en la parte alta del Cusco, sobre los 3.700 metros de altura sobre el nivel del mar, donde resaltó la importancia de las tradiciones de los pueblos. Para nuestra invitada, la doctora Véronique Lecaros, jefa del Departamento de…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261115-v%C3%A9ronique-lecaros-la-iglesia-cat%C3%B3lica-se-ha-dado-cuenta-de-la-importancia-de-las-tradiciones",
+    "category": "Internacional",
+    "date": "2026-11-15T17:49:55+00:00",
+    "image": "https://s.france24.com/media/display/d11f0e36-e119-11f1-9a65-695cb59fade5/w:1024/p:16x9/ES-20261115-111436-111828-CS.jpg",
+    "title_en": "Véronique Lecaros: \"The Catholic Church has come to realize the importance of traditions\"",
+    "summary_en": "At his visit to Cusco, Pope Leo XIV was received by hundreds of faithful at the Archaeological Park of Sacsayhuaman, located at the top of Cusco, about 3,700 metres high above sea level, where he emphasized the importance of the traditions of peoples. To our guest, Dr. Véronique Lecaros, head of the..."
   },
   {
     "title": "Cómo el \"terror rojo\" borró de la historia a Paul Robeson, la \"persona negra más famosa de EE.UU.\"",
@@ -77,26 +330,15 @@ window.PLANETA_NEWS = [
     "summary_en": "More than 1,500 migrants have reached the Canary Islands this weekend, in an intense succession of rescue operations that have put El Hierro at the epicentre of immigration pressure. On Saturday alone at least 1,488 people were rescued, a figure that later increased to 1,580 according to up-to-date balance sheets, at best..."
   },
   {
-    "title": "Los Lorenzana, Los Huistas y Los Mendoza: qué se sabe de las bandas criminales de Guatemala a las que EE.UU. designó como grupos terroristas extranjeros",
+    "title": "Qué se sabe sobre las 3 bandas criminales de Guatemala que EE.UU. designó como organizaciones terroristas extranjeras",
     "summary": "Washington acusa a estos grupos de ser aliados de los carteles mexicanos de la droga y de colaborar con ellos en el tráfico de narcóticos.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.com/mundo/articles/c3rrg98rd8dqo?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-11-15T16:40:04+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d07d/live/8af20510-e10c-11f1-b3df-4961589d9b68.jpg",
-    "title_en": "The Lorenzana, The Huistas and The Mendoza: What Do We Know about Guatemala's Criminal gangs That The U.S. Designates as Foreign Terrorist Groups",
+    "title_en": "What's known about Guatemala's 3 crime gangs that the U.S. designated as foreign terrorist organizations",
     "summary_en": "Washington accused these groups of being allies with Mexican drug cartels and of collaborating with them in drug trafficking."
-  },
-  {
-    "title": "Estonia se prepara para cerrar en diciembre su frontera con Rusia tras un presunto intento de sabotaje",
-    "summary": "La Fiscalía del país báltico anuncia la detención de ocho personas en relación con una supuesta acción contra una fábrica de material militar",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-15/estonia-se-prepara-para-cerrar-en-diciembre-su-frontera-con-rusia-tras-un-presunto-intento-de-sabotaje.html",
-    "category": "Internacional",
-    "date": "2026-11-15T16:02:05+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/NDWJR4P6SBGHTBXYJZJZRA2NDE.jpg?auth=42f10fbacd169263a1b482d5ce463e13679a958003335dc00c757be0fb936e62",
-    "title_en": "Estonia prepares to close its border with Russia after an alleged attempt at sabotage in December",
-    "summary_en": "The Baltic Country Prosecutor's Office announces that eight persons have been arrested with respect to an alleged suit against a military equipment factory"
   },
   {
     "title": "¿Podría la renta básica universal ser parte de la solución en una economía revolucionada por la IA?",
@@ -108,17 +350,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Can universal basic income be a part of the solution in an IA-revolutionized economy?",
     "summary_en": "The economic earthquake caused by artificial intelligence has led Conservative politicians to talk about a universal basic income. But economists aren't convinced and activists put up questions."
-  },
-  {
-    "title": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con más de 1.500 personas",
-    "summary": "El ministro Ángel Víctor Torres admite que el repunte es “muy importante” y que este año han llegado unas 17.000 personas a El Hierro, donde quedan ahora unas 1.600",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html",
-    "category": "Política",
-    "date": "2026-11-15T15:56:26+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/K26KCW54FRMP5IX2DW5H7EM74M.jpg?auth=73a35e027fc136bf8cdac04ec20c8998e4a6a5dbb7804aa6909a7794975ad753",
-    "title_en": "The migration route to Canarias pits its its arrival record in a single day with more than 1,500 people",
-    "summary_en": "Minister Ángel Víctor Torres admits that the rebound is \"very important\" and that this year about 17,000 people have come to El Hierro, with currently about 1,600 more"
   },
   {
     "title": "En vivo: el papa es recibido en Cusco para encuentro con miles de fieles en su penúltimo día de gira por Perú",
@@ -152,6 +383,17 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/GE2YLRWT5VNEZINZBFF64EBUHU.jpg?auth=8b1bba0b143e3295ad2f32ed91dc1be6a3b6325bb4e4f4a4a6076e7ab97425d9",
     "title_en": "Unload a train of goods in Madrid for the detachment of a talud",
     "summary_en": "The sinister occurred in the town of Zarzalejo, leaving minor injuries to the engineer and leading to the cut of the line Madrid-Ávila"
+  },
+  {
+    "title": "Ábalos pide la nulidad del último registro en su vivienda: “Solo tengo conocimiento a través de la televisión”",
+    "summary": "El abogado del exministro ve vulnerado el derecho a la defensa y a la inviolabilidad del domicilio",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-15/abalos-pide-la-nulidad-del-ultimo-registro-en-su-vivienda-solo-tengo-conocimiento-a-traves-de-la-television.html",
+    "category": "Internacional",
+    "date": "2026-11-15T15:10:37+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2F5CJQM4EFM3JKYB7FPQPMWA7M.jpg?auth=5d10a70070b285569b4a70496f7fbb999c54b69a19a34a721afaeb1729af6a12",
+    "title_en": "Ábalos called for the nullity of his last registration at his place: \"I have only knowledge through television\"",
+    "summary_en": "The former Minister's lawyer challenges his right to defence and inviolability of his place of residence"
   },
   {
     "title": "Macron busca reforzar influencia francófona entre tensiones por posible reelección de secretaria general de la OIF",
@@ -231,28 +473,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The unity of French-speaking countries appears to be at play at the Munich Summit in Cambodia. With the potential re-election of Rwandan Louise Mshikiwabo as his general secretary at the table, the Democratic Republic of the Congo accuses his neighbor of accusing his paramilitary group M23 and seeks to avoid re-election of..."
   },
   {
-    "title": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
-    "summary": "El líder del PP reitera además su propuesta de no pagar el IRPF durante el primer año del primer empleo",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html",
-    "category": "Economía",
-    "date": "2026-11-15T13:45:32+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PIEAM3URUZFJVP7IGB5WOVRTC4.jpg?auth=e3fdbc53e19fa6ba8e8ec0ee5f09c1ea17415bc91a74c214b161ebe5e0918989",
-    "title_en": "Feijóo will campaign at Guipuzkoa after the assault of youth from New Generations in Hernani",
-    "summary_en": "The PP leader also reiterates his proposal to avoid payment of IRPF during first year of first employment"
-  },
-  {
-    "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-    "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
-    "category": "Economía",
-    "date": "2026-11-15T13:44:55+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/IF7MOBEEMFFMPANS2YNOO4ZWLE.jpg?auth=58fe4b5c24f3d5f1237fc587dda97f02c646a6f62a491ea4345e145fedadefa0",
-    "title_en": "The FSOE propose to assign 1% of GDP to social housing and to create a public care benefits",
-    "summary_en": "The Socialist electoral program incorporates a new \"anti-speculation\" tax from vulture and big owners and advocates the impetus of renewable to achieve 81% power generation by 2030"
-  },
-  {
     "title": "León XIV cumplió promesa con Santa Cruz de Succhabamba y regresó para fiesta del Señor del Costado",
     "summary": "El papa León XIV cumplió su promesa con los sacerdotes de Santa Cruz de Succhabamba. El sumo pontífice regresó a la localidad para la fiesta del Señor del Costado, patrón del pueblo, una conmemoración a la que asistía durante su tiempo como obispo. El jefe de la iglesia católica también visitó Zaña, una comunidad donde llegaban los esclavos de la época…",
     "source": "France 24",
@@ -286,15 +506,15 @@ window.PLANETA_NEWS = [
     "summary_en": "Rochira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka."
   },
   {
-    "title": "En directo: el papa culmina su visita a Cusco y se dirige a Pucallpa, en la Amazonía de Perú",
-    "summary": "En una intensa jornada, León XIV llegó a Cusco y luego se dirigirá a Pucallpa, en la selva del Amazonas de la zona este de Perú, antes de volver a Lima en la noche de este domingo 15 de noviembre. Se trata del penúltimo día de su primera gira por el país y la región, como líder del Vaticano, que lo llevó también a Uruguay y Argentina.",
+    "title": "En directo: León XIV llega a Pucallpa para una inédita misa papal en la Amazonía",
+    "summary": "En una intensa jornada, León XIV se despidió de Cusco tras encabezar actos religiosos ante miles de feligreses. Llega ahora a Pucallpa, en la selva del Amazonas de la zona este de Perú, antes de volver a Lima en la noche de este domingo 15 de noviembre. Se trata del penúltimo día de su primera gira por el país y la región, como líder del Vaticano, que lo…",
     "source": "France 24",
     "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-en-directo-el-papa-visita-cusco-y-la-amazon%C3%ADa-este-domingo-en-su-pen%C3%BAltimo-d%C3%ADa-en-per%C3%BA",
     "category": "Internacional",
     "date": "2026-11-15T13:07:51+00:00",
-    "image": "https://s.france24.com/media/display/7a244b62-e11b-11f1-a5c9-3f371022a770/w:1024/p:16x9/2026-11-15T173320Z-144208569-RC2GOOA8JA2M-RTRMADP-3-POPE-LATAM-PERU.jpg",
-    "title_en": "Live: The pope concludes his visit to Cusco and goes to Pucallpa, Peru's Amazon",
-    "summary_en": "On an intense day, Leo XIV came to Cusco and will then head to Pucallpa, in the Amazon jungle of eastern Peru, before returning to Lima on the night of this Sunday November 15th. It's about the penultimate day of his first tour of the country and the region as a Vatican leader, who also brought him to Uruguay and Argentina."
+    "image": "https://s.france24.com/media/display/9e3b2996-e137-11f1-9631-3f371022a770/w:1024/p:16x9/2026-11-15T204810Z-1388210058-RC2KOOA0UH9W-RTRMADP-3-POPE-LATAM-PERU.jpg",
+    "title_en": "Live: Lion XIV arrives at pucallpa for an unprecedented papal mass at the Amazon",
+    "summary_en": "On an intense day, Leo XIV fired Cusco after leading religious acts before thousands of parishioners. He currently arrives at Pucallpa, in the Amazon jungle of eastern Peru, before returning to Lima on the night of this Sunday November 15th. It's about the penultimate day of his first tour of the country and the region as a leader of the Vatican, that his..."
   },
   {
     "title": "Jordania condena a muerte a tres hombres acusados del letal ataque contra una iglesia",
@@ -363,17 +583,6 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "Fallece un hombre por el derrumbe de una casa en Riba-roja d’Ebre (Tarragona)",
-    "summary": "El edificio colapsó sobre las ocho de la mañana por problemas estructurales y por los temporales",
-    "source": "El País",
-    "url": "https://elpais.com/espana/catalunya/2026-11-15/los-bomberos-buscan-a-una-persona-tras-el-derrumbe-de-una-casa-en-riba-roja-debre-tarragona.html",
-    "category": "Internacional",
-    "date": "2026-11-15T08:59:40+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MIJL6AG3EFJIZPUDQVHR2CD7VE.jpg?auth=757e6c05ba42b53b0dde79cdd0cd2576619be087aae1f08cbf8ce6b35bfd75ae",
-    "title_en": "A man dies from the collapse of a house in Riba-Rojo d'Ebre (Tarragona)",
-    "summary_en": "The building collapsed about 8 a.m. because of structural and temporary problems"
-  },
-  {
     "title": "Irán reivindica haber atacado con drones a una base militar estadounidense en Baréin",
     "summary": "Teherán volvió a amenazar con ampliar el alcance geográfico de la guerra si Estados Unidos lanza nuevos ataques contra el país.",
     "source": "DW Español",
@@ -440,28 +649,6 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "Caos aéreo en Estados Unidos persistirá hasta el final del domingo",
-    "summary": "Las aerolíneas cancelaron o retrasaron más de 14.000 vuelos el sábado y cientos más estaban afectados para el domingo, dejando en tierra a millares de viajeros.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/caos-aéreo-en-estados-unidos-persistirá-hasta-el-final-del-domingo/a-79950596?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-15T04:55:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
-    "summary": "La caída del gurú, en un caso de supuesto espionaje y adulterio, expone los riesgos de la concentración de poder en Estados Unidos",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
-    "category": "Internacional",
-    "date": "2026-11-15T04:45:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/VZKWP23GGNJP7ELXKWKIZFOM5A.jpg?auth=1bc84a5913b0ce6bbe75e410a11f866f9b5319d56c20f41fee6b67eef47c01d4",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
     "title": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
     "summary": "Las estafas bancarias dejan pérdidas millonarias y clientes que lamentan sentirse desprotegidos por sus entidades",
     "source": "El País",
@@ -471,6 +658,17 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/GQTJ6M2XX73OA562JPWZSHQDKQ.jpg?auth=aa598acc7a38248896bd753f86ff5009d0516f5888809b3e097aac41bb5dd5eb",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
+  },
+  {
+    "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+    "summary": "La caída del gurú, en un caso de supuesto espionaje y adulterio, expone los riesgos de la concentración de poder en Estados Unidos",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+    "category": "Economía",
+    "date": "2026-11-15T04:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/VZKWP23GGNJP7ELXKWKIZFOM5A.jpg?auth=1bc84a5913b0ce6bbe75e410a11f866f9b5319d56c20f41fee6b67eef47c01d4",
+    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
+    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
     "title": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
@@ -496,14 +694,14 @@ window.PLANETA_NEWS = [
   },
   {
     "title": "Las claves: la caída de Microsoft obliga de nuevo a prepararse mejor para el desorden tecnológico",
-    "summary": "Los servicios de la empresa tecnológica cayeron globalmente durante más de 18 horas",
+    "summary": "Los servicios de la empresa cayeron globalmente durante más de 18 horas",
     "source": "El País Economía",
     "url": "https://cincodias.elpais.com/opinion/2026-11-15/las-claves-la-caida-de-microsoft-obliga-de-nuevo-a-prepararse-mejor-para-el-desorden-tecnologico.html",
     "category": "Economía",
     "date": "2026-11-15T04:40:00+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/GVU53CBLZJIZBGWHP6JFWX7QLY.jpg?auth=6297445c60d970ac056214c285ec8ca482d5d993505f3f5fa8e50d35c0aef051",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
+    "summary_en": "The company's services have been dropped globally for more than 18 hours"
   },
   {
     "title": "Emma Walmsley, una filóloga en lo más alto de HP",
@@ -528,17 +726,6 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "Todos los caminos a La Moncloa pasan por el ‘podcast’: “¿Eres más pija o más quinqui?”",
-    "summary": "Por primera vez, una campaña a las generales en España se vive en estos formatos. Sánchez ya lleva tres y su equipo no descarta más: “Lo cerramos en el último momento”",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/todos-los-caminos-a-la-moncloa-pasan-por-el-podcast.html",
-    "category": "Internacional",
-    "date": "2026-11-15T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/Z6BYZETJSFKGFDXZ32ERH5VLTU.jpg?auth=886aa358c885e64b5ef7492aaedc4f635a48bcadf891226edb8ec3b747953eed",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
     "title": "La brújula infalible de Sigüés apunta a la derecha",
     "summary": "Desde 1977, el partido que gana las elecciones generales en el pequeño pueblo aragonés es el que se impone en toda España. “No es descontento, es decepción”, coinciden exvotantes socialistas",
     "source": "El País",
@@ -559,17 +746,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Emma Suárez: “Me he quitado la ansiedad de llegar a todo y a todos. Ahora me toca a mí”",
-    "summary": "La actriz, con 110 películas y 3 premios Goya a sus 62 años, estrena ‘Hermanas’, un duelo interpretativo con Elena Anaya con los abusos sexuales en la familia como fondo",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/cine/2026-11-15/emma-suarez-me-he-quitado-la-ansiedad-de-llegar-a-todo-y-a-todos-ahora-me-toca-a-mi.html",
-    "category": "Cultura",
-    "date": "2026-11-15T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/H72V7NK7VNBYZMW5YHDFJV4QTY.jpg?auth=c9a21da6cf96d64f4faadd017446970e0b9cf642d7c3c771e834a2cad299eacc",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
     "title": "Broncano y las inquilinas",
@@ -614,39 +790,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/AJXNE4F7OBBCFAP6LTZ6SRYJ6M.jpg?auth=eddaf1ecdd58f108e4571248dce79784133ada8fdb94c2e4cf6d9982a5cbb134",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Israel asfixia la esperanza en Gaza tras más de un año de bloqueo a la reconstrucción",
-    "summary": "Los palestinos de la Franja narran sus lamentables condiciones, como las recientes inundaciones de miles de sus tiendas de campaña, frente a las promesas de un alto el fuego desvirtuado por Netanyahu",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-15/israel-asfixia-la-esperanza-en-gaza-tras-mas-de-un-ano-bloqueando-la-reconstruccion.html",
-    "category": "Internacional",
-    "date": "2026-11-15T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7C62LL2FSRDQXLC4VBLINIG52A.jpg?auth=711ca2ecb87ecfa6d9da9116d5f224f234d79336cefb42b662be5246911bc7e7",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Mélenchon se consolida en una Francia agitada",
-    "summary": "El líder de La Francia Insumisa sigue creciendo en las encuestas a lomos de la ilusión que genera entre los jóvenes y los habitantes de las periferias. Hoy parece descontado que le disputará la segunda vuelta a Marine Le Pen. EL PAÍS le acompaña una mañana en un acto electoral en una feria parisina",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-15/melenchon-se-consolida-en-una-francia-agitada.html",
-    "category": "Política",
-    "date": "2026-11-15T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6YAFRLNONBF47FHTZIBWGGRVMI.jpg?auth=2170c92153cebfb93e3d402209383217c621235a1288482459cffaf3a3481e7b",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Sergio Ramírez: “Estos años de exilio han sido una lucha por aferrarme a mi lenguaje, por no perderlo”",
-    "summary": "El escritor nicaragüense, Premio Cervantes en 2017, ingresa hoy en la RAE con un discurso sobre Vargas Llosa, de quien hereda la silla",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/2026-11-15/sergio-ramirez-estos-anos-de-exilio-han-sido-una-lucha-por-aferrarme-a-mi-lenguaje-por-no-perderlo.html",
-    "category": "Internacional",
-    "date": "2026-11-15T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/A645VKRYUFGLFEUUD2IJJWWO4M.jpg?auth=827eb2eb88e53e0ea881d29c4d78ae5ca7154acbb998e081df48ba2f7fa6e61d",
-    "title_en": "Sergio Ramirez: \"Those years of exile have been a fight to hold onto my language and to avoid losing it\"",
-    "summary_en": "The Nicaraguan writer, Cervantes Award 2017, enters today at the RAE with a speech about Varga Llosa, from whom his chair inherits"
   },
   {
     "title": "La estrategia de Núcleo Nacional: reclutar jóvenes, agitar la calle y quedarse en la sombra",
@@ -737,17 +880,6 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "Coalición saudí intercepta dos misiles balísticos disparados hacia Riad",
-    "summary": "En las últimas semanas, los hutíes han lanzado ataques contra una serie de objetivos saudíes, varios en la capital.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/coalición-saudí-intercepta-dos-misiles-balísticos-disparados-hacia-riad/a-79950583?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-15T04:00:00+00:00",
-    "image": "",
-    "title_en": "Tajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
     "title": "Zelenski confirma que EE. UU. le propuso a Kiev ceder territorio a cambio de adhesión a la OTAN",
     "summary": "El presidente ucraniano Volodímir Zelenski reveló que negociadores de Estados Unidos plantearon por primera vez la posibilidad de que Ucrania se retire de parte del Donbás y ceda esos territorios a Rusia a cambio de una eventual adhesión a la OTAN. La aceptación de dicha oferta representaría un retroceso para Kiev, mientras tanto, Zelenski ve inviable una…",
     "source": "France 24",
@@ -803,17 +935,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Is Ukraine ready to give up its territory to join NATO? President Volodímir Zelensky revealed that for the first time U.S. negotiators have put forward an opportunity for Kiev to give up control of the Donbás in exchange for his entry into the Atlantic Alliance. Michele Testoni, Professor of International Relations at the School of..."
   },
   {
-    "title": "Gaza: países árabes y la Unión Europea condenan ataques israelíes al hospital Nasser",
-    "summary": "Los ataques israelíes en el Hospital Nasser provocaron una nueva ola de condenas internacionales. Países árabes y la Unión Europea expresaron su preocupación por el impacto de la ofensiva sobre la población civil y reiteraron sus llamados a respetar el derecho internacional humanitario y garantizar el acceso de ayuda al enclave palestino.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261115-gaza-pa%C3%ADses-%C3%A1rabes-y-la-uni%C3%B3n-europea-condenan-ataques-israel%C3%ADes-al-hospital-nasser",
-    "category": "Salud",
-    "date": "2026-11-15T00:34:22+00:00",
-    "image": "https://s.france24.com/media/display/00dc7a72-e08a-11f1-b9aa-3f371022a770/w:1024/p:16x9/ES-20261114-130852-131041-CS-01.jpg",
-    "title_en": "Gaza: Arab countries and European Union condemns Israeli attacks on Nasser hospital",
-    "summary_en": "The Israeli attacks at Nasser Hospital resulted in a new wave of international condemnation. The Arab countries and the European Union expressed their concern about the impact of the attack on the civilian population and reiterated their calls to respect international humanitarian law and to guarantee access to assistance to the Palestinian enclave."
-  },
-  {
     "title": "SpaceX logra por primera vez atrapar la parte superior del cohete Starship en su regreso a la Tierra",
     "summary": "La nave fue capturada en el aire mediante unos enormes brazos mecánicos apodados \"palillos chinos\".",
     "source": "BBC Mundo",
@@ -823,17 +944,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
     "title_en": "SpaceX first gets the top of the Starship rocket back to Earth",
     "summary_en": "The ship was caught in the air with huge mechanical arms nicknamed \"Chinese chopsticks.\""
-  },
-  {
-    "title": "“Volveré”: León XIV cumple su promesa y regresa a la localidad andina que visitaba como obispo de Chiclayo",
-    "summary": "“Es un sueño muy grande que el Señor ha permitido\". El papa León XIV llegó este sábado 14 de noviembre en helicóptero a Santa Cruz de Succhabamba, en los Andes peruanos, y celebró una misa ante casi 20.000 fieles. Antes de partir hacia Roma en 2023, les había prometido a los sacerdotes de la zona que volvería para la fiesta del Señor del Costado, patrón del…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261114-volver%C3%A9-le%C3%B3n-xiv-cumple-su-promesa-y-regresa-a-la-localidad-andina-que-visitaba-como-obispo-de-chiclayo",
-    "category": "Internacional",
-    "date": "2026-11-14T22:54:34+00:00",
-    "image": "https://s.france24.com/media/display/108a9604-e07e-11f1-99f3-3f371022a770/w:1024/p:16x9/2026-11-14T171728Z-263317160-RC2TNOAVPBYA-RTRMADP-3-POPE-LATAM-PERU.jpg",
-    "title_en": "\"I will come back\": Lion XIV keeps his promise and returns to the Andean town that he visited as bishop of Chiclayo",
-    "summary_en": "\"It's a great dream that the Lord has allowed.\" Pope Leo XIV arrived on Saturday November 14 by helicopter to Santa Cruz de Succhabamba, in the Peruvian Andes and held a mass with nearly 20,000 faithful. Before leaving for Rome in 2023, I had promised to the priests of the area that I would come back for the feast of the Lord of Costado, master of the..."
   },
   {
     "title": "“¡Enano!” o la historia de una agresión en Madrid",
@@ -847,37 +957,15 @@ window.PLANETA_NEWS = [
     "summary_en": "A man of small height suffers a fracture as he was broken down as he walked into a new hate attack in this age of cruelty"
   },
   {
-    "title": "Eisenkot: así rebusca el opositor de Netanhayu la opción 'menos mala' para formar gobierno en Israel",
-    "summary": "Gadi Eisenkot, el líder \"del cambio\", con 40 años de servicio en el Ejército de Israel, tiene hasta el 6 de diciembre para diseñar una coalición que refuerce su bloque de 48 escaños. Pero el horizonte político israelí, como en un 'House of Cards', dibuja una trama incierta, de estrategias y posibles engaños. Si elige un apoyo palestino o de los…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/medio-oriente/20261114-eisenkot-as%C3%AD-rebusca-el-opositor-de-netanhayu-la-opci%C3%B3n-menos-mala-para-formar-gobierno-en-israel",
-    "category": "Política",
-    "date": "2026-11-14T22:24:01+00:00",
-    "image": "https://s.france24.com/media/display/e1c7d5ec-d4b2-11f1-a665-d18c5759e759/w:1024/p:16x9/AFP-20261020-D3UD2UE-v3-HighRes-TopshotIsraelPoliticsElection.jpg",
-    "title_en": "Eisenkot: That's how Netanhayu's opposition looks for a 'less bad' option to form government in Israel",
-    "summary_en": "Gadi Eisenkot, the \"change\" leader with 40 years of service with the Israeli Army, has until 6 December to design a coalition to strengthen his 48-seat block. But the Israeli political horizon, as with an 'House of Cards', draws an uncertain plot of strategies and potential deceits. If you choose a Palestinian or..."
-  },
-  {
-    "title": "Portugal ensombrece su homenaje a Ronaldo con una debacle ante Dinamarca",
-    "summary": "El combinado nórdico sacó los colores al cuadro dirigido por Jorge Jesús y apagó la fiesta en honor a su más importante figura de la historia reciente. Portugal debe ahora certificar su primer lugar del grupo en la Liga de Naciones en la última fecha en Gales.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/deportes/20261114-portugal-ensombrece-su-homenaje-a-ronaldo-con-una-debacle-ante-dinamarca",
-    "category": "Deportes",
-    "date": "2026-11-14T22:05:26+00:00",
-    "image": "https://s.france24.com/media/display/7e573ec8-e077-11f1-a3e2-f71d22e7fea9/w:1024/p:16x9/d7e25edc4bc141a8ebe98416fba9445d6290ae5e.jpg",
-    "title_en": "Portugal challenges its tribute to Ronaldo with a debacle to Denmark",
-    "summary_en": "The Nordic combination brought the colors to the painting directed by George Jesus and put out his party in honor of his most important figure in recent history. Portugal now has to atcredit its first place in the League of Nations at the last date in Wales."
-  },
-  {
     "title": "El cantante Gabito Ballesteros, arrestado tras cantar un corrido en Querétaro",
-    "summary": "El artista, cuyo concierto fue suspendido por interpretar ‘AMG’, es investigado ahora por la FGR por portación de un arma de uso exclusivo del ejército y por desobediencia",
+    "summary": "El artista, cuyo concierto fue suspendido por interpretar ‘AMG’, es investigado ahora por la Fiscalía General de la República por portación de un arma de uso exclusivo del ejército y por desobediencia",
     "source": "El País",
     "url": "https://elpais.com/mexico/2026-11-14/el-cantante-gabito-ballesteros-arrestado-por-cantar-un-corrido-en-queretaro.html",
     "category": "Cultura",
     "date": "2026-11-14T21:55:13+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/4ZSU3HXOEFG67PG4MXT7WOLQ3A.jpg?auth=2735202213aa35f8449aca5e562f08050927f2ddf29bd68c79942973c90f186f",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
+    "summary_en": "The artist, whose concert was suspended for his interpretation of \"AMG,\" was currently investigated by the Public Prosecutor's Office of the Republic for bearing an exclusive weapon and for his disobedience"
   },
   {
     "title": "\"Las cortinas se pegaron al techo\": cómo sobreviví al desastre de San Juanico, la explosión que dejó 650 muertos en México en 1984",
@@ -889,50 +977,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9d6/live/9b0f4940-5dda-11f1-a574-05510226f57f.jpg",
     "title_en": "\"The curtains were attached to the roof\": how I survived the San Juanico disaster, an explosion that killed 650 people in Mexico in 1984",
     "summary_en": "Virginia Martínez Telez is one of the survivors of one of the most serious industrial disasters in history. A gas leak at a pemex oil depot would forever change his life, his family and that of an entire community."
-  },
-  {
-    "title": "La inédita captura de Starship: la nave de SpaceX regresa a la Tierra",
-    "summary": "La nave espacial Starship de SpaceX regresó este sábado 14 de noviembre de su vuelo orbital más largo hasta la fecha a la torre de Texas desde la que fue lanzada en la víspera. Se trata de un evento inédito que muestra la primera recuperación clave de la pieza central del sistema de cohetes, en el mayor esfuerzo de una década para desarrollar un cohete…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261114-la-in%C3%A9dita-captura-de-starship-el-intento-de-regresar-la-nave-de-spacex-a-la-tierra",
-    "category": "Ciencia",
-    "date": "2026-11-14T20:32:54+00:00",
-    "image": "https://s.france24.com/media/display/8c43ae00-e080-11f1-8286-f71d22e7fea9/w:1024/p:16x9/2026-11-14T213803Z-704233441-RC2XNOAR9QE8-RTRMADP-3-SPACE-SPACEX-STARSHIP.jpg",
-    "title_en": "Starship's unprecedented capture: SpaceX's ship returns to Earth",
-    "summary_en": "The SpaceX's Starship spacecraft returned on Saturday November 14 from its longest orbital flight to date to the Texas Tower from which it was launched on the eve. It's an unpublished event that shows the first key recovery of the core part of the rocket system, with the greatest effort of a decade to develop a rocket..."
-  },
-  {
-    "title": "Honduras borra grafitis de pandillas que delimitan zonas de influencia",
-    "summary": "La Policía hondureña está borrando los grafitis de pandillas en barrios de Tegucigalpa controlados por grupos criminales. En Honduras operan las pandillas Mara Salvatrucha (MS-13) y Barrio 18, rivales entre sí, que suelen pintar sus iniciales en las fachadas para delimitar sus zonas de influencia. La eliminación de estos símbolos forma parte de la…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261114-honduras-borra-grafitis-de-pandillas-que-delimitan-zonas-de-influencia",
-    "category": "Internacional",
-    "date": "2026-11-14T19:19:41+00:00",
-    "image": "https://s.france24.com/media/display/e940d600-e05d-11f1-ad12-5f54d898a954/w:1024/p:16x9/ES-20261114-120919-121116-CS.jpg",
-    "title_en": "Honduras Expand Gang Fingerprints That Deborder Areas of Influence",
-    "summary_en": "The Honduran police are purging gang graphitis in Tegucigalpa neighborhoods controlled by criminal groups. The Mara Salvatrucha gangs (MS-13) and Barrio 18, with their rivalries and their initials at the façades and their influence zones, have been found in Honduras. The elimination of these symbols forms part of the..."
-  },
-  {
-    "title": "Papa León XIV oficia una multitudinaria misa en Cajamarca, su antigua diócesis",
-    "summary": "El líder del Vaticano arribó este 14 de noviembre a Cajamarca, en el norte de Perú, en su cuarto día de visita por el país donde terminará la gira que ya lo llevó a Uruguay y Argentina. En su primer acto multitudinario por esta región, se dirigió a Santa Cruz de Succhubamba, una de las zonas más recónditas de su antigua diócesis, para oficiar una misa ante…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261114-papa-le%C3%B3n-xiv-oficia-una-multitudinaria-misa-en-cajamarca-su-antigua-di%C3%B3secis",
-    "category": "Internacional",
-    "date": "2026-11-14T19:18:21+00:00",
-    "image": "https://s.france24.com/media/display/e2007756-e05d-11f1-b54d-5f54d898a954/w:1024/p:16x9/ES-20261114-120403-120855-CS-01.jpg",
-    "title_en": "Pope Leo XIV officiates a mass at Cajamarca, his old diocese",
-    "summary_en": "The Vatican's leader arrived at Cajamarca, north of Peru, on his fourth day of his visit to the country where his tour to Uruguay and Argentina will end. At his first massive event throughout this region, his address was to Santa Cruz de Succhubamba, one of the most legendary areas of his old diocese, to conduct a mass before his..."
-  },
-  {
-    "title": "Informe desde Washington: vuelos vuelven a la normalidad tras horas de retrasos y cancelaciones",
-    "summary": "Las operaciones aéreas en Estados Unidos volvieron a la normalidad tras horas de interrupciones. El secretario de Transporte, Sean Duffy, atribuyó la crisis a trabajos rutinarios de sustitución de cables de cobre por fibra óptica, como parte de la modernización de la infraestructura aeronáutica. Además, descartó que se tratara de un ciberataque o de fallos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261114-informe-desde-washington-vuelos-vuelven-a-la-normalidad-tras-horas-de-retrasos-y-cancelaciones",
-    "category": "Internacional",
-    "date": "2026-11-14T19:17:44+00:00",
-    "image": "https://s.france24.com/media/display/9242f31e-e054-11f1-9a7c-29048b396e03/w:1024/p:16x9/ES-20261114-120152-120319-CS-01.jpg",
-    "title_en": "Report from Washington: flights back to normal after hours of delays and cancellations",
-    "summary_en": "Air operations in the U.S. returned to normal after hours of interruption. The transport secretary, Sean Duffy, attributed the crisis to regular work to replace copper wires with fibre optics as part of the modernization of the aeronautical infrastructure. He also ruled out that this was a cyber attack or a bug..."
   },
   {
     "title": "Asere, corillo o chuchaqui: las palabras latinoamericanas que incorpora la nueva edición del Diccionario de la lengua española",
@@ -1164,49 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Is the A's bubble about to blow with Anthropic about to come up with a bag?",
     "summary_en": "The sharp fall of technological actions after intermittent elections in the U.S. The U.S. has called into question Anthropic's imminent market share. Nevertheless, many think that IA remains high."
-  },
-  {
-    "title": "Jensen Huang: presunto espionaje de una de sus amantes y otras relaciones que dejan a Nvidia sin su CEO estrella",
-    "summary": "El hombre que convirtió a la empresa en el principal fabricante mundial de chips de IA, dimite por sus relaciones extramatrimoniales. ¿Cómo afectará su marcha a la empresa y a la carrera entre EE. UU. y China?",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/jensen-huang-presunto-espionaje-de-una-de-sus-amantes-y-otras-relaciones-que-dejan-a-nvidia-sin-su-ceo-estrella/a-79943979?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-13T18:54:00+00:00",
-    "image": "",
-    "title_en": "Jensen Huang: suspected espionage of one of his lovers and other relationships that leave Nvidia without his star CEO",
-    "summary_en": "The man who turned the company into the world's leading production of IA chips, resigned for his extramatrimonial relations. How will his march affect his company and his race between the US? The U.S. and China?"
-  },
-  {
-    "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
-    "summary": "La compañía pide disculpas por el “problema técnico” y descarta que haya un ciberataque o agentes de IA detrás de los fallos que han tumbado el correo electrónico Outlook, la plataforma Teams o Copilot. No se han notificado incidencias reseñables en España",
-    "source": "El País Tecnología",
-    "url": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html",
-    "category": "Tecnología",
-    "date": "2026-11-13T18:48:57+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZRND26ZYLVG2BNXLGWZKZACKFE.jpg?auth=52341b528a79d52a89278fb8eac34afa25aa1b9a32d24935ff6031cc941a187c",
-    "title_en": "Microsoft's services come back to normal after a global fall of more than 18 hours",
-    "summary_en": "The company apologizes for the \"technical problem\" and discard that there's a cyber attack or IA agents behind the faults that have put up the Outlook email, Teams or Copilot platform. No significant incidents have been reported in Spain"
-  },
-  {
-    "title": "Cómo Texas es desde ya el nuevo campo de batalla por la presidencia en EE.UU.",
-    "summary": "Los expertos en las matemáticas electorales ya adelantan que, si EE.UU. votara en dos años como lo hizo en los comicios de la semana pasada, los demócratas tendrían el camino hacia la Casa Blanca prácticamente despejado.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/ck4gnqw6jnnwo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-13T16:27:17+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bded/live/0c574a00-deda-11f1-a75a-dbf83836672c.jpg",
-    "title_en": "How Texas has been as far as the new U.S. presidency battle ground",
-    "summary_en": "Electoral math experts have advanced that if the U.S. voted in two years as they did at last week's elections, the Democrats will have the path to the White House practically clear."
-  },
-  {
-    "title": "El Parlamento alemán da el último paso para aprobar el mayor presupuesto de la historia del país",
-    "summary": "Las cuentas públicas, que se aprobarán definitivamente a finales de mes, dan prioridad a las políticas de Trabajo y de Defensa",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-13/el-parlamento-aleman-da-el-ultimo-paso-para-aprobar-el-mayor-presupuesto-de-la-historia-del-pais.html",
-    "category": "Política",
-    "date": "2026-11-13T15:24:41+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ABQFB6CXJFNSFAJFAUDYAXBOE4.jpg?auth=718d16dbeede0c0265e1b2269fb948fd3b6411314eb335c723fbfbb961d4699e",
-    "title_en": "The German Parliament takes the final step to approve the largest budget of its history",
-    "summary_en": "Public accounts, to be definitively adopted at the end of the month, give priority to Labour and Defence policies"
   }
 ];
