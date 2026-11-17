@@ -1,5 +1,643 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Cómo los directores del premiado documental \"Naza\" convencieron a soldados israelíes para que hablaran sobre el uso de IA para seleccionar objetivos en Gaza",
+    "summary": "En una entrevista con la BBC, los cineastas israelíes Yuval Abraham y Rachel Szor, ganadores del Oscar, hablan sobre su aclamado documental \"Naza\".",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c8r4g6xr75vyo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-17T22:24:17+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9e06/live/ac35afb0-e2ba-11f1-b083-69f1e69220f8.jpg",
+    "title_en": "How \"Naza\" film winners convinced Israeli soldiers to talk about using IA to select targets in Gaza",
+    "summary_en": "In an interview with the BBC, Israeli filmmakers Yuval Abraham and Rachel Szor, Oscar winners, speak about their acclaimed documentary \"Naza.\""
+  },
+  {
+    "title": "¿Está a punto de reanudarse la guerra entre Estados Unidos e Irán?",
+    "summary": "Hay señales contradictorias. Por un lado, Estados Unidos tiene sus tres portaaviones en Medio Oriente con miles de soldados, mientras que Donald Trump, días atrás, dijo que futuros ataques no serían probables porque considera el componente militar terminado. Sin embargo, las amenazas crecen, así como los ataques mutuos en las últimas semanas. ¿Un conflicto…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/en-contexto/20261117-est%C3%A1-a-punto-de-reanudarse-la-guerra-entre-estados-unidos-e-ir%C3%A1n",
+    "category": "Política",
+    "date": "2026-11-17T22:23:14+00:00",
+    "image": "https://s.france24.com/media/display/c3f154dc-e2ac-11f1-bc30-c5c0357b2a0c/w:1024/p:16x9/2026-11-17T171352Z-450277371-RC2SPOAB868L-RTRMADP-3-IRAN-CRISIS-TANKER.jpg",
+    "title_en": "Is the U.S. and Iran war about to resume?",
+    "summary_en": "There are conflicting signs. On the one hand, the U.S. has its three carrier in the Middle East with thousands of troops, while Donald Trump, a few days ago, said that future attacks would be unlikely because she considers the military component complete. Nevertheless, threats are growing as well as mutual attacks in recent weeks. A conflict..."
+  },
+  {
+    "title": "Directo Latam y el viaje de Sheinbaum a China para la cumbre de la APEC",
+    "summary": "La presidenta mexicana, Claudia Sheinbaum, viajó a Shenzhen, China, para participar en la cumbre de la APEC, donde previamente se reunió con el presidente Xi Jinping. En su primer viaje al gigante asiático, Sheinbaum busca fortalecer sus lazos con otros países en medio de la presión arancelaria ejercida por el presidente Donald Trump. Nuestro corresponsal…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-directo-latam-y-el-viaje-de-sheinbaum-a-china-para-la-cumbre-de-la-apec",
+    "category": "Política",
+    "date": "2026-11-17T21:49:34+00:00",
+    "image": "https://s.france24.com/media/display/c73f23c2-e2c9-11f1-b328-7908c4e1a3c7/w:1024/p:16x9/ES-20261117-074515-075040-CS.jpg",
+    "title_en": "Direct Latin and Sheinbaum's journey to China for the APEC summit",
+    "summary_en": "Mexican president Claudia Sheinbaum travelled to Shenzhen, China, to participate at the APEC summit, where she met with President Xi Jinping earlier. On his first journey to the Asian giant, Sheinbaum seeks to strengthen his ties with other countries amidst the tariff pressure exerted by President Donald Trump. Our correspondent..."
+  },
+  {
+    "title": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
+    "summary": "La firma destaca su fortaleza tras el cese de Jensen Huang. La SEC investiga a la compañía tras la salida de su ex consejero delegado",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
+    "category": "Tecnología",
+    "date": "2026-11-17T21:49:21+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/6HT4YT5JMRCWTJKGLGP2ERF43Y.JPG?auth=e222737695980e512b6e33a662fac3f1818e8b98c2f723d9488f9746d2914e6c",
+    "title_en": "Nvidia bates forecasts by double income and benefits and defends the power of his technology",
+    "summary_en": "The firm stands out its strength after Jensen Huang's cessation. SEC investigates the company after its former delegate's leave"
+  },
+  {
+    "title": "Cumbre APEC: ¿está ganando China terreno como socio de confianza frente a Estados Unidos?",
+    "summary": "La cumbre de la APEC arrancó hoy en Shenzhen, China, con una intensa agenda diplomática marcada por las tensiones comerciales y la redefinición del equilibrio geopolítico global. Más allá del comercio, el foro está evidenciando dos visiones contrapuestas sobre el futuro de la economía mundial, la tecnología y la inteligencia artificial: mientras Estados…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-cumbre-apec-est%C3%A1-ganando-china-terreno-como-socio-de-confianza-frente-a-estados-unidos",
+    "category": "Tecnología",
+    "date": "2026-11-17T21:46:56+00:00",
+    "image": "https://s.france24.com/media/display/ee2ffdfe-e2c3-11f1-aa23-ff16da94d1fe/w:1024/p:16x9/ES-20261117-131700-132908-CS.jpg",
+    "title_en": "APEC Summit: Is China gaining ground as a trust partner with the U.S.?",
+    "summary_en": "The APEC summit today started at Shenzhen, China with an intense diplomatic agenda marked by trade tensions and a redefinition of global geopolitical balance. Beyond trade, the forum is attesting to two opposing views about the future of the global economy, technologies and artificial intelligence: while states have been..."
+  },
+  {
+    "title": "Panamá: Mulino evalúa volver a activar la mina de cobre a cielo abierto más grande de Centroamérica",
+    "summary": "El presidente panameño, Raúl Mulino, anunció que su Gobierno iniciará las conversaciones con la filial canadiense First Quantum para reactivar los trabajos en la mina de cobre a cielo abierto más grande de Centroamérica. El complejo, en pausa desde 2023 luego de que la Justicia encontrara irregularidades en el contrato de concesión, tiene unas 3.000…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-panam%C3%A1-mulino-eval%C3%BAa-volver-a-activar-la-mina-de-cobre-a-cielo-abierto-m%C3%A1s-grande-de-centroam%C3%A9rica",
+    "category": "Política",
+    "date": "2026-11-17T21:41:18+00:00",
+    "image": "https://s.france24.com/media/display/bcbff302-e2c1-11f1-a043-6d75ed565170/w:1024/p:16x9/ES-20261117-074322-074512-CS.jpg",
+    "title_en": "Panama: Mulino Reactivates The Largest Open Sky Copper Mine in Central America · Global Voices",
+    "summary_en": "Panamanian president Raúl Mulino announced his Government will start discussions with First Quantum to re-activate jobs at the largest open sky copper mine in Central America. The complex, at a pause from 2023 after the Justice found irregularities in the concession contract, has about 3,000..."
+  },
+  {
+    "title": "China, México y Estados Unidos: el delicado equilibrio de Sheinbaum en la APEC",
+    "summary": "La presidenta mexicana participa en el Foro de Cooperación Económica Asia-Pacífico, donde se reunió con el mandatario chino, Xi Jinping. Washington podría tener algo que decir al respecto.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/china-méxico-y-estados-unidos-el-delicado-equilibrio-de-sheinbaum-en-la-apec/a-79973976?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Economía",
+    "date": "2026-11-17T21:25:00+00:00",
+    "image": "",
+    "title_en": "China, Mexico and the US: Sheinbaum's delicate balance at APEC",
+    "summary_en": "The Mexican president participates in the Asia-Pacific Economic Cooperation Forum, where she met with Chinese president Xi Jinping. Washington could have something to say about that."
+  },
+  {
+    "title": "Canal Sur retira de la parrilla el programa de Manolo Sarria al haber sido denunciado por acoso sexual",
+    "summary": "La dirección de RTVA ha decidido apartar al humorista y presentador mientras se resuelven la investigación interna abierta por la productora del espacio y la de la policía",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-17/canal-sur-retira-de-la-parrilla-el-programa-de-manolo-sarria-al-haber-sido-denunciado-por-presunto-acoso-sexual.html",
+    "category": "Ciencia",
+    "date": "2026-11-17T21:18:32+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FNVWEIAX4JHLJAAMMLSK6PUH4U.jpg?auth=abd761be3c9b382865067654f41e22e02eae41e7ff28d41e78cb1cf8208f2ec2",
+    "title_en": "South Canal removes from its grill his program after his report of sexual harassment",
+    "summary_en": "RTVA's management has decided to put the humour and presenter back while the internal investigation opened by the space production and police have been resolved"
+  },
+  {
+    "title": "Herido de gravedad un policía tras ser acuchillado en la comisaría de Medina del Campo",
+    "summary": "El atacante, de unos 30 años y detenido días antes por una agresión sexual, apuñaló al agente de 46 años hasta una decena de veces",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-17/herido-de-gravedad-un-policia-tras-ser-acuchillado-a-las-puertas-de-la-comisaria-de-medina-del-campo.html",
+    "category": "Internacional",
+    "date": "2026-11-17T21:04:55+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/QL4HE25ACFFVTOYWEEX4LKHCCQ.jpg?auth=c96ea2b6fdaa7a320ad3711f6c33bc625b9855ed4db7a5a388075ccdfefc3e2a",
+    "title_en": "Serious injuries to a police officer after being stabbed at Medina del Campo police station",
+    "summary_en": "The attacker, about 30 and arrested a few days earlier for a sexual assault, stabbed his 46-year-old agent up to a dozen times"
+  },
+  {
+    "title": "Criptas, reliquias y ofrendas: la Catedral de Ciudad de México abre sus puertas de noche",
+    "summary": "🇲🇽 La Catedral Metropolitana de Ciudad de México abrió sus puertas para ofrecer recorridos nocturnos que permiten a mexicanos y extranjeros visitar la capilla, el altar e incluso las criptas subterráneas, mientras conocen más sobre la historia del lugar.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-criptas-reliquias-y-ofrendas-la-catedral-de-ciudad-de-m%C3%A9xico-abre-sus-puertas-de-noche",
+    "category": "Internacional",
+    "date": "2026-11-17T21:03:32+00:00",
+    "image": "https://s.france24.com/media/display/a382e200-e2c1-11f1-8422-7908c4e1a3c7/w:1024/p:16x9/Criptas-reliquias-y-ofrendas-la-Catedral-Metropolitana-abre-sus-puertas-de-noche.png",
+    "title_en": "Criptics, relics and offerings: The Cathedral of Mexico City opens its doors at night",
+    "summary_en": "The Metropolitan Cathedral of Mexico City opened its doors to offer nocturnal tours that allow Mexicans and foreigners to visit the chapel, the altar and even underground crypt while they know more about the history of the place."
+  },
+  {
+    "title": "Aviones de Estados Unidos atacan una base iraní de misiles en la isla de Qeshm, junto al estrecho de Ormuz",
+    "summary": "Washington responde con un bombardeo aéreo a un nuevo ataque contra instalaciones militares estadounidenses en Baréin.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/aviones-de-estados-unidos-atacan-una-base-iraní-de-misiles-en-la-isla-de-qeshm-junto-al-estrecho-de-ormuz/a-79975504?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-17T21:03:00+00:00",
+    "image": "",
+    "title_en": "U.S. Aots Attack Iranian Missile Base on Qeshm Island by Ormuz Straits",
+    "summary_en": "Washington responded with an air bombardment to a new attack on U.S. military installations in Baréin."
+  },
+  {
+    "title": "Nueva caída en las infraestructuras de EE UU: ahora, la red de comunicación interna de los servicios secretos",
+    "summary": "La red NSA Net permite que los funcionarios de la Agencia Nacional de Seguridad (NSA) compartan información clasificada",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-17/nueva-caida-en-las-infraestructuras-de-ee-uu-ahora-la-red-de-comunicacion-interna-de-los-servicios-secretos.html",
+    "category": "Internacional",
+    "date": "2026-11-17T21:01:04+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/4VK4Q36AYBHMTFQZ6CJ5YWLOUI.jpg?auth=c22dbc1a01ea676182c7c6f747ebe083485f0166ebd4c84d6e38f58e9638f5ac",
+    "title_en": "A new fall in US infrastructure: now, the internal communication network of secret services",
+    "summary_en": "The NSA Net network allows NSA officials to share classified information"
+  },
+  {
+    "title": "Ayuso mete de lleno a Venezuela en la campaña electoral",
+    "summary": "La presidenta de Madrid también arremete contra el expresidente colombiano Gustavo Petro",
+    "source": "El País",
+    "url": "https://elpais.com/espana/madrid/2026-11-17/ayuso-mete-de-lleno-a-venezuela-en-la-campana-electoral.html",
+    "category": "Deportes",
+    "date": "2026-11-17T20:39:17+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FIMGEWUH5BAO5MGNV2UITORPRI.jpeg?auth=f0f347f17b12de542d8fc3182f3c88e5f0e2e4c466ff5a2be91ffa310242bd5f",
+    "title_en": "Ayuso puts Venezuela fully into the electoral campaign",
+    "summary_en": "The president of Madrid also challenges Colombian former president Gustavo Petro"
+  },
+  {
+    "title": "Feijóo comparece junto a Echeverría, en Eibar, en medio de un gran dispositivo policial y algunos gritos de “fascista”",
+    "summary": "El líder del PP: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España”",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
+    "category": "Internacional",
+    "date": "2026-11-17T20:29:43+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/MKDG5CJDYRAC3NGI26ZBH4DEWU.jpg?auth=87dc52d396ab17049a0868e7248cb9f392b051351d2d77c3a60c55ceb58dba5d",
+    "title_en": "Feijóo comlooks with Echeverria, at Eibar, amidst a great police device and some screams of \"fascist\"",
+    "summary_en": "The PP leader: \"They will not shut us up, we will not step back at Euskadi or anywhere in Spain\""
+  },
+  {
+    "title": "Megaspeed, la empresa vinculada con la supuesta espía china que está en el centro del escándalo del gigante tecnológico Nvidia",
+    "summary": "Se sospecha que la empresa con sede en Singapur facilita el acceso de empresas chinas a los chips de IA de alta gama del gigante tecnológico Nvidia cuya exportación está restringida por EE.UU.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/crkgvngyd12wo?at_medium=RSS&at_campaign=rss",
+    "category": "Economía",
+    "date": "2026-11-17T20:28:45+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c9a8/live/c9c0c870-e2a2-11f1-8226-87dfa5049e9a.jpg",
+    "title_en": "Megasped, the company linked to the so-called Chinese spy that's at the centre of Nvidia's technological giant's scandal",
+    "summary_en": "Singapore-based company suspected of facilitating China's access to high-end IA chips by Nvidia's technological giant whose export is restricted by the US"
+  },
+  {
+    "title": "Por qué \"GTA VI\" es más que un simple videojuego",
+    "summary": "El 19 de noviembre llega \"Grand Theft Auto VI\" y millones de jugadores de todo el mundo esperan ansiosos su lanzamiento. ¿Por qué este videojuego despierta tanta expectación entre distintas generaciones?",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/por-qué-gta-vi-es-más-que-un-simple-videojuego/a-79975218?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-17T20:23:00+00:00",
+    "image": "",
+    "title_en": "Why \"GTA VI\" is more than just a video game",
+    "summary_en": "On November 19, \"Grand Theft Auto VI\" arrives and millions of players from around the world are looking forward to their release. Why does this video game awaken so much expectation between different generations?"
+  },
+  {
+    "title": "Tus datos valen dinero, pero ¿quién se lo queda?",
+    "summary": "Cada vez que usamos una aplicación, compramos por internet o compartimos una foto generamos información con un enorme valor económico. Google y Meta viven sobre todo de la publicidad dirigida con esos datos, y otras empresas los compran y los revenden. Pero que una plataforma los recopile no la convierte en su dueña, ni nos da a nosotros un control total.…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/en-5-minutos/20261117-tus-datos-valen-dinero-pero-qui%C3%A9n-se-lo-queda",
+    "category": "Tecnología",
+    "date": "2026-11-17T20:10:11+00:00",
+    "image": "https://s.france24.com/media/display/af605f7c-df9b-11f1-a4b2-f71d22e7fea9/w:1024/p:16x9/WEB-PORTADA-11NOV-E5M.png",
+    "title_en": "Your data's worth money, but who's keeping them?",
+    "summary_en": "Each time we use an app, buy online or share a photo we generate information with an enormous economic value. Google and Meta mainly live from targeted advertising with these data and other companies buy and resell them. But if a platform gathers them, it doesn't turn them into their own, nor does it give us complete control...."
+  },
+  {
+    "title": "Los hutíes ponen contra las cuerdas a Arabia Saudita en Yemen",
+    "summary": "La coalición militar de Arabia Saudita se encuentra en crisis en Yemen. Mientras los hutíes avanzan, la alianza de sus oponentes se desmorona. También está en juego la seguridad de una importante ruta comercial.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/los-hutíes-ponen-contra-las-cuerdas-a-arabia-saudita-en-yemen/a-79975142?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-17T20:06:00+00:00",
+    "image": "",
+    "title_en": "The Huties put Saudi Arabia's arms against them in Yemen",
+    "summary_en": "The Saudi Arabian military coalition was in crisis in Yemen. As the Huties advance, their opposition's alliance crumbles. The safety of an important commercial route is also at stake."
+  },
+  {
+    "title": "Sánchez se revuelve contra el ataque de Ayuso a los andaluces: “Andalucía se va a levantar, a movilizar y a darnos la victoria el 29-N”",
+    "summary": "La dirigente popular se refirió al legado socialista en la comunidad andaluza asegurando que era “un desastre” que fuerza la emigración hacia Madrid",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/sanchez-se-revuelve-contra-el-ataque-de-ayuso-los-andaluces-andalucia-se-va-a-levantar-a-movilizar-y-a-darnos-la-victoria-el-29-n.html",
+    "category": "Deportes",
+    "date": "2026-11-17T20:05:43+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/CRUEEJBKSNB2LCA2PNWQN6TW3A.jpg?auth=089a0da0ce06babaaf2303e456db51f730cb55b6d8730c3eb3debb81f3db13b7",
+    "title_en": "Sánchez challenges Ayuso's attack on the Andaluces: \"Andalucía will get up, mobilise and give us his victory at 29th\"",
+    "summary_en": "The popular leader referred to the socialist legacy of the Andalusian community by claiming that it was \"a disaster\" that forces emigration to Madrid"
+  },
+  {
+    "title": "Oleada de ciberataques afecta a multitud de grandes empresas e instituciones de todo el mundo",
+    "summary": "Cae la red interna de comunicaciones de la agencia de seguridad estadounidense NSA, según informa la CNN, aunque el organismo descarta haber sido víctima de un ataque informático.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/oleada-de-ciberataques-afecta-a-multitud-de-grandes-empresas-e-instituciones-de-todo-el-mundo/a-79975221?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Economía",
+    "date": "2026-11-17T19:53:00+00:00",
+    "image": "",
+    "title_en": "Cyber-attack wave affects many big businesses and institutions around the world",
+    "summary_en": "The internal communications network of the U.S. Security Agency NSA, as reported by CNN, falls, although the agency excludes being a victim of a computer attack."
+  },
+  {
+    "title": "Etiopía se acerca a otra guerra mientras crece la tensión regional",
+    "summary": "A medida que las tropas etíopes empujan a las Fuerzas de Tigré hacia la frontera con Eritrea, crecen los temores de una nueva guerra regional. Las relaciones entre Etiopía y Sudán también se han deteriorado aún más.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/etiopía-se-acerca-a-otra-guerra-mientras-crece-la-tensión-regional/a-79974721?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-17T19:50:00+00:00",
+    "image": "",
+    "title_en": "Ethiopia approaches another war as regional tension grows",
+    "summary_en": "As Ethiopian troops push tigre forces onto the border with Eritrea, fear of a new regional war grows. Relations between Ethiopia and Sudan have also been further damaged."
+  },
+  {
+    "title": "Vivienda, inmigración y cerveza: así corteja Vox a los jóvenes",
+    "summary": "La formación de Abascal utiliza la crisis habitacional para captar el voto joven y responsabiliza a la izquierda y a los inmigrantes de sus dificultades para emanciparse",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vivienda-inmigracion-y-cerveza-asi-corteja-vox-a-los-jovenes.html",
+    "category": "Internacional",
+    "date": "2026-11-17T19:41:38+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/T5LRYWGELVDQBNO7OYYNHPWYEM.JPG?auth=f749d216ec18de2a5b221ec19edd91e3a5287ec9fd8a2492074409a4e74d05a9",
+    "title_en": "Housing, Immigration and Beer: That's how Vox cuts youth",
+    "summary_en": "Abascal's training uses the housing crisis to capture the youth vote and holds immigrants and the left to their difficulties to emancipate themselves"
+  },
+  {
+    "title": "Qué se sabe del caso de Camilo Rodríguez, el primer periodista asesinado en Costa Rica en 25 años",
+    "summary": "Camilo Rodríguez era conocido en Costa Rica por denunciar a presuntos narcotraficantes, así como las conexiones de políticos y figuras públicas con actividades del crimen organizado.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/ckwy97jpg0dpo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-17T19:23:48+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2be/live/92b350f0-e2b1-11f1-8226-87dfa5049e9a.jpg",
+    "title_en": "What about Camilo Rodriguez, the first journalist killed in Costa Rica in 25 years",
+    "summary_en": "Camilo Rodriguez was known in Costa Rica for denouncing suspected drug traffickers as well as the connections of politicians and public figures with organized crime activities."
+  },
+  {
+    "title": "El fiscal general de Paraguay renuncia ante la advertencia de un juicio político por el caso Ueno Bank",
+    "summary": "El fiscal general de Paraguay renunció este martes 17 de noviembre en medio de las gestiones de la Cámara de Diputados para someterlo a juicio político y de críticas por su actuación en la crisis bancaria, según una carta divulgada por medios.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261117-el-fiscal-general-de-paraguay-renuncia-ante-la-advertencia-de-un-juicio-pol%C3%ADtico-por-el-caso-ueno-bank",
+    "category": "Política",
+    "date": "2026-11-17T19:09:26+00:00",
+    "image": "https://s.france24.com/media/display/67ac17f8-e2ba-11f1-9f12-1ba7ddfab527/w:1024/p:16x9/ab25ccdb932268ef586c52484bce931358481fa1.jpg",
+    "title_en": "Paraguay's Attorney General Rejects Political Trial Warning for Ueno Bank",
+    "summary_en": "The Paraguayan public prosecutor resigned on Tuesday November 17th amidst his efforts by the House of Deputies to put him to a political trial and to criticize his conduct in the banking crisis, according to a letter published by means."
+  },
+  {
+    "title": "Reuniones con aliados, acuerdos y una histórica cumbre: Trump busca alivio en su gira asiática",
+    "summary": "El presidente Donald Trump inició este martes 17 de noviembre en Filipinas un recorrido de tres días por Asia, que incluye la firma de acuerdos comerciales, conversaciones con aliados clave de Estados Unidos y una esperada reunión tripartita con Xi Jinping y Vladímir Putin. Tras recibir varios golpes en el frente interno, el mandatario estadounidense…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-reuniones-con-aliados-acuerdos-y-una-hist%C3%B3rica-cumbre-trump-busca-alivio-en-su-gira-asi%C3%A1tica",
+    "category": "Política",
+    "date": "2026-11-17T19:06:27+00:00",
+    "image": "https://s.france24.com/media/display/5519fef0-e276-11f1-b22e-ff16da94d1fe/w:1024/p:16x9/AP26321377296646.jpg",
+    "title_en": "Meetings with allies, agreements and a historic summit: Trump seeks relief from his Asian tour",
+    "summary_en": "President Donald Trump began his 3-day tour of Asia with his first three-day tour of the Philippines, including signing trade agreements, discussions with key U.S. allies and an expected tripartite meeting with Xi Jinping and Vladimir Putin. Following several blows to the internal front, the American president..."
+  },
+  {
+    "title": "Cercanías de Madrid y Rodalies recuperan pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
+    "summary": "La protesta sindical obliga a suprimir más del 40% de los servicios mínimos en las dos mayores áreas metropolitanas. En la alta velocidad se caen el 14% de las salidas garantizadas",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
+    "category": "Deportes",
+    "date": "2026-11-17T19:05:41+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/K5PJODWUQ5GCDAWXD434LHC7TY.jpg?auth=491e9de44fef43008daf40be44c5fc98c1f771858eff785b91a068c8181b868d",
+    "title_en": "Cercanies of Madrid and Rodalities get their pulse back after they have been paralyzed and 700,000 affected by the railway strike",
+    "summary_en": "The union protest requires more than 40% of minimum services to be abolished in the two largest metropolitan areas. At high speed 14% of guaranteed outputs fall"
+  },
+  {
+    "title": "Irán vuelve a atacar posiciones estadounidenses en Bahrein y reporta explosiones en la isla de Qeshm",
+    "summary": "Este martes 17 de noviembre, Irán lanzó drones contra una instalación de radar estadounidense en Bahrein, siendo el tercer ataque a objetivos militares de Estados Unidos en ese país del Golfo en los últimos días. En paralelo, Teherán acusó a las fuerzas de la nación norteamericana de bombardear la estratégica isla de Qeshm, en el estrecho de Ormuz, sin…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/medio-oriente/20261117-ir%C3%A1n-vuelve-a-atacar-posiciones-estadounidenses-en-bahrein-y-reporta-explosiones-en-la-isla-de-qeshm",
+    "category": "Internacional",
+    "date": "2026-11-17T18:38:08+00:00",
+    "image": "https://s.france24.com/media/display/c3f154dc-e2ac-11f1-bc30-c5c0357b2a0c/w:1024/p:16x9/2026-11-17T171352Z-450277371-RC2SPOAB868L-RTRMADP-3-IRAN-CRISIS-TANKER.jpg",
+    "title_en": "Iran Reattacks U.S. positions in Bahrain and reports explosions on Qeshm Island",
+    "summary_en": "On Tuesday, November 17, Iran launched drones at an American radar facility in Bahrain, as the third attack on U.S. military targets in that Gulf country in recent days. At the same time, Tehran accused the forces of the American nation of bombing the strategic island of Qeshm, at the Strait of Ormuz, without..."
+  },
+  {
+    "title": "Volodimir Zelenski pide por videoconferencia al Grupo de Contacto para Ucrania: \"Necesitamos más aviones de combate\"",
+    "summary": "El presidente de Ucrania pide a sus socios militares más cazas F-16 y Mirage ante la escalada aérea rusa con drones a reacción.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/volodimir-zelenski-pide-por-videoconferencia-al-grupo-de-contacto-para-ucrania-necesitamos-más-aviones-de-combate/a-79974881?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-17T18:34:00+00:00",
+    "image": "",
+    "title_en": "Volodimir Zelensky calls by video for contact group for Ukraine: \"We need more combat aircraft\"",
+    "summary_en": "The President of Ukraine asks his military partners more F-16 and Mirage fighters to face Russian air climbing with drones to reaction."
+  },
+  {
+    "title": "Nuevo caso de allanamiento y suspensión de un medio de comunicación opositor en Turquía",
+    "summary": "Un nuevo medio de comunicación de la oposición en Turquía fue intervenido por la Policía. El canal Sözcü TV fue allanado y suspendido luego de que el medio publicara información privilegiada sobre el escándalo financiero que involucra a altos cargos del Gobierno turco en un caso de inflación artificial de fondos. Nuestro corresponsal Adriá Rocha nos amplió…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-nuevo-caso-de-allanamiento-y-suspensi%C3%B3n-de-un-medio-de-comunicaci%C3%B3n-opositor-en-turqu%C3%ADa",
+    "category": "Economía",
+    "date": "2026-11-17T18:27:50+00:00",
+    "image": "https://s.france24.com/media/display/a5adeaea-e2a6-11f1-848c-1ba7ddfab527/w:1024/p:16x9/ES-20261117-073749-074129-CS-01.jpg",
+    "title_en": "New case of intrusion and suspension of opposition means of communication in Turkey",
+    "summary_en": "A new opposition means of communication in Turkey was interacted by police. The Sözcü TV channel was raided and suspended after the media published insider information about the financial scandal involving high officials of the Turkish Government in an artificial fund inflation case. Our correspondent Adria Rocha has enlarged us..."
+  },
+  {
+    "title": "Sin futuro: el sueño internacional de los universitarios de Irán",
+    "summary": "La guerra en Irán acelera la emigración de jóvenes con estudios superiores. Cada vez más jóvenes iraníes con estudios superiores tienen dudas sobre si podrán labrarse un futuro en su propio país.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/sin-futuro-el-sueño-internacional-de-los-universitarios-de-irán/a-79974427?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-17T18:13:00+00:00",
+    "image": "",
+    "title_en": "No Future: Iran's University's International Dream",
+    "summary_en": "The war in Iran accelerates the emigration of advanced youth. More and more young Iranians with advanced studies have been dubious about whether a future can be established in their own countries."
+  },
+  {
+    "title": "La Cámara de Representantes de EE. UU. cita a Jensen Huang para el 1 de diciembre",
+    "summary": "Luego renunciar a su cargo como director ejecutivo de la empresa Nvidia, por admitir una relación extramatrimonial con una ejecutiva señalada por los servicios de inteligencia estadounidenses como presunta espía del Gobierno chino, Jensen Huang aceptó testificar ante el Congreso. El Comité de Asuntos Exteriores indagará sobre si estuvo en peligro la…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261117-economia-huang-nvidia-congreso-resultados",
+    "category": "Política",
+    "date": "2026-11-17T18:11:03+00:00",
+    "image": "https://s.france24.com/media/display/e899ca7c-e2b0-11f1-9dea-1ba7ddfab527/w:1024/p:16x9/2026-11-16T182243Z-119858112-RC2O2LA29X51-RTRMADP-3-NVIDIA-CEO.jpg",
+    "title_en": "The U.S. House of Representatives U.S. cites Jensen Huang for 1 December",
+    "summary_en": "He then gave up his office as executive director of Nvidia's company, for admitting an extramatrimonial relationship with an executive appointed by U.S. intelligence as an alleged spy of the Chinese Government, Jensen Huang agreed to testify to Congress. The Foreign Affairs Committee will conduct an inquiry as to whether the..."
+  },
+  {
+    "title": "México, EE.UU. y Bolivia pierden su estatus de países libres de sarampión tras registrar miles de casos y decenas de muertes",
+    "summary": "En los tres países, se observó la transmisión de un mismo genotipo y linaje del virus durante 12 meses o más, señaló la OPS.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro?at_medium=RSS&at_campaign=rss",
+    "category": "Salud",
+    "date": "2026-11-17T18:07:53+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ea8/live/716f1280-e2a2-11f1-8226-87dfa5049e9a.jpg",
+    "title_en": "Mexico, the U.S. and Bolivia lose their measles-free status after registering thousands of cases and tens of deaths",
+    "summary_en": "In all three countries, the same genotype and virus lineage were observed for 12 months or more, PAHO noted."
+  },
+  {
+    "title": "Abascal justifica que su mujer cobre el bono social térmico porque es familia numerosa",
+    "summary": "El candidato de Vox ha asegurado que es “familia numerosa especial” para justificar el cobro del cheque de 210 euros concebido para que familias vulnerables puedan pagar el recibo de la calefacción",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/abascal-justifica-que-su-mujer-cobre-el-bono-social-termico-porque-es-familia-numerosa-y-promete-ampliarlo.html",
+    "category": "Política",
+    "date": "2026-11-17T17:48:47+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/EK4XSTBEOFGVXAO35PHIUDJUXE.jpg?auth=453dde1209c131d3780968020277a26d4e0a84f04326543e7fc3841a66489a60",
+    "title_en": "Abascal justifies his wife's collection of the thermal social bonus because she's a large family",
+    "summary_en": "Vox's candidate has stated that it's \"special large family\" to warrant collection of the check of EUR 210 designed so that vulnerable families can pay for the heating receipt"
+  },
+  {
+    "title": "Jensen Huang rompe su silencio tras el escándalo y dice que está dispuesto a regresar de consejero delegado a Nvidia",
+    "summary": "Son las primeras palabras del fundador del mayor fabricante de chips del mundo tras su intempestiva salida la semana pasada",
+    "source": "El País",
+    "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
+    "category": "Internacional",
+    "date": "2026-11-17T17:42:46+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2AC4CQEX7ZFWTCAZ6USQX6P5QE.JPG?auth=b2c3496700911a861266a8403a6099e807330c55ced695e6705b39f79c500b17",
+    "title_en": "Jensen Huang breaks his silence after his scandal and says he's ready to come back as his delegate to Nvidia",
+    "summary_en": "They are the first words of the founder of the world's largest chip maker after his relentless exit last week."
+  },
+  {
+    "title": "Los funcionarios públicos protestan para reclamar mayores salarios en una Francia en crisis",
+    "summary": "Los sindicatos convocaron una nueva jornada de huelgas y manifestaciones para exigir subidas salariales y mejoras en los servicios públicos, tras el rechazo del Gobierno a aumentar los salarios de los funcionarios.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/los-funcionarios-públicos-protestan-para-reclamar-mayores-salarios-en-una-francia-en-crisis/a-79974558?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Economía",
+    "date": "2026-11-17T17:37:00+00:00",
+    "image": "",
+    "title_en": "Civil servants protest to demand higher wages in a crisis France",
+    "summary_en": "The trade unions called for a new day of strikes and demonstrations to demand wage increases and improvements in public services after the Government's refusal to increase civil servants' wages."
+  },
+  {
+    "title": "El gran hito del Voyager, el objeto fabricado por la humanidad que más lejos llega en el espacio al viajar un día luz",
+    "summary": "Casi 50 años después de su lanzamiento, una de las sondas gemelas de la misión Voyager está a punto de alcanzar una distancia de un día luz con respecto a nosotros y sigue enviando valiosos datos.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cmgrewv5zxqro?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-17T17:21:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d16/live/3fcb94e0-ddbd-11f1-93e1-3b657b665bcf.png",
+    "title_en": "The great landmark of Voyager, an object made by humanity that goes far into space while travelling a light day",
+    "summary_en": "Almost 50 years after its launch, one of the Voyager mission's twin probes is about to reach a light day's distance from us and continues to send valuable information."
+  },
+  {
+    "title": "Javier Bardem: “Espero que el 29-N gane un gobierno progresista. Depende de nosotros y de que ejerzamos un voto útil”",
+    "summary": "A dos días de su estreno en el teatro con público, el actor, sus compañeros de escenario y su mentor y director Juan Carlos Corazza presentan ante la prensa ‘¡Chéjov! ¡Chéjov!’",
+    "source": "El País",
+    "url": "https://elpais.com/cultura/2026-11-17/javier-bardem-espero-que-el-29-n-gane-un-gobierno-progresista-depende-de-nosotros-y-de-que-ejerzamos-un-voto-util.html",
+    "category": "Política",
+    "date": "2026-11-17T17:18:34+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/LC4X4HRE55AOXA7M6S76E5IBS4.jpg?auth=ce0c1a9360025afcf4616a5045703ef7713d04ca93ec1e76320380f32eaec797",
+    "title_en": "Javier Bardem: \"I hope that the 29th N will gain a progressive government. It's up to us and we have a useful vote.\"",
+    "summary_en": "Two days after his performance at his theater with an audience, the actor, his stage partners and his mentor and director Juan Carlos Corazza will be presenting to the press' Chéjov! Chejov!"
+  },
+  {
+    "title": "La coalición compite por los votos de la izquierda en directo en La Moncloa: “El decreto está listo, portavoz”",
+    "summary": "Yolanda Díaz hace campaña por Frente Amplio rodeada de ministros socialistas pero dice que la coalición ha sido “un ejemplo de gestión política de la diferencia para hacer avanzar el país”",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-17/la-coalicion-compite-por-los-votos-de-la-izquierda-en-directo-en-la-moncloa-el-decreto-esta-listo-portavoz.html",
+    "category": "Política",
+    "date": "2026-11-17T17:09:34+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2PRJXB6NDVBRRMQ5FLAR3SQO6A.jpg?auth=a3a71e0b8c272feb5f232526c6f0cbf291b86ff4f259af4fc45bb4290abef676",
+    "title_en": "The coalition competes for the leftist votes live at La Moncloa: \"The Decree is ready, spokesperson\"",
+    "summary_en": "Yolanda Diaz campaigns for the Expand Front surrounded by socialist ministers but says that the coalition has been \"an example of the political management of difference to advance the country.\""
+  },
+  {
+    "title": "Aunque los apoyos se tambalean, Europa cierra filas con Ucrania",
+    "summary": "La Coalición de Voluntarios debatirá en Berlín, entre otras cosas, de qué manera puede Europa participar en el futuro en las negociaciones sobre el destino del Ucrania.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/aunque-los-apoyos-se-tambalean-europa-cierra-filas-con-ucrania/a-79972328?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-17T17:07:00+00:00",
+    "image": "",
+    "title_en": "Although backups are staggering, Europe's closed up with Ukraine",
+    "summary_en": "The Volunteer Coalition will discuss in Berlin, inter alia, how Europe can participate in future negotiations about the destination of Ukraine."
+  },
+  {
+    "title": "Pedro Sánchez concede su primera entrevista a una revista del corazón: “No imagino mi vida sin Begoña”",
+    "summary": "El presidente del Gobierno y candidato del PSOE a las elecciones generales protagoniza este miércoles la primera página de ‘Lecturas’, y habla en la publicación de la campaña electoral y de su familia. “He tenido que renunciar a muchos momentos con mis hijas”, afirma",
+    "source": "El País",
+    "url": "https://elpais.com/gente/2026-11-17/pedro-sanchez-concede-su-primera-entrevista-a-una-revista-del-corazon-no-imagino-mi-vida-sin-begona.html",
+    "category": "Política",
+    "date": "2026-11-17T17:05:02+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/XIDRTVWNPZCFXA4BLDMLKNY4XI.jpg?auth=f3974797a39c10fa556af28ab19948f5c9c2007349b4bd7a499b408f17f90f33",
+    "title_en": "Pedro Sánchez gives his first interview to a heart magazine: \"I can't figure out my life without Begoña\"",
+    "summary_en": "The president of the government and candidate of the pSOE for the general elections starring this Wednesday's first page of \"Readings,\" and talking about his and his family's campaign. \"I have had to give up many moments with my daughters,\" she says."
+  },
+  {
+    "title": "Cómo ejercitar los tobillos, una de las partes del cuerpo que se lesionan con más frecuencia",
+    "summary": "La fisioterapeuta deportiva Genevieve Taiwah comparte sus mejores consejos para cuidar la articulación que representa el 5% de las visitas a urgencias en Reino Unido.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c5zjrdmvj240o?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-17T16:48:47+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3625/live/65010850-e27a-11f1-bd1e-f9c53347c5a6.jpg",
+    "title_en": "How to exercise your ankles, one of the most often damaged parts of your body",
+    "summary_en": "The sports physiotherapist Genevieve Taiwan shares his best advice to care for the joint that accounts for 5% of emergency visits in the UK."
+  },
+  {
+    "title": "El legado de Orbán en Hungría: millones ocultos, trata y robo bancario",
+    "summary": "Viktor Orbán prometió proteger a Hungría de la corrupción y la inmigración ilegal. Ahora, exministros, el antiguo jefe del banco central y su propio hermano han sido detenidos. ¿Qué futuro le espera a su partido Fidesz?",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/el-legado-de-orbán-en-hungría-millones-ocultos-trata-y-robo-bancario/a-79972472?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Deportes",
+    "date": "2026-11-17T16:32:00+00:00",
+    "image": "",
+    "title_en": "Orban's legacy in Hungary: hidden million, traffic and bank robberies",
+    "summary_en": "Viktor Orban promised to protect Hungary from corruption and illegal immigration. Now, former ministers, the former head of the central bank and his own brother have been arrested. What future does his Fidesz party have?"
+  },
+  {
+    "title": "Alemania presupuestará 20 millones de euros para enviar a 40 migrantes al centro de deportación en Ruanda",
+    "summary": "El SPD, miembro de la coalición de Gobierno junto a los democristianos, avisa de que actuará para frenar la participación de Berlín en el pacto con Kigali",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-17/alemania-presupuestara-20-millones-de-euros-para-enviar-a-40-migrantes-al-centro-de-deportacion-europeo-en-ruanda.html",
+    "category": "Política",
+    "date": "2026-11-17T16:30:51+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/QE63EKWFQ5NV3B23J4B7XGOYCI.jpg?auth=9638707ec3e18c4ae5fd5ac208a42067db94acf5e57904fb6ede4fd8fad4f1fa",
+    "title_en": "Germany will budget EUR 20 million to send 40 migrants to deportation centre in Rwanda",
+    "summary_en": "The SPD, a member of the government's coalition with the Democrats, warns that it will act to halt Berlin's participation in the pact with Kigali"
+  },
+  {
+    "title": "¿Por qué preocupa el plan europeo de construir un centro de deportación de migrantes en Ruanda?",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://f24.my/CI1x",
+    "category": "Internacional",
+    "date": "2026-11-17T16:30:38+00:00",
+    "image": "",
+    "title_en": "Why are we concerned about the European plan to build a deportation centre for migrants in Rwanda?",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "El Gobierno trata de impulsar el bono social de telecomunicaciones por su escaso alcance respecto al eléctrico",
+    "summary": "El Consejo de Ministros aprueba el Reglamento del Servicio Universal con tarifas rebajadas para perceptores del IMV y eleva la velocidad mínima de acceso a internet a 100 Mbps",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/companias/2026-11-17/el-gobierno-trata-de-impulsar-el-bono-social-de-telecomunicaciones-por-su-escaso-alcance-respecto-al-electrico.html",
+    "category": "Tecnología",
+    "date": "2026-11-17T16:20:45+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/R7ZRR4WAOZD6XLHJZSNJDUEFUA.jpg?auth=50088dbf05f9a305e143a45b7458f669f0e1140e39e9371e4930bfae28b34343",
+    "title_en": "The Government seeks to boost the social telecommunications bonus as far as electricity",
+    "summary_en": "The Council of Ministers approves Universal Service Regulation with low prices for IPM recipients and raises the minimum internet access speed to 100 Mbps"
+  },
+  {
+    "title": "Así es la granja de Zaragoza cuyas actividades fueron paralizadas por el Gobierno de Aragón: cadáveres en descomposición, excrementos y roedores",
+    "summary": "La Consejería de Agricultura señala que no se permitirá la entrada de nuevos animales, pero pide no “criminalizar” los establecimientos por un caso particular",
+    "source": "El País",
+    "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-17/asi-es-la-granja-de-zaragoza-cuyas-actividades-fueron-paralizadas-por-el-gobierno-de-aragon-cadaveres-en-descomposicion-excremento-y-roedores.html",
+    "category": "Política",
+    "date": "2026-11-17T16:19:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/XMQEERY6IVHH7PXJHKFO3D3X6I.jpg?auth=309592a6475c842294a9b8803d2f3fd67129b2e759fae1ef8ee4e1e386beb257",
+    "title_en": "That's how Zaragoza's farm with activities paralyzed by the Government of Aragon: decomposing corpses, excrements and rodents",
+    "summary_en": "The Section for Agriculture points out that new animals will not be allowed to enter but calls for establishments to be \"criminalized\" for a particular case"
+  },
+  {
+    "title": "Puentes, objetivos clave de las últimas rondas de ataques entre Rusia y Ucrania",
+    "summary": "Ucrania atacó el puente que conecta Crimea con territorio ruso por segunda noche consecutiva, asegurando que generó considerables daños a la estructura, mientras que el Kremlin afirma que sufrió daños \"mínimos\". Rusia también atacó con misiles dos puentes ucranianos en la madrugada de este 17 de noviembre, afectando el paso por el río Dnipro. Los ataques a…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-puentes-objetivos-clave-de-las-%C3%BAltimas-rondas-de-ataques-entre-rusia-y-ucrania",
+    "category": "Internacional",
+    "date": "2026-11-17T16:15:32+00:00",
+    "image": "https://s.france24.com/media/display/95687a56-e2a1-11f1-9793-1ba7ddfab527/w:1024/p:16x9/ES-20261117-073538-073721-CS.jpg",
+    "title_en": "Highlights, key targets of last rounds of attacks between Russia and Ukraine",
+    "summary_en": "Ukraine attacked the bridge connecting Crimea with Russian territory for second consecutive night, claiming that it caused considerable damage to the structure while Kremlin claims to have suffered \"minimum\" damage. Russia also attacked with missiles two Ukrainian bridges earlier this November 17, affecting the passage through the Dnipro River. The attacks on..."
+  },
+  {
+    "title": "Xi recibe a Trump y Putin en Shenzhen, \"la ciudad de los sueños\" de China: esto es lo que no verán",
+    "summary": "Shenzhen se ha convertido en un símbolo de futuro para China. Pero no todos sus residentes lo ven como un lugar en donde pueden lograr sus sueños.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cqevrg8yr429o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-17T16:05:06+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/185e/live/d02f0260-e2d1-11f1-99ed-7de3e5932968.jpg",
+    "title_en": "Xi welcomes Trump and Putin at Shenzhen, China's \"town of dreams\": That's what they won't see",
+    "summary_en": "Shenzhen has become a symbol of China's future. But not every resident sees them as a place they can achieve their dreams."
+  },
+  {
+    "title": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\"",
+    "summary": "El puente que une a Crimea y Rusia ha sufrido graves daños, mientras que dos rutas que atraviesan Kyiv permanecen cerradas.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cje39lr0v1w7o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-17T16:00:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
+    "title_en": "Part of the Crimea bridge that built Putin's government crumbles while Ukraine holds an \"unprecedented\" attack",
+    "summary_en": "The bridge that links Crimea and Russia has been greatly damaged while two routes across Kyiv are closed."
+  },
+  {
+    "title": "1.400 mujeres tienen pulseras antimaltratadores con órdenes de alejamiento por debajo de la distancia segura recomendada",
+    "summary": "Igualdad y el fabricante de los dispositivos reclaman al menos 350 metros de margen para que dé tiempo a la respuesta policial. El Poder Judicial replica que no se puede fijar una “generalidad” en todos los casos ni dar “directrices” a los jueces",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-17/1400-mujeres-tienen-pulseras-antimaltratadores-con-ordenes-de-alejamiento-por-debajo-de-la-distancia-segura-recomendada.html",
+    "category": "Internacional",
+    "date": "2026-11-17T15:50:47+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/OBVZAZGGDA4W3WWXMRERCIFPK4.jpg?auth=c4ea646f068c19281ff4f5a73984aaf17c2ac65d3fbbfd3c833967ab1ba7f84c",
+    "title_en": "1,400 women have anti-maltreatment bracelets with restraining orders under the guaranteed range",
+    "summary_en": "Equality and the device manufacturer demand at least 350 metres of space to give time to police response. The judiciary replied that a \"generality\" could be established in all cases and that judges could be given \"guidelines\""
+  },
+  {
+    "title": "Bruselas alerta de que la falta de vivienda es “el riesgo principal” para la economía española",
+    "summary": "“Un déficit continuado de la oferta podría limitar la movilidad laboral y la llegada de trabajadores”, apunta la Comisión",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-17/bruselas-alerta-de-que-la-falta-de-vivienda-es-el-riesgo-principal-para-la-economia-espanola.html",
+    "category": "Economía",
+    "date": "2026-11-17T15:45:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/UMREH4TC2RBEDNFXAAOBPF5I7A.jpg?auth=13d2183c95ef701c38d234a9c12179800279deb33f9a6c019c5b02e5febf4cf1",
+    "title_en": "Brussels warns that housing shortages are \"the main risk\" to the Spanish economy",
+    "summary_en": "\"A continuous supply deficit could restrict labour mobility and the arrival of workers,\" says Commission"
+  },
+  {
+    "title": "Delcy Rodriguez, \"la colaboradora en jefe de Venezuela\": 'The New Yorker'",
+    "summary": "En 'Revista de Prensa' analizamos el perfil de Venezuela y su líder Delcy Rodriguez escrito por el reconocido periodista Jon Lee Anderson en la revista 'The New Yorker'. El artículo califica a la mandataria como \"colaboradora en jefe\" y asegura que Estados Unidos ejerce una \"influencia descaradamente neocolonial\" sobre Caracas.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/revista-de-prensa/20261117-delcy-rodriguez-la-colaboradora-en-jefe-de-venezuela-the-new-yorker",
+    "category": "Internacional",
+    "date": "2026-11-17T15:41:33+00:00",
+    "image": "https://s.france24.com/media/display/37244500-e28e-11f1-a841-1ba7ddfab527/w:1024/p:16x9/ES-20261117-081348-082157-CS.jpg",
+    "title_en": "Delcy Rodriguez, \"Venezuela's leading contributor\": 'The New Yorker'",
+    "summary_en": "In 'Press Review' we analysed the profile of Venezuela and its leader Delcy Rodriguez written by renowned journalist Jon Lee Anderson in the magazine \"The New Yorker '. The article describes the mandataria as a\" co-operative in chief \"and claims that the U.S. exerted a\" brazenly neo-colonial influence \"about Caracas."
+  },
+  {
+    "title": "La cumbre del clima se prepara para admitir que el calentamiento va a romper el primer dique de contención",
+    "summary": "Tras reconocer la ONU que se va a superar el límite de los 1,5 grados, un nutrido grupo de países aboga por incluir este aviso en el acuerdo final de la COP31, que aún está en el aire",
+    "source": "El País",
+    "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-17/la-cumbre-del-clima-se-prepara-para-admitir-que-el-calentamiento-va-a-romper-el-primer-dique-de-contencion.html",
+    "category": "Medio Ambiente",
+    "date": "2026-11-17T15:32:25+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/BOIYCOTN7NJWRGHDRXL5SNTD3Q.jpg?auth=cafc708abeaef0c3e4af31841b4f5d3324cecdcbaa34d77061e5d5162151b549",
+    "title_en": "The climate summit gets ready to admit that warming will break the first containment dam",
+    "summary_en": "After recognizing that the 1.5-degree border will be exceeded, a large group of countries are advocating to include this notice in the final agreement of COP31, which remains in the air"
+  },
+  {
+    "title": "Peña y Ueno Bank: \"En Paraguay la impunidad es extraordinariamente alta\"",
+    "summary": "La caída de Ueno Bank dejó sin acceso a sus ahorros a cerca de tres millones de paraguayos y destapó graves fallos de transparencia y control en el sistema financiero del país. El escándalo llevó a la destitución de Santiago Peña, hoy en prisión preventiva mientras la Fiscalía investiga si desvió fondos públicos al banco. ¿Qué revela esta crisis sobre la…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/la-entrevista/20261117-ueno-bank-y-la-crisis-en-paraguay-la-impunidad-es-extraordinariamente-alta",
+    "category": "Economía",
+    "date": "2026-11-17T15:24:42+00:00",
+    "image": "https://s.france24.com/media/display/eed3eb78-e28f-11f1-b27f-7908c4e1a3c7/w:1024/p:16x9/WEB-PORTADA-17NOV-ENT.jpg",
+    "title_en": "Peña and Ueno Bank: \"Impunity in Paraguay is extraordinarily high\"",
+    "summary_en": "The fall of Ueno Bank left about 3 million Paraguayans with no access to their savings and revealed serious challenges to transparency and monitoring in the financial system. The scandal led to the dismissal of Santiago Peña, currently in pretrial detention while the Prosecutor's Office investigated whether public funds were diverted to the Bank. What does this crisis reveal about..."
+  },
+  {
+    "title": "Informe desde Shenzhen: Canadá y China se acercan con miras a reducir su dependencia de EE. UU.",
+    "summary": "China y Canadá se acercan previo a la cumbre de la APEC que se realizará en Shenzhen. Con los aranceles de Donald Trump como un punto en común, el presidente Xi Jinping y el primer ministro Mark Carney estrechan sus lazos tras rebajar los aranceles a las exportaciones canadienses de carne de cerdo y pescado y los productos chinos de aluminio y acero para…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-informe-desde-shenzhen-canad%C3%A1-y-china-se-acercan-con-miras-a-reducir-su-dependencia-de-ee-uu",
+    "category": "Economía",
+    "date": "2026-11-17T15:09:15+00:00",
+    "image": "https://s.france24.com/media/display/6f38736e-e296-11f1-8c40-c5c0357b2a0c/w:1024/p:16x9/ES-20261117-073253-073434-CS.jpg",
+    "title_en": "Report from Shenzhen: Canada and China come up with a view to reducing their dependence on US. Estados Unidos",
+    "summary_en": "China and Canada are leading up to an APEC summit at Shenzhen. With Donald Trump's tariffs as a common point, President Xi Jinping and Prime Minister Mark Carney tighten their links after lowering their tariffs to Canadian export pork and fish and Chinese products of aluminium and steel for..."
+  },
+  {
+    "title": "Filtración masiva expone a Deutsche Bank por Epstein y oligarcas rusos",
+    "summary": "El Gobierno alemán pidió \"transparencia\" a Deutsche Bank, tras estallar un escándalo que lo hundió en la bolsa.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/filtración-masiva-expone-a-deutsche-bank-por-epstein-y-oligarcas-rusos/a-79972229?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Economía",
+    "date": "2026-11-17T14:58:00+00:00",
+    "image": "",
+    "title_en": "massive filtering exposes Deutsche Bank for Epstein and Russian oligarchs",
+    "summary_en": "The German Government called for \"transparency\" to Deutsche Bank after a scandal broke out and put him into his market."
+  },
+  {
+    "title": "\"El gobierno de Ortega me prohibió entrar en Nicaragua, por lo que regresé clandestinamente a mi propio país\"",
+    "summary": "La ONU ha documentado al menos 318 casos de nicaragüenses a los que se les denegó la entrada a su país entre junio de 2018 y agosto de 2025.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cx21p732nv5o?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-17T14:53:10+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dcf4/live/923896f0-e296-11f1-8dda-8925a81c3da5.jpg",
+    "title_en": "\"Ortega's government forbade me from entering Nicaragua and so I returned to my own country secretly\"",
+    "summary_en": "The UN has documented at least 318 cases of Nicaraguans who were refused entry from June 2018 to August 2025."
+  },
+  {
+    "title": "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin",
+    "summary": "Un ataque con misiles provoca el desprendimiento de un tramo de la estructura que une Rusia con el territorio tomado ilegalmente en 2014",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-17/ucrania-destruye-e-inutiliza-parte-del-puente-de-crimea.html",
+    "category": "Internacional",
+    "date": "2026-11-17T14:37:59+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/BVANWNXAG5AGLKWTBXVI4UOVXU.jpg?auth=14b9dd24cfeb04abe1bd96446afc28e0810a2d86f8abdd2e6718258018f36090",
+    "title_en": "Ukraine destroys part of the Crimea bridge, symbol of Putin's Russian annexation",
+    "summary_en": "A missile attack leads to a detachment of a portion of the structure that links Russia with the territory illegally taken up in 2014"
+  },
+  {
     "title": "Sudáfrica: ¿por qué se desgasta el partido de Mandela?",
     "summary": "El que fue el gran partido dominante tras el apartheid ha perdido casi la mitad del respaldo que tenía a principios de los años 2000. El Congreso Nacional Africano obtuvo en las municipales de noviembre alrededor del 31% de los votos, su peor resultado hasta ahora, arrastrado por la corrupción y una deficiente gestión local. ¿Castigo puntual o divorcio…",
     "source": "France 24",
@@ -44,50 +682,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Jensen Huang's renunciation as CEO of Nvidia, after his relationship with a woman accused of espying for China, re-engulves the U.S.-China dispute about advanced microchips, key to artificial intelligence. Washington restricts its export and Beijing accelerates its own industry. Why are these two powers fighting these..."
   },
   {
-    "title": "Ucrania destruye parte del puente de Crimea, símbolo de la anexión rusa impuesta por Putin",
-    "summary": "Un ataque con misiles provoca el desprendimiento de un tramo de la estructura que une Rusia con el territorio tomado ilegalmente en 2014",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-17/ucrania-destruye-e-inutiliza-parte-del-puente-de-crimea.html",
-    "category": "Internacional",
-    "date": "2026-11-17T13:43:26+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/BVANWNXAG5AGLKWTBXVI4UOVXU.jpg?auth=14b9dd24cfeb04abe1bd96446afc28e0810a2d86f8abdd2e6718258018f36090",
-    "title_en": "Ukraine destroys part of the Crimea bridge, symbol of Putin's Russian annexation",
-    "summary_en": "A missile attack leads to a detachment of a portion of the structure that links Russia with the territory illegally taken up in 2014"
-  },
-  {
-    "title": "Trump llega a Filipinas en plena pugna con China por la influencia en el Sudeste Asiático",
-    "summary": "El presidente de EE UU se reúne en Manila con los líderes de Japón, India y Australia y los miembros de la ASEAN antes de viajar a Shenzhen, donde mantendrá un encuentro con Xi y Putin",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-17/trump-llega-a-filipinas-en-plena-pugna-con-china-por-la-influencia-en-el-sudeste-asiatico.html",
-    "category": "Política",
-    "date": "2026-11-17T13:33:49+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/Z6TE634GIFG2HA3PZSRHDS3D3M.jpg?auth=dd5ae3f7a0c7a405d9e021ca1e4c7c8ce613622d19f3a288026dc5327470748e",
-    "title_en": "Trump arrives in the Philippines in a fight with China for influence in South-East Asia",
-    "summary_en": "The US president meets with leaders from Japan, India and Australia and ASEAN members in Manila before travelling to Shenzhen, where he will have an encounter with Xi and Putin"
-  },
-  {
-    "title": "La madre del bebé maltratado en Barcelona pide poder ver al menor",
-    "summary": "El juez que instruye el caso deniega la libertad solicitada por el padre y el archivo de la causa contra la madre",
-    "source": "El País",
-    "url": "https://elpais.com/sociedad/2026-11-17/la-madre-del-bebe-maltratado-en-barcelona-pide-poder-ver-a-la-criatura.html",
-    "category": "Internacional",
-    "date": "2026-11-17T13:24:56+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/P7EKPTBALVEOJEKG4JE5JG6Z5Y.jpg?auth=4d299329a17f1c690a7ae8bb8316b9d4c4f9cbfe371af30563e41a6f8e17e612",
-    "title_en": "The maltreated baby's mother in Barcelona wants to see the minor",
-    "summary_en": "The investigating judge denies the liberty requested by his father and the filing of his case against his mother"
-  },
-  {
-    "title": "La Abogacía cifra en 113.326 los nacionalizados por la ‘ley de nietos’ afectados por la suspensión de voto del Supremo",
-    "summary": "Los servicios jurídicos del Estado reducen el número tras excluir a menores, inscritos en el censo de España y registros duplicados",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/la-abogacia-cifra-en-113326-los-nacionalizados-por-la-ley-de-nietos-afectados-por-la-suspension-de-voto-del-supremo.html",
-    "category": "Internacional",
-    "date": "2026-11-17T13:12:17+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6ZUG34YIDVNL5O6MR7WSWVZMQI.jpg?auth=f696b705119df625543856a9a591bff7e41feb7082ca219f02de120c48ccdfd0",
-    "title_en": "The Lawyers figure at 113,326 those nationalized by the 'law of grandchildren' affected by the Supreme's vote suspension",
-    "summary_en": "The state's legal services reduce the number after excluding minors, registered with the Spanish census and double searches"
-  },
-  {
     "title": "Xi Jinping se reúne con Sheinbaum, Fujimori y Kast antes de la cumbre de APEC",
     "summary": "El presidente chino Xi Jinping recibió este martes en Shenzhen a Claudia Sheinbaum, Keiko Fujimori y José Antonio Kast, a un día de la reunión de líderes de APEC. Sheinbaum manifestó su intención de reforzar el comercio pese a la suba de aranceles mexicanos a productos chinos, mientras que el encuentro con Kast tuvo lugar en medio de las críticas de Beijing…",
     "source": "France 24",
@@ -99,17 +693,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Chinese President Xi Jinping received Claudia Sheinbaum, Keiko Fujimori and José Antonio Kast on Tuesday at Shenzhen, a day after an APEC leadership meeting. Sheinbaum expressed his intention to strengthen trade despite the rise of Mexican tariffs to Chinese products, while the meeting with Kast took place amidst Beijing's challenges..."
   },
   {
-    "title": "Feijóo, junto a Echeverría, en Eibar: “No nos van a callar, no vamos a dar un paso atrás en Euskadi ni en ningún lugar de España”",
-    "summary": "Un fuerte dispositivo policial ha controlado la visita del líder del PP a la ciudad guipuzcoana, donde ha recibido gritos de “fascista” de un grupo de personas",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/feijoo-junto-a-echeverria-en-eibar-no-nos-van-a-callar-no-vamos-a-dar-un-paso-atras-en-euskadi-ni-en-ningun-lugar-de-espana.html",
-    "category": "Internacional",
-    "date": "2026-11-17T12:34:54+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MKDG5CJDYRAC3NGI26ZBH4DEWU.jpg?auth=87dc52d396ab17049a0868e7248cb9f392b051351d2d77c3a60c55ceb58dba5d",
-    "title_en": "Feijóo, with Echeverría, at Eibar: \"They will not shut us up, we will not step back at Euskadi or anywhere in Spain\"",
-    "summary_en": "A strong police device has been monitoring the visit of the PP leader to the Gipuzcoan town, where they have been shamed by \"fascist\" by a group of people"
-  },
-  {
     "title": "Profecía de Jürgen Klopp se vuelve viral tras rodillo 5-0 a Países Bajos",
     "summary": "Minutos antes del partido contra Países Bajos, el entrenador alemán vaticinó justo un resultado por el que pocos habrían apostado.",
     "source": "DW Español",
@@ -119,17 +702,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Jürgen Klopp's production becomes viral after roller 5-0 to the Netherlands",
     "summary_en": "Minutos before the match against the Netherlands, German coach just tipped a result for which few would have gambled."
-  },
-  {
-    "title": "El Gobierno reconoce a Guillem Agulló, el joven antifascista asesinado por un neonazi, como víctima del terrorismo, 33 años después",
-    "summary": "El Consejo de Ministros aprueba la petición de la familia por reconocer el móvil político de un crimen que marcó a una generación en Valencia",
-    "source": "El País",
-    "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-17/el-gobierno-reconoce-a-guillem-agullo-el-joven-antifascista-asesinado-por-un-neonazi-en-1993-como-victima-del-terrorismo.html",
-    "category": "Política",
-    "date": "2026-11-17T12:28:39+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QT3CXHUUP5C5ZLWYZY2DC2JCDY.jpg?auth=7560275d65f5d983baf5a54989a65fe35d42baa9a8888ac3a4c7084563a6d232",
-    "title_en": "The Government recognizes Guillem Agulló, an anti-fascist killed by a neo-Nazi as a victim of terrorism, 33 years later",
-    "summary_en": "The Council of Ministers approves the family's call for recognition of the political motive for a crime that marked a generation in Valencia"
   },
   {
     "title": "El Gobierno elimina las retenciones del IRPF al salario mínimo para que la subida llegue íntegra desde enero",
@@ -152,17 +724,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/JEVD36ZKRBMVHK2MCVCYDMNDA4.jpg?auth=a959f8df236b16b530bd49673d18851f121f93faf2180c12725f84dbfa46f430",
     "title_en": "La Audiencia de Madrid ordenan reopen la causa contra el director de la Policía por hostiga al vocador de Indoor de Vox",
     "summary_en": "The judges have found an appeal from Samuel Vázquez himself, who is also a member of the National police force and filed his initial complaint"
-  },
-  {
-    "title": "Ucrania golpea el puente de Crimea en segundo ataque masivo en 24 horas",
-    "summary": "El ejército ucraniano golpeó de nuevo anoche el puente de Crimea, que une la anexionada península con la Rusia continental, en el segundo ataque masivo de drones contra territorio ruso en las últimas 24 horas.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/ucrania-golpea-el-puente-de-crimea-en-segundo-ataque-masivo-en-24-horas/a-79965643?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-17T12:10:00+00:00",
-    "image": "",
-    "title_en": "Ukraine hits Crimea bridge in second massive attack in 24 hours",
-    "summary_en": "The Ukrainian army hit again last night the Crimea bridge, which links the annexed peninsula with mainland Russia, with the second massive drones attack on Russian territory in the last 24 hours."
   },
   {
     "title": "\"Vi decenas de cadáveres para reconocer a mi hermano de 14 años tras los terremotos de Venezuela y aún no sé si está enterrado o desaparecido\"",
@@ -189,11 +750,11 @@ window.PLANETA_NEWS = [
   {
     "title": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
     "summary": "El Consejo de Ministros respalda la exención en el IRPF para el suelo retributivo y un paquete de medidas laborales que persigue más trasparencia salarial en las empresas",
-    "source": "El País",
+    "source": "El País Economía",
     "url": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
     "category": "Economía",
     "date": "2026-11-17T11:50:39+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/7MRJDBQIKNDH3FSW7YYJ5APKEA.jpg?auth=057412498fd03e8a20938a12f64c2d0c68f6887d5e275076f1bcece73c400eae",
+    "image": "https://imagenes.elpais.com/resizer/v2/VHWBYXOQUFDP5FLII4AGSSVG2M.jpg?auth=ef044696a2df924f1e10b5b3527698a2f21a9502f100e4a7fb3ae3285a29622d",
     "title_en": "Government approves to raise minimum wage by 5.3% and civil servants' salary by 4.5%",
     "summary_en": "The Council of Ministers supports an IHRP exemption and a package of employment measures that aims at more pay-free jobs in businesses"
   },
@@ -220,50 +781,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The U.S. confirms an investigation into Megasped for alleged diversion of advanced chips from Nvidia to China, in a case that increases tensions with Beijing and with Singapore as well."
   },
   {
-    "title": "Cómo ejercitar los tobillos, una de las partes del cuerpo que se lesionan con más frecuencia y que muchos nunca entrenamos",
-    "summary": "La fisioterapeuta deportiva Genevieve Taiwah comparte sus mejores consejos para cuidar la articulación que representa el 5% de las visitas a urgencias en Reino Unido.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c5zjrdmvj240o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-17T11:31:43+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3625/live/65010850-e27a-11f1-bd1e-f9c53347c5a6.jpg",
-    "title_en": "How to exercise his ankles, one of the body parts that get more often damaged and that many we never train",
-    "summary_en": "The sports physiotherapist Genevieve Taiwan shares his best advice to care for the joint that accounts for 5% of emergency visits in the UK."
-  },
-  {
-    "title": "Zapatero pide acceso a sus joyas para que sus peritos elaboren una nueva tasación",
-    "summary": "El expresidente del Gobierno informa al juez del ‘caso Plus Ultra’ de que ya ha asignado a sus propios expertos para analizar las alhajas incautadas",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-17/zapatero-pide-acceso-a-sus-joyas-para-que-sus-peritos-elaboren-una-nueva-tasacion.html",
-    "category": "Política",
-    "date": "2026-11-17T11:29:31+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/QZUESOP5XNEBPFRFGVT2FIGMDM.jpg?auth=f69bfe013c6823ab67c639d916ff2baf0a30eda46381da0255bdfcc481a67dd6",
-    "title_en": "Zapatero calls his jewelry for his experts to make a new valuation",
-    "summary_en": "The president of the Government informs the judge of the Plus Ultra case that he has already assigned his own experts to analyse the seizures"
-  },
-  {
-    "title": "El papa León XIV critica la agresividad política: “No es necesario llegar a odiarnos, ni usar un lenguaje tan violento”",
-    "summary": "“No estoy al 100%, pero estoy bastante bien”, dice el Pontífice sobre su salud en el vuelo de regreso de Latinoamérica. Llama a “fortalecer la clase trabajadora” y redistribuir la riqueza",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-17/el-papa-leon-xiv-critica-la-agresividad-politica-no-es-necesario-llegar-a-odiarnos-ni-un-lenguaje-tan-violento.html",
-    "category": "Salud",
-    "date": "2026-11-17T11:04:26+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/ZRLVSABOBNM2RCE3LHPBRIBGIY.jpg?auth=36ecda9508f797daa3191f3be092ad454019c5a56af3d30b523af63d365403e7",
-    "title_en": "Pope Leo XIV challenges political aggressiveness: \"It's necessary to hate us or to use such violent language.\"",
-    "summary_en": "\"I'm not at 100% but I'm quite good,\" says the Pontiff about his health at his back flight from Latin America. Call for \"strengthening the working class\" and redistributing wealth"
-  },
-  {
-    "title": "Sanidad envía un requerimiento para exigir crear ya un registro de objetores al aborto en Andalucía y Baleares",
-    "summary": "El Gobierno balear señala que el registro se creará “en las próximas semanas”, mientras el andaluz sigue “en trámite”",
-    "source": "El País",
-    "url": "https://elpais.com/sociedad/2026-11-17/sanidad-envia-un-requerimiento-para-exigir-crear-ya-un-registro-de-objetores-al-aborto-en-andalucia-y-baleares.html",
-    "category": "Política",
-    "date": "2026-11-17T11:03:13+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/EAG5XKTISVAFJAOS3GRH7JUL3E.jpg?auth=7ee6644d7261c8f74d68259642ac9c8e6341c632c2b71b1a79625e8822f4feef",
-    "title_en": "Health sends a demand to demand that an abortion objectors register be established in Andalucía and Balearic Islands",
-    "summary_en": "The Balear Government points out that registration will be established \"in the next few weeks,\" while the figure remains \"under way.\""
-  },
-  {
     "title": "Bruselas acusa a Temu de incumplir la ley “por no tomar medidas contra la venta de productos ilegales”",
     "summary": "La Comisión ya multó con 200 millones a la plataforma digital china hace meses",
     "source": "El País Economía",
@@ -286,59 +803,26 @@ window.PLANETA_NEWS = [
     "summary_en": "Research by more than 200 journalists, based on millions of leaked documents, indicates that Deutsche Bank prioritized its commercial interests as opposed to warnings about operations with at-risk clients, including Jeffrey Epstein and Russian oligarchs. The entity claims that the cases have been reviewed at an earlier stage and have been strengthened by its controls..."
   },
   {
-    "title": "China acoge a los líderes mundiales en su ciudad paraíso de la IA... esto es lo que no verán",
-    "summary": "Shenzhen se ha convertido en un símbolo de futuro para China. Pero no todos sus residentes lo ven como un lugar en donde pueden lograr sus sueños.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cqevrg8yr429o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-17T10:47:26+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg",
-    "title_en": "China welcomes world leaders in its A's Paradise town... That's what they won't see",
-    "summary_en": "Shenzhen has become a symbol of China's future. But not every resident sees them as a place they can achieve their dreams."
-  },
-  {
     "title": "Todo lo que hay que saber sobre las elecciones en España: partidos, fechas, sistema y coyuntura",
     "summary": "España se apresta a celebrar este 29 de noviembre sus terceras elecciones generales desde que Pedro Sánchez está al frente del Gobierno, un proceso precipitado por el rechazo del Congreso de los Diputados a los reales decretos leyes firmados por el ejecutivo para aliviar la crisis de vivienda. Estos son los datos fundamentales del proceso en el que Sánchez…",
     "source": "France 24",
     "url": "https://www.france24.com/es/europa/20261117-todo-lo-que-hay-que-saber-sobre-las-elecciones-en-espa%C3%B1a-partidos-fechas-sistema-y-coyuntura",
     "category": "Política",
     "date": "2026-11-17T10:06:24+00:00",
-    "image": "https://s.france24.com/media/display/c9244000-e233-11f1-a403-29048b396e03/w:1024/p:16x9/2026-11-16T134300Z-2058300537-RC2MMOAXWODK-RTRMADP-3-SPAIN-ELECTION-POLLS.jpg",
+    "image": "https://s.france24.com/media/display/0fed3526-e2d1-11f1-853d-6d75ed565170/w:1024/p:16x9/WEB-PORTADA-17NOV-ARTICULO.png",
     "title_en": "All we have to know about Spanish elections: parties, dates, system and climate",
     "summary_en": "Spain was preparing to hold its third general elections on November 29 since Pedro Sánchez was leading the Government, a precipitated process by the opposition of the Congress of Deputies to the actual laws signed by the executive to ease the housing crisis. These are the fundamental data from the process in which Sánchez..."
   },
   {
     "title": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
     "summary": "La Comisión Europea estima que el PIB español crecerá un 2,6% este año, dos décimas más de lo que dijo en primavera, mientras eleva la media anual del IPC al 3,9%",
-    "source": "El País",
+    "source": "El País Economía",
     "url": "https://elpais.com/economia/2026-11-17/bruselas-mejora-las-previsiones-economicas-de-la-zona-euro-y-espana-pese-a-la-guerra-y-la-inflacion.html",
     "category": "Economía",
     "date": "2026-11-17T10:02:40+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/7Y4DUAH65RPTVIHFRDF5EC7UIA.jpg?auth=3b26f1cfd14de7704403837f44a01b17d6b43fc1b87c80566dd6de0aac0278c6",
     "title_en": "Brussels improves economic forecasts for the euro area and Spain despite war and inflation",
     "summary_en": "The European Commission estimates that Spanish GDP will grow by 2,6% this year, about two tenths more than she said in spring, while bringing up an annual average of the CPI to 3,9%"
-  },
-  {
-    "title": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
-    "summary": "La protesta sindical en favor de mayores medidas de seguridad para el tren colapsa líneas de la red convencional y deja fuera de la programación 90 salidas en la alta velocidad, donde también se han caído el 12% de las salidas garantizadas",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-    "category": "Deportes",
-    "date": "2026-11-17T09:59:23+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/K5PJODWUQ5GCDAWXD434LHC7TY.jpg?auth=491e9de44fef43008daf40be44c5fc98c1f771858eff785b91a068c8181b868d",
-    "title_en": "The railway strike completely paralyzes Cercanías de Madrid and leaves at Rodalities about 40% of the minimum services suspended",
-    "summary_en": "The union protest for increased train safety measures collapses conventional network lines and leaves 90 high-speed departures out of program, with 12% of guaranteed departures also falling"
-  },
-  {
-    "title": "Irán asegura haber atacado con drones un radar de EE. UU. en Baréin",
-    "summary": "Irán aseguró haber atacado con drones un radar operado por Estados Unidos en la base aérea Sheij Isa, en Baréin, en represalia por presuntas incursiones de drones estadounidenses en su espacio aéreo.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/irán-asegura-haber-atacado-con-drones-un-radar-de-ee-uu-en-baréin/a-79965531?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-17T09:45:00+00:00",
-    "image": "",
-    "title_en": "Iran claims to have hit an U.S. radar with drones. UU at Baréin",
-    "summary_en": "Iran claims to have attacked with drones a U.S.-operated radar at Sheij Isa Air Base, at Baréin, in retaliation for alleged raids by American drones into its airspace."
   },
   {
     "title": "Konecta obtiene el respaldo del 76% de sus acreedores para aplazar intereses",
@@ -385,72 +869,6 @@ window.PLANETA_NEWS = [
     "summary_en": "In the ninth month of the year 54,548 operations have been signed and as far as the year goes the accumulated fall about 4%, according to data from the INE"
   },
   {
-    "title": "En directo: nueva jornada de movilización y huelga en el sector público en Francia",
-    "summary": "Los sindicatos franceses convocaron este martes a los 5,8 millones de empleados públicos a una nueva jornada de huelga y manifestaciones, tras considerar insuficientes las conversaciones con el Gobierno sobre aumentos salariales frente al alto costo de vida. Las autoridades prevén entre 220.000 y 300.000 manifestantes en todo el país, en medio de una ola de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/francia/20261117-en-directo-nueva-jornada-de-movilizaci%C3%B3n-y-huelga-en-el-sector-p%C3%BAblico-en-francia",
-    "category": "Política",
-    "date": "2026-11-17T08:06:17+00:00",
-    "image": "https://s.france24.com/media/display/a1081aa0-e252-11f1-b1a9-695cb59fade5/w:1024/p:16x9/000-D6JM7MR.jpg",
-    "title_en": "Live: new day of public sector mobilization and strike in France",
-    "summary_en": "The French trade unions convened a new day of strike and demonstration with 5.8 million public servants on Tuesday after considering that discussions with the Government about wage increases and high living costs were insufficient. The authorities anticipate between 220,000 and 300,000 protesters throughout the country, amidst a wave of..."
-  },
-  {
-    "title": "Sigue el tiempo revuelto: lluvia en la mitad oeste peninsular",
-    "summary": "Las temperaturas serán muy altas hasta el jueves, cuando tras el paso de un frente llegará aire más frío a la Península",
-    "source": "El País",
-    "url": "https://elpais.com/el-tiempo/2026-11-17/sigue-el-tiempo-revuelto-lluvia-en-la-mitad-oeste-peninsular.html",
-    "category": "Internacional",
-    "date": "2026-11-17T08:01:31+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LX74M2L5M5O5LECIRA26YFOJS4.jpg?auth=098a5cc80ff94aa37c79936d9a44d3ef5ea2cf48d34765076b58ca82fb268482",
-    "title_en": "Following the scrambling time: rain at half west peninsular",
-    "summary_en": "The temperatures will be very high till Thursday, when after passing a front will get cold air to the Peninsula"
-  },
-  {
-    "title": "Japón denuncia una incursión de dos aeronaves presuntamente rusas en su espacio aéreo",
-    "summary": "Tokio desplegó aviones de combate tras detectar dos aeronaves presuntamente rusas sobre sus aguas territoriales y presentó una enérgica protesta ante Moscú. El incidente ocurrió este martes, cuando Taiwán y Corea del Sur también reportaron actividad aérea militar rusa en sus proximidades, en medio de varias cumbres de alto nivel en Asia y de crecientes…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-jap%C3%B3n-denuncia-una-incursi%C3%B3n-de-dos-aeronaves-presuntamente-rusas-en-su-espacio-a%C3%A9reo",
-    "category": "Internacional",
-    "date": "2026-11-17T07:30:10+00:00",
-    "image": "https://s.france24.com/media/display/7ec9b30c-d133-11f1-a6bf-5b4a75578ebb/w:1024/p:16x9/764d81f2b9f1d4ae35a89c49360b7fa3ed76021d.jpg",
-    "title_en": "Japan denounces an incursion of two allegedly Russian aircraft into its airspace",
-    "summary_en": "Tokyo deployed combat aircraft after detecting two allegedly Russian aircraft above its territorial waters and submitted a strong protest to Moscow. The incident happened this Tuesday, as Taiwan and South Korea also reported Russian military activity in their vicinity, amidst several high-level summits in Asia and growing..."
-  },
-  {
-    "title": "Tierras raras y defensa: Macron sella una \"asociación estratégica\" con Malasia",
-    "summary": "Durante su visita a Malasia, Emmanuel Macron celebró este martes, junto al primer ministro malasio, Anwar Ibrahim, la cooperación entre ambos países en materia de tierras raras. Los dos dirigentes también anunciaron acuerdos en ámbitos como la defensa y la lucha contra las amenazas híbridas. La visita de dos días de Macron, la primera desde 2017, tiene…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/francia/20261117-macron-visita-malasia-en-busca-de-una-mayor-cooperaci%C3%B3n-en-defensa-y-tierras-raras",
-    "category": "Política",
-    "date": "2026-11-17T06:02:22+00:00",
-    "image": "https://s.france24.com/media/display/6f9a08d2-e254-11f1-99cc-695cb59fade5/w:1024/p:16x9/3bf09564e711e2206cb8ed017c2d4b233d5cea05.jpg",
-    "title_en": "Rare lands and defense: Macron seals a \"strategic partnership\" with Malaysia",
-    "summary_en": "During his visit to Malaysia, Emmanuel Macron, together with Serbian Prime Minister Anwar Ibrahim, held cooperation with both countries with regard to rare lands. The two leaders also announced agreements in areas such as defence and fight against hybrid threats. Macron's two-day visit, the first since 2017, has been..."
-  },
-  {
-    "title": "Cierran paso por dos puentes claves en Kiev tras nuevo ataque ruso",
-    "summary": "Las autoridades de Ucrania reportaron nuevos ataques rusos en la capital, los cuales golpearon infraestructuras importantes.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/cierran-paso-por-dos-puentes-claves-en-kiev-tras-nuevo-ataque-ruso/a-79964881?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-17T06:00:00+00:00",
-    "image": "",
-    "title_en": "Closed by two key bridges in Kiev after Russian attack",
-    "summary_en": "The Ukrainian authorities reported new Russian attacks in the capital and hit important infrastructure."
-  },
-  {
-    "title": "En directo: el puente de Crimea sufre graves daños tras una operación reivindicada por Zelenski",
-    "summary": "El puente de Crimea sufrió graves daños tras una operación con drones y misiles reivindicada este martes por Volodímir Zelenski como respuesta a los ataques rusos contra la infraestructura ucraniana. Las autoridades rusas reportaron dos muertos y anunciaron una investigación por terrorismo. En Ucrania, la ofensiva nocturna rusa provocó apagones en ocho…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261117-en-directo-ataques-rusos-alcanzan-dos-puentes-de-kiev-e-interrumpen-el-suministro-de-agua-y-calefacci%C3%B3n",
-    "category": "Ciencia",
-    "date": "2026-11-17T05:42:38+00:00",
-    "image": "https://s.france24.com/media/display/f6cbe036-e273-11f1-b6ff-ff16da94d1fe/w:1024/p:16x9/000-D7PR463.jpg",
-    "title_en": "Live: The Crimea bridge suffers serious damage after an operation called for by Zelensky",
-    "summary_en": "The Crimea bridge suffered serious damage after an operation with drones and missiles claimed by Volodímir Zelenski on Tuesday as a response to Russian attacks on Ukrainian infrastructure. Russian authorities reported two dead and announced an investigation into terrorism. In Ukraine, the Russian Night Offensive caused blackouts at eight..."
-  },
-  {
     "title": "El Gobierno eleva las sanciones a las empresas que oculten información contractual o salarial a sus empleados",
     "summary": "El Consejo de Ministros aprueba este martes un decreto-ley con varias medidas de índole laboral impulsadas por el Ministerio de Trabajo y que exigen convalidación en la Diputación Permanente",
     "source": "El País Economía",
@@ -484,17 +902,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Metro Bank offers cheap and scale deposits but its branches and regulations complicate a merger"
   },
   {
-    "title": "La deuda española resiste la incertidumbre política",
-    "summary": "El crecimiento y la contención del gasto sostienen la confianza de los inversores",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-17/la-deuda-espanola-resiste-la-incertidumbre-politica.html",
-    "category": "Política",
-    "date": "2026-11-17T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FZUS7G5VUBEGVBX5252RM4ALK4.JPG?auth=f6e7581f348a2a95d622ab134a95817e7e99eed32cf2417f76dcc803d542e249",
-    "title_en": "Spanish debt challenges political uncertainty",
-    "summary_en": "The growth and containment of spending sustain investor confidence"
-  },
-  {
     "title": "Nadie hace vino para vender alcohol",
     "summary": "Retirar el etanol después de la fermentación permite a las bodegas ganar consumidores justo cuando la demanda mundial retrocede",
     "source": "El País Economía",
@@ -504,6 +911,17 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/XL2IOAXBJPTW4BMOGRT4HPECSE.jpg?auth=5a4df512cbfabfd76b2e6b14de793dd685839473a676b0130b4eb06d704315cb",
     "title_en": "Nobody makes wine to sell alcohol",
     "summary_en": "Retiring ethanol after fermentation allows cellars to gain consumers just as global demand goes back"
+  },
+  {
+    "title": "La deuda española resiste la incertidumbre política",
+    "summary": "El crecimiento y la contención del gasto sostienen la confianza de los inversores",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-17/la-deuda-espanola-resiste-la-incertidumbre-politica.html",
+    "category": "Política",
+    "date": "2026-11-17T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FZUS7G5VUBEGVBX5252RM4ALK4.JPG?auth=f6e7581f348a2a95d622ab134a95817e7e99eed32cf2417f76dcc803d542e249",
+    "title_en": "Spanish debt challenges political uncertainty",
+    "summary_en": "The growth and containment of spending sustain investor confidence"
   },
   {
     "title": "El apagón de Microsoft activa los planes B",
@@ -539,17 +957,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The days are passing at the hospital. My mother, Maria Luisa, still doesn't admit any food. They also remove his serum because his legs are swelling. The minimum dose of morphine makes it more and more difficult to stay awake and with an enormous amount of care. Say again \"That's what I didn't mean.\""
   },
   {
-    "title": "Retirados por irregularidades seis estudios de Daniel Balsalobre, el científico emergente ‘número 1’ en España",
-    "summary": "El investigador, uno de los más citados del mundo, defiende su honestidad y atribuye las críticas a “la envidia española”",
-    "source": "El País",
-    "url": "https://elpais.com/ciencia/2026-11-17/retirados-por-irregularidades-seis-estudios-de-daniel-balsalobre-el-cientifico-emergente-numero-1-en-espana.html",
-    "category": "Ciencia",
-    "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/274EFZ3NQBC6JO3MD7C3U2773Y.jpg?auth=ece1676a6818d5dc50fcba4e6fdea1e1f896c9cae065d84a7c2f1443c853d489",
-    "title_en": "Rejected by irregularities 6 studies by Daniel Balsalobre, the emerging scientist 'number 1' in Spain",
-    "summary_en": "The researcher, one of the most mentioned in the world, challenges his honesty and attributs his criticism to \"Spanish envy\""
-  },
-  {
     "title": "Emma Watson, 25 años después de ‘Harry Potter’: de la niña que conquistó el mundo a la mujer que “se rompía” en Hollywood",
     "summary": "Interpretar a Hermione Granger la convirtió en un icono generacional, pero también condicionó su infancia y su manera de entender la profesión. A sus 36 años, la actriz británica ha narrado las heridas que le dejó crecer bajo el hechizo de la saga, un manual de instrucciones para quien le coge el relevo en la serie de HBO",
     "source": "El País",
@@ -561,70 +968,15 @@ window.PLANETA_NEWS = [
     "summary_en": "Playing Hermione Granger became a generational icon but also conditioned his childhood and his understanding of his profession. At his 36 year old, the British actress has told about his injuries that have grown under the saga's spell, an instruction manual for those who get his back from his HBO series."
   },
   {
-    "title": "Jensen Huang y la cazadora de cuero sospechosa: radiografía de una prenda que “confesó antes que él”",
-    "summary": "Cada tecnooligarca escoge un uniforme y el del exlíder de Nvidia, tras su caída en desgracia por su aventura con una supuesta espía china, ha adquirido nuevos matices. Aunque todo apunta a una simple (y aparatosa) crisis de mediana edad",
-    "source": "El País",
-    "url": "https://elpais.com/icon/2026-11-17/jensen-huang-y-la-chaqueta-de-cuero-radiografia-de-una-prenda-que-confeso-la-verdad-antes-que-el.html",
-    "category": "Internacional",
-    "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FZ2L7BWGFREKVEKOCNGY4HNSNY.jpg?auth=9bb2adaf1f495993b92366a876ee752a282d0d722564e837f2b7c08419825f33",
-    "title_en": "Jensen Huang and the suspect leather hunter: x-ray of a pledge that \"confessed before him\"",
-    "summary_en": "Each technooligarch chooses a uniform and that of the former leader of Nvidia, after his fall unfortunately for his adventure with an alleged Chinese spy, has become new nuances. Although everything points to a simple (and surprising) middleage crisis"
-  },
-  {
     "title": "Los actores que han dado vida a James Bond, de peor a mejor",
     "summary": "Robert Pattinson se suma a un grupo que ha ido de Sean Connery a Daniel Craig, pasando por George Lazenby, Roger Moore, Timothy Dalton y Pierce Brosnan",
     "source": "El País",
     "url": "https://elpais.com/cultura/cine/2026-11-17/los-actores-que-han-dado-vida-a-james-bond-de-peor-a-mejor.html",
     "category": "Internacional",
     "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/IER6YHC7FJDPTNPWODGXBFVVPI.jpg?auth=8f7ac70383241dbdb16b9094785da7072f22386fbcaaf592e378f3f7d0f622a2",
+    "image": "https://imagenes.elpais.com/resizer/v2/BQLR2TA74BC3PDIBAM3T5BIKEY.jpg?auth=a5e8e087948a5a7b335d5f03923cbe5321199022bfb290dd8d0320128fc57b9d",
     "title_en": "The actors who have given their lives to James Bond from worse to better",
     "summary_en": "Robert Pattinson joins a group from Sean Connery to Daniel Craig, passing by George Lazenby, Roger Moore, Timothy Dalton and Pierce Brosnan"
-  },
-  {
-    "title": "Xenofobia en campaña",
-    "summary": "El mensaje más importante de lo que va de campaña lo ha dejado Martín Caparrós en un acto en el Congreso por los dos años de la ley de la ELA",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-17/xenofobia-en-campana.html",
-    "category": "Política",
-    "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/NWDXHSZXVNFQRANA7PMXPEI7Y4.jpg?auth=f1acd0271fce7c2b31d494776d2a3a6864f37fd84f4708cf5f5128a1693a9f83",
-    "title_en": "Campaign xenophobia",
-    "summary_en": "The most important message of what's about to be campaign has been left by Martin Capirós at an event at Congress for the two years of ALA law"
-  },
-  {
-    "title": "Los todopoderosos",
-    "summary": "Alguna vez tendremos que normalizar que lo que no se puede hacer en la calle no se puede hacer en la red",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-17/los-todopoderosos.html",
-    "category": "Internacional",
-    "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PTF5PGAYXVF2ZHMZSG7JP5JX4M.JPG?auth=1784504c08eba8c0bdbba6008b687685c632de8961941721a1eb0e482f3f9857",
-    "title_en": "The all powerful",
-    "summary_en": "Once we have to normalise that what cannot be done on the street cannot be done on the net"
-  },
-  {
-    "title": "Núcleo Nacional atacaba a mujeres: “¡Te pego una hostia y te mato!”",
-    "summary": "Varias víctimas denunciaron a este grupo neonazi, que acorralaba a sus enemigos, planeaba coaccionar a testigos judiciales y mantenía contactos con otros ultras españoles",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-17/nucleo-nacional-atacaba-a-mujeres-te-pego-una-hostia-y-te-mato.html",
-    "category": "Internacional",
-    "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/AQFDAR3D7JCIPDED2JYLV5NYFM.jpg?auth=1e4b7890259845d39fc8e6e112e01f419b7c6f44ce24b31a4319fb417612b4f0",
-    "title_en": "Núcleo Nacional was attacking women: \"I put a fuck up and I'll kill you!\"",
-    "summary_en": "Several victims reported to this neo-Nazi group, which cornered their enemies, planned to coerce judicial witnesses and had contact with other Spanish ultras"
-  },
-  {
-    "title": "El CNI detalla diez diferencias entre el asalto de Ceuta de 2021 y el de julio pasado para excluir la autoría de Marruecos",
-    "summary": "La Abogacía del Estado deniega la defensa al exdelegado del Gobierno en Ceuta que se plantea pedir aplazar su declaración como investigado",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-17/el-cni-detalla-diez-diferencias-entre-el-asalto-de-ceuta-de-2021-y-el-de-julio-pasado-para-descartar-la-autoria-de-marruecos.html",
-    "category": "Política",
-    "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/FYJNZMMW7ZGQ3J4TLJ546ZPZAI.jpg?auth=63908e8f01aa60f589a2cbd076a786af753f6a18816aaadb4596f2a623d655f3",
-    "title_en": "The CNI details ten differences between Ceuta's assault of 2021 and that of July to exclude Morocco's authorship",
-    "summary_en": "The law of the State denies the defence to the former delegate of the Government at Ceuta, who purports to postpone his statement as an investigation"
   },
   {
     "title": "Malestar en Hacienda por las insinuaciones del PP de que las cuentas públicas esconden irregularidades",
@@ -658,6 +1010,17 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/7KJEMVEEG5NA7JJHVA3OQ7U7RI.jpg?auth=7d30f720e1baf5ea05b2afb7123611a8dca80a0fef271651da007f0b8220f165",
     "title_en": "The turbophone about Anthropic that arrives at the Stock Exchange and promises to multiply his movements by three",
     "summary_en": "Leverage Shares launches the first listed product about the IA company in London, capable of tripling both profits and losses to investors"
+  },
+  {
+    "title": "Retirados por irregularidades seis estudios de Daniel Balsalobre, el científico emergente ‘número 1’ en España",
+    "summary": "El investigador, uno de los más citados del mundo, defiende su honestidad y atribuye las críticas a “la envidia española”",
+    "source": "El País Ciencia",
+    "url": "https://elpais.com/ciencia/2026-11-17/retirados-por-irregularidades-seis-estudios-de-daniel-balsalobre-el-cientifico-emergente-numero-1-en-espana.html",
+    "category": "Ciencia",
+    "date": "2026-11-17T04:30:01+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/274EFZ3NQBC6JO3MD7C3U2773Y.jpg?auth=ece1676a6818d5dc50fcba4e6fdea1e1f896c9cae065d84a7c2f1443c853d489",
+    "title_en": "Rejected by irregularities 6 studies by Daniel Balsalobre, the emerging scientist 'number 1' in Spain",
+    "summary_en": "The researcher, one of the most mentioned in the world, challenges his honesty and attributs his criticism to \"Spanish envy\""
   },
   {
     "title": "Mi hija comparte un piso con tres estudiantes en Madrid por el que pagan 2.254 euros, un 15% más que el año pasado. ¿Es legal la subida?",
@@ -704,28 +1067,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The group increases its ammunition with improved profitability and immediate access to financing"
   },
   {
-    "title": "EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
-    "summary": "Washington exige nuevas autorizaciones para exportar semiconductores a Indonesia, Malasia, Tailandia, Brasil y Singapur, ante el riesgo de que estos países sirvan como plataformas para desviar chips estadounidenses hacia China y alimentar su industria de inteligencia artificial.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261117-ee-uu-endurece-el-cerco-tecnol%C3%B3gico-a-china-y-vigila-exportaciones-de-chips-a-cinco-pa%C3%ADses",
-    "category": "Tecnología",
-    "date": "2026-11-17T03:08:43+00:00",
-    "image": "https://s.france24.com/media/display/207a7738-e230-11f1-8d03-29048b396e03/w:1024/p:16x9/AP26177312736116.jpg",
-    "title_en": "U.S. tightens China's technological fence and monitors export of chips to five countries",
-    "summary_en": "Washington requires new authorizations to export semiconductors to Indonesia, Malaysia, Thailand, Brazil and Singapore, with the risk that these countries will serve as platforms to divert American chips to China and feed their artificial intelligence industry."
-  },
-  {
-    "title": "Japón denuncia que dos aviones rusos violaron su espacio aéreo y protesta ante Moscú",
-    "summary": "\"Presentamos una protesta muy enérgica a Rusia por los canales diplomáticos\", anunció Minoru Kihara, principal portavoz del gobierno nipón.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/japón-denuncia-que-dos-aviones-rusos-violaron-su-espacio-aéreo-y-protesta-ante-moscú/a-79964544?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-17T02:53:00+00:00",
-    "image": "",
-    "title_en": "Japan denounces that two Russian aircraft violated its airspace and protests with Moscow",
-    "summary_en": "\"We put forward a very strong protest to Russia about diplomatic channels,\" stated Minoru Kihara, his leading spokesperson for the Nipon government."
-  },
-  {
     "title": "Cómo los megamillonarios en Rusia se preparan para un futuro sin Putin",
     "summary": "Algunos magnates rusos añoran el regreso al sistema oligárquico de los años noventa, cuando los empresarios disfrutaban del poder. ¿Hay alguna posibilidad de que sea realidad?",
     "source": "BBC Mundo",
@@ -735,160 +1076,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0590/live/3b6f30b0-e280-11f1-b166-176de21e2352.jpg",
     "title_en": "How Megamillonaries in Russia Prepare for A Future Without Putin",
     "summary_en": "Some Russian magnates have been longing for their return to the oligarchic system of the nineties as entrepreneurs enjoyed power. Any chance that's true?"
-  },
-  {
-    "title": "Impuestos, vivienda, salario mínimo... los candidatos presidenciales de Francia debaten sus propuestas",
-    "summary": "Los candidatos a la Presidencia francesa Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau y Gabriel Attal debatieron el lunes 16 de noviembre sobre desigualdad, poder adquisitivo y solidaridad, durante un debate organizado en la región de París, en ausencia de Édouard Philippe.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/francia/20261117-impuestos-vivienda-salario-m%C3%ADnimo-los-candidatos-presidenciales-de-francia-debaten-sus-propuestas",
-    "category": "Internacional",
-    "date": "2026-11-17T02:35:48+00:00",
-    "image": "https://s.france24.com/media/display/42d470aa-e1fd-11f1-8ae5-29048b396e03/w:1024/p:16x9/ed3c088ea9257dd439b036c7fb6d4d1fbf16b421.jpg",
-    "title_en": "Taxes, housing, minimum wage... French presidential candidates discuss their proposals",
-    "summary_en": "The French Presidency candidates Marine Le Pen, Jean- Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau and Gabriel Attal discussed inequality, purchasing power and solidarity on Monday, November 16, during an organized debate in the Paris region, in the absence of Édouard Philippe."
-  },
-  {
-    "title": "Robert Pattinson es el nuevo James Bond: comienza una nueva era para 007",
-    "summary": "El actor británico Robert Pattinson fue elegido para interpretar al nuevo James Bond, convirtiéndose en el próximo rostro del agente secreto más famoso del cine. Su nombramiento marca el inicio de una nueva etapa para la histórica franquicia, que busca renovarse tras la salida de Daniel Craig.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-robert-pattinson-es-el-nuevo-james-bond-comienza-una-nueva-era-para-007",
-    "category": "Cultura",
-    "date": "2026-11-17T01:58:43+00:00",
-    "image": "https://s.france24.com/media/display/0ff5adba-e226-11f1-a24a-29048b396e03/w:1024/p:16x9/ES-20261116-201242-201422-CS.jpg",
-    "title_en": "Robert Pattinson's the new James Bond: A new age begins for 007",
-    "summary_en": "British actor Robert Pattinson was elected to play his new James Bond and became the next face of his most famous secret agent. His appointment marks the beginning of a new stage for his historic franchise, which seeks to be renewed after Daniel Craig's departure."
-  },
-  {
-    "title": "León XIV se despide: los mensajes que marcaron su paso por Uruguay, Argentina y Perú",
-    "summary": "El papa León XIV puso fin a su primera gira por América Latina tras recorrer Perú, Uruguay y Argentina, en una visita marcada por encuentros con fieles, líderes políticos y comunidades locales. Durante el viaje, el pontífice insistió en mensajes sobre la familia, la economía, la inseguridad y la justicia.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-le%C3%B3n-xiv-se-despide-los-mensajes-que-marcaron-su-paso-por-uruguay-argentina-y-per%C3%BA",
-    "category": "Economía",
-    "date": "2026-11-17T01:55:06+00:00",
-    "image": "https://s.france24.com/media/display/c5a15f4a-e223-11f1-8a71-f71d22e7fea9/w:1024/p:16x9/ES-20261116-180152-180415-CS.jpg",
-    "title_en": "Leo XIV says goodbye: the messages that marked his passing through Uruguay, Argentina and Peru",
-    "summary_en": "Pope Leo XIV put an end to his first tour of Latin America after his visit to Peru, Uruguay and Argentina, with meetings with faithful, political leaders and local communities. During his journey, the Pontiff insisted on messages about family, economy, insecurity and justice."
-  },
-  {
-    "title": "¿Podría Jensen Huang regresar a Nvidia apenas días después de su salida?",
-    "summary": "Según el 'Financial Times' Jensen Huang buscaría reincorporarse a Nvidia. Una carta firmada por sus simpatizantes busca impulsar su regreso apenas días después de su salida de la compañía que cofundó, tras el escándalo por una relación extramatrimonial con una supuesta espía china.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-podr%C3%ADa-jensen-huang-regresar-a-nvidia-apenas-d%C3%ADas-despu%C3%A9s-de-su-salida",
-    "category": "Internacional",
-    "date": "2026-11-17T01:53:10+00:00",
-    "image": "https://s.france24.com/media/display/cb9bfd36-e05e-11f1-85e3-5f54d898a954/w:1024/p:16x9/Jensen-Huang-000-36PC88T.jpg",
-    "title_en": "Can Jensen Huang come back to Nvidia soon after his departure?",
-    "summary_en": "According to the Financial Times Jensen Huang would seek to re-join Nvidia. A letter signed by his supporters aims to advance his return just days after his departure from his co-founded company after his scandal about an extramatronial relationship with an alleged Chinese spy."
-  },
-  {
-    "title": "Asesinan a un periodista que denunciaba casos relacionados con el narcotráfico en Costa Rica",
-    "summary": "El periodista costarricense Camilo Rodríguez, que denunciaba casos vinculados con el narcotráfico en sus redes sociales, fue asesinado este lunes mientras conducía su vehículo, aparentemente por sicarios que se desplazan en una motocicleta. Costa Rica se ha convertido en una especie de centro para el tránsito, almacenaje y reexportación de cocaína…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261117-asesinan-a-un-periodista-que-denunciaba-casos-relacionados-con-el-narcotr%C3%A1fico-en-costa-rica",
-    "category": "Tecnología",
-    "date": "2026-11-17T01:48:31+00:00",
-    "image": "https://s.france24.com/media/display/918c21e2-e226-11f1-ba78-5f54d898a954/w:1024/p:16x9/periodista-asesinado-en-Costa-Rica-2.jpg",
-    "title_en": "Journalist Killing Reported Drug Trafficking Cases in Costa Rica",
-    "summary_en": "Costa Rican journalist Camilo Rodriguez, who reported cases related to drug trafficking on his social networks, was killed on Monday while driving his car, apparently by hit men who move on a motorcycle. Costa Rica has become a kind of centre for traffic, storage and re-export of cocaine..."
-  },
-  {
-    "title": "¿Qué implica la retirada de las fuerzas yemeníes de Bab el-Mandeb?",
-    "summary": "Las fuerzas leales al Gobierno de Yemen, respaldado por Arabia Saudí, se retiraron de la estratégica zona de Bab el-Mandeb, uno de los pasos marítimos más importantes del mundo, para concentrar sus esfuerzos en la defensa de Adén, la capital provisional del país. La decisión supone un freno a la ofensiva lanzada en las últimas semanas para recuperar el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-qu%C3%A9-implica-la-retirada-de-las-fuerzas-yemen%C3%ADes-de-bab-el-mandeb",
-    "category": "Política",
-    "date": "2026-11-17T01:44:15+00:00",
-    "image": "https://s.france24.com/media/display/2fc6030c-e225-11f1-a3a7-29048b396e03/w:1024/p:16x9/ES-20261116-191215-191706-CS.jpg",
-    "title_en": "What does the withdrawal of Yemeni forces from Bab al-mandeb mean?",
-    "summary_en": "The forces loyal to the Government of Yemen, supported by Saudi Arabia, withdrew from the strategic area of Bab el@-@ mandeb, one of the most important seaport in the world, to concentrate their efforts on defending Adén, the country's temporary capital. The decision puts an end to the offensive launched in recent weeks to get back the..."
-  },
-  {
-    "title": "Informe desde Lima: multitudinaria misa de León XIV marca su despedida de Perú",
-    "summary": "El papa León XIV cerró su visita a Perú con una multitudinaria misa en Lima que reunió a cerca de 1,5 millones de fieles. Durante la celebración, el pontífice agradeció el cariño recibido en el país donde vivió más de dos décadas. Nuestro corresponsal Francisco Zacarías hace el balance de la visita papal.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-informe-desde-lima-multitudinaria-misa-de-le%C3%B3n-xiv-marca-su-despedida-de-per%C3%BA",
-    "category": "Internacional",
-    "date": "2026-11-17T01:42:58+00:00",
-    "image": "https://s.france24.com/media/display/c2e0908a-e21b-11f1-9587-695cb59fade5/w:1024/p:16x9/ES-20261116-140150-140543-CS.jpg",
-    "title_en": "Report from Lima: mass mass of León XIV marks his farewell from Peru",
-    "summary_en": "Pope Leo XIV closed his visit to Peru with a massive mass in Lima that brought together about 1.5 million faithful. During the celebration, the Pontiff expressed his gratitude for his affection in the country where he lived more than two decades. Our correspondent Francisco Zacharias takes stock of his papal visit."
-  },
-  {
-    "title": "Rusia y Ucrania intercambian ataques nocturnos con drones",
-    "summary": "Los impactos alcanzaron dos puentes en Kiev y uno en Crimea, mientras negociadores ucranianos, europeos y estadounidenses mantenían conversaciones para detener la guerra.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/rusia-y-ucrania-intercambian-ataques-nocturnos-con-drones/a-79964444?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-17T01:12:00+00:00",
-    "image": "",
-    "title_en": "Russia and Ukraine Exexchange Night Attack with Drones",
-    "summary_en": "The impact reached two bridges in Kiev and one in Crimea while Ukrainian, European and American negotiators held talks to stop the war."
-  },
-  {
-    "title": "EE.UU. anuncia arresto de capo guatemalteco y ofrece recompensa por otro",
-    "summary": "Los sospechosos \"Mosh\" y \"El Teniente Jr\" trafican en asociación con el Cártel de Jalisco Nueva Generación (CJNG) en México.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/ee-uu-anuncia-arresto-de-capo-guatemalteco-y-ofrece-recompensa-por-otro/a-79964435?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-17T00:59:00+00:00",
-    "image": "",
-    "title_en": "U.S. Announces Guatemalan Capo's Arrest and Rewards for another",
-    "summary_en": "Suspects \"Moss\" and \"Lieutenant Jr\" traffic in association with the Jelisco New Generation Cartel (CJNG) in Mexico."
-  },
-  {
-    "title": "La UEFA elige a su candidato para la FIFA: ¿quién es y qué opciones tiene de destronar a Infantino?",
-    "summary": "La UEFA anunció su apoyo a Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), como candidato a la presidencia de la FIFA para las elecciones de marzo próximo. Con este hombre de 63 años y larga trayectoria de administrador en el fútbol, los europeos formalizan su ruptura con Gianni Infantino, cuestionado por su frustrado proyecto de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/deportes/20261117-la-uefa-elige-a-su-candidato-para-la-fifa-qui%C3%A9n-es-y-qu%C3%A9-opciones-tiene-de-destronar-a-infantino",
-    "category": "Deportes",
-    "date": "2026-11-17T00:07:41+00:00",
-    "image": "https://s.france24.com/media/display/e8d4b35c-e211-11f1-be09-5f54d898a954/w:1024/p:16x9/FOTO-PORTADA-UEFA-FRANCIA-DIALLO.jpg",
-    "title_en": "The UEFA chooses its FIFA candidate: who's and what choices do you have to dethrone Infantino?",
-    "summary_en": "UEFA announced its support to Philippe Diallo, president of the French Football Federation (FFF), as a candidate for FIFA's presidency for next March's elections. With this 63-year-old man and his long career as an administrator at football, Europeans formalise his breakup with Gianni Infantino, questioned about his frustrated project of..."
-  },
-  {
-    "title": "Francia: el actor Gérard Depardieu acepta condena por agresión sexual y retira su apelación",
-    "summary": "El actor francés Gérard Depardieu anunció este lunes que retira la apelación contra su condena por agresión sexual a dos mujeres durante el rodaje de una película. Con esta decisión, acepta la sentencia de 18 meses de prisión suspendida y ofreció disculpas públicas, reconociendo su culpabilidad. Depardieu además enfrenta otro proceso judicial relacionado…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261116-francia-el-actor-g%C3%A9rard-depardieu-acepta-condena-por-agresi%C3%B3n-sexual-y-retira-su-apelaci%C3%B3n",
-    "category": "Cultura",
-    "date": "2026-11-16T23:58:29+00:00",
-    "image": "https://s.france24.com/media/display/567ddbca-e219-11f1-90ba-3f371022a770/w:1024/p:16x9/AP25086306397512.jpg",
-    "title_en": "France: Actor Gérard Depardieu accepts conviction for sexual assault and withdraws his appeal",
-    "summary_en": "The French actor Gérard Depardieu announced this Monday that he withdrew his appeal against his conviction for sexual assault on two women while filming a film. With this decision, she accepts his 18 months imprisonment and offers public apologies and recognizes his guilt. Depardieu also challenges another related court proceedings..."
-  },
-  {
-    "title": "Paraguay: ordenan el traslado de Santiago Peña a una cárcel militar tras crisis de Ueno Bank",
-    "summary": "El expresidente de Paraguay, Santiago Peña, será trasladado a la prisión militar de Viñas Cué, en Asunción, por orden judicial, en medio de la crisis por el caso Ueno Bank y en la celebración de su cumpleaños 48. Mientras avanzan las investigaciones sobre la crisis, el ahora presidente Pedro Alliana aseguró que se pondrán a disposición todos los recursos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261116-paraguay-ordenan-el-traslado-de-santiago-pe%C3%B1a-a-una-c%C3%A1rcel-militar-tras-crisis-de-ueno-bank",
-    "category": "Política",
-    "date": "2026-11-16T23:54:34+00:00",
-    "image": "https://s.france24.com/media/display/d8ed7316-dba4-11f1-8d69-bf1914cabd52/w:1024/p:16x9/000-D6G29KF.jpg",
-    "title_en": "Paraguay: orders to move Santiago Peña to a military prison after Ueno Bank crisis",
-    "summary_en": "Paraguay's former president, Santiago Peña, will be transferred to Viñas Cué's military prison at Asunción by court order, amidst the Ueno Bank crisis and at his 48th birthday. As research advanced about the crisis, currently President Pedro Alliana stated that all resources will be made available..."
-  },
-  {
-    "title": "Informe desde Bruselas: cinco países europeos planean crear centro de deportación en Ruanda",
-    "summary": "Cinco países de la Unión Europea, Alemania, Austria, Dinamarca, Grecia y Países Bajos, anunciaron un acuerdo con Ruanda para crear un centro de retorno destinado a migrantes cuyas solicitudes de asilo hayan sido rechazadas. La iniciativa, que podría entrar en funcionamiento en 2027, busca trasladar temporalmente a estas personas mientras se completan los…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261116-informe-desde-bruselas-cinco-pa%C3%ADses-europeos-planean-crear-centro-de-deportaci%C3%B3n-en-ruanda",
-    "category": "Internacional",
-    "date": "2026-11-16T23:51:01+00:00",
-    "image": "https://s.france24.com/media/display/1a218f44-e20c-11f1-81dd-695cb59fade5/w:1024/p:16x9/ES-20261116-130808-130957-CS.jpg",
-    "title_en": "Report from Brussels: Five European countries planning to set up deportation centre in Rwanda",
-    "summary_en": "Five countries of the European Union, Germany, Austria, Denmark, Greece and the Netherlands have announced an agreement with Rwanda to set up a return centre for migrants whose asylum applications have been rejected. The initiative, which could be put into operation by 2027, aims to temporarily relocate these people while they complete their..."
-  },
-  {
-    "title": "Informe desde Estambul: los temas que marcan el borrador del documento final de la COP31",
-    "summary": "El primer borrador del acuerdo de la COP31, que se celebra en Antalya (Turquía), anticipa negociaciones complejas sobre dos de los temas más sensibles de la agenda climática: el futuro de los combustibles fósiles y la financiación para los países en desarrollo. La cumbre busca alcanzar un consenso antes del cierre previsto esta semana, en un contexto…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261116-informe-desde-estambul-los-temas-que-marcan-el-borrador-del-documento-final-de-la-cop31",
-    "category": "Medio Ambiente",
-    "date": "2026-11-16T23:49:55+00:00",
-    "image": "https://s.france24.com/media/display/0ea63826-e203-11f1-8b78-5f54d898a954/w:1024/p:16x9/ES-20261116-124409-124840-CS.jpg",
-    "title_en": "Report from Istanbul: the issues that mark the draft outcome document of COP31",
-    "summary_en": "The first draft of the COP31 agreement, held at Antalya, Turkey, anticipates complex negotiations on two of the most sensitive issues on the climate agenda: the future of fossil fuels and financing for developing countries. The summit aims to reach a consensus before the scheduled closure this week, in a context of..."
   },
   {
     "title": "Un experto forense asegura que su análisis de las fotos de la autopsia de Epstein sugiere que el financiero fue asesinado en prisión",
@@ -910,50 +1097,6 @@ window.PLANETA_NEWS = [
     "date": "2026-11-16T21:35:10+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "\"Un extraño fue enterrado en la tumba que yo tenía reservada para estar cerca de mis padres\"",
-    "summary": "Marie Lane dice que \"ya no siente lo mismo\" por la tumba que había reservado y pagado, tras descubrir que un desconocido fue enterrado allí por error y posteriormente exhumado.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/crwy492xjlg3o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-16T21:18:44+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cda0/live/d9077df0-dc4f-11f1-a869-656dc96bd12d.png",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Putin reclama una OTAN como la de 1997: estas son sus exigencias a Europa",
-    "summary": "Al parecer, el Kremlin exige la retirada de la OTAN de gran parte de Europa del Este. ¿Qué supondría esto para la seguridad de millones de europeos y qué hay detrás del plan ruso?",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/putin-reclama-una-otan-como-la-de-1997-estas-son-sus-exigencias-a-europa/a-79963685?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-16T20:49:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Una foto incómoda para Pekín: Xi, Trump y Putin en una cumbre tripartita",
-    "summary": "China se ve obligada a ser cautelosa al acoger una reunión entre Xi, Putin y Trump. Si bien la imagen pública seguramente favorecerá a Rusia, Pekín podría arriesgar su reputación internacional, según analistas.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/una-foto-incómoda-para-pekín-xi-trump-y-putin-en-una-cumbre-tripartita/a-79961431?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-16T20:49:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Tanto Donald Trump como Vladimir Putin abren la puerta a reunirse con Kim Jong-un en China",
-    "summary": "Los presidentes de Estados Unidos y de Rusia se ha mostrado dispuestos, paralelamente, a la posibilidad de reunirse con el líder norcoreano en la ciudad china de Shenzhen.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/tanto-donald-trump-como-vladimir-putin-abren-la-puerta-a-reunirse-con-kim-jong-un-en-china/a-79963821?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-16T20:48:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
@@ -1025,9 +1168,9 @@ window.PLANETA_NEWS = [
   {
     "title": "La estafa de la tienda en línea falsa",
     "summary": "Supuestos comercios ‘online’ lanzan ofertas agresivas para atraer a los compradores, especialmente durante el Black Friday y la Navidad, pero detrás de cada ganga se esconde un engaño",
-    "source": "El País",
+    "source": "El País Tecnología",
     "url": "https://elpais.com/tecnologia/branded/ocurrio-en-internet/2026-11-16/la-estafa-de-la-tienda-en-linea-falsa.html",
-    "category": "Internacional",
+    "category": "Tecnología",
     "date": "2026-11-16T16:00:30+00:00",
     "image": "",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
@@ -1065,148 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1429/live/d9401280-e1d3-11f1-b8c8-67fa35f5afdb.jpg",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "\"Es Pattinson, Robert Pattinson\": el actor británico será el nuevo James Bond",
-    "summary": "El protagonista de \"Crepúsculo\" y \"The Batman\" releva a Daniel Craig y se convierte en el séptimo actor que da vida al agente 007.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c64gn38yj4ygo?at_medium=RSS&at_campaign=rss",
-    "category": "Cultura",
-    "date": "2026-11-16T15:44:22+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8cc/live/fd1bfeb0-e1d5-11f1-b8c8-67fa35f5afdb.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "La justicia italiana interviene el banco digital Revolut por sospechas de blanqueo y de operaciones de clanes mafiosos",
-    "summary": "La entidad, que no está bajo investigación, estará un año bajo administración judicial por no ejercitar el control suficiente sobre sus clientes. Se han detectado un millón de posibles violaciones de normativa",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-16/la-justicia-italiana-interviene-el-banco-digital-revolut-por-sospechas-de-blanqueo-y-de-operaciones-de-clanes-mafiosos.html",
-    "category": "Tecnología",
-    "date": "2026-11-16T15:07:46+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/L3GZ7MVHTFFBDKDVAW7THGNYZE.jpg?auth=94cd998180b902c9839aaf7e718de26a7c9a101792847589c611056c3c4c9e27",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Raye lidera con 11 las nominaciónes al Grammy 2027, seguida de Rosalía con 9",
-    "summary": "La cantante británica de soul Raye lidera las nominaciones de la 69ª edición de los Grammys, con once categorías, seguida de la estrella española Rosalía, con nueve.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/raye-lidera-con-11-las-nominaciónes-al-grammy-2027-seguida-de-rosalía-con-9/a-79961221?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Cultura",
-    "date": "2026-11-16T14:43:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "La selección alemana se despide de Adidas luego de 70 años",
-    "summary": "El combinado germano se separa de su patrocinador histórico en partido de Liga de las Naciones contra Países Bajos.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/la-selección-alemana-se-despide-de-adidas-luego-de-70-años/a-79961204?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Deportes",
-    "date": "2026-11-16T14:40:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Alphonso Davies sufre nueva lesión y es baja indefinida en el Bayern Múnich",
-    "summary": "Un desgarro muscular en partido contra Guatemala se suma a la ya larga historia de lesiones del lateral canadiense.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/alphonso-davies-sufre-nueva-lesión-y-es-baja-indefinida-en-el-bayern-múnich/a-79960923?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Deportes",
-    "date": "2026-11-16T14:16:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "El Gobierno aprobará este martes la subida del salario mínimo de 2027 a 1.286 euros",
-    "summary": "Yolanda Díaz entra en campaña y acusa al PSOE de “boicotear” el refuerzo del registro horario",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-salario-minimo-de-2027-a-1286-euros.html",
-    "category": "Política",
-    "date": "2026-11-16T13:00:18+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/WDOM7QKBGNE6HFHNWMLI7BPPGA.jpg?auth=5862495ae1449f1ccd0773afac513f09fa4c6a75ab78389f0eef623c154ebbcb",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Tengo una deformidad física congénita que escondí de mis padres y compañeros de escuela",
-    "summary": "Charlie Clarke, de 23 años, afirma que los efectos físicos y emocionales del pectus excavatum han sido \"inimaginables\".",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-16T12:49:59+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d70/live/511a4930-d9f8-11f1-93e1-3b657b665bcf.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "El hiperciclo de las infraestructuras: un cambio económico global",
-    "summary": "EL PAÍS y Acciona celebran un encuentro en el que diferentes expertos conversarán sobre una nueva ola de inversión en el sector impulsada por la IA, la adaptación al cambio climático y la geopolítica",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/negocios/2026-11-16/el-hiperciclo-de-las-infraestructuras-un-cambio-economico-global.html",
-    "category": "Medio Ambiente",
-    "date": "2026-11-16T12:43:35+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/J4XB7WXMBZHQTIEN3VASI7PUA4.png?auth=32d60dbbeea2924bf32fd072463c4bd2c087d6653dba126bf7dc76f4e0529797",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "3 poco conocidas disputas limítrofes dentro de países de América Latina (y por qué algunas se han recrudecido)",
-    "summary": "En Argentina, México y Bolivia se dan algunas de las disputas entre regiones donde todavía no están resueltos los límites internos.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cx7vpv49en34o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-16T12:04:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ecd/live/d19062a0-e1ca-11f1-b8c8-67fa35f5afdb.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Jojo, el gorila que lleva 11 años solo tras la muerte de su familia y para el que los científicos buscan compañía",
-    "summary": "El primate fue cazado ilegalmente cuando era un bebé y creció en cautiverio. Sus cuidadores quieren encontrarle un amigo, pero la tarea no está resultando fácil.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cmx2xn9gy40ko?at_medium=RSS&at_campaign=rss",
-    "category": "Ciencia",
-    "date": "2026-11-16T11:36:19+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e93/live/a50b98a0-e042-11f1-88e1-eb4e155225b3.png",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "\"Asumo esta condena\": Depardieu pide perdón por agredir sexualmente a dos mujeres",
-    "summary": "La leyenda del cine francés Gérard Depardieu pidió perdón por agredir sexualmente a dos mujeres durante un rodaje en 2021, reconociendo el \"daño causado\" y asegurando que \"pertenecía a un mundo que ha desaparecido\".",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/asumo-esta-condena-depardieu-pide-perdón-por-agredir-sexualmente-a-dos-mujeres/a-79958685?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Cultura",
-    "date": "2026-11-16T11:34:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Pisos zulo: cuando vivir en 11 metros cuadrados es cada vez más común",
-    "summary": "La mayor demanda de espacios mínimos por la crisis de la vivienda lleva a los arquitectos a pedir el refuerzo de los controles sobre la habitabilidad",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/negocios/2026-11-14/pisos-zulo-cuando-vivir-en-11-metros-es-cada-vez-mas-comun.html",
-    "category": "Economía",
-    "date": "2026-11-16T11:24:33+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/L6CZGA36DFESDENJOHJ4H7NHPM.jpg?auth=7c81cf086905f2ce90cc3d62ac8a6adee725a2a6729bb37ea11f3a4ac7a00485",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Klopp asegura que Infantino es incluso peor que Blatter",
-    "summary": "El seleccionador alemán criticó duramente al actual presidente de la FIFA, Giannio Infantino, del que dijo que es peor que su desacreditado predecesor, Sepp Blatter.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/klopp-asegura-que-infantino-es-incluso-peor-que-blatter/a-79958451?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-16T11:12:00+00:00",
-    "image": "",
-    "title_en": "Klopp claims Infantino's even worse than Blatter",
-    "summary_en": "The German selector strongly criticized the current FIFA president, Giannio Infantino, of whom he said that his name was worse than his discredited predecessor, Sepp Blatter."
   }
 ];
