@@ -1,5 +1,302 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Xi fustiga \"proteccionismo\" y defiende apertura comercial y estabilidad durante cumbre de APEC",
+    "summary": "\"No puede haber prosperidad sin seguridad, ni seguridad sin estabilidad\", dijo el mandatario chino ante empresarios reunidos en Shenzhen.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/xi-fustiga-proteccionismo-y-defiende-apertura-comercial-y-estabilidad-durante-cumbre-de-apec/a-79976175?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-18T04:13:00+00:00",
+    "image": "",
+    "title_en": "Xi fuses \"protectionism\" and advocates commercial openness and stability at APEC summit",
+    "summary_en": "\"There can be no prosperity without security, and no security without stability,\" the Chinese president told entrepreneurs meeting at Shenzhen."
+  },
+  {
+    "title": "China y EE.UU. se acusan mutuamente en México por reponsabilidad en crisis de fentanilo",
+    "summary": "La embajada de EE.UU. en México afirmó que los precursores del fentanilo provienen de China, que respondió, que el problema responde al abuso de fármacos en Estados Unidos.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/china-y-ee-uu-se-acusan-mutuamente-en-méxico-por-reponsabilidad-en-crisis-de-fentanilo/a-79976099?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-18T04:05:00+00:00",
+    "image": "",
+    "title_en": "China and the US accuse each other in Mexico of reponderance in fentanyl crisis",
+    "summary_en": "The U.S. embassy in Mexico stated that fentanyl precursors come from China and responded that the problem responds to drug abuse in the U.S.."
+  },
+  {
+    "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
+    "summary": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss",
+    "category": "Política",
+    "date": "2026-11-18T04:04:11+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg",
+    "title_en": "Why the historic summit between Trump, Putin and Xi concerns Europe (and what it can mean for the rest of the world)",
+    "summary_en": "The preparations for the first trilateral meeting of China's, Russia's and the U.S.'s leaders have generated an alarm in Europe, where some have seen parallels with the division of the world into spheres of influence after World War II."
+  },
+  {
+    "title": "¿Qué hay detrás de las recientes interrupciones informáticas en Estados Unidos?",
+    "summary": "La red interna de comunicaciones de la Agencia Nacional de Seguridad (NSA), utilizada para intercambiar información clasificada, sufrió una caída que se suma a una serie de fallos tecnológicos registrados en Estados Unidos durante los últimos días. El incidente ocurre después de la interrupción que paralizó el sistema aéreo del país por más de cuatro horas,…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-qu%C3%A9-hay-detr%C3%A1s-de-las-recientes-interrupciones-inform%C3%A1ticas-en-estados-unidos",
+    "category": "Internacional",
+    "date": "2026-11-18T02:39:32+00:00",
+    "image": "https://s.france24.com/media/display/7ed1097a-e2f6-11f1-be53-ff16da94d1fe/w:1024/p:16x9/ES-20261117-200631-201121-CS.jpg",
+    "title_en": "What's after the recent computer interruptions in the U.S.?",
+    "summary_en": "The internal communications network of the National Security Agency (NSA), used to exchange classified information, suffered a fall that adds to a number of technological failures registered in the United States over the last few days. The incident occurs after the interruption that paralyzed the country's air system for more than four hours,..."
+  },
+  {
+    "title": "Una filtración masiva de documentos vuelve a vincular a Deutsche Bank con Jeffrey Epstein",
+    "summary": "Los llamados “fantasmas” de Deutsche Bank han vuelto al centro de la atención tras la filtración de más de 15 millones de documentos internos analizados por medios de todo el mundo. La investigación sostiene que la entidad habría ignorado durante años alertas internas relacionadas con presunto lavado de dinero, clientes de alto riesgo y operaciones…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-una-filtraci%C3%B3n-masiva-de-documentos-vuelve-a-vincular-a-deutsche-bank-con-jeffrey-epstein",
+    "category": "Ciencia",
+    "date": "2026-11-18T02:38:16+00:00",
+    "image": "https://s.france24.com/media/display/eb3b15d6-e2f3-11f1-a557-7908c4e1a3c7/w:1024/p:16x9/ES-20261117-191325-191504-CS.jpg",
+    "title_en": "A massive document leaking back links Deutsche Bank with Jeffrey Epstein",
+    "summary_en": "Deutsche Bank's so-called \"ghosts\" have been put back at the centre of care after more than 15 million internal documents have been leaked and analysed throughout the world. The investigation claims that the entity would have ignored for years internal alerts related to alleged money laundering, high-risk customers and operations..."
+  },
+  {
+    "title": "Revés para Netanyahu: el Parlamento de Israel elige a un aliado de Eisenkot como presidente",
+    "summary": "La Knesset, el Parlamento de Israel, eligió como nuevo presidente a Matan Kahana, aliado del líder opositor Gadi Eisenkot, en una votación considerada un revés político para el primer ministro Benjamin Netanyahu. Kahana se impuso al candidato del partido gobernante, lo que otorga a la oposición una mayor influencia sobre la agenda legislativa en un momento…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-rev%C3%A9s-para-netanyahu-el-parlamento-de-israel-elige-a-un-aliado-de-eisenkot-como-presidente",
+    "category": "Deportes",
+    "date": "2026-11-18T02:35:04+00:00",
+    "image": "https://s.france24.com/media/display/410422b4-e2ef-11f1-a799-c5c0357b2a0c/w:1024/p:16x9/ES-20261117-190254-190429-CS.jpg",
+    "title_en": "Reg to Netanyahu: The Parliament of Israel Elects an ally of Eisenkot as President",
+    "summary_en": "The Knesset, the Parliament of Israel, elected as new president Matan Kahana, an ally of opposition leader Gadi Eisenkot, in a vote as a political setback for Prime Minister Benjamin Netanyahu. Kahana put his face at his party and his opposition had a better influence on his legislative agenda at a time..."
+  },
+  {
+    "title": "Caos en línea: Agencia de Seguridad Nacional, CNN y Zoom se suman a la ola de fallas tecnológicas",
+    "summary": "La Agencia de Seguridad Nacional, el mayor despacho de inteligencia del Pentágono, se sumó este martes 17 de noviembre a la serie de vulneraciones de servicios tecnológicos de los últimos días, aunque la \"degradación temporal\" fue atribuida a tareas de mantenimiento de rutina. El incidente se produce el mismo día que un fallo crítico en el lenguaje de…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261118-caos-en-l%C3%ADnea-agencia-de-seguridad-nacional-cnn-y-zoom-se-suman-a-la-ola-de-fallas-tecnol%C3%B3gicas",
+    "category": "Tecnología",
+    "date": "2026-11-18T02:30:54+00:00",
+    "image": "https://s.france24.com/media/display/b593c0f0-e2f2-11f1-900f-1ba7ddfab527/w:1024/p:16x9/AP26321712767775.jpg",
+    "title_en": "Chaos online: National Security Agency, CNN and Zoom join the wave of technological faults",
+    "summary_en": "The National Security Agency, the Pentagon's largest intelligence office, joined the series of technological service violations of the last few days on Tuesday, November 17, although \"temporary degradation\" was attributed to routine maintenance. The incident occurs on the same day as a critical defect in the language of..."
+  },
+  {
+    "title": "Cisjordania: mujer palestina de 72 años muere en ataque de colonos israelíes",
+    "summary": "Una mujer palestina de 72 años murió tras ser atacada por colonos israelíes cerca de Jericó, en la Cisjordania ocupada, según denunciaron autoridades y organizaciones palestinas. El incidente se produce en medio del aumento de la violencia en este territorio, donde continúan los enfrentamientos entre palestinos, colonos y fuerzas israelíes. Según Naciones…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-cisjordania-mujer-palestina-de-72-a%C3%B1os-muere-en-ataque-de-colonos-israel%C3%ADes",
+    "category": "Internacional",
+    "date": "2026-11-18T02:25:30+00:00",
+    "image": "https://s.france24.com/media/display/abe79f28-e2ec-11f1-bc61-7908c4e1a3c7/w:1024/p:16x9/ES-20261117-110826-111002-CS.jpg",
+    "title_en": "West Bank: 72-year-old Palestinian woman killed in attack by Israeli settlers",
+    "summary_en": "A 72-year-old Palestinian woman was killed after being attacked by Israeli settlers near Jericho in the occupied West Bank, Palestinian authorities and organizations reported. The incident was occurring amidst increased violence in that Territory, where clashes between Palestinians, settlers and Israeli forces continued. According to Naciones..."
+  },
+  {
+    "title": "Informe desde Shenzhen: la APEC arranca con la mirada puesta en Trump, Xi y Putin",
+    "summary": "La cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC) reúne este año a 18 presidentes y primeros ministros de las 21 economías miembros en Shenzhen, China, para debatir asuntos que tendrán impacto global, como la inteligencia artificial, la productividad, el comercio y la cooperación económica. La atención está puesta en la esperada reunión entre…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-informe-desde-shenzhen-la-apec-arranca-con-la-mirada-puesta-en-trump-xi-y-putin",
+    "category": "Tecnología",
+    "date": "2026-11-18T02:20:59+00:00",
+    "image": "https://s.france24.com/media/display/86fca6c8-e2f0-11f1-a5ad-ff16da94d1fe/w:1024/p:16x9/ES-20261117-190751-190936-CS.jpg",
+    "title_en": "Report from Shenzhen: The APEC starts with its look at Trump, Xi and Putin",
+    "summary_en": "The Asia-Pacific Economic Cooperation Forum (APEC) summit this year brings together 18 ministers and ministers from the 21 member economies in Shenzhen, China, to discuss issues with global impact, such as artificial intelligence, productivity, trade and economic cooperation. The attention is put at the expected meeting between..."
+  },
+  {
+    "title": "Nvidia duplicó sus ingresos y ganancias, superando las expectativas del mercado",
+    "summary": "La compañía estadounidense de semiconductores registró ingresos por 115.800 millones de dólares en el tercer trimestre de 2026, un 103% más que en el mismo periodo del año anterior. Los resultados superaron las previsiones de los analistas en medio de la incertidumbre por la salida de su máximo ejecutivo, Jensen Huang.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261118-nvidia-duplic%C3%B3-sus-ingresos-y-ganancias-superando-las-expectativas-del-mercado",
+    "category": "Economía",
+    "date": "2026-11-18T02:10:02+00:00",
+    "image": "https://s.france24.com/media/display/16444a2e-e2ed-11f1-ae1b-6d75ed565170/w:1024/p:16x9/AP25058558983313.jpg",
+    "title_en": "Nvidia doubled its income and gain, surpassing market expectations",
+    "summary_en": "The American semiconductors company registered revenues of $115.8 billion in the third quarter of 2026, about 103% more than in the same period last year. The results exceeded the analysts' forecasts amidst uncertainty about his top executive Jensen Huang."
+  },
+  {
+    "title": "El cacique brasileño Raoni Metuktire recibe alta médica tras cinco días hospitalizado",
+    "summary": "El líder del pueblo kayapó padece un cáncer digestivo y hace una semana fue ingresado a un hospital por una infección pulmonar, pero salió del hospital \"lúcido\" y \"orientado\".",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/el-cacique-brasileño-raoni-metuktire-recibe-alta-médica-tras-cinco-días-hospitalizado/a-79975904?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Salud",
+    "date": "2026-11-18T01:46:00+00:00",
+    "image": "",
+    "title_en": "The Brazilian cacique Raoni Metuktire receives medical leave after five days hospitalised",
+    "summary_en": "The Kayapó people's leader suffers from a digestive cancer and a week ago was admitted to a hospital by lung infection but came out of a \"lucid\" and \"oriented\" hospital."
+  },
+  {
+    "title": "Informe desde Guatemala: atentado contra fiscal encargada de investigar delitos electorales",
+    "summary": "La fiscal de delitos electorales Liseth Mazariegos resultó herida de bala tras un ataque armado ocurrido en la Ciudad de Guatemala, cuando se dirigía a su lugar de trabajo. Según las autoridades, hombres que se movilizaban en motocicleta interceptaron su vehículo y abrieron fuego contra ella. El atentado ha sido condenado por el Gobierno de Guatemala y el…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-informe-desde-guatemala-atentado-contra-fiscal-encargada-de-investigar-delitos-electorales",
+    "category": "Política",
+    "date": "2026-11-18T01:01:49+00:00",
+    "image": "https://s.france24.com/media/display/c17466f4-e2e8-11f1-a715-c5c0357b2a0c/w:1024/p:16x9/ES-20261117-180530-180707-CS.jpg",
+    "title_en": "Report from Guatemala: Attack on Public Prosecutor to Investigate Electoral Offences",
+    "summary_en": "The electoral crime prosecutor, Liseth Mazariegos, was wounded with a bullet after an armed attack in Guatemala City as she was headed to his place of work. According to authorities, men who were mobile intercepted his vehicle and opened fire at it. The attack has been condemned by the Government of Guatemala and..."
+  },
+  {
+    "title": "Serbia: líderes de la Lista Estudiantil asumen sus escaños en el Parlamento",
+    "summary": "La política serbia vive un cambio histórico. Este martes inició funciones el nuevo Parlamento de Serbia, dominado por la Lista Estudiantil, un movimiento surgido de las masivas protestas anticorrupción que logró una contundente victoria en las elecciones legislativas de octubre. Por primera vez en 14 años, el Partido Progresista Serbio (SNS) pierde el…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-serbia-l%C3%ADderes-de-la-lista-estudiantil-asumen-sus-esca%C3%B1os-en-el-parlamento",
+    "category": "Deportes",
+    "date": "2026-11-18T01:00:41+00:00",
+    "image": "https://s.france24.com/media/display/db6febfc-e2e1-11f1-9ffd-7908c4e1a3c7/w:1024/p:16x9/ES-20261117-130649-130808-CS.jpg",
+    "title_en": "Serbia: Student List Leaders Rejoin Parliament",
+    "summary_en": "Serbian politics has been undergoing historic change. The new Serbian Parliament, dominated by the Student List, began its operations on Tuesday, a movement emerging from massive anti-corruption protests that achieved a strong victory in October's legislative elections. For the first time in 14 years, Serbian Progressive Party (SNS) lose its..."
+  },
+  {
+    "title": "¿Amenaza real? Trump reacciona a reportes sobre un posible ataque iraní",
+    "summary": "Reportes de medios estadounidenses señalaron que Irán estaría evaluando escenarios para atacar Washington con una posible \"bomba\", una información que ha elevado la preocupación en materia de seguridad nacional. Consultado sobre estos reportes durante su gira por Asia, el presidente Donald Trump aseguró que su Gobierno toma la amenaza \"muy en serio\" y…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-amenaza-real-trump-reacciona-a-reportes-sobre-un-posible-ataque-iran%C3%AD",
+    "category": "Política",
+    "date": "2026-11-18T00:56:08+00:00",
+    "image": "https://s.france24.com/media/display/6e56025e-e2e6-11f1-ac3c-c5c0357b2a0c/w:1024/p:16x9/ES-20261117-180252-180405-CS.jpg",
+    "title_en": "A real threat? Trump Reacts to Reports about A Possible Iranian Attack",
+    "summary_en": "U.S. media reports have noted that Iran will be evaluating scenarios to attack Washington with a potential \"bomb,\" information that has increased national security concerns. Consulted about these reports during his Asia tour, President Donald Trump stated his Government takes the threat \"very seriously\" and..."
+  },
+  {
+    "title": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
+    "summary": "Uno de los símbolos de la ocupación rusa de Ucrania ha sufrido graves daños tras un ataque en siete fases perpetrado por Kyiv.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-18T00:55:45+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa82/live/714c81a0-e2ea-11f1-b501-7dd6988c3a9e.png",
+    "title_en": "How was the sophisticated attack with which Ukraine destroyed some of Putin's precious Crimea bridge (and what consequences)",
+    "summary_en": "One of the symbols of the Russian occupation of Ukraine has been seriously damaged after a seven-phase attack by Kyiv."
+  },
+  {
+    "title": "Diallo desafía a Infantino y confirma su candidatura a la presidencia de la FIFA",
+    "summary": "Philippe Diallo, presidente de la Federación Francesa de Fútbol (FFF), confirmó su candidatura a la presidencia de la FIFA para las elecciones de 2027, con el respaldo unánime de la UEFA. El dirigente francés se presenta como una alternativa a la gestión y escándalos de Gianni Infantino, al que varios sectores del fútbol europeo cuestionan por problemas de…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-diallo-desaf%C3%ADa-a-infantino-y-confirma-su-candidatura-a-la-presidencia-de-la-fifa",
+    "category": "Deportes",
+    "date": "2026-11-18T00:48:03+00:00",
+    "image": "https://s.france24.com/media/display/64b800b0-e2e3-11f1-a99d-ff16da94d1fe/w:1024/p:16x9/ES-20261117-131506-131657-CS.jpg",
+    "title_en": "Diallo challenges Infantino and confirms his candidacy for FIFA president",
+    "summary_en": "Philippe Diallo, president of the French Federation of Football (FFF), confirmed his candidacy for the FIFA presidency for the 2027 elections with the unanimous support of UEFA. The French leader presents himself as an alternative to the management and scandals of Gianni Infantino, to whom several sectors of European football are questioning about problems of..."
+  },
+  {
+    "title": "Informe desde París: ¿qué motiva a los empleados públicos a protestar en Francia?",
+    "summary": "Los sindicatos del sector público volvieron a movilizarse en Francia para exigir aumentos salariales y denunciar la pérdida de poder adquisitivo de los funcionarios. La jornada transcurrió sin incidentes de gravedad y reunió a cerca de 28.000 manifestantes, en una nueva muestra del malestar social por el costo de vida y de cara a las elecciones del 2027. El…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-informe-desde-par%C3%ADs-qu%C3%A9-motiva-a-los-empleados-p%C3%BAblicos-a-protestar-en-francia",
+    "category": "Política",
+    "date": "2026-11-18T00:46:14+00:00",
+    "image": "https://s.france24.com/media/display/2bf3d5b2-e2dc-11f1-b53a-c5c0357b2a0c/w:1024/p:16x9/ES-20261117-121046-121400-CS-01.jpg",
+    "title_en": "Report from Paris: What motivates public officials to protest in France?",
+    "summary_en": "The public sector trade unions again moved in France to demand wage increases and report the loss of public officials' purchasing power. The day passed without serious incidents and brought together about 28,000 protesters, a new sign of social malaise about the cost of living and with a view to the 2027 elections. The..."
+  },
+  {
+    "title": "Informe desde Guayaquil: pescadores ecuatorianos demandan a EE. UU. tras ataque a su embarcación",
+    "summary": "Un grupo de pescadores ecuatorianos presentaron una demanda contra el Gobierno de Estados Unidos por el presunto bombardeo con drones de la embarcación pesquera La Negra Francisca Duarte II. Los demandantes aseguran que el ataque hundió su barco, dejó varios heridos y les hizo perder su principal fuente de sustento. La acción judicial reclama una…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-informe-desde-guayaquil-pescadores-ecuatorianos-demandan-a-ee-uu-tras-ataque-a-su-embarcaci%C3%B3n",
+    "category": "Política",
+    "date": "2026-11-18T00:43:55+00:00",
+    "image": "https://s.france24.com/media/display/c6f0e694-e2e2-11f1-aa4b-7908c4e1a3c7/w:1024/p:16x9/ES-20261117-131253-131441-CS.jpg",
+    "title_en": "Report from Guayaquil: Ecuadorian fishermen demand US. U.S. after attack on his boat",
+    "summary_en": "A group of Ecuadorean fishermen filed a suit against the U.S. Government for the alleged drones of the fishing boat La Negra Francanca Duarte II. The plaintiffs claim that the attack sank his ship, leave several wounded and lost their main source of livelihood. The prosecution demand a..."
+  },
+  {
+    "title": "Directo a... Ciudad de Panamá y la posible reapertura de megamina de cobre",
+    "summary": "El presidente de José Raúl Mulino anunció el inicio de negociaciones formales entre el Gobierno de Panamá y First Quantum Minerals para evaluar el futuro de Cobre Panamá, la mina de cobre más grande de Centroamérica, paralizada desde 2023 tras la declaración de inconstitucionalidad de su contrato. Las conversaciones buscarán definir un nuevo marco de…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-directo-a-ciudad-de-panam%C3%A1-y-la-posible-reapertura-de-megamina-de-cobre",
+    "category": "Política",
+    "date": "2026-11-18T00:42:45+00:00",
+    "image": "https://s.france24.com/media/display/b6924d52-e2dc-11f1-bf7d-c5c0357b2a0c/w:1024/p:16x9/ES-20261117-124537-124921-CS.jpg",
+    "title_en": "Direct to... Panama City and the Possible Reopening of Copper Meg",
+    "summary_en": "The president of José Raúl Mulino announced the initiation of formal negotiations between the Government of Panama and First Quantum Minerals to evaluate the future of Copper Panama, the largest copper mine in Central America, paralysed since 2023 after his contract's unconstitutionality. The talks will seek to define a new framework for..."
+  },
+  {
+    "title": "\"Gracias a nuestro padre, Bukele\": haitianos celebran en las calles la misión antipandillas salvadoreña",
+    "summary": "Mientras la Oficina de Derechos Humanos de la ONU ha documentado 4.595 víctimas mortales atribuidas a la violencia de las pandillas en Haití, solo en los primeros nueve meses del año, la población de ese país encuentra razones para celebrar a pesar de las pérdidas y el dolor. Miles de personas se animaron a salir a las calles este 17 de noviembre en un…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-gracias-a-nuestro-padre-bukele-haitianos-celebran-en-las-calles-la-misi%C3%B3n-antipandillas-salvadore%C3%B1a",
+    "category": "Internacional",
+    "date": "2026-11-18T00:36:43+00:00",
+    "image": "https://s.france24.com/media/display/d6a19574-e2e3-11f1-bb0e-ff16da94d1fe/w:1024/p:16x9/421cd12237bcf128b409a0bbe4e70a077d946c5fw.jpg",
+    "title_en": "\"Thanks to our father, Bukele\": Haitians celebrate the Salvadoran anti-gangs mission",
+    "summary_en": "While the UN Human Rights Office has documented 4,595 fatalities attributed to gang violence in Haiti, only in the first 9 months of the year, the people of that country have found reason to celebrate despite their loss and pain. Thousands of people were encouraged to go out to the streets this November 17 at a..."
+  },
+  {
+    "title": "Gobierno de Donald Trump pide USD 50.100 millones para renovar infraestructura aérea",
+    "summary": "La solicitud del presidente estadounidense al Congreso llega luego del caos en los aeropuertos que obligó a suspender miles de vuelos.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/gobierno-de-donald-trump-pide-usd-50-100-millones-para-renovar-infraestructura-aérea/a-79975693?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-18T00:33:00+00:00",
+    "image": "",
+    "title_en": "Donald Trump's Government Asks USD 50.0 billion To Renew Air Infrastructure",
+    "summary_en": "The U.S. President's request to Congress came after chaos at airports that forced thousands of flights to be suspended."
+  },
+  {
+    "title": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
+    "summary": "La firma destaca su fortaleza tras el cese de Jensen Huang. La SEC investiga a la compañía tras la salida de su ex consejero delegado",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
+    "category": "Tecnología",
+    "date": "2026-11-18T00:01:24+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/6HT4YT5JMRCWTJKGLGP2ERF43Y.JPG?auth=e222737695980e512b6e33a662fac3f1818e8b98c2f723d9488f9746d2914e6c",
+    "title_en": "Nvidia bates forecasts by double income and benefits and defends the power of his technology",
+    "summary_en": "The firm stands out its strength after Jensen Huang's cessation. SEC investigates the company after its former delegate's leave"
+  },
+  {
+    "title": "De Rubens al siglo XX: tres siglos de pintura revelan cómo el retrato de la silueta femenina fue perdiendo sus curvas",
+    "summary": "Los retratos de 600 mujeres de las élites muestran cómo la representación del cuerpo de la mujer europea ha ido menguando y alejando visualmente de su función reproductora",
+    "source": "El País",
+    "url": "https://elpais.com/salud-y-bienestar/2026-11-18/de-rubens-al-siglo-xx-tres-siglos-de-pintura-revelan-como-el-retrato-de-la-silueta-femenina-fue-perdiendo-sus-curvas.html",
+    "category": "Internacional",
+    "date": "2026-11-18T00:01:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/VDNBRS2XVZCGFAUBKRUMXR4VCM.jpg?auth=11d21875016c338b28290c42f20cb1deb8dfc097656724c3b197afe802a43a92",
+    "title_en": "From Rubens to the 20th century: 3 centuries of painting reveal how the portrait of the feminine silhouette was losing its curves",
+    "summary_en": "The portraits of 600 women from elites show how the representation of the body of European women has been decreasing and visually withdrawing from their reproductive role"
+  },
+  {
+    "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
+    "summary": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-17T23:39:46+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f567/live/1e628630-e2d9-11f1-ba34-c7d189b2efe2.jpg",
+    "title_en": "The gold disc with messages for extraterrestrials that carry the Voyager 1 probe (and how they can figure it out)",
+    "summary_en": "Voyager 1 and Voyager 2 have been launched into space with gold discs containing messages for alien civilizations."
+  },
+  {
+    "title": "Xi fortalece lazos con líderes de América antes de la cumbre de APEC",
+    "summary": "La cumbre de la APEC comienza a tomar forma con una intensa agenda diplomática en Shenzhen. En la previa del foro, el presidente chino, Xi Jinping, sostuvo reuniones con líderes del continente americano, entre ellos, Claudia Sheinbaum, Keiko Fujimori y José Antonio Kast. Los acercamientos reflejan el creciente protagonismo de China en la región y anticipan…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261117-xi-fortalece-lazos-con-l%C3%ADderes-de-am%C3%A9rica-antes-de-la-cumbre-de-apec",
+    "category": "Política",
+    "date": "2026-11-17T23:25:24+00:00",
+    "image": "https://s.france24.com/media/display/d2cc013e-e282-11f1-a94a-7908c4e1a3c7/w:1024/p:16x9/2026-11-17T101905Z-1168555483-RC2LPOAZJWNK-RTRMADP-3-APEC-SUMMIT-CHINA-CHILE.jpg",
+    "title_en": "Xi strengthens ties with American leaders before the APEC summit",
+    "summary_en": "The APEC summit begins to take shape with an intense diplomatic agenda at Shenzhen. At its previous meeting, Chinese president Xi Jinping held meetings with leaders from the American continent, including Claudia Sheinbaum, Keiko Fujimori and José Antonio Kast. The approaches reflect China's growing leading role in the region and anticipate..."
+  },
+  {
+    "title": "Esperando a Kim: la incógnita sobre la asistencia del líder norcoreano a una crucial cumbre de la APEC",
+    "summary": "El Kremlin ve probable un encuentro con Putin. Donald Trump podría redoblar los esfuerzos por conseguir una reunión él también. China no ha confirmado su asistencia. Y a él, el elusivo líder del país más hermético del mundo, le ha bastado una fotografía sobre un sillón color crema en la frontera para agitar el tablero del foro de Cooperación Económica…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-esperando-a-kim-jong-un-la-inc%C3%B3gnita-sobre-la-asistencia-del-l%C3%ADder-norcoreano-anima-la-cumbre-de-la-apec",
+    "category": "Economía",
+    "date": "2026-11-17T23:22:03+00:00",
+    "image": "https://s.france24.com/media/display/d7eda91c-e2d0-11f1-9117-6d75ed565170/w:1024/p:16x9/2026-11-16T223513Z-2077262677-RC29POA37BZT-RTRMADP-3-NORTHKOREA-POLITICS.jpg",
+    "title_en": "Waiting for Kim: The Unknown about North Korean Leader's attendance at a crucial APEC summit",
+    "summary_en": "The Kremlin sees an encounter with Putin likely. Donald Trump could step up his efforts to get him a meeting as well. China has not confirmed its assistance. And to him, the elusive leader of the most hermetic country in the world, a photo about a cream chair at the border has been sufficient to awaken the economic cooperation board..."
+  },
+  {
+    "title": "El presidente del consejo de Nvidia asegura que la junta no tiene intención de restituir a Jensen Huang como CEO",
+    "summary": "Horas antes, el fundador del mayor fabricante de chips del mundo se había declarado dispuesto a regresar a su puesto si se lo pedían",
+    "source": "El País",
+    "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
+    "category": "Política",
+    "date": "2026-11-17T22:58:52+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2AC4CQEX7ZFWTCAZ6USQX6P5QE.JPG?auth=b2c3496700911a861266a8403a6099e807330c55ced695e6705b39f79c500b17",
+    "title_en": "The president of Nvidia's council claims that the board has no intention of restoring Jensen Huang as CEO",
+    "summary_en": "Hours earlier, the founder of the world's largest chip maker had expressed his willingness to return to his place if requested"
+  },
+  {
     "title": "Cómo los directores del premiado documental \"Naza\" convencieron a soldados israelíes para que hablaran sobre el uso de IA para seleccionar objetivos en Gaza",
     "summary": "En una entrevista con la BBC, los cineastas israelíes Yuval Abraham y Rachel Szor, ganadores del Oscar, hablan sobre su aclamado documental \"Naza\".",
     "source": "BBC Mundo",
@@ -31,17 +328,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/c73f23c2-e2c9-11f1-b328-7908c4e1a3c7/w:1024/p:16x9/ES-20261117-074515-075040-CS.jpg",
     "title_en": "Direct Latin and Sheinbaum's journey to China for the APEC summit",
     "summary_en": "Mexican president Claudia Sheinbaum travelled to Shenzhen, China, to participate at the APEC summit, where she met with President Xi Jinping earlier. On his first journey to the Asian giant, Sheinbaum seeks to strengthen his ties with other countries amidst the tariff pressure exerted by President Donald Trump. Our correspondent..."
-  },
-  {
-    "title": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
-    "summary": "La firma destaca su fortaleza tras el cese de Jensen Huang. La SEC investiga a la compañía tras la salida de su ex consejero delegado",
-    "source": "El País",
-    "url": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
-    "category": "Tecnología",
-    "date": "2026-11-17T21:49:21+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6HT4YT5JMRCWTJKGLGP2ERF43Y.JPG?auth=e222737695980e512b6e33a662fac3f1818e8b98c2f723d9488f9746d2914e6c",
-    "title_en": "Nvidia bates forecasts by double income and benefits and defends the power of his technology",
-    "summary_en": "The firm stands out its strength after Jensen Huang's cessation. SEC investigates the company after its former delegate's leave"
   },
   {
     "title": "Cumbre APEC: ¿está ganando China terreno como socio de confianza frente a Estados Unidos?",
@@ -264,17 +550,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The Paraguayan public prosecutor resigned on Tuesday November 17th amidst his efforts by the House of Deputies to put him to a political trial and to criticize his conduct in the banking crisis, according to a letter published by means."
   },
   {
-    "title": "Reuniones con aliados, acuerdos y una histórica cumbre: Trump busca alivio en su gira asiática",
-    "summary": "El presidente Donald Trump inició este martes 17 de noviembre en Filipinas un recorrido de tres días por Asia, que incluye la firma de acuerdos comerciales, conversaciones con aliados clave de Estados Unidos y una esperada reunión tripartita con Xi Jinping y Vladímir Putin. Tras recibir varios golpes en el frente interno, el mandatario estadounidense…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-reuniones-con-aliados-acuerdos-y-una-hist%C3%B3rica-cumbre-trump-busca-alivio-en-su-gira-asi%C3%A1tica",
-    "category": "Política",
-    "date": "2026-11-17T19:06:27+00:00",
-    "image": "https://s.france24.com/media/display/5519fef0-e276-11f1-b22e-ff16da94d1fe/w:1024/p:16x9/AP26321377296646.jpg",
-    "title_en": "Meetings with allies, agreements and a historic summit: Trump seeks relief from his Asian tour",
-    "summary_en": "President Donald Trump began his 3-day tour of Asia with his first three-day tour of the Philippines, including signing trade agreements, discussions with key U.S. allies and an expected tripartite meeting with Xi Jinping and Vladimir Putin. Following several blows to the internal front, the American president..."
-  },
-  {
     "title": "Cercanías de Madrid y Rodalies recuperan pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
     "summary": "La protesta sindical obliga a suprimir más del 40% de los servicios mínimos en las dos mayores áreas metropolitanas. En la alta velocidad se caen el 14% de las salidas garantizadas",
     "source": "El País",
@@ -286,17 +561,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The union protest requires more than 40% of minimum services to be abolished in the two largest metropolitan areas. At high speed 14% of guaranteed outputs fall"
   },
   {
-    "title": "Irán vuelve a atacar posiciones estadounidenses en Bahrein y reporta explosiones en la isla de Qeshm",
-    "summary": "Este martes 17 de noviembre, Irán lanzó drones contra una instalación de radar estadounidense en Bahrein, siendo el tercer ataque a objetivos militares de Estados Unidos en ese país del Golfo en los últimos días. En paralelo, Teherán acusó a las fuerzas de la nación norteamericana de bombardear la estratégica isla de Qeshm, en el estrecho de Ormuz, sin…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/medio-oriente/20261117-ir%C3%A1n-vuelve-a-atacar-posiciones-estadounidenses-en-bahrein-y-reporta-explosiones-en-la-isla-de-qeshm",
-    "category": "Internacional",
-    "date": "2026-11-17T18:38:08+00:00",
-    "image": "https://s.france24.com/media/display/c3f154dc-e2ac-11f1-bc30-c5c0357b2a0c/w:1024/p:16x9/2026-11-17T171352Z-450277371-RC2SPOAB868L-RTRMADP-3-IRAN-CRISIS-TANKER.jpg",
-    "title_en": "Iran Reattacks U.S. positions in Bahrain and reports explosions on Qeshm Island",
-    "summary_en": "On Tuesday, November 17, Iran launched drones at an American radar facility in Bahrain, as the third attack on U.S. military targets in that Gulf country in recent days. At the same time, Tehran accused the forces of the American nation of bombing the strategic island of Qeshm, at the Strait of Ormuz, without..."
-  },
-  {
     "title": "Volodimir Zelenski pide por videoconferencia al Grupo de Contacto para Ucrania: \"Necesitamos más aviones de combate\"",
     "summary": "El presidente de Ucrania pide a sus socios militares más cazas F-16 y Mirage ante la escalada aérea rusa con drones a reacción.",
     "source": "DW Español",
@@ -306,39 +570,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "Volodimir Zelensky calls by video for contact group for Ukraine: \"We need more combat aircraft\"",
     "summary_en": "The President of Ukraine asks his military partners more F-16 and Mirage fighters to face Russian air climbing with drones to reaction."
-  },
-  {
-    "title": "Nuevo caso de allanamiento y suspensión de un medio de comunicación opositor en Turquía",
-    "summary": "Un nuevo medio de comunicación de la oposición en Turquía fue intervenido por la Policía. El canal Sözcü TV fue allanado y suspendido luego de que el medio publicara información privilegiada sobre el escándalo financiero que involucra a altos cargos del Gobierno turco en un caso de inflación artificial de fondos. Nuestro corresponsal Adriá Rocha nos amplió…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-nuevo-caso-de-allanamiento-y-suspensi%C3%B3n-de-un-medio-de-comunicaci%C3%B3n-opositor-en-turqu%C3%ADa",
-    "category": "Economía",
-    "date": "2026-11-17T18:27:50+00:00",
-    "image": "https://s.france24.com/media/display/a5adeaea-e2a6-11f1-848c-1ba7ddfab527/w:1024/p:16x9/ES-20261117-073749-074129-CS-01.jpg",
-    "title_en": "New case of intrusion and suspension of opposition means of communication in Turkey",
-    "summary_en": "A new opposition means of communication in Turkey was interacted by police. The Sözcü TV channel was raided and suspended after the media published insider information about the financial scandal involving high officials of the Turkish Government in an artificial fund inflation case. Our correspondent Adria Rocha has enlarged us..."
-  },
-  {
-    "title": "Sin futuro: el sueño internacional de los universitarios de Irán",
-    "summary": "La guerra en Irán acelera la emigración de jóvenes con estudios superiores. Cada vez más jóvenes iraníes con estudios superiores tienen dudas sobre si podrán labrarse un futuro en su propio país.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/sin-futuro-el-sueño-internacional-de-los-universitarios-de-irán/a-79974427?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-17T18:13:00+00:00",
-    "image": "",
-    "title_en": "No Future: Iran's University's International Dream",
-    "summary_en": "The war in Iran accelerates the emigration of advanced youth. More and more young Iranians with advanced studies have been dubious about whether a future can be established in their own countries."
-  },
-  {
-    "title": "La Cámara de Representantes de EE. UU. cita a Jensen Huang para el 1 de diciembre",
-    "summary": "Luego renunciar a su cargo como director ejecutivo de la empresa Nvidia, por admitir una relación extramatrimonial con una ejecutiva señalada por los servicios de inteligencia estadounidenses como presunta espía del Gobierno chino, Jensen Huang aceptó testificar ante el Congreso. El Comité de Asuntos Exteriores indagará sobre si estuvo en peligro la…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261117-economia-huang-nvidia-congreso-resultados",
-    "category": "Política",
-    "date": "2026-11-17T18:11:03+00:00",
-    "image": "https://s.france24.com/media/display/e899ca7c-e2b0-11f1-9dea-1ba7ddfab527/w:1024/p:16x9/2026-11-16T182243Z-119858112-RC2O2LA29X51-RTRMADP-3-NVIDIA-CEO.jpg",
-    "title_en": "The U.S. House of Representatives U.S. cites Jensen Huang for 1 December",
-    "summary_en": "He then gave up his office as executive director of Nvidia's company, for admitting an extramatrimonial relationship with an executive appointed by U.S. intelligence as an alleged spy of the Chinese Government, Jensen Huang agreed to testify to Congress. The Foreign Affairs Committee will conduct an inquiry as to whether the..."
   },
   {
     "title": "México, EE.UU. y Bolivia pierden su estatus de países libres de sarampión tras registrar miles de casos y decenas de muertes",
@@ -361,28 +592,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/EK4XSTBEOFGVXAO35PHIUDJUXE.jpg?auth=453dde1209c131d3780968020277a26d4e0a84f04326543e7fc3841a66489a60",
     "title_en": "Abascal justifies his wife's collection of the thermal social bonus because she's a large family",
     "summary_en": "Vox's candidate has stated that it's \"special large family\" to warrant collection of the check of EUR 210 designed so that vulnerable families can pay for the heating receipt"
-  },
-  {
-    "title": "Jensen Huang rompe su silencio tras el escándalo y dice que está dispuesto a regresar de consejero delegado a Nvidia",
-    "summary": "Son las primeras palabras del fundador del mayor fabricante de chips del mundo tras su intempestiva salida la semana pasada",
-    "source": "El País",
-    "url": "https://elpais.com/us/economia/2026-11-17/jensen-huang-dice-que-esta-dispuesto-a-regresar-como-consejero-delegado-de-nvidia.html",
-    "category": "Internacional",
-    "date": "2026-11-17T17:42:46+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/2AC4CQEX7ZFWTCAZ6USQX6P5QE.JPG?auth=b2c3496700911a861266a8403a6099e807330c55ced695e6705b39f79c500b17",
-    "title_en": "Jensen Huang breaks his silence after his scandal and says he's ready to come back as his delegate to Nvidia",
-    "summary_en": "They are the first words of the founder of the world's largest chip maker after his relentless exit last week."
-  },
-  {
-    "title": "Los funcionarios públicos protestan para reclamar mayores salarios en una Francia en crisis",
-    "summary": "Los sindicatos convocaron una nueva jornada de huelgas y manifestaciones para exigir subidas salariales y mejoras en los servicios públicos, tras el rechazo del Gobierno a aumentar los salarios de los funcionarios.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/los-funcionarios-públicos-protestan-para-reclamar-mayores-salarios-en-una-francia-en-crisis/a-79974558?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Economía",
-    "date": "2026-11-17T17:37:00+00:00",
-    "image": "",
-    "title_en": "Civil servants protest to demand higher wages in a crisis France",
-    "summary_en": "The trade unions called for a new day of strikes and demonstrations to demand wage increases and improvements in public services after the Government's refusal to increase civil servants' wages."
   },
   {
     "title": "El gran hito del Voyager, el objeto fabricado por la humanidad que más lejos llega en el espacio al viajar un día luz",
@@ -418,17 +627,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Yolanda Diaz campaigns for the Expand Front surrounded by socialist ministers but says that the coalition has been \"an example of the political management of difference to advance the country.\""
   },
   {
-    "title": "Aunque los apoyos se tambalean, Europa cierra filas con Ucrania",
-    "summary": "La Coalición de Voluntarios debatirá en Berlín, entre otras cosas, de qué manera puede Europa participar en el futuro en las negociaciones sobre el destino del Ucrania.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/aunque-los-apoyos-se-tambalean-europa-cierra-filas-con-ucrania/a-79972328?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-17T17:07:00+00:00",
-    "image": "",
-    "title_en": "Although backups are staggering, Europe's closed up with Ukraine",
-    "summary_en": "The Volunteer Coalition will discuss in Berlin, inter alia, how Europe can participate in future negotiations about the destination of Ukraine."
-  },
-  {
     "title": "Pedro Sánchez concede su primera entrevista a una revista del corazón: “No imagino mi vida sin Begoña”",
     "summary": "El presidente del Gobierno y candidato del PSOE a las elecciones generales protagoniza este miércoles la primera página de ‘Lecturas’, y habla en la publicación de la campaña electoral y de su familia. “He tenido que renunciar a muchos momentos con mis hijas”, afirma",
     "source": "El País",
@@ -451,17 +649,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The sports physiotherapist Genevieve Taiwan shares his best advice to care for the joint that accounts for 5% of emergency visits in the UK."
   },
   {
-    "title": "El legado de Orbán en Hungría: millones ocultos, trata y robo bancario",
-    "summary": "Viktor Orbán prometió proteger a Hungría de la corrupción y la inmigración ilegal. Ahora, exministros, el antiguo jefe del banco central y su propio hermano han sido detenidos. ¿Qué futuro le espera a su partido Fidesz?",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/el-legado-de-orbán-en-hungría-millones-ocultos-trata-y-robo-bancario/a-79972472?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Deportes",
-    "date": "2026-11-17T16:32:00+00:00",
-    "image": "",
-    "title_en": "Orban's legacy in Hungary: hidden million, traffic and bank robberies",
-    "summary_en": "Viktor Orban promised to protect Hungary from corruption and illegal immigration. Now, former ministers, the former head of the central bank and his own brother have been arrested. What future does his Fidesz party have?"
-  },
-  {
     "title": "Alemania presupuestará 20 millones de euros para enviar a 40 migrantes al centro de deportación en Ruanda",
     "summary": "El SPD, miembro de la coalición de Gobierno junto a los democristianos, avisa de que actuará para frenar la participación de Berlín en el pacto con Kigali",
     "source": "El País",
@@ -471,17 +658,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/QE63EKWFQ5NV3B23J4B7XGOYCI.jpg?auth=9638707ec3e18c4ae5fd5ac208a42067db94acf5e57904fb6ede4fd8fad4f1fa",
     "title_en": "Germany will budget EUR 20 million to send 40 migrants to deportation centre in Rwanda",
     "summary_en": "The SPD, a member of the government's coalition with the Democrats, warns that it will act to halt Berlin's participation in the pact with Kigali"
-  },
-  {
-    "title": "¿Por qué preocupa el plan europeo de construir un centro de deportación de migrantes en Ruanda?",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://f24.my/CI1x",
-    "category": "Internacional",
-    "date": "2026-11-17T16:30:38+00:00",
-    "image": "",
-    "title_en": "Why are we concerned about the European plan to build a deportation centre for migrants in Rwanda?",
-    "summary_en": "See details at the original source."
   },
   {
     "title": "El Gobierno trata de impulsar el bono social de telecomunicaciones por su escaso alcance respecto al eléctrico",
@@ -506,17 +682,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The Section for Agriculture points out that new animals will not be allowed to enter but calls for establishments to be \"criminalized\" for a particular case"
   },
   {
-    "title": "Puentes, objetivos clave de las últimas rondas de ataques entre Rusia y Ucrania",
-    "summary": "Ucrania atacó el puente que conecta Crimea con territorio ruso por segunda noche consecutiva, asegurando que generó considerables daños a la estructura, mientras que el Kremlin afirma que sufrió daños \"mínimos\". Rusia también atacó con misiles dos puentes ucranianos en la madrugada de este 17 de noviembre, afectando el paso por el río Dnipro. Los ataques a…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-puentes-objetivos-clave-de-las-%C3%BAltimas-rondas-de-ataques-entre-rusia-y-ucrania",
-    "category": "Internacional",
-    "date": "2026-11-17T16:15:32+00:00",
-    "image": "https://s.france24.com/media/display/95687a56-e2a1-11f1-9793-1ba7ddfab527/w:1024/p:16x9/ES-20261117-073538-073721-CS.jpg",
-    "title_en": "Highlights, key targets of last rounds of attacks between Russia and Ukraine",
-    "summary_en": "Ukraine attacked the bridge connecting Crimea with Russian territory for second consecutive night, claiming that it caused considerable damage to the structure while Kremlin claims to have suffered \"minimum\" damage. Russia also attacked with missiles two Ukrainian bridges earlier this November 17, affecting the passage through the Dnipro River. The attacks on..."
-  },
-  {
     "title": "Xi recibe a Trump y Putin en Shenzhen, \"la ciudad de los sueños\" de China: esto es lo que no verán",
     "summary": "Shenzhen se ha convertido en un símbolo de futuro para China. Pero no todos sus residentes lo ven como un lugar en donde pueden lograr sus sueños.",
     "source": "BBC Mundo",
@@ -528,14 +693,14 @@ window.PLANETA_NEWS = [
     "summary_en": "Shenzhen has become a symbol of China's future. But not every resident sees them as a place they can achieve their dreams."
   },
   {
-    "title": "Parte del puente de Crimea que construyó el gobierno de Putin se derrumba, mientras Ucrania celebra un ataque \"sin precedentes\"",
+    "title": "El puente que Putin construyó en Crimea se derrumba parcialmente mientras Ucrania celebra un ataque \"sin precedentes\"",
     "summary": "El puente que une a Crimea y Rusia ha sufrido graves daños, mientras que dos rutas que atraviesan Kyiv permanecen cerradas.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.com/mundo/articles/cje39lr0v1w7o?at_medium=RSS&at_campaign=rss",
-    "category": "Política",
+    "category": "Internacional",
     "date": "2026-11-17T16:00:58+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg",
-    "title_en": "Part of the Crimea bridge that built Putin's government crumbles while Ukraine holds an \"unprecedented\" attack",
+    "title_en": "The bridge Putin built in Crimea partially crumbles while Ukraine holds an \"unprecedented\" attack",
     "summary_en": "The bridge that links Crimea and Russia has been greatly damaged while two routes across Kyiv are closed."
   },
   {
@@ -561,17 +726,6 @@ window.PLANETA_NEWS = [
     "summary_en": "\"A continuous supply deficit could restrict labour mobility and the arrival of workers,\" says Commission"
   },
   {
-    "title": "Delcy Rodriguez, \"la colaboradora en jefe de Venezuela\": 'The New Yorker'",
-    "summary": "En 'Revista de Prensa' analizamos el perfil de Venezuela y su líder Delcy Rodriguez escrito por el reconocido periodista Jon Lee Anderson en la revista 'The New Yorker'. El artículo califica a la mandataria como \"colaboradora en jefe\" y asegura que Estados Unidos ejerce una \"influencia descaradamente neocolonial\" sobre Caracas.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/revista-de-prensa/20261117-delcy-rodriguez-la-colaboradora-en-jefe-de-venezuela-the-new-yorker",
-    "category": "Internacional",
-    "date": "2026-11-17T15:41:33+00:00",
-    "image": "https://s.france24.com/media/display/37244500-e28e-11f1-a841-1ba7ddfab527/w:1024/p:16x9/ES-20261117-081348-082157-CS.jpg",
-    "title_en": "Delcy Rodriguez, \"Venezuela's leading contributor\": 'The New Yorker'",
-    "summary_en": "In 'Press Review' we analysed the profile of Venezuela and its leader Delcy Rodriguez written by renowned journalist Jon Lee Anderson in the magazine \"The New Yorker '. The article describes the mandataria as a\" co-operative in chief \"and claims that the U.S. exerted a\" brazenly neo-colonial influence \"about Caracas."
-  },
-  {
     "title": "La cumbre del clima se prepara para admitir que el calentamiento va a romper el primer dique de contención",
     "summary": "Tras reconocer la ONU que se va a superar el límite de los 1,5 grados, un nutrido grupo de países aboga por incluir este aviso en el acuerdo final de la COP31, que aún está en el aire",
     "source": "El País",
@@ -581,28 +735,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/BOIYCOTN7NJWRGHDRXL5SNTD3Q.jpg?auth=cafc708abeaef0c3e4af31841b4f5d3324cecdcbaa34d77061e5d5162151b549",
     "title_en": "The climate summit gets ready to admit that warming will break the first containment dam",
     "summary_en": "After recognizing that the 1.5-degree border will be exceeded, a large group of countries are advocating to include this notice in the final agreement of COP31, which remains in the air"
-  },
-  {
-    "title": "Peña y Ueno Bank: \"En Paraguay la impunidad es extraordinariamente alta\"",
-    "summary": "La caída de Ueno Bank dejó sin acceso a sus ahorros a cerca de tres millones de paraguayos y destapó graves fallos de transparencia y control en el sistema financiero del país. El escándalo llevó a la destitución de Santiago Peña, hoy en prisión preventiva mientras la Fiscalía investiga si desvió fondos públicos al banco. ¿Qué revela esta crisis sobre la…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/la-entrevista/20261117-ueno-bank-y-la-crisis-en-paraguay-la-impunidad-es-extraordinariamente-alta",
-    "category": "Economía",
-    "date": "2026-11-17T15:24:42+00:00",
-    "image": "https://s.france24.com/media/display/eed3eb78-e28f-11f1-b27f-7908c4e1a3c7/w:1024/p:16x9/WEB-PORTADA-17NOV-ENT.jpg",
-    "title_en": "Peña and Ueno Bank: \"Impunity in Paraguay is extraordinarily high\"",
-    "summary_en": "The fall of Ueno Bank left about 3 million Paraguayans with no access to their savings and revealed serious challenges to transparency and monitoring in the financial system. The scandal led to the dismissal of Santiago Peña, currently in pretrial detention while the Prosecutor's Office investigated whether public funds were diverted to the Bank. What does this crisis reveal about..."
-  },
-  {
-    "title": "Informe desde Shenzhen: Canadá y China se acercan con miras a reducir su dependencia de EE. UU.",
-    "summary": "China y Canadá se acercan previo a la cumbre de la APEC que se realizará en Shenzhen. Con los aranceles de Donald Trump como un punto en común, el presidente Xi Jinping y el primer ministro Mark Carney estrechan sus lazos tras rebajar los aranceles a las exportaciones canadienses de carne de cerdo y pescado y los productos chinos de aluminio y acero para…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261117-informe-desde-shenzhen-canad%C3%A1-y-china-se-acercan-con-miras-a-reducir-su-dependencia-de-ee-uu",
-    "category": "Economía",
-    "date": "2026-11-17T15:09:15+00:00",
-    "image": "https://s.france24.com/media/display/6f38736e-e296-11f1-8c40-c5c0357b2a0c/w:1024/p:16x9/ES-20261117-073253-073434-CS.jpg",
-    "title_en": "Report from Shenzhen: Canada and China come up with a view to reducing their dependence on US. Estados Unidos",
-    "summary_en": "China and Canada are leading up to an APEC summit at Shenzhen. With Donald Trump's tariffs as a common point, President Xi Jinping and Prime Minister Mark Carney tighten their links after lowering their tariffs to Canadian export pork and fish and Chinese products of aluminium and steel for..."
   },
   {
     "title": "Filtración masiva expone a Deutsche Bank por Epstein y oligarcas rusos",
@@ -636,61 +768,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/BVANWNXAG5AGLKWTBXVI4UOVXU.jpg?auth=14b9dd24cfeb04abe1bd96446afc28e0810a2d86f8abdd2e6718258018f36090",
     "title_en": "Ukraine destroys part of the Crimea bridge, symbol of Putin's Russian annexation",
     "summary_en": "A missile attack leads to a detachment of a portion of the structure that links Russia with the territory illegally taken up in 2014"
-  },
-  {
-    "title": "Sudáfrica: ¿por qué se desgasta el partido de Mandela?",
-    "summary": "El que fue el gran partido dominante tras el apartheid ha perdido casi la mitad del respaldo que tenía a principios de los años 2000. El Congreso Nacional Africano obtuvo en las municipales de noviembre alrededor del 31% de los votos, su peor resultado hasta ahora, arrastrado por la corrupción y una deficiente gestión local. ¿Castigo puntual o divorcio…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/%C3%A1frica-7-d%C3%ADas/20261117-sud%C3%A1frica-por-qu%C3%A9-se-desgasta-el-partido-de-mandela",
-    "category": "Deportes",
-    "date": "2026-11-17T14:18:49+00:00",
-    "image": "https://s.france24.com/media/display/9f04d686-e1f2-11f1-8b7c-3f371022a770/w:1024/p:16x9/WEB-PORTADA-16NOV-A7D.png",
-    "title_en": "South Africa: Why Do Mandela's Party Fitted? · Global Voices",
-    "summary_en": "He who was the great dominant party after apartheid has lost about half his support at the beginning of the 2000's. The African National Congress earned about 31% of the votes in November's municipalities, its worst result so far, brought about by corruption and poor local management. punctual punishment or divorce..."
-  },
-  {
-    "title": "¿Qué busca Nayib Bukele en Haití?",
-    "summary": "Con 2.000 soldados salvadoreños desplegados en Haití, Nayib Bukele intenta proyectarse como líder regional y símbolo de seguridad. La misión del contingente militar de El Salvador en la isla es rescatar a los técnicos aparentemente secuestrados por pandillas, pero a medida que pasan los días los objetivos parecen extenderse más allá. En Aquí América lo…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/aqu%C3%AD-am%C3%A9rica/20261117-qu%C3%A9-busca-nayib-bukele-en-hait%C3%AD",
-    "category": "Internacional",
-    "date": "2026-11-17T13:59:17+00:00",
-    "image": "https://s.france24.com/media/display/75a54a00-e1ed-11f1-b43b-f71d22e7fea9/w:1024/p:16x9/WEB-PORTADA-13NOV-AME.png",
-    "title_en": "What's Nayib Bukele looking for in Haiti?",
-    "summary_en": "With 2,000 Salvadoran soldiers deployed to Haiti, Nayib Bukele tries to project as a regional leader and security symbol. The mission of El Salvador's military contingent on the island is to rescue technicians apparently abducted by gangs, but as the day goes by the targets appear to extend beyond them. At this place, America..."
-  },
-  {
-    "title": "Guerra híbrida: Estonia blinda su frontera, ¿una respuesta eficaz a la amenaza rusa?",
-    "summary": "El domingo, Estonia anunció el cierre de su frontera con Rusia, tras acusar al país en guerra con Ucrania de haber orquestado un intento de sabotaje contra una fábrica de drones. Sin embargo, en la era digital, los agentes rusos pueden ignorar las fronteras para librar su guerra híbrida contra los países europeos.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261117-guerra-h%C3%ADbrida-estonia-blinda-su-frontera-una-respuesta-eficaz-a-la-amenaza-rusa",
-    "category": "Tecnología",
-    "date": "2026-11-17T13:57:49+00:00",
-    "image": "https://s.france24.com/media/display/638675fe-e1d1-11f1-97ac-5f54d898a954/w:1024/p:16x9/russie-estonie-frontiere.png",
-    "title_en": "A hybrid war: Estonia lays its border, an effective response to the Russian threat?",
-    "summary_en": "On Sunday, Estonia announced that its border with Russia had been closed after accused of orchestrating an attempt at sabotage of a drones factory at war with Ukraine. Nevertheless, in the digital age, Russian agents can ignore boundaries to fight their hybrid war against European countries."
-  },
-  {
-    "title": "Caída de Jensen Huang: ¿quién gana la guerra de chips?",
-    "summary": "La renuncia de Jensen Huang como CEO de Nvidia, tras revelarse su relación con una mujer acusada de espiar para China, reaviva la disputa entre Estados Unidos y China por los microchips más avanzados, clave para la inteligencia artificial. Washington restringe su exportación y Beijing acelera su propia industria. ¿Por qué ambas potencias se disputan estos…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/el-debate/20261117-ca%C3%ADda-de-jensen-huang-qui%C3%A9n-gana-la-guerra-de-chips",
-    "category": "Tecnología",
-    "date": "2026-11-17T13:53:59+00:00",
-    "image": "https://s.france24.com/media/display/6667fac4-1a81-11ee-a0d7-005056a90321/w:1024/p:16x9/ChinaEEUU.jpg",
-    "title_en": "Jensen Huang's fall: Who Wins The Chipple War?",
-    "summary_en": "Jensen Huang's renunciation as CEO of Nvidia, after his relationship with a woman accused of espying for China, re-engulves the U.S.-China dispute about advanced microchips, key to artificial intelligence. Washington restricts its export and Beijing accelerates its own industry. Why are these two powers fighting these..."
-  },
-  {
-    "title": "Xi Jinping se reúne con Sheinbaum, Fujimori y Kast antes de la cumbre de APEC",
-    "summary": "El presidente chino Xi Jinping recibió este martes en Shenzhen a Claudia Sheinbaum, Keiko Fujimori y José Antonio Kast, a un día de la reunión de líderes de APEC. Sheinbaum manifestó su intención de reforzar el comercio pese a la suba de aranceles mexicanos a productos chinos, mientras que el encuentro con Kast tuvo lugar en medio de las críticas de Beijing…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261117-xi-jinping-se-re%C3%BAne-con-sheinbaum-fujimori-y-kast-antes-de-la-cumbre-de-apec",
-    "category": "Economía",
-    "date": "2026-11-17T12:57:33+00:00",
-    "image": "https://s.france24.com/media/display/d2cc013e-e282-11f1-a94a-7908c4e1a3c7/w:1024/p:16x9/2026-11-17T101905Z-1168555483-RC2LPOAZJWNK-RTRMADP-3-APEC-SUMMIT-CHINA-CHILE.jpg",
-    "title_en": "Xi Jinping meets with Sheinbaum, Fujimori and Kast before the APEC summit",
-    "summary_en": "Chinese President Xi Jinping received Claudia Sheinbaum, Keiko Fujimori and José Antonio Kast on Tuesday at Shenzhen, a day after an APEC leadership meeting. Sheinbaum expressed his intention to strengthen trade despite the rise of Mexican tariffs to Chinese products, while the meeting with Kast took place amidst Beijing's challenges..."
   },
   {
     "title": "Profecía de Jürgen Klopp se vuelve viral tras rodillo 5-0 a Países Bajos",
@@ -792,28 +869,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The Commission have already fined with 200 million to China's digital platform months ago"
   },
   {
-    "title": "Filtración expone operaciones de riesgo de Deutsche Bank con Epstein y oligarcas rusos",
-    "summary": "Una investigación de más de 200 periodistas, basada en millones de documentos filtrados, señala que Deutsche Bank priorizó sus intereses comerciales frente a alertas sobre operaciones con clientes de riesgo, entre ellos Jeffrey Epstein y oligarcas rusos. La entidad sostiene que los casos fueron examinados en su momento y que ha reforzado sus controles…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261117-filtraci%C3%B3n-expone-operaciones-de-riesgo-de-deutsche-bank-con-epstein-y-oligarcas-rusos",
-    "category": "Ciencia",
-    "date": "2026-11-17T10:51:28+00:00",
-    "image": "https://s.france24.com/media/display/d5a5d9c4-e274-11f1-8802-c5c0357b2a0c/w:1024/p:16x9/34a756778458b662f1b2d106f4d1950a6453207d.jpg",
-    "title_en": "Filtration exposes Deutsche Bank's risk operations with Epstein and Russian oligarchs",
-    "summary_en": "Research by more than 200 journalists, based on millions of leaked documents, indicates that Deutsche Bank prioritized its commercial interests as opposed to warnings about operations with at-risk clients, including Jeffrey Epstein and Russian oligarchs. The entity claims that the cases have been reviewed at an earlier stage and have been strengthened by its controls..."
-  },
-  {
-    "title": "Todo lo que hay que saber sobre las elecciones en España: partidos, fechas, sistema y coyuntura",
-    "summary": "España se apresta a celebrar este 29 de noviembre sus terceras elecciones generales desde que Pedro Sánchez está al frente del Gobierno, un proceso precipitado por el rechazo del Congreso de los Diputados a los reales decretos leyes firmados por el ejecutivo para aliviar la crisis de vivienda. Estos son los datos fundamentales del proceso en el que Sánchez…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261117-todo-lo-que-hay-que-saber-sobre-las-elecciones-en-espa%C3%B1a-partidos-fechas-sistema-y-coyuntura",
-    "category": "Política",
-    "date": "2026-11-17T10:06:24+00:00",
-    "image": "https://s.france24.com/media/display/0fed3526-e2d1-11f1-853d-6d75ed565170/w:1024/p:16x9/WEB-PORTADA-17NOV-ARTICULO.png",
-    "title_en": "All we have to know about Spanish elections: parties, dates, system and climate",
-    "summary_en": "Spain was preparing to hold its third general elections on November 29 since Pedro Sánchez was leading the Government, a precipitated process by the opposition of the Congress of Deputies to the actual laws signed by the executive to ease the housing crisis. These are the fundamental data from the process in which Sánchez..."
-  },
-  {
     "title": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
     "summary": "La Comisión Europea estima que el PIB español crecerá un 2,6% este año, dos décimas más de lo que dijo en primavera, mientras eleva la media anual del IPC al 3,9%",
     "source": "El País Economía",
@@ -902,17 +957,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Metro Bank offers cheap and scale deposits but its branches and regulations complicate a merger"
   },
   {
-    "title": "Nadie hace vino para vender alcohol",
-    "summary": "Retirar el etanol después de la fermentación permite a las bodegas ganar consumidores justo cuando la demanda mundial retrocede",
-    "source": "El País Economía",
-    "url": "https://cincodias.elpais.com/opinion/2026-11-17/nadie-hace-vino-para-vender-alcohol.html",
-    "category": "Economía",
-    "date": "2026-11-17T04:40:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XL2IOAXBJPTW4BMOGRT4HPECSE.jpg?auth=5a4df512cbfabfd76b2e6b14de793dd685839473a676b0130b4eb06d704315cb",
-    "title_en": "Nobody makes wine to sell alcohol",
-    "summary_en": "Retiring ethanol after fermentation allows cellars to gain consumers just as global demand goes back"
-  },
-  {
     "title": "La deuda española resiste la incertidumbre política",
     "summary": "El crecimiento y la contención del gasto sostienen la confianza de los inversores",
     "source": "El País Economía",
@@ -922,6 +966,17 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/FZUS7G5VUBEGVBX5252RM4ALK4.JPG?auth=f6e7581f348a2a95d622ab134a95817e7e99eed32cf2417f76dcc803d542e249",
     "title_en": "Spanish debt challenges political uncertainty",
     "summary_en": "The growth and containment of spending sustain investor confidence"
+  },
+  {
+    "title": "Nadie hace vino para vender alcohol",
+    "summary": "Retirar el etanol después de la fermentación permite a las bodegas ganar consumidores justo cuando la demanda mundial retrocede",
+    "source": "El País Economía",
+    "url": "https://cincodias.elpais.com/opinion/2026-11-17/nadie-hace-vino-para-vender-alcohol.html",
+    "category": "Economía",
+    "date": "2026-11-17T04:40:00+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/XL2IOAXBJPTW4BMOGRT4HPECSE.jpg?auth=5a4df512cbfabfd76b2e6b14de793dd685839473a676b0130b4eb06d704315cb",
+    "title_en": "Nobody makes wine to sell alcohol",
+    "summary_en": "Retiring ethanol after fermentation allows cellars to gain consumers just as global demand goes back"
   },
   {
     "title": "El apagón de Microsoft activa los planes B",
@@ -955,17 +1010,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/MN545NT2PJAAPG273DKGXLZWVE.JPG?auth=7740809640a55581ef99d922a4924d3f2386b2bf9bd4557d7a67c29d916e5807",
     "title_en": "My mother's worthy death",
     "summary_en": "The days are passing at the hospital. My mother, Maria Luisa, still doesn't admit any food. They also remove his serum because his legs are swelling. The minimum dose of morphine makes it more and more difficult to stay awake and with an enormous amount of care. Say again \"That's what I didn't mean.\""
-  },
-  {
-    "title": "Emma Watson, 25 años después de ‘Harry Potter’: de la niña que conquistó el mundo a la mujer que “se rompía” en Hollywood",
-    "summary": "Interpretar a Hermione Granger la convirtió en un icono generacional, pero también condicionó su infancia y su manera de entender la profesión. A sus 36 años, la actriz británica ha narrado las heridas que le dejó crecer bajo el hechizo de la saga, un manual de instrucciones para quien le coge el relevo en la serie de HBO",
-    "source": "El País",
-    "url": "https://elpais.com/gente/2026-11-17/emma-watson-25-anos-despues-de-harry-potter-de-la-nina-que-conquisto-el-mundo-a-la-mujer-que-se-rompia-en-hollywood.html",
-    "category": "Cultura",
-    "date": "2026-11-17T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LU7CL3XCYZGIPEA75VZ4X3NJVU.jpg?auth=5dd43b9260ba46a790aa13a8bd4caeaca3e5347a1f575532cf140be93b7c4d53",
-    "title_en": "Emma Watson, 25 years after \"Harry Potter\": from the girl who conquered the world to the woman who \"broke\" in Hollywood",
-    "summary_en": "Playing Hermione Granger became a generational icon but also conditioned his childhood and his understanding of his profession. At his 36 year old, the British actress has told about his injuries that have grown under the saga's spell, an instruction manual for those who get his back from his HBO series."
   },
   {
     "title": "Los actores que han dado vida a James Bond, de peor a mejor",
@@ -1164,49 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "What does the average number of polls say? See real-time polls",
     "summary_en": "The mean EL PAIS is updated day by day, giving more weight to best polls. Plus, build your own average"
-  },
-  {
-    "title": "La estafa de la tienda en línea falsa",
-    "summary": "Supuestos comercios ‘online’ lanzan ofertas agresivas para atraer a los compradores, especialmente durante el Black Friday y la Navidad, pero detrás de cada ganga se esconde un engaño",
-    "source": "El País Tecnología",
-    "url": "https://elpais.com/tecnologia/branded/ocurrio-en-internet/2026-11-16/la-estafa-de-la-tienda-en-linea-falsa.html",
-    "category": "Tecnología",
-    "date": "2026-11-16T16:00:30+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Los grandes centros de datos de EE UU ya consumen tanta energía como todo Chile",
-    "summary": "Un estudio publicado en Nature estima que estas infraestructuras acaparan el 1,8% de la electricidad del país y que las emisiones de carbono se han triplicado desde 2018",
-    "source": "El País Tecnología",
-    "url": "https://elpais.com/tecnologia/2026-11-16/los-grandes-centros-de-datos-de-ee-uu-ya-consumen-tanta-energia-como-todo-chile.html",
-    "category": "Medio Ambiente",
-    "date": "2026-11-16T16:00:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/KKTF3XDEJBM65IKWD7EJFQC3VM.jpg?auth=f32b2c066e24052d153d8bef73491856e1deb1823940535cc8377ac87f9a66ac",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "La COP31 pedirá \"acelerar la eliminación\" de los combustibles fósiles",
-    "summary": "La Cumbre del Clima que se celebra en Antalya, Turquía, pide, en su primer borrador final, una transición \"inmediata\" para el uso de los hidrocarburos en los sistemas energéticos.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/la-cop31-pedirá-acelerar-la-eliminación-de-los-combustibles-fósiles/a-79960718?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Medio Ambiente",
-    "date": "2026-11-16T15:49:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Ordenan repetir el juicio a Lindsay Clancy, la mujer acusada de matar a sus 3 hijos en EE.UU.",
-    "summary": "El juez fijó el inicio del juicio para el 29 de marzo de 2027, mientras la fiscalía no precisó qué cargos enfrentará Clancy.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cwr7gv9xpzyyo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-16T15:46:18+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1429/live/d9401280-e1d3-11f1-b8c8-67fa35f5afdb.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   }
 ];
