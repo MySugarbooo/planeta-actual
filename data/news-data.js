@@ -1,5 +1,214 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Julio Iglesias será investigado por presuntas agresiones sexuales y físicas a dos mujeres",
+    "summary": "El juez Antonio Piña aceptó la querella presentada por los abogados de dos mujeres que aseguran haber sido víctimas de delitos sexuales y agresiones físicas por parte del cantante Julio Iglesias. Los maltratos habrían ocurrido en 2021 en las casas del artista en Bahamas y República Dominicana mientras las denunciantes se desempeñaban como empleadas de las…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/cultura/20261119-julio-iglesias-ser%C3%A1-investigado-por-presuntas-agresiones-sexuales-y-f%C3%ADsicas-a-dos-mujeres",
+    "category": "Cultura",
+    "date": "2026-11-19T03:24:30+00:00",
+    "image": "https://s.france24.com/media/display/b5869d36-e3be-11f1-8d1a-7908c4e1a3c7/w:1024/p:16x9/AP19191530339360.jpg",
+    "title_en": "Julio Iglesias will be investigated for alleged sexual and physical assault of two women",
+    "summary_en": "Judge Antonio Piña accepted the complaint filed by lawyers of two women who claim to have been victims of sexual crime and physical assault by singer Julio Iglesias. Los maltratos habrían ocurciado en 2021 en las casas del artista en Bahamas y República Dominicana mientras las denunciantes se duciaban como trabajes de las..."
+  },
+  {
+    "title": "El peso de la tecnología y la inteligencia artificial en la cumbre de la APEC",
+    "summary": "Aunque la histórica reunión entre Xi Jinping, Vladimir Putin y Donald Trump acapara casi toda la atención de la cumbre de la APEC, el desarrollo tecnológico, la inteligencia artificial y el comercio digital son uno de los ejes del encuentro. Para nuestro invitado José Carlos Feliciano, subdirector del Centro de Estudios sobre China y Asia-Pacífico, la…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-el-peso-de-la-tecnolog%C3%ADa-y-la-inteligencia-artificial-en-la-cumbre-de-la-apec",
+    "category": "Tecnología",
+    "date": "2026-11-19T02:50:11+00:00",
+    "image": "https://s.france24.com/media/display/ce16b364-e3c2-11f1-8474-1ba7ddfab527/w:1024/p:16x9/ES-20261118-203222-203909-CS.jpg",
+    "title_en": "The weight of technologies and artificial intelligence at the APEC summit",
+    "summary_en": "Although the historic meeting between Xi Jinping, Vladimir Putin and Donald Trump attracted most of the APEC summit's attention, technological development, artificial intelligence and digital commerce are one of the challenges of the meeting. To our guest José Carlos Feliciano, deputy director of the Center for Studies about China and Asia-Pacific, the..."
+  },
+  {
+    "title": "Trump pide al Supremo bloquear fallo que restituye protección migratoria a cientos de miles de venezolanos",
+    "summary": "El gobierno alega que devolver ese beneficio migratorio supondrá \"dejar en libertad dentro del país a extranjeros sujetos a deportación\".",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/trump-pide-al-supremo-bloquear-fallo-que-restituye-protección-migratoria-a-cientos-de-miles-de-venezolanos/a-79986699?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-19T02:47:00+00:00",
+    "image": "",
+    "title_en": "Trump asks the Supreme to block decision to restore immigration protection to hundreds of thousands of Venezuelan people",
+    "summary_en": "The government claims that returning this migration benefit will mean \"releasing aliens with deportation within the country.\""
+  },
+  {
+    "title": "Informe desde Shenzhen: inicia cumbre de la APEC con expectativas por reunión Trump-Xi-Putin",
+    "summary": "Empezó la cumbre de la APEC en Shenzhen con un discurso del presidente Xi Jinping en el que destacó el desarrollo del continente asiático. El encuentro tiene como temas clave la economía, la tecnología y la geopolítica, pero la atención global se centra en la reunión del mandatario chino con sus homólogos Donald Trump y Vladimir Putin. Nuestro corresponsal…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-informe-desde-shenzhen-inicia-cumbre-de-la-apec-con-expectativas-por-reuni%C3%B3n-tripartita",
+    "category": "Tecnología",
+    "date": "2026-11-19T02:22:08+00:00",
+    "image": "https://s.france24.com/media/display/1592da0a-e3ba-11f1-a5fd-6d75ed565170/w:1024/p:16x9/ES-20261118-180725-180915-CS.jpg",
+    "title_en": "Report from Shenzhen: Opens APEC summit with expectations for Trump- Xi- Putin meeting",
+    "summary_en": "The APEC summit at Shenzhen began with an address by President Xi Jinping and highlighted the development of the Asian continent. The meeting has as key issues the economy, technology and geopolitics, but global attention focuses on meeting the Chinese president with his counterparts Donald Trump and Vladimir Putin. Our correspondent..."
+  },
+  {
+    "title": "\"Ni un peso menos\": los chilenos protestan contra los presupuestos del Gobierno Kast",
+    "summary": "Una serie de movilizaciones en Santiago y otras de las principales ciudades de Chile fue protagonizada por sindicatos y varios movimientos sociales. Los manifestantes se pronunciaron contra los recortes para la educación, salud y cultura en la ley de presupuesto para 2027 presentada por el Gobierno de José Antonio Kast. Esto en medio de un descontento…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261119-ni-un-peso-menos-los-chilenos-protestan-contra-los-presupuestos-del-gobierno-kast",
+    "category": "Salud",
+    "date": "2026-11-19T02:11:30+00:00",
+    "image": "https://s.france24.com/media/display/4652dd36-e3b3-11f1-a028-c5c0357b2a0c/w:1024/p:16x9/2026-11-18T173203Z-1865229298-RC2EQOA6DA1B-RTRMADP-3-CHILE-PROTEST.jpg",
+    "title_en": "\"No less weight\": Chilean protest against Kast government budgets",
+    "summary_en": "A number of mobilizations in Santiago and other of Chile's leading cities were starring trade unions and several social movements. The protesters expressed their opposition to cuts to education, health and culture in the 2027 budget law put forward by the Government of José Antonio Kast. That's amidst a discontent..."
+  },
+  {
+    "title": "Venezuela firma acuerdos de cooperación militar con EE. UU. 10 meses después de la captura de Maduro",
+    "summary": "10 meses después de la captura de Nicolás Maduro en una operación que él mismo lideró, Pete Hegseth viajó a Caracas para firmar un acuerdo de reinicio de cooperación militar entre Estados Unidos y Venezuela que, según la presidenta interina Delcy Rodríguez, busca \"hacer frente a amenazas comunes\". La relación entre ambos países estaba rota desde 2005 bajo…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-venezuela-firma-acuerdos-de-cooperaci%C3%B3n-militar-con-ee-uu-10-meses-despu%C3%A9s-de-la-captura-de-maduro",
+    "category": "Internacional",
+    "date": "2026-11-19T01:40:23+00:00",
+    "image": "https://s.france24.com/media/display/b9fdd174-e3ad-11f1-9163-1ba7ddfab527/w:1024/p:16x9/ES-20261118-180159-180343-CS.jpg",
+    "title_en": "Venezuela signs military cooperation agreements with the US. 10 months after Maduro's capture",
+    "summary_en": "10 months after his capture of Nicolás Maduro in an operation his own leadership, Pete Hegseth travelled to Caracas to sign an agreement to re-start military cooperation between the U.S. and Venezuela that, according to Interim President Delcy Rodriguez, aims to \"face common threats.\" The relationship between both countries had been broken since 2005 low..."
+  },
+  {
+    "title": "Musk dice que se siente \"bastante tonto\" por haber gastado 445 millones de dólares en elecciones de EE.UU.",
+    "summary": "El magnate se lamentó por \"haber gastado tanto dinero y no haber visto mucho a cambio\", en clara alusión a la debacle republicana en las urnas.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/musk-dice-que-se-siente-bastante-tonto-por-haber-gastado-445-millones-de-dólares-en-elecciones-de-ee-uu/a-79986510?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-19T01:00:00+00:00",
+    "image": "",
+    "title_en": "Musk says she's feeling \"quite foolish\" about spending $445 million in U.S. elections.",
+    "summary_en": "The magnate expressed his regret about \"spending so much money and not seeing so much in return,\" with clear reference to the Republican debacle at the polls."
+  },
+  {
+    "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
+    "summary": "La empresa de inteligencia artificial debuta este jueves con un precio de salida de 83 dólares por acción, por encima de la banda orientativa, y amplía la oferta un 19%, gracias a la fuerte demanda de los inversores",
+    "source": "El País",
+    "url": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+    "category": "Tecnología",
+    "date": "2026-11-19T00:25:13+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/6TCGBSQGXFKGLNZGXMR5ZSKEUI.jpg?auth=5d22c4d819abc6b9379e2fb8391a20ba70053a874318f224c4d2aebff82af1a6",
+    "title_en": "Anthropic bounds SpaceX as the largest exit to Stock Exchange and sets its valuation at $1.5 billion",
+    "summary_en": "The artificial intelligence company debuts this Thursday with an output price of 83 dollars per share, above the target band, and expands supply by 19%, thanks to strong demand from investors"
+  },
+  {
+    "title": "Declaran culpable en EE.UU. a un pastor por conspirar para matar al presidente de Haití, Jovenel Moïse",
+    "summary": "El pastor Christian Emmanuel Sanon, que se había declarado no culpable, se expone a una condena de cadena perpetua.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/declaran-culpable-en-ee-uu-a-un-pastor-por-conspirar-para-matar-al-presidente-de-haití-jovenel-moïse/a-79986484?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-19T00:22:00+00:00",
+    "image": "",
+    "title_en": "A Pastor Refound guilty in the U.S. for Plotting To Kill Haiti's President Jovenel Moïse",
+    "summary_en": "Pastor Christian Emmanuel Sanon, who had been found guilty, challenges his life imprisonment."
+  },
+  {
+    "title": "Moscú registra nuevo ataque a puente que une Rusia con la anexionada Crimea",
+    "summary": "Serguéi Aksiónov, responsable de Crimea designado por Moscú, dijo que el ataque interrumpió el tráfico y que se están evaluando los daños.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/moscú-registra-nuevo-ataque-a-puente-que-une-rusia-con-la-anexionada-crimea/a-79986493?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-19T00:13:00+00:00",
+    "image": "",
+    "title_en": "Moscow Record New Bridge Attack Uniting Russia with Announced Crimea",
+    "summary_en": "Serguei Aksiónov, a head of Crimea appointed by Moscow, said that the attack stopped traffic and that damage was being assessed."
+  },
+  {
+    "title": "Informe desde Caracas: EE. UU. y Venezuela firman acuerdo de cooperación militar",
+    "summary": "Venezuela y Estados Unidos reanudan su cooperación militar más de 10 meses después de la captura de Nicolás Maduro en Caracas. El secretario de Defensa estadounidense, Pete Hegseth, visitó la capital venezolana sin un anuncio formal para firmar el acuerdo que permite a Venezuela fortalecer sus Fuerzas militares y trabajar conjuntamente contra el…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-informe-desde-caracas-ee-uu-y-venezuela-firman-acuerdo-de-cooperaci%C3%B3n-militar",
+    "category": "Internacional",
+    "date": "2026-11-18T23:53:47+00:00",
+    "image": "https://s.france24.com/media/display/884a62aa-e39e-11f1-941d-7908c4e1a3c7/w:1024/p:16x9/ES-20261118-144244-144423-CS.jpg",
+    "title_en": "Report from Caracas: U.S. and Venezuela sign Military Cooperation Agreement",
+    "summary_en": "Venezuela and the U.S. resume their military cooperation more than 10 months after the capture of Nicolás Maduro in Caracas. U.S. Secretary of Defense, Pete Hegseth, visited the Venezuelan capital without a formal announcement to sign an agreement enabling Venezuela to strengthen its military forces and work together with them to fight..."
+  },
+  {
+    "title": "¿Se cierra el círculo del tutelaje? Hegseth firma un acuerdo de “cooperación militar” con Venezuela",
+    "summary": "El hombre que dirigió la extracción de Nicolás Maduro y los polémicos bombardeos en el Caribe contra supuestas narcolanchas se convirtió este 18 de noviembre en el funcionario de más alto rango de la Administración Trump que visita Venezuela. Recibido por Delcy Rodríguez en Miraflores, Pete Hegseth firmó un convenio con los mismos miembros de la cúpula…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-se-cierra-el-c%C3%ADrculo-del-tutelaje-hegseth-firma-un-acuerdo-de-cooperaci%C3%B3n-militar-con-venezuela",
+    "category": "Política",
+    "date": "2026-11-18T23:53:38+00:00",
+    "image": "https://s.france24.com/media/display/1d422dec-e3a5-11f1-828a-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T173154Z-84032098-RC2OWM5HBVNU-RTRMADP-3-VENEZUELA-USA.jpg",
+    "title_en": "Do we close our tutelage circle? Hegseth signs an agreement of \"military cooperation\" with Venezuela",
+    "summary_en": "The man who directed the extraction of Nicolás Maduro and the controversial bombings in the Caribbean against alleged narcolanchas became the highest-ranking official of the Trump Administration visiting Venezuela on November 18. Reported by Delcy Rodriguez at Miraflores, Pete Hegseth signed an agreement with the same members of the dome..."
+  },
+  {
+    "title": "Bukele se gana el favor de los haitianos por operativos contra las pandillas",
+    "summary": "Nayib Bukele y El Salvador se gana el favor de los haitianos en medio de los operativos del Ejército salvadoreño contra las pandillas, que se encuentran en la isla desde octubre buscando a cuatro de sus hombres. Los operativos han conseguido que los habitantes de Haití vean en la política y acciones de Bukele como una solución a la crisis de seguridad, pero…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-bukele-se-gana-el-favor-de-los-haitianos-por-operativos-contra-las-pandillas",
+    "category": "Política",
+    "date": "2026-11-18T23:45:27+00:00",
+    "image": "https://s.france24.com/media/display/d4df484a-e39b-11f1-88fc-6d75ed565170/w:1024/p:16x9/ES-20261118-144026-144212-CS.jpg",
+    "title_en": "Bukele wins favor from Haitians for anti-gangs operations",
+    "summary_en": "Nayib Bukele and El Salvador gain favor from Haitians amidst the operations of the Salvadoran Army against gangs, who have been on the island since October looking for four of their men. The operations have been enabling the people of Haiti to see Bukele's politics and actions as a solution to the security crisis but..."
+  },
+  {
+    "title": "Israel lanza una operación terrestre en el centro de Gaza y provoca la huida de decenas de palestinos",
+    "summary": "Decenas de palestinos huyeron este miércoles 18 de noviembre de tiendas de campaña y refugios en el centro de Gaza después de que Israel lanzara una inusual operación terrestre en una zona de la que se había retirado en virtud de un alto el fuego de 2025. El Ejército israelí afirmó que cruzó la Línea Amarilla “para eliminar una amenaza\" sobre sus tropas.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/medio-oriente/20261118-israel-lanza-una-operaci%C3%B3n-terrestre-en-el-centro-de-gaza-y-provoca-la-huida-de-decenas-de-palestinos",
+    "category": "Internacional",
+    "date": "2026-11-18T23:17:47+00:00",
+    "image": "https://s.france24.com/media/display/d887f168-e3a5-11f1-a636-ff16da94d1fe/w:1024/p:16x9/2026-11-18T151621Z-1162002354-RC2CQOAW8061-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+    "title_en": "Israel launched a ground operation in central Gaza and caused tens of Palestinians to flee",
+    "summary_en": "Tens of Palestinians fled tents and shelters in central Gaza on Wednesday, 18 November after an unusual ground operation was launched by Israel in an area that had been withdrawn under a 2025 ceasefire. The Israeli army stated that it crossed the Yellow Line \"to remove a threat\" to its troops."
+  },
+  {
+    "title": "Recrudecimiento de ataques entre hutíes y fuerzas de Yemen agravan situación humanitaria",
+    "summary": "Los combates en Yemen se recrudecen y la situación humanitaria empeora con el avance de los hutíes, los enfrentamientos armados y los ataques de Arabia Saudita. En los últimos días, las fuerzas gubernamentales tuvieron que retirarse de Dhubab y las zonas aledañas del estrecho de Bab el-Mandeb, dejando el control total a los hutíes, para defender a su…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-recrudecimiento-de-ataques-entre-hut%C3%ADes-y-fuerzas-de-yemen-agravan-situaci%C3%B3n-humanitaria",
+    "category": "Internacional",
+    "date": "2026-11-18T23:17:21+00:00",
+    "image": "https://s.france24.com/media/display/925b49a6-e396-11f1-b2e7-ff16da94d1fe/w:1024/p:16x9/ES-20261118-143752-143953-CS.jpg",
+    "title_en": "Retirement of attacks by Hitties and Yemeni forces exacerbates humanitarian situation",
+    "summary_en": "The fighting in Yemen was growing and the humanitarian situation was deteriorating with the advance of the Houties, armed confrontations and attacks by Saudi Arabia. In the last few days, government forces had to withdraw from Dhumab and the surrounding areas of the Bab el- mandeb Straits, leaving complete control of the Houties, to defend their..."
+  },
+  {
+    "title": "Hegseth alardea de la captura de Maduro en la primera visita a Venezuela de un secretario de Defensa de EE.UU. en décadas",
+    "summary": "El secretario de Defensa de EE.UU. visitó Venezuela para firmar un acuerdo de cooperación militar.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cw30gd28rjn9o?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-18T23:11:04+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5cd3/live/82be9ae0-e3a3-11f1-a7fa-331bad3d0984.jpg",
+    "title_en": "Hegseth boast of Maduro's capture at his first visit to Venezuela by a U.S. Secretary of Defense in decades",
+    "summary_en": "The U.S. Secretary of Defense visited Venezuela to sign a military cooperation agreement."
+  },
+  {
+    "title": "Nueva operación militar israelí en Gaza: ¿Qué pasó con el acuerdo firmado con Hamás?",
+    "summary": "En medio de las intensas lluvias que han inundado los campamentos de refugiados y ha dificultado la ya golpeada situación sanitaria de los gazatíes, el Ejército israelí cruzó la línea amarilla, demarcada por los israelíes, para realizar una operación militar contra \"infraestructuras terroristas en el centro de la Franja de Gaza\", asegurando que tiene como…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261118-nueva-operaci%C3%B3n-militar-israel%C3%AD-en-gaza-qu%C3%A9-pas%C3%B3-con-el-acuerdo-firmado-con-ham%C3%A1s",
+    "category": "Salud",
+    "date": "2026-11-18T22:54:23+00:00",
+    "image": "https://s.france24.com/media/display/341f7200-e390-11f1-a1ec-ff16da94d1fe/w:1024/p:16x9/ES-20261118-131635-132739-CS.jpg",
+    "title_en": "New Israeli Military Operation in Gaza: What happened with the Agreement with Hamas?",
+    "summary_en": "Amid the intense rains that have flooded refugee camps and have hampered the already damaged health situation of the Ghanatians, the Israeli Army crossed the yellow line, demarcated by the Israelis, to conduct a military operation against \"terrorist infrastructure in the centre of the Gaza Strip,\" claiming that it has as its..."
+  },
+  {
+    "title": "Lucía Caminos, la primera protagonista femenina de GTA en los 30 años de historia del videojuego",
+    "summary": "El esperado nuevo videojuego de la saga Grand Theft Auto presenta a la primera protagonista femenina en sus 30 años de historia. Pero, ¿contribuirá la inclusión de Lucia Caminos, una joven latina, a combatir la falta de representación femenina en los videojuegos?",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cqevre781d3vo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-18T22:12:35+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03f5/live/f96f8440-e350-11f1-99b6-a35a62fa4264.jpg",
+    "title_en": "Lucía Caminos, GTA's first leading woman in his 30-year video game history",
+    "summary_en": "The expected new video game of the Grand Theft Auto saga introduces the first female star in his 30 years of history. But will the inclusion of Lucia Caminos, a young Latino woman, contribute to combating the lack of female representation in video games?"
+  },
+  {
+    "title": "¿Por qué Ucrania pone ahora en la mira de sus ataques el puente que une a Rusia con Crimea?",
+    "summary": "Un ataque con drones y misiles ucranianos perpetrado el lunes 16 de noviembre por la noche derribó un tramo del puente que une la península de Crimea con Rusia, lo que podría paralizar una ruta que Moscú lleva mucho tiempo utilizando para trasladar efectivos y material a ese territorio anexionado y al frente sur. ¿Por qué Kiev apunta ahora su fuerza contra…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261118-por-qu%C3%A9-ucrania-pone-ahora-en-la-mira-de-sus-ataques-el-puente-que-une-a-rusia-con-crimea",
+    "category": "Internacional",
+    "date": "2026-11-18T22:09:19+00:00",
+    "image": "https://s.france24.com/media/display/4a95eebc-e19a-11f1-bc6d-29048b396e03/w:1024/p:16x9/000-D7KG3ZQ.jpg",
+    "title_en": "Why does Ukraine now put the bridge that links Russia with Crimea into its attacks?",
+    "summary_en": "An attack with Ukrainian drones and missiles on Monday, November 16th at night toppled a portion of the bridge that links the Crimea peninsula with Russia, which could paralyze a route that Moscow has been using for a long time to move troops and material to that annexed territory and to the South Front. Why does Kiev now aim his strength at..."
+  },
+  {
     "title": "Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China",
     "summary": "Frenar la venta de armas a Taiwán, recuperarse de una contundente derrota electoral o proyectar una imagen de igualdad de oportunidades con las dos superpotencias mundiales: Xi Jinping, Donald Trump y Vladimir Putin abordan su reunión trilateral en Shenzhen con objetivos y agendas diferentes.",
     "source": "France 24",
@@ -163,17 +372,6 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/d82d91ca-e268-11f1-a856-5f54d898a954/w:1024/p:16x9/b0fa069d87d62fd8fe2d39f61f683669a8f7ed1c.jpg",
     "title_en": "\"I'll take four days off\": furor at the video game Grand Theft Auto, back after 13 years",
     "summary_en": "Grand Theft Auto VI will be available worldwide on Thursday at midnight for PlayStation 5 and Xbox Series consoles, thirteen years after its previous version and after two delays and several leaks. The most expensive video game ever developed will be on its way to breaking sales records: advanced reserves have already exceeded 15 million..."
-  },
-  {
-    "title": "La magnitud de la salida a Bolsa de Anthropic, en cifras",
-    "summary": "La compañía creadora de Claude está por concretar su oferta pública inicial de acciones, que se anticipa valore a la empresa en unos 1,4 billones de dólares",
-    "source": "El País",
-    "url": "https://elpais.com/us/economia/2026-11-18/la-magnitud-de-la-salida-a-bolsa-de-anthropic-en-cifras.html",
-    "category": "Economía",
-    "date": "2026-11-18T18:51:18+00:00",
-    "image": "",
-    "title_en": "The magnitude of the Anthropic Stock Exchange output, in figures",
-    "summary_en": "Claude's creative company is about to realize its initial public share offer, which anticipates his company by about $1.4 billion."
   },
   {
     "title": "Deutsche Bank: millones de documentos revelan prácticas dudosas",
@@ -374,17 +572,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Following three years of disqualification, the Federation and Barons of the Territory have been claiming to have spotted movements of the Granadino leader's environment to try and overthrow the current president"
   },
   {
-    "title": "Venecia: las marismas que capturan más CO₂ que los bosques",
-    "summary": "En la laguna de Venecia, las barene, marismas de lodo y vegetación, son un aliado clave frente al cambio climático: absorben CO₂ y lo almacenan de forma duradera en sus suelos, a un ritmo por hectárea muy superior al de los bosques terrestres. Pero la erosión y la subida del nivel del mar las amenazan. Científicos y asociaciones multiplican las iniciativas…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/en-foco/20261118-venecia-las-marismas-que-capturan-m%C3%A1s-co%E2%82%82-que-los-bosques",
-    "category": "Medio Ambiente",
-    "date": "2026-11-18T16:48:38+00:00",
-    "image": "https://s.france24.com/media/display/4b69455a-da01-11f1-826d-bf1914cabd52/w:1024/p:16x9/FR-NW-OOV-ECRAN-FREEZE-ITALIE-LAGINE-DE-VENISE-BAIN-Lauren-transfer.jpg",
-    "title_en": "Venice: The marshes that capture more CO) than forests",
-    "summary_en": "In the Venice lagoon, baree, mud and vegetation marshes, are a key ally to climate change: they absorb CO and store them with a long-term status in their soils, at a high rate per hectare as far as ground forests. But the erosion and rising sea level threaten them. Scientists and Partnerships Multiple Initiatives..."
-  },
-  {
     "title": "Un juez de Teruel envía el ‘caso Forestalia’ a la Audiencia Nacional por su conexión con el ‘caso Leire Díez’",
     "summary": "El magistrado destaca la relación con el empresario Antxon Alonso, vinculado a Santos Cerdán",
     "source": "El País",
@@ -451,17 +638,6 @@ window.PLANETA_NEWS = [
     "summary_en": "An assistant shows the Russian president's black briefcase and two Tus-95MS cross Asia hours after the partial destruction of the Crimea bridge"
   },
   {
-    "title": "Trump, Xi y Putin se reunirán en la cumbre de la APEC en un encuentro trilateral sin precedentes",
-    "summary": "El 19 de noviembre, Donald Trump, Xi Jinping y Vladimir Putin se encontrarán en Shenzhen, uno de los centros tecnológicos de China, en el marco del Foro de Cooperación Económica Asia-Pacífico (APEC). El Gobierno de Pekín califica el encuentro de \"trascendental\", mientras que el Kremlin afirma que envía al mundo el mensaje de que los problemas se pueden…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-trump-xi-y-putin-se-reunir%C3%A1n-en-la-cumbre-de-la-apec-en-un-encuentro-trilateral-sin-precedentes",
-    "category": "Economía",
-    "date": "2026-11-18T15:16:04+00:00",
-    "image": "https://s.france24.com/media/display/4dbad434-e35e-11f1-8ff0-c5c0357b2a0c/w:1024/p:16x9/ES-20261118-073453-073640-CS.jpg",
-    "title_en": "Trump, Xi and Putin will meet at the APEC summit at an unprecedented trilateral meeting",
-    "summary_en": "On November 19, Donald Trump, Xi Jinping and Vladimir Putin will be at Shenzhen, one of China's technological centers, as part of the Asia-Pacific Economic Cooperation Forum (APEC). The Peking Government describes the meeting as \"transcendental,\" while the Kremlin states that it sends a message to the world that problems can be..."
-  },
-  {
     "title": "Una investigación independiente concluye que la actividad de Núcleo Nacional servía a los intereses de Rusia",
     "summary": "Un estudio de las redes sociales del grupo neonazi constata conexiones con sus homólogos de 11 países europeos",
     "source": "El País",
@@ -495,61 +671,6 @@ window.PLANETA_NEWS = [
     "summary_en": "He's been a star for more than 20 years and has been at Batman's, Harry Potter's and Twilight's saga. But at his 40th year his race challenges his most important (or any race)"
   },
   {
-    "title": "Informe desde Shenzhen: Xi recibe a Trump en la pista del aeropuerto antes de la cumbre de la APEC",
-    "summary": "En un gesto inédito, el presidente de China, Xi Jinping, recibió a su homólogo estadounidense, Donald Trump, en la pista del aeropuerto de Shenzhen, antes de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). China desplegó cinco cazas para dar la bienvenida al mandatario estadounidense, en un gesto de reciprocidad. Informa nuestro enviado…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-informe-desde-shenzhen-xi-recibe-a-trump-en-la-pista-del-aeropuerto-antes-de-la-cumbre-de-la-apec",
-    "category": "Economía",
-    "date": "2026-11-18T15:09:21+00:00",
-    "image": "https://s.france24.com/media/display/81adb73a-e35d-11f1-8e4c-7908c4e1a3c7/w:1024/p:16x9/ES-20261118-073233-073418-CS.jpg",
-    "title_en": "Report from Shenzhen: Xi welcomes Trump at the airport track before the APEC summit",
-    "summary_en": "In an unprecedented gesture, China's president, Xi Jinping, received his American counterpart, Donald Trump, at the Shenzhen airport track, before the summit of the Asia-Pacific Economic Cooperation Forum (APEC). China deployed five fighters to welcome the American president with a gesture of reciprocity. Inform our envoy..."
-  },
-  {
-    "title": "Directo París y las propuestas pensionales de Le Pen y Édouard Philippe",
-    "summary": "Las pensiones son uno de los temas centrales de la campaña electoral para las elecciones presidenciales en Francia de 2027. La candidata de extrema derecha, Marine Le Pen, y el exprimer ministro Édouard Philippe, de centro derecha, presentaron sus propuestas de reforma del sistema pensional. Le Pen propuso bajar la edad de retiro y un sistema de…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-directo-par%C3%ADs-y-las-propuestas-pensionales-de-le-pen-y-%C3%A9douard-philippe",
-    "category": "Política",
-    "date": "2026-11-18T15:08:58+00:00",
-    "image": "https://s.france24.com/media/display/9ef7ab40-e35b-11f1-ad1d-1ba7ddfab527/w:1024/p:16x9/ES-20261118-072521-072755-CS.jpg",
-    "title_en": "Direct Paris and punitive proposals by Le Pen and Édouard Philippe",
-    "summary_en": "Pensions are at the heart of the election campaign for the 2027 presidential elections in France. The far-right candidate, Marine Le Pen, and former Prime Minister Édouard Philippe, from the right centre, put forward his proposals for reform of the pension system. Le Pen propose to lower retirement age and a system of..."
-  },
-  {
-    "title": "¿Cuál es el objetivo de la reunión trilateral entre Trump, Xi y Putin durante la cumbre de la APEC?",
-    "summary": "Este 18 de noviembre, el presidente de Estados Unidos, Donald Trump, llegó a China para reunirse con sus homólogos chino, Xi Jinping, y ruso, Vladímir Putin, en el marco de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Shenzhen será el escenario de una inédita reunión trilateral en la que la desnuclearización, las guerras en Irán y…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-cu%C3%A1l-es-el-objetivo-de-la-reuni%C3%B3n-trilateral-entre-trump-xi-y-putin-durante-la-cumbre-de-la-apec",
-    "category": "Economía",
-    "date": "2026-11-18T15:08:30+00:00",
-    "image": "https://s.france24.com/media/display/da2ec642-e358-11f1-9263-ff16da94d1fe/w:1024/p:16x9/ES-20261118-071453-072501-CS.jpg",
-    "title_en": "What's the goal of the trilateral meeting between Trump, Xi and Putin at the APEC summit?",
-    "summary_en": "On November 18, U.S. President Donald Trump came to China to meet with his Chinese counterparts, Xi Jinping, and Russian, Vladimir Putin, at the Asia-Pacific Economic Cooperation Forum (APEC) summit. Shenzhen will be the stage of an unprecedented trilateral meeting at which denuclearization, wars in Iran and..."
-  },
-  {
-    "title": "Hutíes de Yemen pugnan por Adén: ¿un revés para Arabia Saudita?",
-    "summary": "Las fuerzas progubernamentales de Yemen se retiraron de algunas zonas del suroeste del país y alrededor del estrecho de Bab el-Mandeb para proteger su sede, Adén, ante el avance de los hutíes. El grupo Ansar Allah controla ahora la orilla yemení de este estrecho clave del Mar Rojo. ¿Hasta qué punto es seria la amenaza sobre Adén? ¿Representa un revés para…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/expreso-de-oriente/20261118-hut%C3%ADes-de-yemen-pugnan-por-ad%C3%A9n-un-rev%C3%A9s-para-arabia-saudita",
-    "category": "Internacional",
-    "date": "2026-11-18T15:04:33+00:00",
-    "image": "https://s.france24.com/media/display/2e6c76a2-e361-11f1-9f89-6d75ed565170/w:1024/p:16x9/WEB-PORTADA-18NOV-EXP.png",
-    "title_en": "Huties from Yemen fight for Aden: a backway for Saudi Arabia?",
-    "summary_en": "Progovernmental forces from Yemen withdrew from some areas of the south-west and around the Straits of Bab el@-@ mandeb to protect their headquarters, Aden, as the Hitties advanced. The Ansar Allah group currently controls the Yemeni shore of this narrow Red Sea key. To what extent is the threat to Aden serious? Do you represent a setback for..."
-  },
-  {
-    "title": "La COP31 encara su recta final con negociaciones intensas y desacuerdos profundos",
-    "summary": "Combustibles fósiles, dinero y ciencia son algunos de los temas sobre los que las delegaciones reunidas en la COP31 de Turquía seguían debatiendo este miércoles para tratar de salvar una declaración política que mantenga altas las ambiciones climáticas. El borrador inicial del lunes había chocado con el rechazo de la Unión Europea, que lo calificó de \"lista…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/medio-ambiente/20261118-la-cop31-encara-su-recta-final-con-negociaciones-intensas-y-desacuerdos-profundos",
-    "category": "Política",
-    "date": "2026-11-18T14:52:39+00:00",
-    "image": "https://s.france24.com/media/display/066a37b8-e03a-11f1-8da9-695cb59fade5/w:1024/p:16x9/cf4c695c933142468def3d469fa18779f9ce0e06.jpg",
-    "title_en": "COP31 challenges its final straight with intense negotiations and profound disagreements",
-    "summary_en": "Fossil fuels, money and science are some of the issues that delegations at Turkey's COP31 were continuing to discuss this Wednesday to seek to save a political declaration that keeps climate ambitions high. The initial draft of Monday had been met with the rejection of the European Union, which called it a \"list..."
-  },
-  {
     "title": "Un crédito récord a Airbus pone a prueba la tregua comercial UE-EE.UU.",
     "summary": "Estados Unidos sostiene que un paquete de financiación sin precedentes, por valor de 3.000 millones de euros, destinado a Airbus, podría entrar en conflicto con la tregua transatlántica sobre subvenciones al sector.",
     "source": "DW Español",
@@ -572,17 +693,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Last year's slight birth increase, the first since 2014, indicates that birth decline challenges"
   },
   {
-    "title": "Midterms: los demócratas conquistan Alaska y se consolidan con 56 senadores en el Congreso de EE. UU.",
-    "summary": "La demócrata Mary Peltola derrota en Alaska al senador republicano Dan Sullivan, quien buscaba su tercera elección no consecutiva, lo que constituye un nuevo revés político para el presidente Donald Trump, quien ganó repetidamente en este estado con una ventaja amplia. El cierre de la última carrera pendiente de las elecciones de mitad de mandato otorga a…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261118-midterms-los-dem%C3%B3cratas-conquistan-alaska-y-se-consolidan-con-56-senadores-en-el-congreso-de-ee-uu",
-    "category": "Política",
-    "date": "2026-11-18T14:33:48+00:00",
-    "image": "https://s.france24.com/media/display/90f6b112-e301-11f1-8d0c-7908c4e1a3c7/w:1024/p:16x9/AP26308242860566.jpg",
-    "title_en": "Midterms: Democrats conquer Alaska and consolidate with 56 senators at the U.S. Congress. Estados Unidos",
-    "summary_en": "Democrat Mary Peltola defeat in Alaska Republican Senator Dan Sullivan, who was looking for his third non-consecutive election, and that's a new political setback for President Donald Trump, who repeatedly won in this state with a broad advantage. The closure of the final outstanding race of the midterm elections gives..."
-  },
-  {
     "title": "La Audiencia Nacional admite la querella contra Julio Iglesias por delitos contra la libertad sexual, lesiones y trato degradante",
     "summary": "El juez Antonio Piña investigará al cantante tras una denuncia de dos extrabajadoras y las cita a declarar el próximo 3 de febrero",
     "source": "El País",
@@ -603,39 +713,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ff2/live/d3df7d40-e33f-11f1-a094-5fdc692f3e33.jpg",
     "title_en": "\"It's so much more fun to be bad\": the idea that inspired a small Scottish studio to create the successful GTA video game about 30 years ago",
     "summary_en": "As expected, the new delivery of the saga will become the launch of a bigger video game ever."
-  },
-  {
-    "title": "\"Bandas carcelarias están transformando a Ecuador en un narcoestado\": 'WSJ'",
-    "summary": "En Revista de Prensa analizamos una investigacion del diario 'Wall Street Journal' sobre las operaciones de las bandas de narcotráfico desde las cárceles en Ecuador. El medio financiero señala que los grupos criminales convirtieron al país que supo ser el más pacífico de América Latina en una arteria vital del tráfico mundial de cocaína, demostrando el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/revista-de-prensa/20261118-bandas-carcelarias-est%C3%A1n-transformando-a-ecuador-en-un-narcoestado-wsj",
-    "category": "Ciencia",
-    "date": "2026-11-18T13:57:10+00:00",
-    "image": "https://s.france24.com/media/display/5ee78ecc-e355-11f1-b251-7908c4e1a3c7/w:1024/p:16x9/ES-20261118-081428-082227-CS.jpg",
-    "title_en": "\"Jail gangs are turning Ecuador into a narco-state\": 'WSJ'",
-    "summary_en": "At Press Review we analysed an investigation of the \"Wall Street Journal\" about the operations of drug gangs from prisons in Ecuador. The financial environment indicates that criminal groups have turned the country that knew how to be the most peaceful in Latin America into a vital artery of global cocaine traffic, demonstrating its..."
-  },
-  {
-    "title": "Ruanda, ¿el nuevo destino de los migrantes expulsados de Europa?",
-    "summary": "Cinco países de la Unión Europea acordaron avanzar en la creación de un centro de retorno de migrantes en Ruanda, que debería entrar en funcionamiento en 2027. La iniciativa busca trasladar a personas cuyas solicitudes de asilo fueron rechazadas y que no pueden volver a sus países de origen. El proyecto abre un nuevo capítulo en la política migratoria…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/el-debate/20261118-ruanda-el-nuevo-destino-de-los-migrantes-expulsados-de-europa",
-    "category": "Política",
-    "date": "2026-11-18T13:51:08+00:00",
-    "image": "https://s.france24.com/media/display/1b7773e2-6672-11f1-b7b5-005056a97e36/w:1024/p:16x9/FOTO-PORTADA-EUROPA-MIGRACION-PACTO.jpg",
-    "title_en": "Rwanda, the new destination of migrants deported from Europe?",
-    "summary_en": "Five countries of the European Union agreed to move forward with the establishment of a centre for the return of migrants to Rwanda, to be put into operation by 2027. The initiative aims at transferring people whose asylum applications have been rejected and who cannot return to their countries of origin. The project opens a new chapter in migration policy..."
-  },
-  {
-    "title": "Ueno Bank arrastra al fútbol paraguayo: jugadores, clubes y Conmebol",
-    "summary": "La intervención de Ueno Bank en Paraguay alcanza al fútbol. Varios jugadores de la selección paraguaya figuran entre los afectados, y la crisis llega también a clubes como Guaraní, con contratos de patrocinio en juego. Incluso la Conmebol mantiene vínculos con esta entidad financiera, señalada por sus problemas de solvencia. ¿Qué riesgo corre el fútbol…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/deportes/20261118-ueno-bank-arrastra-al-f%C3%BAtbol-paraguayo-jugadores-clubes-y-conmebol",
-    "category": "Deportes",
-    "date": "2026-11-18T13:46:07+00:00",
-    "image": "https://s.france24.com/media/display/2f6cbfce-e2fa-11f1-9f56-c5c0357b2a0c/w:1024/p:16x9/WEB-PORTADA-17NOV-DEP.png",
-    "title_en": "Ueno Bank drags Paraguayan football: players, clubs and Conmebol",
-    "summary_en": "Ueno Bank's intervention in Paraguay goes to football. Several Paraguayan selection players are among those affected, and the crisis also goes to clubs such as Guaraní with sponsorship contracts at play. Even Conmebol has links with this financial institution, as noted by its solvency problems. What's the risk of football..."
   },
   {
     "title": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
@@ -712,17 +789,6 @@ window.PLANETA_NEWS = [
     "date": "2026-11-18T12:21:00+00:00",
     "image": "",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Xi, Trump y Putin se saludan y posan para \"foto de familia\" antes de su cumbre trilateral",
-    "summary": "Su histórica cumbre trilateral está prevista para mañana jueves; pero el presidente estadounidense Trump, el líder del Kremlin Putin y el anfitrión Xi Jinping ya coincideron en la cumbre de la APEC.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/xi-trump-y-putin-se-saludan-y-posan-para-foto-de-familia-antes-de-su-cumbre-trilateral/a-79980832?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-18T11:59:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
@@ -825,17 +891,6 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "Xi abraza a Trump en Shenzhen, antes de cumbre con Putin en la APEC",
-    "summary": "En un gesto protocolario más cálido de lo habitual, el presidente chino, Xi Jinping, recibió al estadounidense Donald Trump junto a la escalera el Air Force One a su llegada a Shenzhen, China, para abrazarlo.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/xi-abraza-a-trump-en-shenzhen-antes-de-cumbre-con-putin-en-la-apec/a-79978076?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-18T10:07:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
     "title": "La Seguridad Social rectifica y reconoce una incapacidad permanente absoluta sin llegar a juicio",
     "summary": "El INSS elevó el grado de incapacidad permanente total a absoluta después de estimar una reclamación previa respaldada por nuevos informes médicos",
     "source": "El País Economía",
@@ -845,28 +900,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/NVRJFVNUVBF5RP36YPSF3FDRSY.jpg?auth=c33b20108347281c913d4e0fbdf332bf2d4ae2334033d553190a43fa66561462",
     "title_en": "Social Security rectifies and recognizes an absolute permanent disability without a trial",
     "summary_en": "INSS increased the level of total and complete standing disability after estimating a previous claim supported by new medical reports"
-  },
-  {
-    "title": "\"Firmes como una roca\": los lazos entre China y Rusia según Xi y Putin",
-    "summary": "Antes de su cumbre conjunta con el presidente estadounidense Donald Trump, el líder chino Xi Jinping y el presidente ruso Vladímir Putin se muestran unidos al margen de la cumbre APEC.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/firmes-como-una-roca-los-lazos-entre-china-y-rusia-según-xi-y-putin/a-79977080?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-18T09:40:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Mary Peltola hace historia como la primera indígena de Alaska que llega al Senado de Estados Unidos",
-    "summary": "La demócrata Peltola representó al estado en la Cámara de Representantes hasta 2025, convirtiéndose en la primera persona indígena nativa de Alaska elegida para el Congreso. Ahora, será la primera en el Senado.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/mary-peltola-hace-historia-como-la-primera-indígena-de-alaska-que-llega-al-senado-de-estados-unidos/a-79976994?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-18T09:22:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
     "title": "Hacienda obliga a los empleadores a recalcular las nóminas para dejar sin retención de IRPF al salario mínimo",
@@ -1175,38 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2be/live/92b350f0-e2b1-11f1-8226-87dfa5049e9a.jpg",
     "title_en": "What about Camilo Rodriguez, the first journalist killed in Costa Rica in 25 years",
     "summary_en": "Camilo Rodriguez was known in Costa Rica for denouncing suspected drug traffickers as well as the connections of politicians and public figures with organized crime activities."
-  },
-  {
-    "title": "Cercanías de Madrid y Rodalies recuperan pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
-    "summary": "La protesta sindical obliga a suprimir más del 40% de los servicios mínimos en las dos mayores áreas metropolitanas. En la alta velocidad se caen el 14% de las salidas garantizadas",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-    "category": "Deportes",
-    "date": "2026-11-17T19:05:41+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/K5PJODWUQ5GCDAWXD434LHC7TY.jpg?auth=491e9de44fef43008daf40be44c5fc98c1f771858eff785b91a068c8181b868d",
-    "title_en": "Cercanies of Madrid and Rodalities get their pulse back after they have been paralyzed and 700,000 affected by the railway strike",
-    "summary_en": "The union protest requires more than 40% of minimum services to be abolished in the two largest metropolitan areas. At high speed 14% of guaranteed outputs fall"
-  },
-  {
-    "title": "México, EE.UU. y Bolivia pierden su estatus de países libres de sarampión tras registrar miles de casos y decenas de muertes",
-    "summary": "En los tres países, se observó la transmisión de un mismo genotipo y linaje del virus durante 12 meses o más, señaló la OPS.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cq2e8xemzgpro?at_medium=RSS&at_campaign=rss",
-    "category": "Salud",
-    "date": "2026-11-17T18:07:53+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ea8/live/716f1280-e2a2-11f1-8226-87dfa5049e9a.jpg",
-    "title_en": "Mexico, the U.S. and Bolivia lose their measles-free status after registering thousands of cases and tens of deaths",
-    "summary_en": "In all three countries, the same genotype and virus lineage were observed for 12 months or more, PAHO noted."
-  },
-  {
-    "title": "Cómo ejercitar los tobillos, una de las partes del cuerpo que se lesionan con más frecuencia",
-    "summary": "La fisioterapeuta deportiva Genevieve Taiwah comparte sus mejores consejos para cuidar la articulación que representa el 5% de las visitas a urgencias en Reino Unido.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/c5zjrdmvj240o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-17T16:48:47+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3625/live/65010850-e27a-11f1-bd1e-f9c53347c5a6.jpg",
-    "title_en": "How to exercise your ankles, one of the most often damaged parts of your body",
-    "summary_en": "The sports physiotherapist Genevieve Taiwan shares his best advice to care for the joint that accounts for 5% of emergency visits in the UK."
   }
 ];
