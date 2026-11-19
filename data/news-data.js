@@ -1,5 +1,654 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Combates en Martissant: ¿qué se sabe de la operación que dejó al menos 34 pandilleros muertos en Haití?",
+    "summary": "Al menos 34 presuntos miembros de la banda de Grand Ravine murieron este jueves 19 de noviembre en una operación de la Policía con apoyo de la empresa Vectus Global. Se trata de la primera ofensiva de gran alcance en Martissant desde que las pandillas tomaron el control de esa zona hace cinco años y cortaron la principal ruta entre Puerto Príncipe y el sur…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261119-combates-en-martissant-qu%C3%A9-se-sabe-de-la-operaci%C3%B3n-que-dej%C3%B3-al-menos-34-pandilleros-muertos-en-hait%C3%AD",
+    "category": "Internacional",
+    "date": "2026-11-19T21:37:15+00:00",
+    "image": "https://s.france24.com/media/display/d7812214-e344-11f1-ad80-ff16da94d1fe/w:1024/p:16x9/AP26316828065883.jpg",
+    "title_en": "Martissant: What about the operation that killed at least 34 gangs in Haiti?",
+    "summary_en": "At least 34 alleged members of Grand Raine's band killed on Thursday, November 19, in a police operation with the support of Vectus Global. That's the first powerful offensive in Martissant since gangs have been monitoring this area five years ago and have cut the main route between Port-au-Prince and South..."
+  },
+  {
+    "title": "Debate electoral 29-N, en directo | Feijóo lleva el debate económico a “la vida de la gente” y Sánchez responde con los datos de empleo",
+    "summary": "El líder del PP denuncia una presión fiscal por encima de la media europea y habla de precios, impuestos y corrupción | Sánchez avisa contra el “giro de 180 grados” en política económica que, según él, proponen Feijóo y Abascal",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
+    "category": "Economía",
+    "date": "2026-11-19T21:36:15+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/GBNU5HJJXBB6VHLMIULGBVYNNU.jpg?auth=928b93e0bc80b8e2ba5acd75c3b3f1db4a189b9102c4cd230399b1a834c3f845",
+    "title_en": "Electoral debate 29-N, live p.124.Feijóo brings economic debate to \"people's lives\" and Sanchez responded with employment data",
+    "summary_en": "The PP's leader denounces fiscal pressures above the European average and talks about prices, taxes and corruption) 124 and Sánchez warns against the \"180 degree shift\" in economic policy that Feijóo and Abascal propose"
+  },
+  {
+    "title": "Vivienda, trenes y migración: ¿qué proponen los partidos de cara a las elecciones del 29N en España?",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261119-vivienda-trenes-y-migraci%C3%B3n-qu%C3%A9-proponen-los-partidos-de-cara-a-las-elecciones-del-29n-en-espa%C3%B1a",
+    "category": "Política",
+    "date": "2026-11-19T21:25:50+00:00",
+    "image": "",
+    "title_en": "Housing, trains and migration: what do the parties propose for the 29N elections in Spain?",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Nabel Martins, la diseñadora venezolana que apuesta por París",
+    "summary": "En Carrusel de las Artes, la diseñadora venezolana Nabel Martins, instalada en París, habla de su apuesta por una moda femenina atemporal, de la identidad que marca sus creaciones y de sus planes para abrirse camino en un mercado internacional tan competitivo como el de la moda.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/carrusel-de-las-artes/20261119-nabel-martins-la-dise%C3%B1adora-venezolana-que-apuesta-por-par%C3%ADs",
+    "category": "Economía",
+    "date": "2026-11-19T21:20:04+00:00",
+    "image": "https://s.france24.com/media/display/328027c4-e457-11f1-8f0c-ebb478925cf0/w:1024/p:16x9/Carrusel.jpeg",
+    "title_en": "Nabel Martins, Venezuelan designer with an interest in Paris",
+    "summary_en": "At Carrusel de las Artes, Venezuelan designer Nabel Martins, established in Paris, talks about her commitment to a timeless feminine fashion, about the identity of her creations and about her plans to get her way into an international market as competitive as that of fashion."
+  },
+  {
+    "title": "Aneto: subir a ver un glaciar antes de que desaparezca",
+    "summary": "El glaciar del Aneto, en el pico más alto de los Pirineos, pierde hielo a un ritmo alarmante y los científicos calculan que podría desaparecer en la próxima década. Es uno de los glaciares más grandes del sur de Europa y un símbolo visible del cambio climático. Ante ese riesgo, cada vez más montañeros y visitantes suben para verlo antes de que se extinga.…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/en-foco/20261119-aneto-subir-a-ver-un-glaciar-antes-de-que-desaparezca",
+    "category": "Medio Ambiente",
+    "date": "2026-11-19T21:15:38+00:00",
+    "image": "https://s.france24.com/media/display/563bdc52-dd28-11f1-836f-29048b396e03/w:1024/p:16x9/EN-NW-OOV-ECRAN-FREEZE-SPAIN-ANETO-GLACIER-BAIN-Lauren-Sub.jpg",
+    "title_en": "Aneto: get up and see a glacier before it goes missing",
+    "summary_en": "The Aneto glacier, at the highest peak of the Pyrenees, lose ice at an alarming rate and scientists estimate that it could disappear in the next decade. It is one of the largest glaciers in South Europe and a visible symbol of climate change. At that risk, more and more mountain and visitors come up to see them before they get out...."
+  },
+  {
+    "title": "Alcaraz continúa en Turín, pero sobre el alambre: los isquios vuelven a azotarle, él asume los riesgos",
+    "summary": "El murciano jugará el viernes frente a Cobolli pese al susto contra Medvedev y tras haberse resentido de un grupo muscular que le ha originado ya varios problemas",
+    "source": "El País",
+    "url": "https://elpais.com/deportes/tenis/2026-11-19/alcaraz-continua-en-turin-pero-sobre-el-alambre-los-isquios-vuelven-a-azotarle-el-asume-los-riesgos.html",
+    "category": "Deportes",
+    "date": "2026-11-19T21:14:36+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/UNV6WTX6CVEFDDERWTVEDDBSLY.jpg?auth=f54549951ab5f84c9eae9f9105c8483388a5564cbdcae4bb10327a0e541e9068",
+    "title_en": "Alcaraz continues at Turin but on the wire: the Isks have been beating him again and his risks have been assumed.",
+    "summary_en": "The bat will play Friday in front of Cobolli despite his fear of Medvedev and after his suffering from a muscle group that has already caused him several problems"
+  },
+  {
+    "title": "¿Abre el fallo de la CIJ la puerta al regreso de los rohingyas a Myanmar?",
+    "summary": "La histórica decisión de la Corte Internacional de Justicia (CIJ), que declaró responsable a Myanmar de genocidio contra la minoría rohingya, ha renovado las esperanzas de cientos de miles de refugiados que permanecen en campamentos de Bangladesh. Sin embargo, el regreso a su país sigue enfrentando enormes obstáculos. Daniel Gonzalez Stier, miembro del…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-abre-el-fallo-de-la-cij-la-puerta-al-regreso-de-los-rohingyas-a-myanmar",
+    "category": "Internacional",
+    "date": "2026-11-19T21:06:22+00:00",
+    "image": "https://s.france24.com/media/display/8f0bf324-e45c-11f1-a1fa-1bac47ab2f5d/w:1024/p:16x9/ES-20261119-131626-132610-CS.jpg",
+    "title_en": "Do the JIC's decision open the door to the Rohingyas' return to Myanmar?",
+    "summary_en": "The historic decision of the International Court of Justice (ICJ), which held Myanmar responsible for genocide against the Rohingya minority, had renewed the hopes of hundreds of thousands of refugees remaining in camps in Bangladesh. Nevertheless, his return to his country continued to face enormous challenges. Daniel Gonzalez Stier, member of the..."
+  },
+  {
+    "title": "Coalición de los Voluntarios en Berlín: \"Apoyamos a Ucrania\"",
+    "summary": "La llamada Coalición de Voluntarios refuerza su apoyo a Ucrania en Berlín, mientras todas las miradas estaban puestas a la cumbre de EE. UU., Rusia y China en Shenzhen.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/coalición-de-los-voluntarios-en-berlín-apoyamos-a-ucrania/a-79997715?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-19T21:03:00+00:00",
+    "image": "",
+    "title_en": "Volunteer Coalition in Berlin: \"We Support Ukraine\"",
+    "summary_en": "The so-called Volunteers Coalition strengthens its support for Ukraine in Berlin while all looks were at the US summit. Russia and China at Shenzhen."
+  },
+  {
+    "title": "\"Sin nuestro territorio, la vida será muy difícil\": quiénes son los awá, el grupo de indígenas aislados de Brasil que hizo un contacto inusual con otra comunidad",
+    "summary": "El encuentro de un grupo de indígenas awá con otra tribu en el estado brasileño de Maranhão es \"una señal alarmante\" del avance de la tala en la selva, asegura la investigadora Sarah Schenker.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c6wy9d7ee1zwo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-19T21:02:09+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb2c/live/55df20d0-e457-11f1-9431-9fe383d2f2c7.jpg",
+    "title_en": "\"Without our territory, life will be very difficult\": who are the awah, Brazil's group of isolated indigenous people who made unusual contact with another community",
+    "summary_en": "The meeting of an awá indigenous group with another tribe in the Brazilian state of Maranhão is \"an alarming sign\" of the advance of logging in the jungle, says researcher Sarah Schenker."
+  },
+  {
+    "title": "Guerra contra Irán ha costado más de 48.000 millones de dólares a Estados Unidos",
+    "summary": "Sin embargo, los gastos del conflicto no incluyen los daños a las bases estadounidenses atacadas en Medio Oriente.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/guerra-contra-irán-ha-costado-más-de-48-000-millones-de-dólares-a-estados-unidos/a-79997859?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-19T20:54:00+00:00",
+    "image": "",
+    "title_en": "War with Iran has cost more than 48 billion dollars to the U.S.",
+    "summary_en": "The costs of conflict, however, do not cover damage to U.S. bases attacked in the Middle East."
+  },
+  {
+    "title": "Netanyahu redobla la presión sobre Trump para atacar a Irán",
+    "summary": "Donald Trump enfrenta crecientes presiones para autorizar una nueva ofensiva contra Irán. Según reportes de 'The New York Times', Benjamin Netanyahu impulsa una campaña de bombardeos de entre cuatro y siete días contra objetivos estratégicos iraníes, mientras el director del Mossad Roman Gofman ha sostenido contactos en Washington para exponer supuestas…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-netanyahu-redobla-la-presi%C3%B3n-sobre-trump-para-atacar-a-ir%C3%A1n",
+    "category": "Política",
+    "date": "2026-11-19T20:47:20+00:00",
+    "image": "https://s.france24.com/media/display/c246dcf8-e219-11f1-a4d4-3f371022a770/w:1024/p:16x9/AP26320528463458.jpg",
+    "title_en": "Netanyahu Rechallenges Trump's Pressure to Attack Iran",
+    "summary_en": "Donald Trump challenges growing pressures to authorize a new offensive against Iran. According to \"The New York Times,\" Benjamin Netanyahu has been leading a four to seven-day bombing campaign against Iranian strategic targets while Mossad's director Roman Gofman has been in contact with Washington to put forward his claims..."
+  },
+  {
+    "title": "Inédita reunión entre Xi, Trump y Putin: declaración conjunta de paz y críticas a la CPI",
+    "summary": "🇨🇳🇺🇸🇷🇺 Al margen de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC), Donald Trump, Vladimir Putin y Xi Jinping se reunieron en Shenzhen, en un encuentro histórico entre mandatarios de Estados Unidos, Rusia y China. Los tres compartieron críticas a la Corte Penal Internacional (CPI) y emitieron una declaración conjunta de paz, en la que…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-in%C3%A9dita-reuni%C3%B3n-entre-xi-trump-y-putin-declaraci%C3%B3n-conjunta-de-paz-y-cr%C3%ADticas-a-la-cpi-1",
+    "category": "Economía",
+    "date": "2026-11-19T20:45:57+00:00",
+    "image": "https://s.france24.com/media/display/20766afe-e45a-11f1-9522-6b451f569414/w:1024/p:16x9/FORMATO-1-2-1.png",
+    "title_en": "Unpublished meeting between Xi, Trump and Putin: Joint declaration of peace and criticism of ICC",
+    "summary_en": "That's how we met at Shenzhen at an historic meeting with leaders from the U.S., Russia and China. The three shared criticisms of the International Criminal Court (ICC) and issued a joint peace declaration, in which..."
+  },
+  {
+    "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
+    "summary": "La empresa quedó situada entre las 10 empresas estadounidenses más valoradas en el mercado bursátil, pero su futuro es incierto.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cqm2ln990v10o?at_medium=RSS&at_campaign=rss",
+    "category": "Economía",
+    "date": "2026-11-19T20:34:12+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aae7/live/cdfec8b0-e441-11f1-9192-3924a59e54c7.jpg",
+    "title_en": "Anthropic: Why The Greatest Retirement Retirement in History Test The A's \"Bubble\" and The Possibility That It Starts",
+    "summary_en": "The company was among the 10 most valued American companies in the stock market but its future was uncertain."
+  },
+  {
+    "title": "Cumbre entre Trump, Putin y Xi: ¿los líderes se reparten el mundo?",
+    "summary": "En nuestra sección 'En Contexto' profundizamos en el encuentro entre Xi Jinping, Donald Trump y Vladimir Putin en China. Mientras se reeditan las hipótesis de un nuevo reparto del mundo en esferas de influencia, políticos y analistas cuestionan la equiparación entre los líderes. A su vez, desestiman las comparaciones con la conferencia de Yalta de 1945 tras…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/en-contexto/20261119-cumbre-entre-trump-putin-y-xi-los-l%C3%ADderes-se-reparten-el-mundo",
+    "category": "Política",
+    "date": "2026-11-19T20:25:51+00:00",
+    "image": "https://s.france24.com/media/display/fecc0c94-e452-11f1-82ad-e56ab3dc0809/w:1024/p:16x9/AP26323367877958.jpg",
+    "title_en": "Summit between Trump, Putin and Xi: Do leaders share the world?",
+    "summary_en": "In our Section \"In Context\" we have been deepening the meeting between Xi Jinping, Donald Trump and Vladimir Putin in China. While reediting the theories of a new world share in spheres of influence, politicians and analysts call into question the equality among leaders. At the same time, they discount the comparisons with the 1945 Yalta Conference after..."
+  },
+  {
+    "title": "Fallo histórico de la CIJ: Myanmar cometió genocidio contra los rohingyas",
+    "summary": "La Corte Internacional de Justicia (CIJ) emitió un fallo histórico al concluir que Myanmar cometió genocidio contra la minoría musulmana rohinyá durante la campaña militar de 2016 y 2017 en el estado de Rakhine. La decisión responde a una demanda presentada por Gambia, cuyo gobierno celebró el veredicto como una victoria para la justicia internacional.…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-fallo-hist%C3%B3rico-de-la-cij-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas",
+    "category": "Política",
+    "date": "2026-11-19T20:16:13+00:00",
+    "image": "https://s.france24.com/media/display/b62b6262-e454-11f1-a871-e56ab3dc0809/w:1024/p:16x9/Espagnol-2026-11-19T18-09-25-949Z.jpg",
+    "title_en": "CIJ's historic decision: Myanmar committed genocide against Rohingyas",
+    "summary_en": "The International Court of Justice (IJJ) gave a historic decision after concluding that Myanmar committed genocide against the Rohyya Muslim minority during the 2015 and 2017 military campaign in Rakhine state. The decision responded to a suit submitted by the Gambia, whose government welcomed the verdict as a victory for international justice...."
+  },
+  {
+    "title": "Abascal advierte de que Sánchez “no se irá de rositas” si pierde las elecciones",
+    "summary": "El líder de Vox se queja de su ausencia del debate televisivo e intenta contrarrestar el voto útil",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/abascal-advierte-de-que-sanchez-no-se-ira-de-rositas-si-pierde-las-elecciones.html",
+    "category": "Política",
+    "date": "2026-11-19T20:12:39+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/SU5JQ4KA5BP5NDUQRRA66734OU.jpg?auth=70a3d1242f3e227958b7e8cfca16e6a880ada91e273042f11dcbe357ac95a843",
+    "title_en": "Abascal warns that Sanchez \"will not leave his place\" if he lose his election",
+    "summary_en": "Vox's leader complains about his absence from television debate and tries to counteract useful vote"
+  },
+  {
+    "title": "Más allá de un día luz: España capta el primer saludo de la ‘Voyager 1’ desde el otro lado de la frontera interestelar",
+    "summary": "La antena de 70 metros de Robledo de Chavela (Madrid) ha recibido este jueves una señal que la sonda de la NASA emitió 24 horas antes, a más de 25.902 millones de kilómetros de distancia",
+    "source": "El País Ciencia",
+    "url": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
+    "category": "Deportes",
+    "date": "2026-11-19T20:05:36+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/Y2YYGBFJV5AH5FUJAORUXYTJRU.jpg?auth=865ec7af17b4a1f6435e21b0006d8de7ff330a8c1d40735fc1868e37a9d14c00",
+    "title_en": "Beyond a light day: Spain catches the first greeting of the 'Voyager 1' from across the interstellar border",
+    "summary_en": "The 70-foot Robledo de Chavez antenna (Madrid) received a sign this Thursday that NASA's probe broadcast 24 hours earlier, more than 25 902 million km away."
+  },
+  {
+    "title": "La cumbre APEC termina con un llamado a fortalecer la cooperación",
+    "summary": "La edición 33 del Foro de Cooperación Económica Asia – Pacífico culminó en la ciudad de Shenzhen sin avances significativos en el ámbito económico, pero con material para realizar una reflexión. Durante las palabras de clausura, el presidente chino, Xi Jinping, hizo un llamado para el desarrollo de un modelo “de cooperación abierto e integrado” para la…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261119-economia-apec-china-comercio-integracion",
+    "category": "Economía",
+    "date": "2026-11-19T19:53:21+00:00",
+    "image": "https://s.france24.com/media/display/233041e4-e445-11f1-aa39-13439ca2fe89/w:1024/p:16x9/2026-11-19T102437Z-1588501608-RC2XQOA5K56S-RTRMADP-3-APEC-SUMMIT.jpg",
+    "title_en": "The APEC summit ends with a call to strengthen cooperation",
+    "summary_en": "The 33rd edition of the Asia-Pacific Economic Cooperation Forum culminated in the town of Shenzhen without significant economic progress but with material for reflection. During his closing words, Chinese President Xi Jinping called for the development of an \"open and integrated cooperation\" model for the..."
+  },
+  {
+    "title": "Nueva denuncia por violación contra el actor francés Gérard Depardieu y contra el escritor Michel Houllebecq por complicidad",
+    "summary": "Según el medio digital francés ‘Mediapart’, una actriz los acusa de haber abusado de ella durante el rodaje de una escena de la película ‘Thalasso’ en 2018",
+    "source": "El País",
+    "url": "https://elpais.com/sociedad/2026-11-19/nueva-denuncia-por-violacion-contra-el-actor-frances-gerard-depardieu-y-contra-el-escritor-michel-houllebecq-por-complicidad.html",
+    "category": "Tecnología",
+    "date": "2026-11-19T19:44:19+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/5TW6Z2QKYJSLWGLUD5OJXBZLSI.jpg?auth=c606c393145a5898f7bd9ddf80b34111ae3c1d194a2dd3322dc8e400ebc9a437",
+    "title_en": "New rape report against French actor Gérard Depardieu and writer Michel Houlebecq for complicity",
+    "summary_en": "According to the French digital media 'Mediapart', an actress accused them of abusing her while shooting a scene from the film 'Thalasso' in 2018"
+  },
+  {
+    "title": "La Junta Electoral rechaza el recurso del PSOE contra el vídeo del PP sobre Sánchez hecho con el “novedoso instrumento” de la IA",
+    "summary": "El órgano electoral desestima la denuncia de Vox contra ‘La Revuelta’ por no emitir la entrevista íntegra de Abascal",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-junta-electoral-rechaza-el-recurso-del-psoe-contra-el-video-del-pp-sobre-sanchez-hecho-con-el-novedoso-instrumento-de-la-ia.html",
+    "category": "Política",
+    "date": "2026-11-19T19:32:33+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/5IWIVGADKBGD7KJBIJRIEW73P4.jpg?auth=9e92eb2599c66ce9c995cffda895c8bffcc9571a65519699975db01d9792dfb0",
+    "title_en": "The Electoral Board rejects the pSOE's appeal against the PP's video about Sanchez with the \"new instrument\" of the IA",
+    "summary_en": "The electoral body rejects Vox's complaint against \"La Revuelta\" for his failure to issue Abascal's full interview"
+  },
+  {
+    "title": "Junts justifica el ataque de Puigdemont a Sánchez por la amnistía: “Hay que hacerse un hueco en campaña”",
+    "summary": "El partido alega sufrir una marginación en plena pelea electoral entre el PSOE y el PP",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/junts-justifica-el-ataque-de-puigdemont-a-sanchez-por-la-amnistia-hay-que-hacerse-un-hueco-en-campana.html",
+    "category": "Deportes",
+    "date": "2026-11-19T19:28:12+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FVM372NGDVJETHTQVONVSFCUYQ.jpg?auth=45b4705da1e413a50da8e0079589a9d6357b200339a550f49fc50aeb3e67e283",
+    "title_en": "Junts justifies Puigdemont's attack on Sanchez for his amnesty: \"We have to get a campaign space\"",
+    "summary_en": "The party claims to have been marginalized in full electoral fight between pSOE and PP"
+  },
+  {
+    "title": "Anthropic supera a SpaceX en el salto más exitoso a la bolsa con ingresos por USD 81.000 millones",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261119-anthropic-supera-a-spacex-en-el-salto-m%C3%A1s-exitoso-a-la-bolsa-con-ingresos-por-usd-81-000-millones",
+    "category": "Economía",
+    "date": "2026-11-19T19:21:17+00:00",
+    "image": "",
+    "title_en": "Anthropic outweighs SpaceX at the most successful leap to the stock market with revenues for USD 8billion",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "Colau y Rufián aterrizan por separado en la campaña valenciana con un mismo objetivo: lograr grupo propio en el Congreso",
+    "summary": "El candidato republicano reúne a más de un millar de personas en Vila-real (Castellón) mientras la coalición autonómica, con buenas proyecciones, trata de desmarcarse del ruido de Madrid",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/colau-y-rufian-aterrizan-por-separado-en-la-campana-valenciana-con-un-mismo-objetivo-lograr-grupo-propio-en-el-congreso.html",
+    "category": "Deportes",
+    "date": "2026-11-19T19:14:49+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/Z23E33S3FRAITFDOOGCDW55FCI.JPG?auth=32d830360771b60674001a794fdef29a007231d0da8ea5de4f0cbc1761e91682",
+    "title_en": "Colau and Rufian lands separately in the Valencia campaign with the same goal: to achieve their own group at Congress",
+    "summary_en": "The Republican candidate brings together more than a thousand people in Vila-real (Castellón) while the autonomous coalition with good projections tries to get rid of the noise of Madrid"
+  },
+  {
+    "title": "La foto de Shenzhen: Xi junta a Trump y Putin en una cita histórica",
+    "summary": "Los presidentes de China, EE. UU. y Rusia celebraron una cumbre sin precedentes. Trump afirmó que estaban \"haciendo historia\", Xi calificó las conversaciones de \"fructíferas\" y Putin, de \"abiertas y francas\".",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/la-foto-de-shenzhen-xi-junta-a-trump-y-putin-en-una-cita-histórica/a-79997135?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Política",
+    "date": "2026-11-19T19:09:00+00:00",
+    "image": "",
+    "title_en": "The photo of Shenzhen: Xi puts Trump and Putin together at a historic date",
+    "summary_en": "The Presidents of China, USA The US and Russia held an unprecedented summit. Trump stated that they were \"making history,\" Xi referred to them as \"fruitful\" and Putin as \"open and free.\""
+  },
+  {
+    "title": "\"La cúspide de la salud humana\": quiénes son los \"superdefecadores\" y cómo la ciencia los usa para dar con las heces perfectas",
+    "summary": "Los trasplantes de heces están en auge, aunque menos del 3% de nosotros producimos un material apto para ser donado. Y aún menos personas son \"superdonantes\" de heces.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c6n4em0gj88mo?at_medium=RSS&at_campaign=rss",
+    "category": "Salud",
+    "date": "2026-11-19T19:00:58+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/200c/live/e7ca8400-e36f-11f1-a094-5fdc692f3e33.jpg",
+    "title_en": "\"The height of human health\": who are the \"superdefecators\" and how science uses them to give with perfect stool",
+    "summary_en": "The stool transplants are high, but less than 3% of us produce a suitable material to be donated. And even less people are \"super-donors\" of stool."
+  },
+  {
+    "title": "La encuesta antes del debate: ligera ventaja del PP y muy clara del bloque derechista",
+    "summary": "Los socialistas reducen poco a poco las fugas de votantes a los populares, pero siguen sin alcanzarlos, según el tracking de este mismo jueves",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-encuesta-antes-del-debate-ligera-ventaja-del-pp-y-muy-clara-del-bloque-derechista.html",
+    "category": "Política",
+    "date": "2026-11-19T19:00:02+00:00",
+    "image": "",
+    "title_en": "The survey before the debate: light and clear advantage of the right-wing block",
+    "summary_en": "The socialists little by little reduce the leaking of voters to the popular but they still have to be reached, according to this Thursday's track."
+  },
+  {
+    "title": "Ayuso se planta con Albiol en la ‘zona cero’ de Vox en Barcelona: “En diez días, España tiene que decidir si se suicida”",
+    "summary": "La presidenta madrileña advierte de un “cambio en el modelo de Estado si Pedro Sánchez sigue en el poder tras el 29-N",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ayuso-se-planta-con-albiol-en-la-zona-cero-de-vox-en-barcelona-en-diez-dias-espana-tiene-que-decidir-si-se-suicida.html",
+    "category": "Internacional",
+    "date": "2026-11-19T18:57:31+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/I467XNR4FFHSNIPJ4GRHIBMB6E.JPG?auth=9ffefd9d04670fa45c50b63b097b6270da6e14a61eed5016e303d63c7a31db9d",
+    "title_en": "Ayuso plants with Albiol at Vox's \"zero area\" in Barcelona: \"In ten days, Spain has to decide if to suicidal itself\"",
+    "summary_en": "The president warns of a \"change in the model of the state if Pedro Sánchez remains in power after the 29th"
+  },
+  {
+    "title": "La defensora del pueblo en funciones elimina el área de Igualdad y diluye la de Migraciones un día después de asumir el cargo",
+    "summary": "Teresa Jiménez-Becerril, exdiputada del PP que accedió al puesto tras la expiración del mandato de Ángel Gabilondo, reestructura la organización",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-defensora-del-pueblo-en-funciones-elimina-el-area-de-igualdad-y-diluye-la-de-migraciones-un-dia-despues-de-asumir-el-cargo.html",
+    "category": "Internacional",
+    "date": "2026-11-19T18:56:02+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FN5ZMG6FLC7EOAN4HQYKEETXII.jpg?auth=c1a54bbbf98ec2fe75c166626f3c224edb299f0effbd13fbeb6cadf31f24931c",
+    "title_en": "The currently serving public defender removes the area of equality and deletes that of migration a day after she became office",
+    "summary_en": "Teresa Jiménezo-Becerril, former MEP of the PP who entered the post after the expiry of Angel Gabilondo's term, restructured the organization"
+  },
+  {
+    "title": "Coalición de Voluntarios: Macron plantea reabrir el debate sobre el ingreso de Ucrania a la OTAN",
+    "summary": "Los aliados de Ucrania reunidos este jueves en Berlín defendieron la necesidad de que Europa participe directamente en las futuras negociaciones con Rusia y reclamaron garantías de seguridad para Kiev una vez que termine la guerra. Sin embargo, el presidente ucraniano Volodímir Zelenski se mostró escéptico sobre los alcances verdaderos de las garantías…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261119-los-aliados-de-ucrania-buscan-coordinar-una-posici%C3%B3n-com%C3%BAn-ante-las-negociaciones-con-rusia",
+    "category": "Política",
+    "date": "2026-11-19T18:52:46+00:00",
+    "image": "https://s.france24.com/media/display/25b84e6c-e444-11f1-a13d-ebb478925cf0/w:1024/p:16x9/2026-11-19T175030Z-1149809636-RC24ROAX76LX-RTRMADP-3-UKRAINE-CRISIS-GERMANY-BRITAIN.jpg",
+    "title_en": "Volunteer Coalition: Macron challenges reopening debate about Ukraine's entry into NATO",
+    "summary_en": "The Ukrainian allies meeting this Thursday in Berlin argued for the need for Europe to be directly involved in future negotiations with Russia and called for security assurances for Kiev after the end of the war. Nevertheless, Ukrainian President Volodímir Zelensky was skeptical about the true scope of the guarantees..."
+  },
+  {
+    "title": "\"Nunca he usado Ozempic. Nunca me he sometido a ninguna cirugía facial\": la actriz Florence Pugh critica las especulaciones sobre su cuerpo",
+    "summary": "La actriz dijo lo estresante que es que la gente hable de ella y de su cuerpo de maneras que le resultan incomprensibles.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/crd61505g31po?at_medium=RSS&at_campaign=rss",
+    "category": "Cultura",
+    "date": "2026-11-19T18:40:35+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be9e/live/b423cbd0-e3fa-11f1-a1b0-810734adec41.jpg",
+    "title_en": "\"I have never been using Ozempic. I have never been undergoing facial surgery\": actress Florence Pugh challenges his body's speculations",
+    "summary_en": "The actress said how stressful it is that people talk about her and her body in ways that they find incomprehensible."
+  },
+  {
+    "title": "Reino Unido expulsa al agregado de defensa de Birmania tras el fallo de la Corte Internacional de Justicia por genocidio",
+    "summary": "Londres condenó \"el trato atroz infligido a la población rohinyá por el régimen militar\" birmano, acusado de genocidio.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/reino-unido-expulsa-al-agregado-de-defensa-de-birmania-tras-el-fallo-de-la-corte-internacional-de-justicia-por-genocidio/a-79997177?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-19T18:30:00+00:00",
+    "image": "",
+    "title_en": "United Kingdom Expels Burmese Defense Attaché Following International Court of Justice Judgement for Genocide",
+    "summary_en": "London condemned \"the heinous treatment of Rohyya by the Burmese military regime, accused of genocide."
+  },
+  {
+    "title": "Comienza la carrera por la FIFA: Infantino contra Diallo y Tashima",
+    "summary": "La carrera por la presidencia de la FIFA comenzó oficialmente. El presidente del organismo mundial del fútbol, Gianni Infantino, se enfrentará a dos rivales que buscan poner fin a sus once años al frente de la federación internacional. El francés Philippe Diallo y el japonés Kozo Tashima cumplieron con el plazo, que vencía a la medianoche en Zúrich, para…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-comienza-la-carrera-por-la-fifa-infantino-contra-diallo-y-tashima",
+    "category": "Deportes",
+    "date": "2026-11-19T18:18:37+00:00",
+    "image": "https://s.france24.com/media/display/37571842-e444-11f1-b0dd-e56ab3dc0809/w:1024/p:16x9/2026-11-12T152843Z-448608602-RC2DMOA1NBYE-RTRMADP-3-SOCCER-WORLDCUP-USA.jpg",
+    "title_en": "FIFA race begins: Infantino versus Diallo and Tashima",
+    "summary_en": "The race for FIFA's president officially began. The president of the world's football agency, Gianni Infantino, will face two Rivals who seek to put an end to their 11's leading international federation. The French Philippe Diallo and the Japanese Kozo Tashima met with the deadline, which was at midnight at Zurich, to..."
+  },
+  {
+    "title": "Se acabó la espera: así vivieron los jugadores el estreno mundial de GTA VI",
+    "summary": "El juego más esperado de la década. Trece años después de su quinta edición, GTA VI está disponible desde este 19 de noviembre a nivel mundial. En Australia y Nueva Zelanda jugaron primero. Unas horas más tarde, les tocó el turno a los jugadores indios. Es un juego violento, prohibido para menores de 18 años, e incluso está censurado en China, pero algunos…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-se-acab%C3%B3-la-espera-as%C3%AD-vivieron-los-jugadores-el-estreno-mundial-de-gta-vi",
+    "category": "Internacional",
+    "date": "2026-11-19T18:06:27+00:00",
+    "image": "https://s.france24.com/media/display/c1ee6dbc-e443-11f1-8060-ebb478925cf0/w:1024/p:16x9/2026-11-19T162651Z-293795288-RC2VQOATAEE2-RTRMADP-3-GAMING-GTA-VI-TAKE-TWO.jpg",
+    "title_en": "That's how the players had their world premiere at GTA VI.",
+    "summary_en": "The most awaited game of the decade. Thirteen years after its fifth edition, GTA VI has been available worldwide since November 19. In Australia and New Zealand they first played. A few hours later, the Indian players had their turn. It's a violent game, forbidden for under 18, and it's even censored in China, but some..."
+  },
+  {
+    "title": "La Comunidad de Madrid prohíbe a los centros educativos colocar carteles sobre la huelga o implicar a los alumnos en la protesta",
+    "summary": "Padres, madres, alumnos y docentes podrán denunciar el incumplimiento de las instrucciones a través de un formulario remitido por la Consejería",
+    "source": "El País",
+    "url": "https://elpais.com/espana/madrid/2026-11-19/la-comunidad-de-madrid-prohibe-a-los-centros-educativos-colocar-carteles-sobre-la-huelga-o-implicar-a-los-alumnos-en-la-protesta.html",
+    "category": "Deportes",
+    "date": "2026-11-19T18:03:17+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/2OBHXLJG3FFM7GSAGOP4MKO43U.jpg?auth=81cc4baad172cda6330574a15c1dd79b6c9b1cd619e22295567a0764f30f65bd",
+    "title_en": "The Madrid Community forbids educational establishments to put up signs about the strike or involve pupils in protest",
+    "summary_en": "Parents, pupils and teachers may report non-compliance with the instructions by means of a form submitted by the Board"
+  },
+  {
+    "title": "Directo Latam y el supuesto rechazo de De la Espriella a la cooperación militar con Estados Unidos",
+    "summary": "Tras la visita del secretario de Defensa de Estados Unidos a Colombia, se desató una polémica por una publicación de 'The New York Times' en la que se alude a un supuesto rechazo del presidente de Colombia, Abelardo de la Espriella, a un plan de cooperación militar conjunta contra el narcotráfico. Por su parte, De la Espriella negó lo publicado por el…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-directo-latam-y-el-supuesto-rechazo-de-de-la-espriella-a-la-cooperaci%C3%B3n-militar-con-estados-unidos",
+    "category": "Política",
+    "date": "2026-11-19T18:01:49+00:00",
+    "image": "https://s.france24.com/media/display/af4dc15e-e442-11f1-a83e-13439ca2fe89/w:1024/p:16x9/ES-20261119-074530-075201-CS.jpg",
+    "title_en": "Direct Latvia and the alleged opposition of De la Espriella to military cooperation with the U.S.",
+    "summary_en": "Following his visit to Colombia by the U.S. Secretary of Defense, a controversy had been unleashed with a publication of \"The New York Times\" referring to an alleged rejection by Colombia's president, Abelardo de la Espriella, of a plan for joint military cooperation against drug trafficking. For his part, De la Espriella denied what was published by his..."
+  },
+  {
+    "title": "El consumo cayó un 4% la semana de la huelga del 11-N, según un informe del BBVA",
+    "summary": "La mayor incidencia en esos siete días se registró en la alimentación, el ocio y el transporte, principalmente en las grandes ciudades",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-19/el-consumo-cayo-un-4-la-semana-de-la-huelga-del-11-n-segun-un-informe-del-bbva.html",
+    "category": "Economía",
+    "date": "2026-11-19T18:01:25+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/B6TFZ6ADP5FR7O5KD2YVH6FDXU.jpg?auth=093bd733c16d48d97f3924b9aa35618144a9a8ea037b2931721b007ee8f84640",
+    "title_en": "The consumption fell 4% a week after the 11-N strike, according to a report by BBVA",
+    "summary_en": "The highest incidence of these seven days was with food, leisure and transport, mainly in large cities"
+  },
+  {
+    "title": "Por qué Chile enfrenta una crisis económica en medio de las políticas de austeridad de Kast",
+    "summary": "El desempleo alcanzó el 9,6%, la actividad minera se desplomó y el costo de vida sigue presionando el bolsillo de los chilenos.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/watch/cm5y192jyee5o?at_medium=RSS&at_campaign=rss",
+    "category": "Economía",
+    "date": "2026-11-19T18:00:39+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62a1/live/a516bf40-e43f-11f1-99a1-253766e7ad8b.png",
+    "title_en": "Why Chile faces an economic crisis amidst Kast's austerity policies",
+    "summary_en": "Unemployment reached 9.6 per cent, mining activity collapsed and the cost of living continues to press the Chilean pocket."
+  },
+  {
+    "title": "¿Quién paga la factura del cambio climático?",
+    "summary": "Los países que más han contaminado desde la Revolución Industrial tienen la mayor responsabilidad en la crisis climática, pero presionan para que China también pague. Además, la financiación climática se destina sobre todo a mitigación y no a adaptación, y la mayoría llega en forma de préstamos que aumentan la deuda pública de países que ya atraviesan…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/medio-ambiente/20261119-qui%C3%A9n-paga-la-factura-del-cambio-clim%C3%A1tico-la-eterna-disputa-de-las-cop",
+    "category": "Medio Ambiente",
+    "date": "2026-11-19T17:38:44+00:00",
+    "image": "https://s.france24.com/media/display/498e2dca-e43a-11f1-b4e9-e56ab3dc0809/w:1024/p:16x9/WEB-PORTADA-16NOV-MAM.png",
+    "title_en": "Who pays the climate change bill?",
+    "summary_en": "Countries that have been most pollute since the Industrial Revolution have the highest responsibility for the climate crisis but are pressing for China to pay as well. Moreover, climate financing is focused mainly on mitigation and not adaptation and most come as loans that increase public debt from countries that have been passing through..."
+  },
+  {
+    "title": "El sombrío pasado de la pintura de Van Gogh subastada por un récord de US$190 millones (y qué tienen que ver Argentina y los nazis con la obra)",
+    "summary": "El cuadro \"Châtaigniers en fleurs\" fue pintado en 1890, en los dos últimos meses de vida de Vincent van Gogh.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cm3wg162e36wo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-19T17:38:13+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg",
+    "title_en": "The grim past of Van Gogh's painting auctioned by a record of US $190 million (and what Argentina and the Nazis have to do with the play)",
+    "summary_en": "The painting \"Châtaigniers en fleurs\" was painted in 1890, in the last two months of Vincent van Gogh's life."
+  },
+  {
+    "title": "Directo París y los reclamos en la marcha nacional de los jubilados en Francia",
+    "summary": "Este 19 de noviembre, los jubilados se movilizan en Francia de cara a la aprobación del presupuesto de la nación. El Gobierno de Emmanuel Macron quiere quitarles una ventaja fiscal del 10% y tratando de indexar las jubilaciones en un índice más bajo a la inflación. Informe de nuestra periodista, Erika Olavarría.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-directo-par%C3%ADs-y-los-reclamos-en-la-marcha-nacional-de-los-jubilados-en-francia",
+    "category": "Economía",
+    "date": "2026-11-19T17:34:07+00:00",
+    "image": "https://s.france24.com/media/display/2e7a1634-e43f-11f1-8a76-6b451f569414/w:1024/p:16x9/ES-20261119-072446-073021-CS.jpg",
+    "title_en": "Direct Paris and challenges at national retirement march in France",
+    "summary_en": "On November 19, Retirees moved to France with a view to approving the national budget. The Government of Emmanuel Macron wants to remove them with a tax advantage of 10% and trying to figure retirement at a lower inflation ratio. Report from our journalist, Erika Olavarría."
+  },
+  {
+    "title": "Brasil: Tras varios accidentes mortales, los aficionados de ala delta suspenden sus actividades",
+    "summary": "En Río de Janeiro, el ala delta se había convertido en una actividad muy popular, especialmente entre los turistas. Pero, tras un nuevo accidente mortal a principios de noviembre de 2026, los operadores que organizan estos vuelos anunciaron la suspensión de sus actividades y su intención de reforzar las medidas de seguridad para practicar este deporte.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261119-brasil-tras-varios-accidentes-mortales-los-aficionados-de-ala-delta-suspenden-sus-actividades",
+    "category": "Internacional",
+    "date": "2026-11-19T17:29:35+00:00",
+    "image": "https://s.france24.com/media/display/90569d94-e437-11f1-b87c-13439ca2fe89/w:1024/p:16x9/Foto-Deltaplane.jpg",
+    "title_en": "Brazil: Following several fatal accidents, dandelta fans suspend their activities",
+    "summary_en": "In Rio de Janeiro, the delta wing had become a popular activity especially among tourists. Following a new fatal incident at the beginning of November 2026, however, the operators organizing these flights announced their suspension and their intention to strengthen security measures to conduct this sport."
+  },
+  {
+    "title": "La gran paradoja de Trump: aislar a Irán sin China ni Rusia",
+    "summary": "Mientras Trump busca intensificar la presión económica sobre Irán, China sigue siendo su mayor comprador de petróleo y Rusia, un socio clave. Pero ambas potencias sopesan su apoyo a Teherán y sus intereses con EE. UU.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/la-gran-paradoja-de-trump-aislar-a-irán-sin-china-ni-rusia/a-79995601?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Economía",
+    "date": "2026-11-19T17:26:00+00:00",
+    "image": "",
+    "title_en": "The Great Trump Paradox: Isolation of Iran Without China and Russia",
+    "summary_en": "While Trump seeks to escalate economic pressure on Iran, China remains its largest oil buyer and Russia, a key partner. But both powers weigh their support for Tehran and their interests with the US. Estados Unidos"
+  },
+  {
+    "title": "Trump, Xi y Putin abren un diálogo sobre el orden mundial",
+    "summary": "Los presidentes de Estados Unidos, Donald Trump; China, Xi Jinping, y Rusia, Vladímir Putin, mantuvieron este jueves en la ciudad china de Shenzhen una reunión inédita en la que acordaron impulsar cambios en la gobernanza global, reforzar la seguridad energética y abrir un diálogo sobre el desarme nuclear.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-trump-xi-y-putin-abren-un-di%C3%A1logo-sobre-el-orden-mundial",
+    "category": "Política",
+    "date": "2026-11-19T16:55:07+00:00",
+    "image": "https://s.france24.com/media/display/245d2d00-e42e-11f1-b1a2-1bac47ab2f5d/w:1024/p:16x9/30b727566060190c63c3e1a99198b26560c84278.jpg",
+    "title_en": "Trump, Xi and Putin open a dialogue about the world order",
+    "summary_en": "The president of the U.S., Donald Trump, China, Xi Jinping and Russia, Vladimir Putin, held an unprecedented meeting in China's town of Shenzhen this Thursday at which they agreed to push for changes in global governance, strengthen energy security and open a dialogue about nuclear disarmament."
+  },
+  {
+    "title": "En vivo: aliados de Ucrania se pronuncian desde Berlín tras reunión Trump-Xi-Putin en China",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261119-los-aliados-de-ucrania-se-re%C3%BAnen-en-berl%C3%ADn",
+    "category": "Política",
+    "date": "2026-11-19T16:45:33+00:00",
+    "image": "",
+    "title_en": "Live: Ukrainian allies pronounced from Berlin after Trump- Xi- Putin meeting in China",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "‘Caso Andic’: las incoherencias sobre el terreno de Jonathan Andic sustentan la investigación",
+    "summary": "La Audiencia de Barcelona minimiza el papel incriminatorio de las relaciones entre padre e hijo y el móvil económico",
+    "source": "El País",
+    "url": "https://elpais.com/espana/catalunya/2026-11-19/caso-andic-las-incoherencias-sobre-el-terreno-de-jonathan-andic-que-sustentan-la-investigacion.html",
+    "category": "Ciencia",
+    "date": "2026-11-19T16:15:24+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/Y5ZDPWVZARBVNMOGREMJ5OBU6E.jpg?auth=1fa881150a3f37c16639cd22bbf9e7ec84ed23dcd63d11589818928b1862addd",
+    "title_en": "'Andic case ': Jonathan Andic's incoherence on the ground supports research",
+    "summary_en": "The Barcelona Audience minimizes the incriminatory role of father and child relations and economic motive"
+  },
+  {
+    "title": "Detenido un hombre tras acuchillar a su pareja y tirarse desde un primer piso en Villarejo de Salvanés",
+    "summary": "La mujer ha sido trasladada grave a un centro hospitalario pero, en principio, no se teme por su vida",
+    "source": "El País",
+    "url": "https://elpais.com/espana/madrid/2026-11-19/detenido-un-hombre-tras-acuchillar-a-su-pareja-y-tirarse-desde-un-primer-piso-en-villarejo-de-salvanes.html",
+    "category": "Internacional",
+    "date": "2026-11-19T16:10:03+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/5RGCGW7HDVNCPPWNXJZUSLR2BU.jpg?auth=dae923f4a740a227bfd4f2ae564c7637380815afa936f761f12ccc627658dc5a",
+    "title_en": "Stopped a man after napping his partner and throwing himself from a first floor at Villarejo de Salvane",
+    "summary_en": "The woman had been moved to a hospital but, in principle, she was not afraid for her life."
+  },
+  {
+    "title": "Comisión Europea sufrió una serie de ciberataques asistidos por IA",
+    "summary": "Un vocero afirmó que la Unión Europea tomó \"las medidas necesarias en respuesta a una campaña cibernética detectada\", aunque no hay evidencia de filtración de datos ni responsables identificados.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/comisión-europea-sufrió-una-serie-de-ciberataques-asistidos-por-ia/a-79994934?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-19T15:58:00+00:00",
+    "image": "",
+    "title_en": "European Commission suffered a number of cyber attacks supported by IA",
+    "summary_en": "One speaker stated that the European Union had \"taken the necessary measures in response to a cyber campaign found,\" although there was no evidence of data leaking or identified officials."
+  },
+  {
+    "title": "En directo: Macron propone reabrir el debate sobre el ingreso de Ucrania en la OTAN",
+    "summary": "El presidente francés, Emmanuel Macron, planteó este jueves reabrir el debate sobre una eventual adhesión de Ucrania a la OTAN, al considerar que su incorporación es una cuestión relevante para la seguridad europea, dado el tamaño y el equipamiento de sus Fuerzas Armadas. La propuesta fue presentada durante la cumbre de los aliados de Kiev en Berlín, en la…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261119-los-aliados-de-ucrania-se-re%C3%BAnen-en-berl%C3%ADn",
+    "category": "Política",
+    "date": "2026-11-19T15:55:33+00:00",
+    "image": "https://s.france24.com/media/display/3d9814e6-e42f-11f1-8692-1bac47ab2f5d/w:1024/p:16x9/b405fa60b523a2e7f6b7e79049b665268a493aa0.jpg",
+    "title_en": "Live: Macron propose to reopen debate about Ukraine's NATO membership",
+    "summary_en": "The French President, Emmanuel Macron, put forward an opportunity to re-open his debate about Ukraine's potential membership of NATO this Thursday, considering its incorporation as an issue of relevance to European security, given the size and equipment of its Armed Forces. The proposal was put forward at the summit of Kyiv's allies in Berlin at..."
+  },
+  {
+    "title": "Elon Musk dice que fue “bastante estúpido” gastar millones de dólares en las ‘midterms’ y se distancia del movimiento MAGA",
+    "summary": "El polémico empresario afirma que si pudiera retroceder en el tiempo se replantearía el apoyo financiero a candidatos republicanos y se distancia del trumpismo: “No soy MAGA”",
+    "source": "El País",
+    "url": "https://elpais.com/us/2026-11-19/elon-musk-dice-que-fue-bastante-estupido-gastar-millones-de-dolares-en-las-midterms-y-se-distancia-del-movimiento-maga.html",
+    "category": "Política",
+    "date": "2026-11-19T15:54:09+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/N7JHMJH6YNETTAXIBPJLOPRVXY.jpg?auth=59366d676d52613225ee51f624e329fbb27fa2b295dc1a4a7c2eb1952c34df4b",
+    "title_en": "Elon Musk says it was \"quite stupid\" to spend million dollars on midterms and get away from MAGA movement",
+    "summary_en": "The controversial entrepreneur claims that if I could get back in time financial support to Republican candidates would be rethought and moved away from trumpism: \"I'm not MAGA\""
+  },
+  {
+    "title": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
+    "summary": "Los líderes de las tres mayores potencias se comprometen a reformar la ONU y a garantizar los flujos energéticos. El republicano se refiere al mandatario ruso como “amigo”",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+    "category": "Política",
+    "date": "2026-11-19T15:53:31+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/LBJQ3RYATJDTJFMIY7CZGPTGVA.JPG?auth=d23f568fd95a5e27185e7a0f83567a1ec388cbf65a963926771cc896abcb2872",
+    "title_en": "Xi, Trump and Putin after the Shenzhen summit: \"A nuclear war cannot be won and should never be waged\"",
+    "summary_en": "The leaders of the three largest powers are committed to reforming the UN and guaranteeing energy flows. The Republican refers to Russian president as \"friend\""
+  },
+  {
+    "title": "Un exdirectivo de la SEPI niega presiones para el rescate de Plus Ultra",
+    "summary": "Partearroyo ya relató en el Senado que no tuvo ningún contacto con el expresidente Rodríguez Zapatero",
+    "source": "El País",
+    "url": "https://elpais.com/espana/2026-11-19/un-directivo-de-la-sepi-niega-presiones-para-el-rescate-de-plus-ultra.html",
+    "category": "Internacional",
+    "date": "2026-11-19T15:51:41+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/NK623KLNC5JKJIIJD35OBD5EB4.jpg?auth=113799a008c69c78b8d1a5cfd71d7b2a0dd07a8dd76c4ad897df8c1c6dd1d4f0",
+    "title_en": "A former SEPI manager denies pressures for Plus Ultra's rescue",
+    "summary_en": "Partearroyo already reported at the Senate that she had no contact with former President Rodriguez Zapatero"
+  },
+  {
+    "title": "El mensaje de Pierce Brosnan a Robert Pattinson tras convertirse en James Bond",
+    "summary": "El intérprete de James Bond entre 1995 y 2002 dio la bienvenida al nuevo agente 007 y le deseó éxito en su aventura.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/el-mensaje-de-pierce-brosnan-a-robert-pattinson-tras-convertirse-en-james-bond/a-79994161?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-19T15:25:00+00:00",
+    "image": "",
+    "title_en": "Pierce Brosnan's message to Robert Pattinson after becoming James Bond",
+    "summary_en": "James Bond's interpreter from 1995 to 2002 welcomed new agent 007 and wished him success in his adventure."
+  },
+  {
+    "title": "Facebook, la herramienta clave del genocidio contra los rohinyás: “Una cuenta militar los deshumanizaba”",
+    "summary": "La sentencia del Tribunal Internacional de Justicia de la ONU identifica a la red social como un mecanismo usado por el ejército para difundir mensajes de odio que propiciaron la limpieza étnica",
+    "source": "El País Tecnología",
+    "url": "https://elpais.com/tecnologia/2026-11-19/facebook-la-herramienta-clave-del-genocidio-contra-los-rohinyas-una-cuenta-militar-los-deshumanizaba.html",
+    "category": "Tecnología",
+    "date": "2026-11-19T14:54:58+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/YFFCCKD66BJIZBAXZ2HQMZ6TAM.jpg?auth=7bf55b19e8f7fbc6b6ac3e030f3f231f63b74550783050f23f7ae47d7c4541ce",
+    "title_en": "Facebook, the key tool of the Rohyas genocide: \"A Military Account Dehumanized them\"",
+    "summary_en": "The decision of the UN International Court of Justice identifies the social network as a mechanism used by the army to spread hate messages leading to ethnic cleansing"
+  },
+  {
+    "title": "Casi uno de cada cuatro niños y niñas vive actualmente en zonas de conflicto",
+    "summary": "El número de niños que viven en zonas de guerra y áreas en conflicto en todo el mundo alcanzó una cifra récord, según un informe de la organización de defensa de los derechos de la infancia Save the Children.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/casi-uno-de-cada-cuatro-niños-y-niñas-vive-actualmente-en-zonas-de-conflicto/a-79991651?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-19T14:46:00+00:00",
+    "image": "",
+    "title_en": "Almost one in four boys and girls currently lives in conflict zones",
+    "summary_en": "The number of children living in war and conflict zones throughout the world reached a record figure, according to a report by the child rights organization Save the Children."
+  },
+  {
+    "title": "La presidencia de la cumbre del clima da alas a las polémicas técnicas de captura del CO₂ de la atmósfera",
+    "summary": "El nuevo borrador de acuerdo final de la COP31 elimina las menciones a dejar los combustibles, aunque sí incluye un objetivo de electrificación",
+    "source": "El País",
+    "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-19/la-presidencia-de-la-cumbre-del-clima-da-alas-a-las-polemicas-tecnicas-de-captura-del-co-de-la-atmosfera.html",
+    "category": "Medio Ambiente",
+    "date": "2026-11-19T14:43:08+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/FDDFJRJUVRLADCQ7673NCC5TTM.jpg?auth=c014eedc5daeea85dbaa1006a8403440734e6c87ea4709c0385671c9e6667935",
+    "title_en": "The president of the climate summit gives an impetus to the controversial technologies of capture of atmospheric CO",
+    "summary_en": "The new draft final agreement of COP31 removes mentions to leave fuels but includes an electrification goal"
+  },
+  {
+    "title": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
+    "summary": "Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel",
+    "source": "El País",
+    "url": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
+    "category": "Internacional",
+    "date": "2026-11-19T13:39:09+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/XKC722ZDURCRRPR6F23OS2QEUU.jpg?auth=94114cd015dbbce4a623e44fdc335cdb70158d24a1bb3b34a352926d5ccbc953",
+    "title_en": "The highest UN court concludes that Myanmar committed genocide against Rohyas",
+    "summary_en": "That was the first time in its history that the International Tribunal of Justice had held a State responsible for that most serious crime. The decision can have an impact on South Africa's case against Israel"
+  },
+  {
+    "title": "Las dos oleadas de nerviosismo global por el lanzamiento de GTA VI: así se sufrieron las caídas más importantes de la PlayStation Network",
+    "summary": "El número más alto de problemas se reporta poco antes del estreno en India y el segundo pico coincide aproximadamente con el lanzamiento en EE UU, pero no coincidiendo con las medianoches, hora del estreno",
+    "source": "El País Tecnología",
+    "url": "https://elpais.com/tecnologia/2026-11-19/las-dos-oleadas-de-nerviosismo-global-por-el-lanzamiento-de-gta-vi-asi-se-sufrieron-las-caidas-mas-importantes-de-la-playstation-network.html",
+    "category": "Tecnología",
+    "date": "2026-11-19T13:33:18+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/PBTJHWPPZFD3FNF4OLKOCQGNZU.jpg?auth=f5ba6cd31478610ea4d04e48967af23bb11ea773f743e75746d0b510b00a177d",
+    "title_en": "The two waves of global nervousness by GTA VI's launch: this resulted in the most important falls of the PlayStation Network",
+    "summary_en": "The highest number of problems report soon before the release in India and the second beak coincides about with the launch in the U.S. but does not coincide with the medianoches, opening time"
+  },
+  {
+    "title": "México investiga el origen de un cuadro de Frida Kahlo que iba a subastarse en EE. UU.",
+    "summary": "México pidió aplazar la venta de la obra de 1952, cuyo recorrido desde el Museo Frida Kahlo está bajo investigación.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/méxico-investiga-el-origen-de-un-cuadro-de-frida-kahlo-que-iba-a-subastarse-en-ee-uu/a-79992141?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Ciencia",
+    "date": "2026-11-19T13:23:00+00:00",
+    "image": "",
+    "title_en": "Mexico researches the origin of a photo by Frida Kahlo that was to be auctioned into the U.S.. Estados Unidos",
+    "summary_en": "Mexico requested to postpone the sale of the 1952 work, whose tour from the Frida Kahlo Museum is under investigation."
+  },
+  {
+    "title": "Myanmar se convierte en el primer Estado condenado por genocido por la Corte Internacional de Justicia",
+    "summary": "El histórico veredicto se alcanzó tras nueve votos a favor y seis en contra.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/cm782edd78ewo?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-19T13:18:16+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5477/live/4c398ed0-e416-11f1-b37c-b3a71d7200af.jpg",
+    "title_en": "Myanmar became the first State convicted of genocidal conduct by the International Court of Justice",
+    "summary_en": "The historic verdict was reached after 9 votes to 6."
+  },
+  {
     "title": "Por qué Putin es el ganador de la histórica reunión con Trump y Xi",
     "summary": "La reunión de este jueves entre los líderes de Estados Unidos, China y Rusia le brindará a Vladimir Putin una gran plataforma, pero no lo acerca a ganar la guerra en Ucrania.",
     "source": "BBC Mundo",
@@ -11,26 +660,15 @@ window.PLANETA_NEWS = [
     "summary_en": "Thursday's meeting with the leaders of the U.S., China and Russia will give Vladimir Putin a great platform but doesn't bring him closer to winning the war in Ukraine."
   },
   {
-    "title": "“No es una simple provocación, es una amenaza real”: así el PSOE decidió personarse en la causa contra Núcleo Nacional",
-    "summary": "Los socialistas creen que el grupo neonazi, cuya dirigente Isabel Peralta amenazó con “volar la cabeza a Sánchez”, pone en riesgo “la paz pública, la dignidad de la persona, la igualdad y el pluralismo político”",
+    "title": "“Volarle la cabeza a Sánchez”: la conversación que convenció al PSOE de personarse en la causa contra Núcleo Nacional",
+    "summary": "Los socialistas creen que el grupo neonazi, cuya dirigente Isabel Peralta amenazó al presidente, pone en riesgo “la paz pública, la dignidad de la persona, la igualdad y el pluralismo político”",
     "source": "El País",
     "url": "https://elpais.com/espana/2026-11-19/no-es-una-simple-provocacion-es-una-amenaza-real-asi-el-psoe-decidio-personarse-en-la-causa-contra-nucleo-nacional.html",
     "category": "Política",
     "date": "2026-11-19T12:58:21+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/NX3AVYKOGZCXLKGTTLBDKFVNKQ.jpg?auth=53495dfe471ad7de493e6ad1bb5e819bfd1f813cddd12d89f155bdc64bc11da7",
-    "title_en": "\"It's not a mere provocation, it's a real threat\": so the PSOE decided to be represented in the case against Núcleo Nacional",
-    "summary_en": "The Socialists believe that the neo-Nazi group, whose leader Isabel Peralta threatened to \"blow his head to Sanchez,\" puts at risk \"public peace, human dignity, equality and political pluralism.\""
-  },
-  {
-    "title": "El máximo tribunal de la ONU concluye que Myanmar cometió genocidio contra los rohinyás",
-    "summary": "Esta es la primera vez en su historia que el Tribunal Internacional de Justicia considera a un Estado responsable de ese gravísimo delito. La decisión puede repercutir en el caso iniciado por Sudáfrica contra Israel",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/el-tribunal-internacional-de-justicia-concluye-que-el-ejercito-de-myanmar-mato-a-miles-de-rohinyas-y-cometio-actos-de-violencia-extrema-contra-ellos.html",
-    "category": "Internacional",
-    "date": "2026-11-19T12:56:55+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XKC722ZDURCRRPR6F23OS2QEUU.jpg?auth=94114cd015dbbce4a623e44fdc335cdb70158d24a1bb3b34a352926d5ccbc953",
-    "title_en": "The highest UN court concludes that Myanmar committed genocide against Rohyas",
-    "summary_en": "That was the first time in its history that the International Tribunal of Justice had held a State responsible for that most serious crime. The decision can have an impact on South Africa's case against Israel"
+    "title_en": "\"Flying his head at Sanchez\": the conversation that convinced the PSOE to be put into the case against Núcleo Nacional",
+    "summary_en": "The socialists believe that the neo-Nazi group, whose leader Isabel Peralta threatened the president, puts at risk \"public peace, human dignity, equality and political pluralism.\""
   },
   {
     "title": "CIJ declara a Birmania culpable de genocidio contra los rohinyás",
@@ -42,17 +680,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "CIJ Realizes Burma guilty of Genocide against Rohyas",
     "summary_en": "The International Court of Justice (IJJ) ordered Burma (Myanmar) to investigate those responsible for the genocide against the Rohinyah Muslim minority, to compensate them and to facilitate the return of the displaced."
-  },
-  {
-    "title": "La ONU declara culpable de genocidio contra los rohingyas a Myanmar, el primer Estado condenado por este crimen",
-    "summary": "El histórico veredicto se alcanzó tras nueve votos a favor y seis en contra.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cm782edd78ewo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-19T12:34:51+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5477/live/4c398ed0-e416-11f1-b37c-b3a71d7200af.jpg",
-    "title_en": "The UN pleads guilty to genocide against Rohingyas to Myanmar, the first state convicted of this crime",
-    "summary_en": "The historic verdict was reached after 9 votes to 6."
   },
   {
     "title": "El primer gran bulo de la campaña se derrumba: Alvise, un garaje en Burgos y un “ataque violento” en un domicilio",
@@ -78,14 +705,14 @@ window.PLANETA_NEWS = [
   },
   {
     "title": "\"Se están quedando encerradas en sus casas sin un futuro\": el drama de las personas con discapacidad afectadas por las políticas de Milei en Argentina",
-    "summary": "Familiares de personas con discapacidad han denunciado que la red de cuidados —terapeutas, hogares de cuidado y transportistas— ha colapsado. Ahora una ley intenta cambiarlo.",
+    "summary": "Familiares de personas con discapacidad han denunciado que la red de cuidados —que incluye terapeutas, hogares y transportistas— ha colapsado. Ahora una ley intenta cambiarlo.",
     "source": "BBC Mundo",
     "url": "https://www.bbc.com/mundo/articles/c617k978p47ro?at_medium=RSS&at_campaign=rss",
     "category": "Internacional",
     "date": "2026-11-19T12:18:50+00:00",
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c17e/live/2eb24eb0-cd19-11f1-acea-8755f0f28c17.jpg",
     "title_en": "\"They are locked up in their homes without a future\": The drama of people with disabilities affected by Milei's policies in Argentina",
-    "summary_en": "Family members of people with disabilities have reported that the care network - therapists, care homes and carriers - has collapsed. Now a law's trying to change it."
+    "summary_en": "Family members of persons with disabilities have reported that the care network - including therapists, households and carriers - has collapsed. Now a law's trying to change it."
   },
   {
     "title": "La jueza del siniestro ferroviario de Urda autoriza a Adif a reconstruir las vías en la línea Madrid-Sevilla",
@@ -110,17 +737,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The drivers will know if the weather affects the circulation depending on whether the notice is white, yellow, orange, red or black"
   },
   {
-    "title": "Culmina inédita reunión entre Xi, Trump y Putin en la cumbre de la APEC",
-    "summary": "El presidente chino, Xi Jinping, y sus homólogos estadounidense, Donald Trump, y ruso, Vladimir Putin, se reunieron este 19 de noviembre en Shenzhen en un encuentro inédito, en el marco de la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Una hora y 20 minutos después, los mandatarios instaron a la paz, la estabilidad, el compromiso y el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261119-culmina-in%C3%A9dita-reuni%C3%B3n-entre-xi-trump-y-putin-en-la-cumbre-de-la-apec",
-    "category": "Economía",
-    "date": "2026-11-19T12:04:51+00:00",
-    "image": "https://s.france24.com/media/display/de83e0d0-e40f-11f1-9f10-1bac47ab2f5d/w:1024/p:16x9/ES-20261119-060151-060440-CS.jpg",
-    "title_en": "Unpublished meeting between Xi, Trump and Putin at the APEC summit",
-    "summary_en": "Chinese president Xi Jinping and his American counterparts Donald Trump and Russian Vladimir Putin met on November 19 at an unprecedented meeting at Shenzhen at the Asia-Pacific Economic Cooperation Forum (APEC) summit. An hour and 20 minutes later, the leaders called for peace, stability, commitment and..."
-  },
-  {
     "title": "Por qué la niebla está abandonando un excepcional bosque en Costa Rica y cambiando su ecosistema",
     "summary": "El Bosque Nuboso de Monteverde, en Costa Rica, está perdiendo su niebla por el cambio climático, lo que pone en peligros numerosas especies endémicas.",
     "source": "BBC Mundo",
@@ -130,28 +746,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b2f8/live/69cae250-df8e-11f1-b441-2b33b063138f.jpg",
     "title_en": "Why the fog's leaving an outstanding forest in Costa Rica and changing its ecosystem",
     "summary_en": "The Monteverde Nubous Forest, in Costa Rica, is losing its fog to climate change, leading to a number of endemic species."
-  },
-  {
-    "title": "Myanmar cometió genocidio contra los rohingyas, sentencia la Corte Internacional de Justicia",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas-sentencia-la-corte-internacional-de-justicia",
-    "category": "Internacional",
-    "date": "2026-11-19T11:57:14+00:00",
-    "image": "",
-    "title_en": "Myanmar committed genocide against Rohingyas, International Court of Justice decision",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "La Corte Internacional de Justicia declaró a Myanmar responsable de genocidio contra los rohinyás",
-    "summary": "El tribunal de la ONU consideró que Birmania cometió genocidio contra esta minoría musulmana durante la ofensiva militar de 2017. También ordenó medidas para reparar los daños y facilitar el regreso de los desplazados. Es la primera vez que la CIJ declara a un Estado responsable de este crimen.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-myanmar-cometi%C3%B3-genocidio-contra-los-rohingyas-sentencia-la-corte-internacional-de-justicia",
-    "category": "Internacional",
-    "date": "2026-11-19T11:53:54+00:00",
-    "image": "https://s.france24.com/media/display/e3811808-b7ed-11f1-8286-a5615d7a48ac/w:1024/p:16x9/e8def4486b6c3769455021d3faad93a984d6a3ee.jpg",
-    "title_en": "The International Court of Justice held Myanmar responsible for genocide against Rohyas",
-    "summary_en": "The UN court found that Burma committed genocide against this Muslim minority during the 2017 military offensive. It also ordered measures to remedy the damage and facilitate the return of displaced persons. That's the first time CIJ has been declaring a state responsible for this crime."
   },
   {
     "title": "Xi, Trump y Putin adoptan \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo",
@@ -198,17 +792,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The current marathon world champion, Kenyan Peres Jpchirchir, received a three-year doping suspension, according to the Atletics Integrity Unit (AIU). Two other corridors have been punished."
   },
   {
-    "title": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
-    "summary": "Los líderes de las tres mayores potencias se comprometen a impulsar una reforma de la ONU y a garantizar la estabilidad de los flujos energéticos. El republicano, sobre el mandatario ruso: “Es mi amigo”",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
-    "category": "Política",
-    "date": "2026-11-19T11:11:25+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/LBJQ3RYATJDTJFMIY7CZGPTGVA.JPG?auth=d23f568fd95a5e27185e7a0f83567a1ec388cbf65a963926771cc896abcb2872",
-    "title_en": "Xi, Trump and Putin after the Shenzhen summit: \"A nuclear war cannot be won and should never be waged\"",
-    "summary_en": "The leaders of the three largest powers are committed to promoting a reform of the UN and to ensuring the stability of energy flows. The Republican about the Russian president: \"He's my friend\""
-  },
-  {
     "title": "El Constitucional absuelve al tuitero que culpó al “Estado policial” de la muerte de un ‘mantero’ en Madrid",
     "summary": "El tribunal anula la condena a Fonsi Loaiza por sus mensajes tras el fallecimiento del ciudadano senegalés Mame Mbaye y defiende que la libertad de expresión prevalece frente al prestigio de las instituciones",
     "source": "El País",
@@ -253,37 +836,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The Presidents of China, the United States and Russia spoke about Ukraine and nuclear disarmament at their first trilateral summit that, according to Beijing, should serve to preserve \"world peace.\""
   },
   {
-    "title": "Más allá de un día luz: España capta el primer saludo de la ‘Voyager 1’ desde el otro lado de la frontera interestelar",
-    "summary": "La antena de 70 metros de Robledo de Chavela (Madrid) ha recibido este jueves una señal que la sonda de la NASA emitió 24 horas antes, a más de 25.902 millones de kilómetros de distancia",
-    "source": "El País",
-    "url": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
-    "category": "Deportes",
-    "date": "2026-11-19T10:17:21+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/Y2YYGBFJV5AH5FUJAORUXYTJRU.jpg?auth=865ec7af17b4a1f6435e21b0006d8de7ff330a8c1d40735fc1868e37a9d14c00",
-    "title_en": "Beyond a light day: Spain catches the first greeting of the 'Voyager 1' from across the interstellar border",
-    "summary_en": "The 70-foot Robledo de Chavez antenna (Madrid) received a sign this Thursday that NASA's probe broadcast 24 hours earlier, more than 25 902 million km away."
-  },
-  {
     "title": "Lombrices, hongos y orina para cultivar patatas en la mala tierra de la Luna",
     "summary": "Distintos experimentos están sembrando vegetales en sustratos similares a los del satélite de cara a su colonización",
-    "source": "El País",
+    "source": "El País Ciencia",
     "url": "https://elpais.com/ciencia/2026-11-19/lombrices-hongos-y-orina-para-cultivar-patatas-en-la-mala-tierra-de-la-luna.html",
     "category": "Ciencia",
     "date": "2026-11-19T10:14:46+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/4LWRIMNWVVAVXPFRHTGJH243QE.jpg?auth=f4ebd0555a33ae7f6b6d18885c2622308d2457188bc0ba72343829a8ad567904",
     "title_en": "Lombrices, mushrooms and urine to grow potatoes in bad moon ground",
     "summary_en": "Several experiments are sowing plants in substrates similar to those of the satellite for its colonization"
-  },
-  {
-    "title": "Ucrania y las armas nucleares marcan la inédita reunión entre Trump, Xi y Putin",
-    "summary": "Donald Trump, Xi Jinping y Vladimir Putin concluyeron este jueves en Shenzhen una reunión trilateral sin precedentes que duró 80 minutos, con la guerra en Ucrania y el control de armas nucleares en la agenda. El encuentro, presidido por el mandatario chino al margen de la cumbre de APEC, estuvo marcado por llamados a la cooperación, pese a las profundas…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261119-trump-xi-y-putin-concluyen-una-cumbre-in%C3%A9dita-centrada-en-ucrania-y-el-control-nuclear",
-    "category": "Política",
-    "date": "2026-11-19T10:08:01+00:00",
-    "image": "https://s.france24.com/media/display/60ac76ec-e3f4-11f1-b25a-c5c0357b2a0c/w:1024/p:16x9/2026-11-19T083424Z-1955503129-RC2WQOA5C0SH-RTRMADP-3-APEC-SUMMIT-TRUMP.jpg",
-    "title_en": "Ukraine and nuclear weapons mark an unprecedented meeting between Trump, Xi and Putin",
-    "summary_en": "Donald Trump, Xi Jinping and Vladimir Putin concluded an unprecedented trilateral meeting at Shenzhen Thursday that lasted 80 minutes with the war in Ukraine and nuclear arms control on the agenda. The meeting, chaired by the Chinese president outside the APEC summit, was marked by calls for cooperation, despite his profound..."
   },
   {
     "title": "Francia no espera \"nada\" de la cumbre entre Trump, Putin y Xi",
@@ -308,72 +869,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The Ministry of the Environment announced approval of phase 1 of the national management plan to control this invasive species. The pilot project has 500 million pesos"
   },
   {
-    "title": "Xi, Trump y Putin se reúnen por separado antes de trilateral en APEC",
-    "summary": "El presidente estadounidense, Donald Trump, y sus homólogos chino y ruso, Xi Jinping y Vladimir Putin, se prepararon así para la cumbre entre los tres mandatarios, que ya arrancó en la ciudad china de Shenzhen.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/xi-trump-y-putin-se-reúnen-por-separado-antes-de-trilateral-en-apec/a-79987827?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-19T08:42:00+00:00",
-    "image": "",
-    "title_en": "Xi, Trump and Putin meet separately before trilateral at APEC",
-    "summary_en": "American President Donald Trump and his Chinese and Russian counterparts, Xi Jinping and Vladimir Putin, have been prepared for the top of the three leaders, who have already been set up in the Chinese town of Shenzhen."
-  },
-  {
-    "title": "🔴 En directo: comienza en Shenzhen, China, la histórica cumbre trilateral entre Trump, Xi y Putin",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
-    "category": "Política",
-    "date": "2026-11-19T08:38:30+00:00",
-    "image": "",
-    "title_en": ") Live: starts at Shenzhen, China, the historic trilateral summit between Trump, Xi and Putin",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "En directo: Putin ha llegado; la reunión trilateral con Trump y Xi está por comenzar",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
-    "category": "Política",
-    "date": "2026-11-19T08:20:55+00:00",
-    "image": "",
-    "title_en": "The trilateral meeting with Trump and Xi is about to start.",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "Juan Diego Botto dirige el drama ‘Patricia’, con Penélope Cruz como protagonista y productora, y bajo el paraguas de Netflix",
-    "summary": "Tras ‘En los márgenes’, el director y la actriz repiten tándem creativo, ahora con el infierno de una mujer que, tras 12 años de maltrato machista, se enfrenta a otro infierno, el judicial, en el que temerá por el bienestar de sus hijos",
-    "source": "El País",
-    "url": "https://elpais.com/cultura/cine/2026-11-19/juan-diego-botto-dirige-el-drama-patricia-con-penelope-cruz-como-protagonista-y-bajo-el-paraguas-de-netflix.html",
-    "category": "Cultura",
-    "date": "2026-11-19T08:00:00+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/POWACCCNYZAGPDL5NZBWXED45A.jpg?auth=01e9efcf33ae66285444453f48b3fb138cd26963601a4339c5bcaef8bd84eb21",
-    "title_en": "Juan Diego Botto leads the drama 'Patricia' with Penelope Cruz as leading and production and under Netflix umbrella",
-    "summary_en": "After \"On the Farms,\" the director and the actress repeat creative tandem, now with the hell of a woman who, after 12 years of male maltreatment, challenges another hell, the judiciary, with fear for his children's well-being"
-  },
-  {
-    "title": "Un hombre asesina a su pareja en Parla y se entrega a la policía",
-    "summary": "La víctima, María Jesús, de 47 años, tenía un hijo de 17 años. No existían denuncias previas",
-    "source": "El País",
-    "url": "https://elpais.com/sociedad/2026-11-19/muere-una-mujer-en-parla-apunalada-por-un-hombre-con-el-que-mantenia-una-relacion.html",
-    "category": "Internacional",
-    "date": "2026-11-19T07:47:31+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/UO7DEPE7RZDH3CJUIZ3QEX7C3Y.png?auth=23f22581a956c788065a20d192c4d4cf0714046df955d51f0d38ee817f2f81ca",
-    "title_en": "A man kills his partner at Parla and surrender to police",
-    "summary_en": "The victim, Mary Jesus, 47, had a 17-year-old son. No previous complaints"
-  },
-  {
-    "title": "La crisis en Medio Oriente supone la \"mayor amenaza\" para la seguridad energética de la historia, advierte la AIE",
-    "summary": "La Agencia Internacional de la Energía (AIE) advirtió este jueves que la crisis en Medio Oriente representa la “mayor amenaza” para la seguridad energética de la historia. El bloqueo iraní del estrecho de Ormuz sigue alterando el suministro de petróleo, mientras los consumidores afrontan precios más altos y se agotan los mecanismos para amortiguar el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/medio-oriente/20261119-la-crisis-en-medio-oriente-supone-la-mayor-amenaza-para-la-seguridad-energ%C3%A9tica-de-la-historia-advierte-la-aie",
-    "category": "Economía",
-    "date": "2026-11-19T07:32:25+00:00",
-    "image": "https://s.france24.com/media/display/bfcf9412-e37f-11f1-92da-1ba7ddfab527/w:1024/p:16x9/AP26318617092767.jpg",
-    "title_en": "The Middle East crisis poses the \"greatest threat\" to energy security in history, warns IEA",
-    "summary_en": "The International Energy Agency (IEA) warned Thursday that the crisis in the Middle East represents the \"greatest threat\" to energy security in history. The Iranian blockade of the Ormuz Straits continues to disrupt oil supply while consumers face higher prices and mechanisms to damper with oil and..."
-  },
-  {
     "title": "La luz de los gurús económicos se apaga en la política",
     "summary": "Los programas electorales se cocinan cada vez más en el seno interno de los partidos, con los impuestos como principal campo de batalla",
     "source": "El País Economía",
@@ -383,28 +878,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/PGHDO5YEQDR3IGO4T3MJNWO4WQ.jpg?auth=0d20932db0d92b6588d07b07601430d89a53789f056bb8ec878e8636d90dc7df",
     "title_en": "The light of economic gurus goes out in politics",
     "summary_en": "Electoral programs are increasingly cooked within parties with taxes as their main battle ground"
-  },
-  {
-    "title": "🔴 En directo: Trump y Xi dialogan en China antes de una inédita cumbre trilateral con Putin",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
-    "category": "Política",
-    "date": "2026-11-19T06:21:39+00:00",
-    "image": "",
-    "title_en": "Online: Trump and Xi discuss China before an unprecedented trilateral summit with Putin",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "Casi 50.000 evacuados en al estado de Odisha por la llegada del potente ciclón Akvan en India programada para el viernes",
-    "summary": "Las autoridades del gobierno han habilitado más de 400 refugios para albergar a las personas evacuadas.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/casi-50-000-evacuados-en-al-estado-de-odisha-por-la-llegada-del-potente-ciclón-akvan-en-india-programada-para-el-viernes/a-79987150?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-19T06:15:00+00:00",
-    "image": "",
-    "title_en": "Almost 50,000 evacuated to the state of Odisha by the arrival of powerful cyclone Akvan in India scheduled for Friday",
-    "summary_en": "The government authorities have authorized more than 400 shelters to house evacuated persons."
   },
   {
     "title": "Amazon, Temu y AliExpress suben precios por el nuevo arancel europeo a los pedidos de bajo coste",
@@ -429,39 +902,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The jobs in Spain for developers show the rapid growth of artificial intelligence and difficulties with finding jobs as a youth"
   },
   {
-    "title": "En la COP31, los ministros intentan desbloquear las negociaciones para adoptar un texto final",
-    "summary": "Los ministros reunidos en la COP31 en Antalya, Turquía, intentaron desbloquear las negociaciones el miércoles 18 de noviembre por la noche, ante las diferencias sobre el abandono de los combustibles fósiles, el financiamiento climático y la ciencia. Se espera un nuevo borrador del texto final para acercar posiciones antes del viernes, plazo previsto para…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/medio-oriente/20261119-en-la-cop31-los-ministros-intentan-desbloquear-las-negociaciones-para-adoptar-un-texto-final",
-    "category": "Medio Ambiente",
-    "date": "2026-11-19T05:44:02+00:00",
-    "image": "https://s.france24.com/media/display/cd8e0060-e3d0-11f1-9616-7908c4e1a3c7/w:1024/p:16x9/000-D7VU8WE.jpg",
-    "title_en": "At COP31, ministers are trying to unlock negotiations to adopt a final text",
-    "summary_en": "The ministers meeting at COP31 in Antalya, Turkey, had been trying to unlock negotiations on Wednesday, 18 November at night, with differences about fossil fuel abandonment, climate financing and science. A new draft of the final text will be expected to come up with an earlier stage by Friday, a deadline for..."
-  },
-  {
-    "title": "La crisis en Medio Oriente amenaza la seguridad energética mundial, advierte la AIE",
-    "summary": "El conflicto en el estrecho de Ormuz provocará un \"enorme shock\" en el sector energético, dijo el director de la AIE, Fatih Birol.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/la-crisis-en-medio-oriente-amenaza-la-seguridad-energética-mundial-advierte-la-aie/a-79986931?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-19T05:43:00+00:00",
-    "image": "",
-    "title_en": "The Middle East crisis challenges global energy security, warns IEA",
-    "summary_en": "The conflict at the Ormuz Straits will provoke a \"huge shock\" in the energy sector, IEA Director Fatima Birol said."
-  },
-  {
-    "title": "Anthropic apunta a un récord bursátil con su salida a Wall Street",
-    "summary": "La compañía de inteligencia artificial prevé captar unos USD 79.400 millones con la venta inicial de sus acciones, fijadas en 83 dólares cada una. La cifra superaría los USD 75.000 millones recaudados por SpaceX en junio y podría aumentar con las operaciones bancarias posteriores. La demanda de los inversores multiplicó por ocho la oferta disponible y las…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261119-anthropic-apunta-a-un-r%C3%A9cord-burs%C3%A1til-con-su-salida-a-wall-street",
-    "category": "Tecnología",
-    "date": "2026-11-19T05:21:46+00:00",
-    "image": "https://s.france24.com/media/display/6f9a6b5c-e3b6-11f1-bcdf-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T220921Z-1302439892-RC2MQOAY75RO-RTRMADP-3-ANTHROPIC-IPO.jpg",
-    "title_en": "Anthropic points to a stock record with his exit to Wall Street",
-    "summary_en": "The artificial intelligence company plans to capture about USD 79.4 billion with its initial share sales, set at 83 dollars each. The figure would exceed USD 65 billion raised by SpaceX in June and could be increased with subsequent banking operations. The demand from investors multiplied the available offer and the..."
-  },
-  {
     "title": "Así acabó Blackstone con la molesta campaña de una inquilina: habló con un cargo de la Comunidad de Madrid y ella obtuvo un piso",
     "summary": "Elsa Riquelme esperó 10 años una vivienda pública hasta que el fondo estadounidense movió sus hilos para acabar con una campaña protagonizada por ella",
     "source": "El País",
@@ -482,17 +922,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/ZJOJWRVVMFRLRGDWB77UEI5NVU.jpg?auth=93804f05535b7818f496ec97d08d13eddce87a84888c833ddf71f33a42d06ea8",
     "title_en": "Less consumption, jobs and more inequality: housing crisis challenges cooling Spanish economic boom",
     "summary_en": "Analysts and reports alert that the imbalance of the housing market is unsustainable in the long term, as the European Commission has just noted"
-  },
-  {
-    "title": "Trump se reúne con Putin antes de la trilateral con Xi Jinping",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-en-directo-trump-es-recibido-por-xi-jinping-y-estrecha-la-mano-a-putin-en-su-llegada-a-la-cumbre-apec",
-    "category": "Política",
-    "date": "2026-11-19T04:42:45+00:00",
-    "image": "",
-    "title_en": "Trump meets with Putin before trilateral with Xi Jinping",
-    "summary_en": "See details at the original source."
   },
   {
     "title": "Ante un agujero financiero gigantesco, Alemania pierde el sueño joven de ascenso generacional",
@@ -550,83 +979,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Those who have already established a billion million company put up with technology, most often in the sector they know"
   },
   {
-    "title": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
-    "summary": "Al candidato socialista le interesa transmitir que hay partido y al del PP, que aún no está ganado. El último sondeo de 40 dB. otorga 192 diputados a PP y Vox y un 32,4% del voto a los populares frente al 30,4% del PSOE",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
-    "category": "Deportes",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "",
-    "title_en": "90 minutes face to face: Sanchez wants to get back to his two points and Feijóo to repeat his 2023 success",
-    "summary_en": "The Socialist candidate wants to transmit that there's a party and that of the PP, that's still outstanding. The last 40 dB. survey awarded 192 MPs and Vox and 32.4% of the vote to the popular versus 30.4% of the pSOE"
-  },
-  {
-    "title": "Sánchez ultima los detalles del cara a cara con su núcleo duro en La Moncloa y la “lección aprendida” de 2023",
-    "summary": "El presidente aprovechó el día de huelga general para empezar reuniones, llamadas y mover fichas con su director de Gabinete al frente, con consultas constantes a miembros del Gobierno",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-ultima-los-detalles-del-cara-a-cara-con-su-nucleo-duro-en-la-moncloa-y-la-leccion-aprendida-de-2023.html",
-    "category": "Política",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/KRF56MU3INPZ5H5NSIUCCQ3HDE.jpg?auth=0589c5da73a54884397ebb94a5d28b329e53055a64826b966fa37fea3aa0246c",
-    "title_en": "Sánchez Finds face-to-face details with his hard core at La Moncloa and the 2023 \"Learning Lessons\"",
-    "summary_en": "The president took advantage of his day of general strike to start meetings, phone calls and move his office manager with his head office with constant consultations with government members"
-  },
-  {
-    "title": "Feijóo prepara el debate con su equipo gallego y sin Miguel Ángel Rodríguez: máxima presión sobre Sánchez sin arriesgar el perfil presidencial",
-    "summary": "En Génova sostienen que “toda la presión la tiene Pedro Sánchez”, que es quien va por detrás en las encuestas",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-ira-a-la-yugular-sin-arriesgar-el-perfil-presidencial-en-un-debate-preparado-con-su-equipo-gallego-y-sin-miguel-angel-rodriguez.html",
-    "category": "Política",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/56LEX246TFLFLLS6CUXEJNNE6I.jpg?auth=1cfd03372f6b4cbd957a6a43565180949c2ec6cbc092005190ff5233ecf878e9",
-    "title_en": "Feijóo prepares the debate with his Galician team and without Miguel Ángel Rodriguez: maximum pressure on Sanchez without risking his presidential profile",
-    "summary_en": "At Genoa they argue that \"all the pressure has been put by Pedro Sanchez,\" who goes from behind in polls"
-  },
-  {
-    "title": "¿Dónde se vota menos en España? El mapa de la abstención y la renta, calle a calle",
-    "summary": "Los datos de los últimos ciclos electorales muestran un patrón que se repite: en los barrios con más ingresos se vota más que en los más humildes. Con alguna excepción",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-mapa-de-la-abstencion-y-la-renta-donde-se-vota-menos-calle-a-calle.html",
-    "category": "Internacional",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "",
-    "title_en": "Where do you vote less in Spain? The map of abstention and rent, street to street",
-    "summary_en": "The data from the last election cycles have shown a recurring pattern: more jobs have been put to vote in more low-income neighborhoods than they have been. With some exception"
-  },
-  {
-    "title": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
-    "summary": "La candidata de Frente Amplio el 29-N defiende que la coalición de izquierdas es el voto útil para “frenar un gobierno de extrema derecha e ir más allá en vivienda”",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
-    "category": "Política",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/6BC3WRBEZVAJBASNS3PQE3COQI.jpg?auth=89f72b492dec2e094788f58795e9999094026acae376d37d3a74b23494085d85",
-    "title_en": "Ada Colau: \"The ultra-right has been better capable of diagnosing public malaise than the pSOE\"",
-    "summary_en": "Front Expand's candidate the 29th N argues that the leftist coalition is a useful vote to \"stop an extreme right-wing government and go beyond housing\""
-  },
-  {
-    "title": "Tamar Novas: “Lo tengo claro: votaré lo menos malo para evitar lo peor”",
-    "summary": "“Que haya un político que diga que no es importante su opinión sobre el franquismo a mí me llama la atención. Intento no perder la capacidad de estupor ante ciertas cosas”, dice el actor gallego",
-    "source": "El País",
-    "url": "https://elpais.com/espana/2026-11-19/tamar-novas-lo-tengo-claro-votare-lo-menos-malo-para-evitar-lo-peor.html",
-    "category": "Política",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/XHJGSPDUURE5POWPXNNSRXHC6Y.JPG?auth=9fa3af6760a05b2558d8e683a7e87f00b068cb815d70c10e9e87cd0183e88adf",
-    "title_en": "Tamar Novas: \"I have clear: I will vote the least bad to avoid the worse\"",
-    "summary_en": "\"That there's a politician who says his opinion about Franco isn't important to me. I'm trying to keep up with some things,\" says the Galician actor."
-  },
-  {
-    "title": "Oído en peluquerías, sobre la portada de Sánchez en ‘Lecturas’: “Será lo que sea, pero está estupendo”",
-    "summary": "Los lectores reaccionan a la entrevista del presidente del Gobierno en la revista del corazón",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/oido-en-peluquerias-sobre-la-portada-de-sanchez-en-lecturas-sera-lo-que-sea-pero-esta-estupendo.html",
-    "category": "Política",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/MCOTNFJOXFCSLMNSD54O6MFCUI.JPG?auth=99d4ed6461d78dd7d0c0f91c8c051a85e77f8032989ffbeef91d439269f06308",
-    "title_en": "Heard in hairdressers, about Sanchez's cover at \"Lessons\": \"That'll be anything but great\"",
-    "summary_en": "Readers React to Government President's Interview at heart magazine"
-  },
-  {
     "title": "Camila Gutiérrez, después de OnlyFans: “La mayoría de la gente ve porno, solo que a algunos les parece indigno pagar”",
     "summary": "Tras un debut deslumbrante, la escritora y guionista chilena pasó por una crisis económica y vital que la acabó llevando a decidir apostar por OnlyFans como fuente de ingresos. Ahora cuenta la historia en ‘Pedid y se os dará’, un conciso pero contundente relato",
     "source": "El País",
@@ -647,61 +999,6 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/WJ4SXSW3OVHAZBSOIJI2EWFFTY.JPG?auth=ca2fe39f901e8e41a15503826744f496b8b9447d74aaab3e728dd67f4e1312a5",
     "title_en": "GTA VI unleashes insanity: flights to New Zealand to prove it before, job absences and even free days in the army",
     "summary_en": "Experts alert to the danger of engaging in love with video game characters and to bad conduct that can lead to an addiction"
-  },
-  {
-    "title": "Nicholas Hoult: “Ya no me importa lo que la gente piense de mí. Eso no solo me lo enseñó la paternidad, sino la vida”",
-    "summary": "La precoz estrella de ‘Un niño grande’ es hoy un hombre de familia que interpreta a un padre en busca de venganza en ‘Cómo robar un banco’, un ‘thriller’ con denuncia social",
-    "source": "El País",
-    "url": "https://elpais.com/icon/2026-11-19/nicholas-hoult-ya-no-me-importa-lo-que-la-gente-piense-de-mi-eso-no-solo-me-lo-enseno-la-paternidad-sino-la-vida.html",
-    "category": "Economía",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/YVCQVE6NTBBRVKLDGO36WSAH2E.jpg?auth=94d2fe8f12aff6499441b562eb255160c8fec4277bab571867da30919d4d3566",
-    "title_en": "Nicholas Hoult: \"I don't care what people think about me anymore. That's what parenthood taught me, but life taught me.\"",
-    "summary_en": "The early star of \"A big boy\" today is a family man who plays a father for revenge in \"How to steal a bank,\" a \"thriller\" with social denunciation"
-  },
-  {
-    "title": "Pedro, chico ‘Lecturas’",
-    "summary": "Se le ha echado encima media carcundia mediática por querer camelarse a las marujas, que son tontas y compran cualquier cosa. A ver si va a ser envidia",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-19/pedro-chico-lecturas.html",
-    "category": "Internacional",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/BCK2SLOD6NFRRDPRZSEUYIXIRY.JPG?auth=5f3755035fc0f404a4cc1490064fa6bbb7210d03d8eead6831b1bd27014cdb4b",
-    "title_en": "Pedro, boy.",
-    "summary_en": "He's been pounding his half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a half a and half a half a half a half a half and half a half a half a half a half a half. Let's see if it's gonna be envy."
-  },
-  {
-    "title": "¡Extra, extra! ¡Hombre de mediana edad se cree irresistible!",
-    "summary": "La relación de Jensen Huang con una posible espía china y con dos empleadas sirve de advertencia sobre los riesgos de las crisis de madurez",
-    "source": "El País",
-    "url": "https://elpais.com/opinion/2026-11-19/extra-extra-hombre-de-mediana-edad-se-cree-irresistible.html",
-    "category": "Internacional",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/PVSLKXW4GZMRLCCOD424VC2ODI.jpg?auth=56ad1db4603a6dab9f2d1634a5aed92418cdfbcb079445d9ca5180ca6ec31814",
-    "title_en": "Extra, extra! A middleman thinks he's irresistible!",
-    "summary_en": "Jensen Huang's relationship with a potential Chinese spy and with two employees serves as a warning about the risks of mature crises"
-  },
-  {
-    "title": "Resistencia y barbarie, las dos caras de la guerra en una granja de Ucrania",
-    "summary": "Tras la evacuación de 3.000 cerdos entre ataques de drones, los trabajadores que quedan se juegan la vida en una explotación abierta en Jersón desde tiempos soviéticos",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/resistencia-y-barbarie-las-dos-caras-de-la-guerra-en-una-granja-de-ucrania.html",
-    "category": "Internacional",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "",
-    "title_en": "Resistance and barbaric, both sides of the war at an Ukrainian farm",
-    "summary_en": "Following the evacuation of 3,000 pigs between drones attacks, the remaining workers play their lives at an open production at Jerson since Soviet times"
-  },
-  {
-    "title": "El ímpetu colonizador israelí llega a las puertas de Jericó",
-    "summary": "Un habitante del nuevo asentamiento, formado por ocho casas a las afueras de la ciudad cisjordana, mata de un disparo a una palestina de 72 años, sin que haya arrestos",
-    "source": "El País",
-    "url": "https://elpais.com/internacional/2026-11-19/el-impetu-colonizador-israeli-llega-a-las-puertas-de-jerico.html",
-    "category": "Internacional",
-    "date": "2026-11-19T04:30:01+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/KC3XPKL7IRDD3P4QPRUHBEOQYQ.jpg?auth=f14976b8b8af09de4ec99945698a56a9142866db81393a271bc77ba84351b9ea",
-    "title_en": "The Israeli colonizer's impetus arrives at the gates of Jericho",
-    "summary_en": "A inhabitant of the new settlement, made up of eight houses outside the South West Bank town, killed a 72-year-old Palestinian with no arrests."
   },
   {
     "title": "Agnès Bénassy-Quéré: “El temor a una fuga de depósitos por el euro digital está fuera de lugar”",
@@ -781,17 +1078,6 @@ window.PLANETA_NEWS = [
     "summary_en": "Iosco recalls that many of the products that are sold as tokenized titrates do not confer economic rights and benefits on replying companies"
   },
   {
-    "title": "El gobierno de Fiyi declara \"estado de desastre\" debido a intensa sequía provocada por el fenómeno de El Niño",
-    "summary": "El gobierno de Fiyi afirmó que \"la sequía ha alcanzado umbrales de crisis\", lo que obligó a declarar un estado de desastre a nivel nacional.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/el-gobierno-de-fiyi-declara-estado-de-desastre-debido-a-intensa-sequía-provocada-por-el-fenómeno-de-el-niño/a-79986904?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Medio Ambiente",
-    "date": "2026-11-19T04:15:00+00:00",
-    "image": "",
-    "title_en": "Fiji's government declares \"a state of disaster\" as a result of intense drought caused by the El Niño phenomenon",
-    "summary_en": "The Fiji government stated that \"the drought has reached crisis thresholds,\" forcing them to declare a state of disaster at national level."
-  },
-  {
     "title": "Indra pesca en una industria del automóvil en crisis: realiza 14 fichajes de directivos en tres años",
     "summary": "La compañía acaba de traer de Seat a su nuevo jefe de producto, Beltrán Sanz. La mayoría de las incorporaciones vienen de Renault y Seat",
     "source": "El País Economía",
@@ -814,147 +1100,15 @@ window.PLANETA_NEWS = [
     "summary_en": "The chains launch an aggressive commercial offensive to compensate for the braking of passengers and overnight nights from Germany. The Balearic Islands is the region most damaged by its strong dependence on the German market, as it welcomes 43% of passengers who come to Spain"
   },
   {
-    "title": "Arranca en Shenzhen el plenario de la cumbre de líderes de la APEC",
-    "summary": "Las miradas están puestas en la inédita reunión entre Xi, Trump y Putin, quienes se espera aborden temas como las guerras en Ucrania e Irán, y los arsenales nucleares.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/arranca-en-shenzhen-el-plenario-de-la-cumbre-de-líderes-de-la-apec/a-79986880?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-19T03:46:00+00:00",
-    "image": "",
-    "title_en": "The APEC leaders' summit plenary starts at Shenzhen",
-    "summary_en": "The looks are put at an unprecedented meeting between Xi, Trump and Putin, who are expected to address issues such as wars in Ukraine and Iran and nuclear arsenals."
-  },
-  {
-    "title": "Julio Iglesias será investigado por presuntas agresiones sexuales y físicas a dos mujeres",
-    "summary": "El juez Antonio Piña aceptó la querella presentada por los abogados de dos mujeres que aseguran haber sido víctimas de delitos sexuales y agresiones físicas por parte del cantante Julio Iglesias. Los maltratos habrían ocurrido en 2021 en las casas del artista en Bahamas y República Dominicana mientras las denunciantes se desempeñaban como empleadas de las…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/cultura/20261119-julio-iglesias-ser%C3%A1-investigado-por-presuntas-agresiones-sexuales-y-f%C3%ADsicas-a-dos-mujeres",
-    "category": "Cultura",
-    "date": "2026-11-19T03:24:30+00:00",
-    "image": "https://s.france24.com/media/display/b5869d36-e3be-11f1-8d1a-7908c4e1a3c7/w:1024/p:16x9/AP19191530339360.jpg",
-    "title_en": "Julio Iglesias will be investigated for alleged sexual and physical assault of two women",
-    "summary_en": "Judge Antonio Piña accepted the complaint filed by lawyers of two women who claim to have been victims of sexual crime and physical assault by singer Julio Iglesias. Los maltratos habrían ocurciado en 2021 en las casas del artista en Bahamas y República Dominicana mientras las denunciantes se duciaban como trabajes de las..."
-  },
-  {
-    "title": "El peso de la tecnología y la inteligencia artificial en la cumbre de la APEC",
-    "summary": "Aunque la histórica reunión entre Xi Jinping, Vladimir Putin y Donald Trump acapara casi toda la atención de la cumbre de la APEC, el desarrollo tecnológico, la inteligencia artificial y el comercio digital son uno de los ejes del encuentro. Para nuestro invitado José Carlos Feliciano, subdirector del Centro de Estudios sobre China y Asia-Pacífico, la…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261119-el-peso-de-la-tecnolog%C3%ADa-y-la-inteligencia-artificial-en-la-cumbre-de-la-apec",
-    "category": "Tecnología",
-    "date": "2026-11-19T02:50:11+00:00",
-    "image": "https://s.france24.com/media/display/ce16b364-e3c2-11f1-8474-1ba7ddfab527/w:1024/p:16x9/ES-20261118-203222-203909-CS.jpg",
-    "title_en": "The weight of technologies and artificial intelligence at the APEC summit",
-    "summary_en": "Although the historic meeting between Xi Jinping, Vladimir Putin and Donald Trump attracted most of the APEC summit's attention, technological development, artificial intelligence and digital commerce are one of the challenges of the meeting. To our guest José Carlos Feliciano, deputy director of the Center for Studies about China and Asia-Pacific, the..."
-  },
-  {
-    "title": "Trump pide al Supremo bloquear fallo que restituye protección migratoria a cientos de miles de venezolanos",
-    "summary": "El gobierno alega que devolver ese beneficio migratorio supondrá \"dejar en libertad dentro del país a extranjeros sujetos a deportación\".",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/trump-pide-al-supremo-bloquear-fallo-que-restituye-protección-migratoria-a-cientos-de-miles-de-venezolanos/a-79986699?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-19T02:47:00+00:00",
-    "image": "",
-    "title_en": "Trump asks the Supreme to block decision to restore immigration protection to hundreds of thousands of Venezuelan people",
-    "summary_en": "The government claims that returning this migration benefit will mean \"releasing aliens with deportation within the country.\""
-  },
-  {
-    "title": "Informe desde Shenzhen: inicia cumbre de la APEC con expectativas por reunión Trump-Xi-Putin",
-    "summary": "Empezó la cumbre de la APEC en Shenzhen con un discurso del presidente Xi Jinping en el que destacó el desarrollo del continente asiático. El encuentro tiene como temas clave la economía, la tecnología y la geopolítica, pero la atención global se centra en la reunión del mandatario chino con sus homólogos Donald Trump y Vladimir Putin. Nuestro corresponsal…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261119-informe-desde-shenzhen-inicia-cumbre-de-la-apec-con-expectativas-por-reuni%C3%B3n-tripartita",
-    "category": "Tecnología",
-    "date": "2026-11-19T02:22:08+00:00",
-    "image": "https://s.france24.com/media/display/1592da0a-e3ba-11f1-a5fd-6d75ed565170/w:1024/p:16x9/ES-20261118-180725-180915-CS.jpg",
-    "title_en": "Report from Shenzhen: Opens APEC summit with expectations for Trump- Xi- Putin meeting",
-    "summary_en": "The APEC summit at Shenzhen began with an address by President Xi Jinping and highlighted the development of the Asian continent. The meeting has as key issues the economy, technology and geopolitics, but global attention focuses on meeting the Chinese president with his counterparts Donald Trump and Vladimir Putin. Our correspondent..."
-  },
-  {
-    "title": "\"Ni un peso menos\": los chilenos protestan contra los presupuestos del Gobierno Kast",
-    "summary": "Una serie de movilizaciones en Santiago y otras de las principales ciudades de Chile fue protagonizada por sindicatos y varios movimientos sociales. Los manifestantes se pronunciaron contra los recortes para la educación, salud y cultura en la ley de presupuesto para 2027 presentada por el Gobierno de José Antonio Kast. Esto en medio de un descontento…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261119-ni-un-peso-menos-los-chilenos-protestan-contra-los-presupuestos-del-gobierno-kast",
-    "category": "Salud",
-    "date": "2026-11-19T02:11:30+00:00",
-    "image": "https://s.france24.com/media/display/4652dd36-e3b3-11f1-a028-c5c0357b2a0c/w:1024/p:16x9/2026-11-18T173203Z-1865229298-RC2EQOA6DA1B-RTRMADP-3-CHILE-PROTEST.jpg",
-    "title_en": "\"No less weight\": Chilean protest against Kast government budgets",
-    "summary_en": "A number of mobilizations in Santiago and other of Chile's leading cities were starring trade unions and several social movements. The protesters expressed their opposition to cuts to education, health and culture in the 2027 budget law put forward by the Government of José Antonio Kast. That's amidst a discontent..."
-  },
-  {
-    "title": "Venezuela firma acuerdos de cooperación militar con EE. UU. 10 meses después de la captura de Maduro",
-    "summary": "10 meses después de la captura de Nicolás Maduro en una operación que él mismo lideró, Pete Hegseth viajó a Caracas para firmar un acuerdo de reinicio de cooperación militar entre Estados Unidos y Venezuela que, según la presidenta interina Delcy Rodríguez, busca \"hacer frente a amenazas comunes\". La relación entre ambos países estaba rota desde 2005 bajo…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261119-venezuela-firma-acuerdos-de-cooperaci%C3%B3n-militar-con-ee-uu-10-meses-despu%C3%A9s-de-la-captura-de-maduro",
-    "category": "Internacional",
-    "date": "2026-11-19T01:40:23+00:00",
-    "image": "https://s.france24.com/media/display/b9fdd174-e3ad-11f1-9163-1ba7ddfab527/w:1024/p:16x9/ES-20261118-180159-180343-CS.jpg",
-    "title_en": "Venezuela signs military cooperation agreements with the US. 10 months after Maduro's capture",
-    "summary_en": "10 months after his capture of Nicolás Maduro in an operation his own leadership, Pete Hegseth travelled to Caracas to sign an agreement to re-start military cooperation between the U.S. and Venezuela that, according to Interim President Delcy Rodriguez, aims to \"face common threats.\" The relationship between both countries had been broken since 2005 low..."
-  },
-  {
     "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
     "summary": "El gigante de la IA debuta este jueves con un precio de salida de 83 dólares por acción, por encima de lo esperado, y ha ampliado la oferta un 19%. Los mercados paralelos apuntan a un estreno alcista",
-    "source": "El País",
+    "source": "El País Economía",
     "url": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
     "category": "Economía",
     "date": "2026-11-19T00:25:13+00:00",
     "image": "https://imagenes.elpais.com/resizer/v2/6TCGBSQGXFKGLNZGXMR5ZSKEUI.jpg?auth=5d22c4d819abc6b9379e2fb8391a20ba70053a874318f224c4d2aebff82af1a6",
     "title_en": "Anthropic bounds SpaceX as the largest exit to Stock Exchange and sets its valuation at $1.5 billion",
     "summary_en": "The A's giant debuts this Thursday with an outage price of $83 per share, above what was expected, and has increased the offer by 19%. Parallel markets point to an upscale premiere"
-  },
-  {
-    "title": "Informe desde Caracas: EE. UU. y Venezuela firman acuerdo de cooperación militar",
-    "summary": "Venezuela y Estados Unidos reanudan su cooperación militar más de 10 meses después de la captura de Nicolás Maduro en Caracas. El secretario de Defensa estadounidense, Pete Hegseth, visitó la capital venezolana sin un anuncio formal para firmar el acuerdo que permite a Venezuela fortalecer sus Fuerzas militares y trabajar conjuntamente contra el…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-informe-desde-caracas-ee-uu-y-venezuela-firman-acuerdo-de-cooperaci%C3%B3n-militar",
-    "category": "Internacional",
-    "date": "2026-11-18T23:53:47+00:00",
-    "image": "https://s.france24.com/media/display/884a62aa-e39e-11f1-941d-7908c4e1a3c7/w:1024/p:16x9/ES-20261118-144244-144423-CS.jpg",
-    "title_en": "Report from Caracas: U.S. and Venezuela sign Military Cooperation Agreement",
-    "summary_en": "Venezuela and the U.S. resume their military cooperation more than 10 months after the capture of Nicolás Maduro in Caracas. U.S. Secretary of Defense, Pete Hegseth, visited the Venezuelan capital without a formal announcement to sign an agreement enabling Venezuela to strengthen its military forces and work together with them to fight..."
-  },
-  {
-    "title": "¿Se cierra el círculo del tutelaje? Hegseth firma un acuerdo de “cooperación militar” con Venezuela",
-    "summary": "El hombre que dirigió la extracción de Nicolás Maduro y los polémicos bombardeos en el Caribe contra supuestas narcolanchas se convirtió este 18 de noviembre en el funcionario de más alto rango de la Administración Trump que visita Venezuela. Recibido por Delcy Rodríguez en Miraflores, Pete Hegseth firmó un convenio con los mismos miembros de la cúpula…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261118-se-cierra-el-c%C3%ADrculo-del-tutelaje-hegseth-firma-un-acuerdo-de-cooperaci%C3%B3n-militar-con-venezuela",
-    "category": "Política",
-    "date": "2026-11-18T23:53:38+00:00",
-    "image": "https://s.france24.com/media/display/1d422dec-e3a5-11f1-828a-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T173154Z-84032098-RC2OWM5HBVNU-RTRMADP-3-VENEZUELA-USA.jpg",
-    "title_en": "Do we close our tutelage circle? Hegseth signs an agreement of \"military cooperation\" with Venezuela",
-    "summary_en": "The man who directed the extraction of Nicolás Maduro and the controversial bombings in the Caribbean against alleged narcolanchas became the highest-ranking official of the Trump Administration visiting Venezuela on November 18. Reported by Delcy Rodriguez at Miraflores, Pete Hegseth signed an agreement with the same members of the dome..."
-  },
-  {
-    "title": "Bukele se gana el favor de los haitianos por operativos contra las pandillas",
-    "summary": "Nayib Bukele y El Salvador se gana el favor de los haitianos en medio de los operativos del Ejército salvadoreño contra las pandillas, que se encuentran en la isla desde octubre buscando a cuatro de sus hombres. Los operativos han conseguido que los habitantes de Haití vean en la política y acciones de Bukele como una solución a la crisis de seguridad, pero…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-bukele-se-gana-el-favor-de-los-haitianos-por-operativos-contra-las-pandillas",
-    "category": "Política",
-    "date": "2026-11-18T23:45:27+00:00",
-    "image": "https://s.france24.com/media/display/d4df484a-e39b-11f1-88fc-6d75ed565170/w:1024/p:16x9/ES-20261118-144026-144212-CS.jpg",
-    "title_en": "Bukele wins favor from Haitians for anti-gangs operations",
-    "summary_en": "Nayib Bukele and El Salvador gain favor from Haitians amidst the operations of the Salvadoran Army against gangs, who have been on the island since October looking for four of their men. The operations have been enabling the people of Haiti to see Bukele's politics and actions as a solution to the security crisis but..."
-  },
-  {
-    "title": "Israel lanza una operación terrestre en el centro de Gaza y provoca la huida de decenas de palestinos",
-    "summary": "Decenas de palestinos huyeron este miércoles 18 de noviembre de tiendas de campaña y refugios en el centro de Gaza después de que Israel lanzara una inusual operación terrestre en una zona de la que se había retirado en virtud de un alto el fuego de 2025. El Ejército israelí afirmó que cruzó la Línea Amarilla “para eliminar una amenaza\" sobre sus tropas.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/medio-oriente/20261118-israel-lanza-una-operaci%C3%B3n-terrestre-en-el-centro-de-gaza-y-provoca-la-huida-de-decenas-de-palestinos",
-    "category": "Internacional",
-    "date": "2026-11-18T23:17:47+00:00",
-    "image": "https://s.france24.com/media/display/d887f168-e3a5-11f1-a636-ff16da94d1fe/w:1024/p:16x9/2026-11-18T151621Z-1162002354-RC2CQOAW8061-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
-    "title_en": "Israel launched a ground operation in central Gaza and caused tens of Palestinians to flee",
-    "summary_en": "Tens of Palestinians fled tents and shelters in central Gaza on Wednesday, 18 November after an unusual ground operation was launched by Israel in an area that had been withdrawn under a 2025 ceasefire. The Israeli army stated that it crossed the Yellow Line \"to remove a threat\" to its troops."
-  },
-  {
-    "title": "Recrudecimiento de ataques entre hutíes y fuerzas de Yemen agravan situación humanitaria",
-    "summary": "Los combates en Yemen se recrudecen y la situación humanitaria empeora con el avance de los hutíes, los enfrentamientos armados y los ataques de Arabia Saudita. En los últimos días, las fuerzas gubernamentales tuvieron que retirarse de Dhubab y las zonas aledañas del estrecho de Bab el-Mandeb, dejando el control total a los hutíes, para defender a su…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-recrudecimiento-de-ataques-entre-hut%C3%ADes-y-fuerzas-de-yemen-agravan-situaci%C3%B3n-humanitaria",
-    "category": "Internacional",
-    "date": "2026-11-18T23:17:21+00:00",
-    "image": "https://s.france24.com/media/display/925b49a6-e396-11f1-b2e7-ff16da94d1fe/w:1024/p:16x9/ES-20261118-143752-143953-CS.jpg",
-    "title_en": "Retirement of attacks by Hitties and Yemeni forces exacerbates humanitarian situation",
-    "summary_en": "The fighting in Yemen was growing and the humanitarian situation was deteriorating with the advance of the Houties, armed confrontations and attacks by Saudi Arabia. In the last few days, government forces had to withdraw from Dhumab and the surrounding areas of the Bab el- mandeb Straits, leaving complete control of the Houties, to defend their..."
   },
   {
     "title": "Hegseth alardea de la captura de Maduro en la primera visita a Venezuela de un secretario de Defensa de EE.UU. en décadas",
@@ -968,17 +1122,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The U.S. Secretary of Defense visited Venezuela to sign a military cooperation agreement."
   },
   {
-    "title": "Nueva operación militar israelí en Gaza: ¿Qué pasó con el acuerdo firmado con Hamás?",
-    "summary": "En medio de las intensas lluvias que han inundado los campamentos de refugiados y ha dificultado la ya golpeada situación sanitaria de los gazatíes, el Ejército israelí cruzó la línea amarilla, demarcada por los israelíes, para realizar una operación militar contra \"infraestructuras terroristas en el centro de la Franja de Gaza\", asegurando que tiene como…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261118-nueva-operaci%C3%B3n-militar-israel%C3%AD-en-gaza-qu%C3%A9-pas%C3%B3-con-el-acuerdo-firmado-con-ham%C3%A1s",
-    "category": "Salud",
-    "date": "2026-11-18T22:54:23+00:00",
-    "image": "https://s.france24.com/media/display/341f7200-e390-11f1-a1ec-ff16da94d1fe/w:1024/p:16x9/ES-20261118-131635-132739-CS.jpg",
-    "title_en": "New Israeli Military Operation in Gaza: What happened with the Agreement with Hamas?",
-    "summary_en": "Amid the intense rains that have flooded refugee camps and have hampered the already damaged health situation of the Ghanatians, the Israeli Army crossed the yellow line, demarcated by the Israelis, to conduct a military operation against \"terrorist infrastructure in the centre of the Gaza Strip,\" claiming that it has as its..."
-  },
-  {
     "title": "Lucía Caminos, la primera protagonista femenina de GTA en los 30 años de historia del videojuego",
     "summary": "El esperado nuevo videojuego de la saga Grand Theft Auto presenta a la primera protagonista femenina en sus 30 años de historia. Pero, ¿contribuirá la inclusión de Lucia Caminos, una joven latina, a combatir la falta de representación femenina en los videojuegos?",
     "source": "BBC Mundo",
@@ -988,28 +1131,6 @@ window.PLANETA_NEWS = [
     "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03f5/live/f96f8440-e350-11f1-99b6-a35a62fa4264.jpg",
     "title_en": "Lucía Caminos, GTA's first leading woman in his 30-year video game history",
     "summary_en": "The expected new video game of the Grand Theft Auto saga introduces the first female star in his 30 years of history. But will the inclusion of Lucia Caminos, a young Latino woman, contribute to combating the lack of female representation in video games?"
-  },
-  {
-    "title": "¿Por qué Ucrania pone ahora en la mira de sus ataques el puente que une a Rusia con Crimea?",
-    "summary": "Un ataque con drones y misiles ucranianos perpetrado el lunes 16 de noviembre por la noche derribó un tramo del puente que une la península de Crimea con Rusia, lo que podría paralizar una ruta que Moscú lleva mucho tiempo utilizando para trasladar efectivos y material a ese territorio anexionado y al frente sur. ¿Por qué Kiev apunta ahora su fuerza contra…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/europa/20261118-por-qu%C3%A9-ucrania-pone-ahora-en-la-mira-de-sus-ataques-el-puente-que-une-a-rusia-con-crimea",
-    "category": "Internacional",
-    "date": "2026-11-18T22:09:19+00:00",
-    "image": "https://s.france24.com/media/display/4a95eebc-e19a-11f1-bc6d-29048b396e03/w:1024/p:16x9/000-D7KG3ZQ.jpg",
-    "title_en": "Why does Ukraine now put the bridge that links Russia with Crimea into its attacks?",
-    "summary_en": "An attack with Ukrainian drones and missiles on Monday, November 16th at night toppled a portion of the bridge that links the Crimea peninsula with Russia, which could paralyze a route that Moscow has been using for a long time to move troops and material to that annexed territory and to the South Front. Why does Kiev now aim his strength at..."
-  },
-  {
-    "title": "Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China",
-    "summary": "Frenar la venta de armas a Taiwán, recuperarse de una contundente derrota electoral o proyectar una imagen de igualdad de oportunidades con las dos superpotencias mundiales: Xi Jinping, Donald Trump y Vladimir Putin abordan su reunión trilateral en Shenzhen con objetivos y agendas diferentes.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20261118-trump-xi-y-putin-a-qu%C3%A9-apunta-cada-uno-en-su-hist%C3%B3rica-cumbre-en-china",
-    "category": "Política",
-    "date": "2026-11-18T21:14:41+00:00",
-    "image": "https://s.france24.com/media/display/762b4c88-5519-11f1-a6e6-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-AEA-20MAY.png",
-    "title_en": "Trump, Xi and Putin: What's each about at their historic China summit",
-    "summary_en": "To stop the sale of arms to Taiwan, to recover from a massive electoral defeat or to project an image of equal opportunities with the two global superpowers: Xi Jinping, Donald Trump and Vladimir Putin discuss their trilateral meeting at Shenzhen with different goals and agendas."
   },
   {
     "title": "Violencia sexual a menores: de la confianza a la extorsión en línea",
@@ -1087,126 +1208,5 @@ window.PLANETA_NEWS = [
     "image": "https://imagenes.elpais.com/resizer/v2/4BRPYMCI7RD6LACCYH6YUESJA4.jpg?auth=f0c8f05a2e07afd8d3e85fe15b6a5e9446157d34f4a5b066556e526d0811984a",
     "title_en": "The art of the candidate: promise without restrictions",
     "summary_en": "Political parties do not explain how they will fund or apply most of their electoral proposals, such as the construction of 1 million housing or an increase of the average salary to EUR 50,000 a year"
-  },
-  {
-    "title": "Quiénes son los 7 fundadores de Anthropic que están a punto de convertirse en multimillonarios",
-    "summary": "La empresa de inteligencia artificial responsable de Claude está a punto de salir a bolsa, lo que hará muy ricos a sus fundadores.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cm98x39221yro?at_medium=RSS&at_campaign=rss",
-    "category": "Tecnología",
-    "date": "2026-11-18T17:33:57+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-    "title_en": "Who are the 7 founders of Anthropic who are about to become billionaires",
-    "summary_en": "Claude's leading artificial intelligence company's about to come out to market, and that will make its founders very rich."
-  },
-  {
-    "title": "Una huella común para 42 tumores: el mayor atlas del cáncer deja al descubierto a sus células cómplices",
-    "summary": "Un estudio cartografía el entorno en el que crecen los tumores y plantea la posibilidad de crear terapias comunes a muchos de ellos",
-    "source": "El País Ciencia",
-    "url": "https://elpais.com/ciencia/2026-11-18/una-huella-comun-para-42-tumores-el-mayor-atlas-del-cancer-deja-al-descubierto-a-sus-celulas-complices.html",
-    "category": "Salud",
-    "date": "2026-11-18T16:00:03+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/DP6AHGJANFEGLH2DAAP77CMNEM.jpg?auth=3fba8ca7100e7e6744c5fe21f4d758b7eba52039bf9c9fc87dd2bd79e8b6b533",
-    "title_en": "A Common Finger for 42 Tumors: The Highest atlas of Cancer Uncover Her Accomplicit cells",
-    "summary_en": "A mapping study of the environment in which tumors grow and propose the possibility of creating common therapies for many of them"
-  },
-  {
-    "title": "Los sindicatos UGT, CC OO y el ferroviario SCF firman la paz con Transportes en favor de reforzar la seguridad en las vías",
-    "summary": "Semaf, que ha convocado huelga de maquinistas el lunes, no se suma al acuerdo. Adif se compromete poner más personal propio en el mantenimiento y revisar el gasto",
-    "source": "El País Economía",
-    "url": "https://elpais.com/economia/2026-11-18/los-sindicatos-ugt-cc-oo-y-el-ferroviario-scf-firman-la-paz-con-transportes-en-favor-de-reforzar-la-seguridad-en-las-vias.html",
-    "category": "Economía",
-    "date": "2026-11-18T15:12:57+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/SWL67YOXA5DJFJXUPGWI3LA7FQ.jpg?auth=d031539d7180d1b90be3619948a18bd33351b0dc85a0a08450ba6ffec1531b6f",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Un crédito récord a Airbus pone a prueba la tregua comercial UE-EE.UU.",
-    "summary": "Estados Unidos sostiene que un paquete de financiación sin precedentes, por valor de 3.000 millones de euros, destinado a Airbus, podría entrar en conflicto con la tregua transatlántica sobre subvenciones al sector.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/un-crédito-récord-a-airbus-pone-a-prueba-la-tregua-comercial-ue-ee-uu/a-79975233?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-18T14:36:00+00:00",
-    "image": "",
-    "title_en": "A record credit to Airbus puts to the test the commercial truce EU- US",
-    "summary_en": "The US holds that an unprecedented 3 billion euro financing package for Airbus could conflict with the transatlantic truce about subsidies to the sector."
-  },
-  {
-    "title": "\"Es mucho más divertido ser el malo\": la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años",
-    "summary": "Como se esperaba, la nueva entrega de la saga va en camino a convertirse en el lanzamiento de un videojuego más grande de la historia.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cw772rdlzdkzo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-18T14:19:20+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ff2/live/d3df7d40-e33f-11f1-a094-5fdc692f3e33.jpg",
-    "title_en": "\"It's so much more fun to be bad\": the idea that inspired a small Scottish studio to create the successful GTA video game about 30 years ago",
-    "summary_en": "As expected, the new delivery of the saga will become the launch of a bigger video game ever."
-  },
-  {
-    "title": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
-    "summary": "Unos 20 integrantes del pueblo awá se acercó a la tribu de los guajajara e intercambiaron alimentos, lo que disparó de inmediato las alarmas.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cmglry191y9xo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-18T13:19:32+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/192c/live/9bd37820-e367-11f1-9f51-4bfc31543510.jpg",
-    "title_en": "The unusual encounter with the awah, a group of isolated indigenous people in Brazil (and why it gives rise to concern)",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Pese a goleada, Alemania sale del Top 10 de selecciones de fútbol",
-    "summary": "El conjunto dirigido por Jürgen Klopp sigue pagando su mala actuación en el Mundial 2026, mientras España refrenda el liderato.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/pese-a-goleada-alemania-sale-del-top-10-de-selecciones-de-fútbol/a-79981114?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Deportes",
-    "date": "2026-11-18T12:34:00+00:00",
-    "image": "",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú",
-    "summary": "La matanza de varios periodistas en Uchuraccay es uno de los episodios más recordados de un pasado doloroso y de nuevo en discusión.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cmwyz0wj4xjeo?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-18T12:24:23+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b403/live/670f1f60-e34c-11f1-99aa-0f40b013ad11.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
-    "summary": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-18T11:50:32+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Encuentran una falla crítica en Java, el lenguaje de programación del que dependen el 90% de las grandes compañías del mundo",
-    "summary": "La misma empresa tecnológica emergente que descubrió una vulnerabilidad en PHP utilizó inteligencia artificial para descubrir un fallo crítico de software en uno de los lenguajes de programación más populares del mundo.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o?at_medium=RSS&at_campaign=rss",
-    "category": "Tecnología",
-    "date": "2026-11-18T11:28:37+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/26f1/live/08000c00-e347-11f1-99aa-0f40b013ad11.jpg",
-    "title_en": "They find a critical malfunction in Java, the program language from which 90% of the world's great companies depend",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
-    "summary": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
-    "source": "BBC Mundo",
-    "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss",
-    "category": "Internacional",
-    "date": "2026-11-18T11:27:58+00:00",
-    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f567/live/1e628630-e2d9-11f1-ba34-c7d189b2efe2.jpg",
-    "title_en": "The gold disc with messages for extraterrestrials that carry the Voyager 1 probe (and how they can figure it out)",
-    "summary_en": "Voyager 1 and Voyager 2 have been launched into space with gold discs containing messages for alien civilizations."
   }
 ];
