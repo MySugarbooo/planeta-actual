@@ -1,5 +1,137 @@
 window.PLANETA_NEWS = [
   {
+    "title": "Otro golpe a Trump: los demócratas logran una mayoría histórica en la Cámara de Representantes",
+    "summary": "El Partido Demócrata alcanzó este domingo 22 de noviembre al menos 258 escaños en la Cámara de Representantes de Estados Unidos, su mayor representación desde 1992, tras otra victoria en Carolina del Norte. El resultado reafirma su triunfo en las elecciones de medio mandato del pasado 3 de noviembre, en las que también consiguió su mayoría más amplia en el…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261123-otro-golpe-a-trump-los-dem%C3%B3cratas-logran-una-mayor%C3%ADa-hist%C3%B3rica-en-la-c%C3%A1mara-de-representantes",
+    "category": "Deportes",
+    "date": "2026-11-23T02:35:44+00:00",
+    "image": "https://s.france24.com/media/display/b4dbdca2-9e00-11f0-b8f5-005056bf30b7/w:1024/p:16x9/2025-09-19T154156Z-1092563262-RC22VGABX7E6-RTRMADP-3-USA-CONGRESS-SHUTDOWN.jpg",
+    "title_en": "Another blow to Trump: Democrats achieve historic majority in House of Representatives",
+    "summary_en": "The Democratic Party reached at least 258 seats in the U.S. House of Representatives, its highest representation since 1992, after another victory in North Carolina. The result reaffirms his triumph at the half-term elections of 3 November last, with his largest majority at his..."
+  },
+  {
+    "title": "Kim dice que Corea del Norte no busca \"supremacía ni expansión\", sino seguridad",
+    "summary": "Los ideales de Pyongyang son de \"independencia, paz y amistad\", dijo el gobernante, que persiste en desarrollar su programa nuclear.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/kim-dice-que-corea-del-norte-no-busca-supremacía-ni-expansión-sino-seguridad/a-80015541?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-23T02:31:00+00:00",
+    "image": "",
+    "title_en": "Kim says North Korea isn't looking for \"supremacy and expansion,\" but for security",
+    "summary_en": "Pyongyang's ideals are about \"independence, peace and friendship,\" the ruler said, persisting in developing his nuclear program."
+  },
+  {
+    "title": "'Los juegos del hambre': la saga que sigue inspirando a los manifestantes en el mundo",
+    "summary": "El sábado 21 de noviembre, varios manifestantes franceses hicieron el saludo a tres dedos, un gesto de resistencia popularizado en 'Los juegos del hambre' y que desde entonces ha sido utilizado en movimientos prodemocracia. Luego del estreno de 'Amanecer en la cosecha', la sexta película de la célebre franquicia distópica, analizamos cómo este fenómeno,…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/programas/cultura/20261123-los-juegos-del-hambre-la-saga-que-sigue-inspirando-a-los-manifestantes-en-el-mundo",
+    "category": "Cultura",
+    "date": "2026-11-23T02:03:03+00:00",
+    "image": "https://s.france24.com/media/display/79dd1862-e6db-11f1-8a28-6b451f569414/w:1024/p:16x9/IVS-22NOV-WEB-PORTADA-SINSAJO-CULTURA.png",
+    "title_en": "\"The Games of Hunger\": the saga that keeps inspiring protesters throughout the world",
+    "summary_en": "On Saturday, November 21, a number of French protesters did a three-fingered greeting, a gesture of popular resistance in 'The Games of Hunger' and have been used since then in pro-democracy movements. Following the premiere of 'Sunrise in the Harvest', the sixth film of the famous dystopic franchise, we analysed how this phenomenon,..."
+  },
+  {
+    "title": "Pedro Sánchez, ante la hora de la verdad: gestas, deudas y escándalos de ocho años en el poder",
+    "summary": "El socialista Pedro Sánchez llega a las elecciones generales del 29 de noviembre en España tras casi ocho años y medio como jefe del Gobierno. La mayoría de las encuestas dan ventaja al opositor Partido Popular (derecha), mientras su Administración carga con las causas judiciales que alcanzan a su entorno, la crisis de la vivienda y el accidente ferroviario…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261123-pedro-s%C3%A1nchez-ante-la-hora-de-la-verdad-gestas-deudas-y-esc%C3%A1ndalos-de-ocho-a%C3%B1os-en-el-poder",
+    "category": "Deportes",
+    "date": "2026-11-23T01:49:32+00:00",
+    "image": "https://s.france24.com/media/display/2a54bece-266f-11ee-84de-005056bf30b7/w:1024/p:16x9/000_33PD8VP.jpeg",
+    "title_en": "Pedro Sánchez, at the hour of truth: gestures, debts and scandals of eight years in power",
+    "summary_en": "The Socialist Pedro Sánchez arrives at the general elections of November 29 in Spain after nearly eight and a half years as head of the Government. Most polls give an advantage to the opposition Popular Party (right) while his administration loads with the judicial challenges that reach his environment, the housing crisis and the railway accident..."
+  },
+  {
+    "title": "Ucrania: al menos 12 muertos en bombardeos rusos sobre región de Kiev",
+    "summary": "Los rescatistas trabajan entre una montaña de escombros, donde siguen buscando a personas desaparecidas.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/ucrania-al-menos-12-muertos-en-bombardeos-rusos-sobre-región-de-kiev/a-80015527?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-23T01:41:00+00:00",
+    "image": "",
+    "title_en": "Ukraine: at least 12 killed in Russian shelling over Kiev region",
+    "summary_en": "The rescue workers work among a mountain of debris, where they continue to seek missing persons."
+  },
+  {
+    "title": "Buque ruso es atacado en las costas de Libia",
+    "summary": "\"El Gobierno reafirma su rechazo categórico a que Libia se convierta en un campo de batalla para conflictos internacionales\", señaló un comunicado del Gobierno de Unidad Nacional, luego de que dos buques fueran atacados frente a sus costas. Uno de los barcos se dirigía a Rusia y había hecho escala en Libia para reabastecerse de combustible. La ofensiva no…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261123-buque-ruso-es-atacado-en-las-costas-de-libia",
+    "category": "Política",
+    "date": "2026-11-23T01:19:16+00:00",
+    "image": "https://s.france24.com/media/display/9284a7ea-e6db-11f1-a8c0-13439ca2fe89/w:1024/p:16x9/ES-20261122-190743-190908-CS.jpg",
+    "title_en": "Russian ship under attack at Libyan coast",
+    "summary_en": "\"The Government reaffirms its categorical refusal to have Libya become a battle ground for international conflicts,\" stated a statement from the Government of National Unity after two ships were attacked off its coast. One of the ships was headed to Russia and had put an end to Libya to re-supply itself with fuel. The offense isn't..."
+  },
+  {
+    "title": "Partido Demócrata consigue su mayoría más amplia en la Cámara desde 1992",
+    "summary": "Con 258 representantes en la Cámara Baja de EE. UU., el Partido Demócrata consiguió su mayoría más amplia desde 1992. Chuck Hubbard ganó este 22 de noviembre un reñido escaño por el quinto distrito de Carolina del Norte, arrebatándoselo a la congresista republicana Virginia Foxx, quien ocupaba el cargo desde 2004. Los demócratas han destacado los resultados…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261123-partido-dem%C3%B3crata-consigue-su-mayor%C3%ADa-m%C3%A1s-amplia-en-la-c%C3%A1mara-desde-1992",
+    "category": "Deportes",
+    "date": "2026-11-23T01:17:26+00:00",
+    "image": "https://s.france24.com/media/display/e609fc3e-e6d7-11f1-9c27-6b451f569414/w:1024/p:16x9/ES-20261122-160140-160305-CS.jpg",
+    "title_en": "Democratic Party gets its largest majority in the House since 1992",
+    "summary_en": "with 258 representatives at the lower house of the US. The Democratic Party achieved its largest majority since 1992. Chuck Hubbard won a dubious seat for North Carolina's fifth district on November 22 and was taken from his office by Republican congressman Virginia Foxx, who had been in office since 2004. The Democrats have emphasized the results..."
+  },
+  {
+    "title": "Libia: dos buques, entre ellos un barco ruso, fueron atacados por drones marítimos",
+    "summary": "Este domingo 22 de noviembre se produjo un incendio tras una explosión a bordo de un buque ruso en la base naval de Bengasi, en Libia. El Ministerio de Salud del este de Libia declaró que la embarcación había sido atacada con drones marítimos. Esa misma noche, un segundo buque, cuya bandera no se reveló, fue atacado en el mismo puerto. Todo sucede en medio…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/europa/20261123-libia-dos-buques-entre-ellos-un-barco-ruso-fueron-atacados-por-drones-mar%C3%ADtimos",
+    "category": "Salud",
+    "date": "2026-11-23T01:06:11+00:00",
+    "image": "https://s.france24.com/media/display/659e3cc8-e6a9-11f1-ae55-1bac47ab2f5d/w:1024/p:16x9/AP26326649718247.jpg",
+    "title_en": "Libya: Two ships, including a Russian ship, were attacked by sea drones",
+    "summary_en": "A fire after an explosion on board a Russian ship at the Benghazi Naval Base in Libya occurred on Sunday, 22 November. The Ministry of Health of eastern Libya stated that the ship had been attacked with sea drones. That same night, a second ship, whose flag was not revealed, was attacked at the same port. It's all happening in the middle..."
+  },
+  {
+    "title": "Guerra en Ucrania: drones rusos impactan edificio residencial en Kiev",
+    "summary": "Los servicios de emergencia ucranianos buscan sobrevivientes entre los escombros luego de que drones rusos impactaran contra un edificio residencial en la región de Kiev y provocaran el derrumbe de la estructura este 22 de noviembre. Durante el fin de semana, varias oleadas de ataques rusos dejaron víctimas y heridos. El presidente ucraniano, Volodímir…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261122-guerra-en-ucrania-drones-rusos-impactan-edificio-residencial-en-kiev",
+    "category": "Política",
+    "date": "2026-11-22T22:28:06+00:00",
+    "image": "https://s.france24.com/media/display/b02f06a4-e6c3-11f1-ba12-6b451f569414/w:1024/p:16x9/ES-20261122-131111-131250-CS.jpg",
+    "title_en": "War in Ukraine: Russian drones impact residential building in Kiev",
+    "summary_en": "The Ukrainian emergency services seek survivors from the rubble after Russian drones hit a residential building in the Kiev region and caused the collapse of the structure on November 22. Several waves of Russian attacks have been killed and wounded throughout the weekend. The Ukrainian president, Volodimir..."
+  },
+  {
+    "title": "Fracasa la COP31 por desacuerdos sobre combustibles fósiles",
+    "summary": "Lo que parecía ser un fracaso inminente se confirmó este 22 de noviembre, luego de que las partes de la COP31 no lograran alcanzar un acuerdo final en Antalya, Turquía, ante la negativa a mencionar explícitamente el abandono de los combustibles fósiles. \"Esta COP ha sido secuestrada por los Estados petroleros\", aseguró el ministro de Clima de Irlanda, quien…",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/video/20261122-fracasa-la-cop31-por-desacuerdos-sobre-combustibles-f%C3%B3siles",
+    "category": "Medio Ambiente",
+    "date": "2026-11-22T22:25:09+00:00",
+    "image": "https://s.france24.com/media/display/adce459c-e6bd-11f1-96cc-1bac47ab2f5d/w:1024/p:16x9/ES-20261122-130139-130330-CS.jpg",
+    "title_en": "Failed COP31 for fossil fuel misagreements",
+    "summary_en": "What seemed to be an imminent failure was confirmed on November 22 after the COP31 parties failed to reach a final agreement at Antalya, Turkey, with their refusal to explicitly mention the abandonment of fossil fuels. \"That POPs has been abducted by the oil states,\" said Ireland's climate minister, who..."
+  },
+  {
+    "title": "Libia reporta un segundo ataque con drones contra barcos, incluido un buque ruso",
+    "summary": "Desde la invasión de Ucrania por parte de Rusia en febrero de 2022, las fuerzas ucranianas han utilizado en repetidas ocasiones drones navales y misiles para atacar buques de guerra e instalaciones navales rusos.",
+    "source": "DW Español",
+    "url": "https://www.dw.com/es/libia-reporta-un-segundo-ataque-con-drones-contra-barcos-incluido-un-buque-ruso/a-80015362?maca=spa-rss-sp-all-1122-rdf",
+    "category": "Internacional",
+    "date": "2026-11-22T21:55:00+00:00",
+    "image": "",
+    "title_en": "Libya reports second drones attack on ships, including a Russian ship",
+    "summary_en": "Since Russia's invasion of Ukraine in February 2022, Ukrainian forces have repeatedly used naval drones and missiles to attack Russian ships and naval installations."
+  },
+  {
+    "title": "Sánchez defiende en ‘Salvados’ que serán los españoles y no la “opinión publicada” quien le vuelva a hacer presidente",
+    "summary": "“No suelo autoengañarme y los datos tienen muy buena pinta, yo lo dejo ahí”, afirma el presidente, que se considera ganador del cara a cara con Feijóo",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/sanchez-defiende-en-salvados-que-seran-los-espanoles-y-no-la-opinion-publicada-quien-le-vuelva-a-hacer-presidente.html",
+    "category": "Política",
+    "date": "2026-11-22T21:44:42+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/TKHJX3GRMRE4FN5QLXDTIDWY5A.JPG?auth=d5996d163047788f353859418939bf4a608bfcd4f165290ea73d0e91280c3003",
+    "title_en": "Sánchez argues in 'Salvados' that they will be Spanish and not the \"published opinion\" that will once again make him president",
+    "summary_en": "\"I don't usually get myself fooled and the data looks so good, I leave it there,\" says the president, who considers himself face to face with Feijóo"
+  },
+  {
     "title": "Alcaraz conquista el Masters ATP y a sus 23 años entra al club de Djokovic, Federer y Agassi",
     "summary": "El español Carlos Alcaraz, de 23 años, derrotó al alemán Alexander Zverev, número uno mundial, este domingo 22 de noviembre en Turín y conquistó su primer Masters ATP, un torneo que se le escapó siempre a su reconocido compatriota Rafa Nadal. Este triunfo lo sitúa en el selecto club de Novak Djokovic, Roger Federer y Andre Agassi. como el cuarto jugador de…",
     "source": "France 24",
@@ -44,14 +176,14 @@ window.PLANETA_NEWS = [
     "summary_en": "In November 2016, the Colombian state and the extinct FARC guerrillas signed a historic peace agreement to put an end to decades of violence. For more than a million people to whom war had forced to cross the border, according to the Truth Commission and the UN, the news ignited a wave of hope. A decade later, and though..."
   },
   {
-    "title": "El maestro Alcaraz, hasta donde él quiera: ni el isquio ni Zverev pudieron con él",
+    "title": "El maestro Carlos Alcaraz, hasta donde él quiera: ni el isquio ni Zverev pudieron con él",
     "summary": "El murciano doblega al número uno, muy superado hasta el amago del final, y acaba con 28 años de negativas para el tenis español en la cita de los mejores: 6-2 y 7-6(7)",
     "source": "El País",
     "url": "https://elpais.com/deportes/tenis/2026-11-22/despues-de-todo-alcaraz-ya-es-maestro-ni-el-isquio-ni-zverev-pudieron-con-el.html",
     "category": "Deportes",
     "date": "2026-11-22T20:09:40+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/KMBWNRLGZ5P7RAXJEVHI2OTJU4.jpg?auth=273327499936083fcc241cfe48c1b9c42b9024355314f668d994e658b9918b9a",
-    "title_en": "The master Alcaraz, as far as He wants: neither the ischite nor Zverev could with him.",
+    "image": "https://imagenes.elpais.com/resizer/v2/YCGKBJWRC5NDTBSUQIDZUZD3ZA.jpg?auth=2a408b21e935adcf590adaf0996282b37d2a61c579915ecc93d049333ccdf98e",
+    "title_en": "The master Charles Alcaraz, as far as he wants: neither the Isk nor Zverev could with him.",
     "summary_en": "The bat turns to number one, far beyond the amago at the end, and ends with 28 years of negative for Spanish tennis at the date of best: 6-2 and 7-6 (7)"
   },
   {
@@ -86,6 +218,17 @@ window.PLANETA_NEWS = [
     "image": "https://s.france24.com/media/display/53eabc1c-e24a-11f1-bd31-f71d22e7fea9/w:1024/p:16x9/%D9%87%D8%B1%D9%85%D8%B22.jpg",
     "title_en": "Bahrain denounces an Iranian attack on an industrial facility and two oil tankers are on fire at Ormuz",
     "summary_en": "On Sunday, the Bahraini Ministry of Internal Affairs stated that an Iranian bombing fell into a civil industrial area on Saturday, leading to two injuries, one of them at a critical stage. The Iranian Revolutionary Guard, for its part, claims to have attacked American positions at the bases of Al-Rifa and Awali. Also, the Iranian Navy held that..."
+  },
+  {
+    "title": "El Manchester United se hunde ante Liverpool en el debut de Pochettino",
+    "summary": "Los Diablos Rojos cayeron al penúltimo lugar de la liga inglesa después de una contundente goleada 4-0 en contra en Anfield. La expulsión del francés Leny Yoro marcó el estreno del técnico argentino. Una victoria en 11 partidos suma el United en la competición.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/deportes/20261122-el-manchester-united-se-hunde-en-liverpool-en-el-debut-de-pochettino",
+    "category": "Deportes",
+    "date": "2026-11-22T19:08:23+00:00",
+    "image": "https://s.france24.com/media/display/1630cc7e-e6a8-11f1-80bd-e56ab3dc0809/w:1024/p:16x9/86584435d1226f43776988d0e6e7370ff41852c9.jpg",
+    "title_en": "Manchester United sinks to Liverpool at Pochettino's debut",
+    "summary_en": "The Red devils fell to the penultimate place of the english league after a massive 4-0 hit at Anfield. The expulsion of French Leny Yoro marked the opening of Argentina's technical. A 11-party victory adds up to the United in competition."
   },
   {
     "title": "Los demócratas se aseguran la mayor victoria en la Cámara de Representantes desde 1992",
@@ -198,15 +341,15 @@ window.PLANETA_NEWS = [
     "summary_en": "South Korea's Minister of Education, Choi Kyo-jin, submitted his resignation on November 22, with his responsibility for his lack of training to face potential traps with devices and artificial intelligence at crucial university exams held Thursday. The South Korean Government adopted controversial measures to..."
   },
   {
-    "title": "Sánchez apela en la recta final de la campaña al voto joven para lograr otra remontada como en 2023",
-    "summary": "El presidente ondea la bandera de Murcia tras ser declarado ‘persona non grata’ por el Parlamento regional en otro acto multitudinario",
-    "source": "El País",
-    "url": "https://elpais.com/espana/elecciones-generales/2026-11-22/sanchez-apela-al-voto-joven-en-su-pugna-con-vox.html",
-    "category": "Política",
-    "date": "2026-11-22T14:55:04+00:00",
-    "image": "https://imagenes.elpais.com/resizer/v2/UJDIFZH6XRGZBJIZQLBVGNXNYE.jpg?auth=d955501cdb9c026659456c04c422ff47c9a3b80fd30a1aec97dfb771ec14dd8d",
-    "title_en": "Sánchez appeals at the final line of the campaign to the young vote to achieve another dating back as in 2023",
-    "summary_en": "The president awns the flag of Murcia after being declared a 'non gratia person' by the regional Parliament at another massive event"
+    "title": "Márquez levanta en Portugal una heroica octava corona mundial de MotoGP",
+    "summary": "El español Marc Márquez se hizo eterno en el circuito de Portimao al igualar las ocho coronas de Giacomo Agostini y, de paso, superar en el palmarés al también italiano, Valentino Rossi, quien fuera uno de sus principales rivales. Es un título histórico en la categoría reina que tiene lugar después de la mayor remontada en la historia.",
+    "source": "France 24",
+    "url": "https://www.france24.com/es/deportes/20261122-m%C3%A1rquez-levanta-en-portugal-una-heroica-octava-corona-mundial-de-motogp",
+    "category": "Internacional",
+    "date": "2026-11-22T15:08:20+00:00",
+    "image": "https://s.france24.com/media/display/8d074f5c-e686-11f1-bacc-e56ab3dc0809/w:1024/p:16x9/704185dfeec09bb54908f924f15b22fc3d34c1fb.jpg",
+    "title_en": "Márquez puts up a heroic eighth world crown of MotoGP in Portugal",
+    "summary_en": "The Spanish Marc Márquez became eternally at Portimao's circuit by matching the eight crowns of Giacomo Agostini and, as a matter of passing, with his best wishes with his and his best competitor, Valentin Rossi. It's a historic title in the queen category that takes place after the most advanced in history."
   },
   {
     "title": "La cumbre del clima fracasa incapaz de cerrar un acuerdo que señale a los combustibles fósiles",
@@ -308,15 +451,15 @@ window.PLANETA_NEWS = [
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
-    "title": "En directo: ataques rusos golpean la región de Kiev y Polonia confirma la caída de tres misiles rusos",
-    "summary": "Al menos seis personas murieron este domingo en ataques rusos en la región de Kiev, según las autoridades ucranianas. Tres fallecieron en Dymer, a unos 45 kilómetros al norte de la capital, donde un dron alcanzó un edificio residencial de cinco plantas y provocó su derrumbe parcial. Los rescatistas siguen buscando a una decena de personas que podrían estar…",
+    "title": "En directo: tras los ataques rusos en Ucrania, los equipos de rescate buscan supervivientes",
+    "summary": "Equipos de rescate ucranianos buscaban el domingo supervivientes entre los escombros de un edificio residencial derrumbado en Dymer, en la región de Kiev, tras un ataque con drones rusos que dejó varios muertos. Mientras tanto, Finlandia advirtió que la guerra se estaba extendiendo a otros países después de que un dron incendiara un buque de carga ruso en…",
     "source": "France 24",
     "url": "https://www.france24.com/es/europa/20261122-en-directo-ucrania-busca-14-desaparecidos-tras-un-ataque-ruso-contra-un-edificio-cerca-de-kiev",
     "category": "Internacional",
     "date": "2026-11-22T13:30:05+00:00",
     "image": "https://s.france24.com/media/display/91402a2e-e656-11f1-ad74-ebb478925cf0/w:1024/p:16x9/2026-11-22T082023Z-1682293497-RC2WSOAB5T2M-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV-REGION.jpg",
-    "title_en": "Live: Russian attacks hit Kiev and Poland confirms the fall of three Russian missiles",
-    "summary_en": "At least 6 people killed this Sunday in Russian attacks in the Kiev region, according to Ukrainian authorities. Three died in Dymer, about 45 km north of the capital, where a drone reached a five-storey residential building and caused its partial collapse. The rescue's still looking for a dozen people who could be..."
+    "title_en": "Live: Following Russian attacks in Ukraine, rescue teams seek survivors",
+    "summary_en": "Ukrainian rescue teams were searching for survivors among the rubble of a collapsed residential building at Dymer, Kiev, on Sunday after an attack with Russian drones that killed several. Meanwhile, Finland warned that the war was spreading to other countries after a drone burned a Russian cargo ship at..."
   },
   {
     "title": "Cómo atraparon al \"Chapo Isidro\", uno de los 10 narcotraficantes de México más buscados por el FBI",
@@ -438,28 +581,6 @@ window.PLANETA_NEWS = [
     "image": "",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Buscan a decenas de desaparecidos tras un incendio en una fábrica de dulces en Indonesia",
-    "summary": "El saldo provisional es de tres fallecidos y cuatro heridos, dijeron los servicios de rescate.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/buscan-a-decenas-de-desaparecidos-tras-un-incendio-en-una-fábrica-de-dulces-en-indonesia/a-80012286?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-22T05:19:00+00:00",
-    "image": "",
-    "title_en": "They are looking for tens of missing after a fire at a candy factory in Indonesia",
-    "summary_en": "The balance was three dead and four wounded, the rescue services said."
-  },
-  {
-    "title": "Baréin acusa a Irán de atacar un sitio industrial civil y provocar un incendio",
-    "summary": "El siniestro dejó daños materiales pero no víctimas, según un informe oficial preliminar que no reveló dónde ocurrió el ataque.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/baréin-acusa-a-irán-de-atacar-un-sitio-industrial-civil-y-provocar-un-incendio/a-80012297?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-22T05:15:00+00:00",
-    "image": "",
-    "title_en": "Baréin accuses Iran of attacking a civil industrial site and provoke a fire",
-    "summary_en": "The incident resulted in material damage but no casualties, according to a preliminary official report that did not reveal where the attack happened."
   },
   {
     "title": "El PSOE acaricia el empate con el PP, según el ‘tracking’ de 40dB.",
@@ -759,127 +880,6 @@ window.PLANETA_NEWS = [
     "summary_en": "The actress and drummer have been married at Palm Springs after five years of relationship and a commitment"
   },
   {
-    "title": "Una huelga nacional a la que se sumarán los controladores paralizará el lunes el tráfico aéreo en Bélgica",
-    "summary": "Los controladores aéreos se sumarán a una protesta contra el gobiernó, anunció Skeyes, la empresa responsable del tráfico aéreo en el país.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/una-huelga-nacional-a-la-que-se-sumarán-los-controladores-paralizará-el-lunes-el-tráfico-aéreo-en-bélgica/a-80012267?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Internacional",
-    "date": "2026-11-22T03:34:00+00:00",
-    "image": "",
-    "title_en": "A national strike to which the controllers will join will stop air traffic in Belgium on Monday",
-    "summary_en": "The air controllers will join an anti-government protest, Skeyes, the company with responsibility for air traffic in the country, announced."
-  },
-  {
-    "title": "Diez años del acuerdo de paz en Colombia: la guerra que terminó y las promesas que quedaron a medias",
-    "summary": "El 24 de noviembre de 2016, el Estado colombiano y las FARC firmaron en Bogotá el acuerdo de paz que desarmó a la guerrilla más antigua del continente. Diez años después, France 24 en Español habló con víctimas y expertos para hacer un balance. Todos reconocen que el pacto cambió al país, pero coinciden en que se cumplió a medias. Hoy su futuro depende del…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-diez-a%C3%B1os-del-acuerdo-de-paz-en-colombia-la-guerra-que-termin%C3%B3-y-las-promesas-que-quedaron-a-medias",
-    "category": "Internacional",
-    "date": "2026-11-22T02:35:38+00:00",
-    "image": "https://s.france24.com/media/display/93e7317a-dc81-11ec-8b43-005056bf30b7/w:1024/p:16x9/AP20306768553179.jpg",
-    "title_en": "Ten years of the peace agreement in Colombia: the war that ended and the half-promise",
-    "summary_en": "On November 24, 2016, the Colombian state and FARC signed a peace agreement in Bogotá that broke up the continent's oldest guerrilla. Ten years later, France 24 in Spanish talked with victims and experts to balance up. Everyone recognizes that the pact changed the country but agrees that it was half-fulfilled. Today his future depends on..."
-  },
-  {
-    "title": "Samuel González: \"'El Chapo Isidro' es un hombre extraordinariamente violento\"",
-    "summary": "La captura de Fausto Isidro Meza Flores, conocido como 'El Chapo Isidro', representa uno de los golpes más importantes recientes contra el narcotráfico en México. Considerado uno de los fugitivos más buscados por el FBI, fue detenido en un operativo de las fuerzas de seguridad mexicanas en el estado de Sinaloa, con apoyo de inteligencia compartida entre…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261122-el-chapo-isidro-es-un-hombre-extraordinariamente-violento-y-se-vio-en-su-captura",
-    "category": "Internacional",
-    "date": "2026-11-22T01:48:59+00:00",
-    "image": "https://s.france24.com/media/display/fec54d86-e615-11f1-a39e-6b451f569414/w:1024/p:16x9/ES-20261121-190205-190756-CS.jpg",
-    "title_en": "Samuel González: \"The Isidro Chapo's an extraordinarily violent man\"",
-    "summary_en": "The capture of Fausto Isidro Meza Flores, known as' El Chapo Isidro ', represents one of the most important recent blows to drug trafficking in Mexico. Considered as one of the most sought after by the FBI, he was arrested at an operation of Mexican security forces in Sinaloa state, with shared intelligence support between..."
-  },
-  {
-    "title": "Más de 7.000 afectados por graves inundaciones en Galápagos asociadas a El Niño",
-    "summary": "Las lluvias torrenciales e inundaciones provocadas por El Niño dejan 7.425 damnificados y 1.040 viviendas afectadas en las islas Galápagos desde que Ecuador declaró la emergencia el 29 de agosto. Los pobladores del archipiélago intentan rescatar sus pertenencias entre el agua, mientras las autoridades evacúan a residentes y cierran vías y puntos turísticos.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261122-m%C3%A1s-de-7-000-afectados-por-graves-inundaciones-en-gal%C3%A1pagos-asociadas-a-el-ni%C3%B1o",
-    "category": "Internacional",
-    "date": "2026-11-22T01:44:21+00:00",
-    "image": "https://s.france24.com/media/display/3c8090a4-e616-11f1-bc27-13439ca2fe89/w:1024/p:16x9/43c0e4584495714c64b35ebf6428fd952b372353.jpg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "Boca Juniors derrota a Atlético Mineiro y levanta la Copa Sudamericana",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/deportes/20261122-boca-juniors-derrota-a-atl%C3%A9tico-mineiro-y-levanta-la-copa-sudamericana",
-    "category": "Internacional",
-    "date": "2026-11-22T00:34:52+00:00",
-    "image": "",
-    "title_en": "Boca Juniors defeates Atlético Mineiro and raises South American Cup",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "Boca Juniors apabulla a Atlético Mineiro y levanta su tercera Copa Sudamericana",
-    "summary": "El cuadro xeneize fue muy superior al conjunto brasileño en Barranquilla y conquistó un nuevo título en 2026. Fueron los tantos de Santiago Ascacibar y Miguel Merentiel los que sirvieron para que el equipo de Arruabarrena presuma ya de ser el más veces campeón del torneo.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/deportes/20261122-boca-juniors-derrota-a-atl%C3%A9tico-mineiro-y-levanta-la-copa-sudamericana",
-    "category": "Internacional",
-    "date": "2026-11-22T00:29:14+00:00",
-    "image": "https://s.france24.com/media/display/0b2673da-e610-11f1-9c11-1bac47ab2f5d/w:1024/p:16x9/BOCA-CAMPEON-COPA-SUDAMERICANA.jpg",
-    "title_en": "Boca Juniors paves to Atlético Mineiro and raises his third South American Cup",
-    "summary_en": "The xeneize painting was far superior to that of Brazil at Barranquilla and earned a new title in 2026. It was the so many of Santiago Ascacibar and Miguel Merentiel that served to get Arruabarrena's team to have been the most popular champion of the tournament."
-  },
-  {
-    "title": "México: capturan a 'Chapo Isidro', uno de los narcos más buscados por el FBI",
-    "summary": "El 'Chapo Isidrio', considerado uno de los fugitivos más buscados por el FBI y señalado como líder de una facción vinculada al grupo de los Beltrán Leyva, fue detenido en un operativo en el estado de Sinaloa realizado con apoyo de labores de inteligencia de México y Estados Unidos.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261122-m%C3%A9xico-capturan-a-chapo-isidro-uno-de-los-narcos-m%C3%A1s-buscados-por-el-fbi",
-    "category": "Internacional",
-    "date": "2026-11-22T00:09:43+00:00",
-    "image": "https://s.france24.com/media/display/706796dc-e608-11f1-80b7-e56ab3dc0809/w:1024/p:16x9/ES-20261121-180141-180314-CS.jpg",
-    "title_en": "Mexico: They capture 'Chapo Isidro', one of the most sought after noses by the FBI",
-    "summary_en": "The \"Chapo Isidrio,\" thought to be one of the most sought after by the FBI and noted as a leader of a faction linked to the Beltran Leyva group, was arrested at an operation in Sinaloa state with support from intelligence jobs from Mexico and the United States."
-  },
-  {
-    "title": "Sexto sábado de movilizaciones en Francia; jóvenes también protestan en otros países de Europa",
-    "summary": "Por sexto sábado consecutivo, miles de personas volvieron a las calles de Francia para exigir mejores salarios, servicios públicos más fuertes y mejores condiciones de estudio. En París, sindicatos, estudiantes y representantes de los \"chalecos amarillos\" marcharon juntos en una jornada que forma parte de una movilización europea por el derecho a la…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261122-sexto-s%C3%A1bado-de-movilizaciones-en-francia-j%C3%B3venes-tambi%C3%A9n-protestan-en-otros-pa%C3%ADses-de-europa",
-    "category": "Economía",
-    "date": "2026-11-22T00:06:46+00:00",
-    "image": "https://s.france24.com/media/display/1928cc7a-e607-11f1-b266-e56ab3dc0809/w:1024/p:16x9/ES-20261121-160148-160331-CS.jpg",
-    "title_en": "Sixth Saturday of mobilizations in France and youth also protest in other countries of Europe",
-    "summary_en": "For the sixth consecutive Saturday, thousands returned to the streets of France to demand better wages, stronger public services and better conditions of study. In Paris, trade unions, students and representatives of the \"yellow vests\" marched together at a day that forms part of a European mobilization for the right to have a..."
-  },
-  {
-    "title": "\"Diré que no es bueno\": Trump se refiere al supuesto ciberataque a una base de datos del FBI",
-    "summary": "Donald Trump se refirió este sábado 21 de noviembre al supuesto ciberataque que sufrió el FBI contra su Centro Nacional de Información Criminal, pero matizó que el hecho puede servir para obtener información valiosa que de otro modo no se habría conocido.",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261122-dir%C3%A9-que-no-es-bueno-trump-se-refiere-al-supuesto-ciberataque-a-una-base-de-datos-del-fbi",
-    "category": "Política",
-    "date": "2026-11-22T00:02:03+00:00",
-    "image": "https://s.france24.com/media/display/3a84f6de-b757-11f1-82b7-4d7b41827f6c/w:1024/p:16x9/shinyhunters-fbi.png",
-    "title_en": "\"I'll say that's bad\": Trump refers to the supposed cyber attack to an FBI database",
-    "summary_en": "Donald Trump referred to an alleged cyber attack by the FBI against his National Criminal Information Centre on Saturday, November 21, but nuanced that the fact can serve to get valuable information that otherwise would have been unknown."
-  },
-  {
-    "title": "Ucrania: ataque ruso deja al menos dos muertos; Zelenski acusa a Putin de buscar una escalada",
-    "summary": "Un ataque ruso con misiles balísticos contra Krivyi Rih, la ciudad natal del presidente ucraniano Volodímir Zelenski, dejó al menos dos muertos, entre ellos un niño. Tras la ofensiva, Zelenski denunció que Rusia lanzó más de 110 misiles y al menos 400 drones contra territorio ucraniano, y aseguró que estas acciones demuestran que Moscú no busca poner fin a…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261121-ucrania-ataque-ruso-deja-al-menos-dos-muertos-zelenski-acusa-a-putin-de-buscar-una-escalada",
-    "category": "Política",
-    "date": "2026-11-21T23:33:03+00:00",
-    "image": "https://s.france24.com/media/display/3b06dcbe-e5ef-11f1-80d7-6b451f569414/w:1024/p:16x9/ES-20261121-130158-130342-CS.jpg",
-    "title_en": "Ukraine: Russian attack leaves at least two dead; Zelensky accuses Putin of seeking an escalation",
-    "summary_en": "A Russian ballistic missile attack on Krivyi Rih, the home town of Ukrainian President Volodímir Zelensky, killed at least two people, including a child. Following the offensive, Zelensky reported that Russia launched more than 110 missiles and at least 400 drones into Ukrainian territory and stated that these actions have shown that Moscow does not seek to put an end to..."
-  },
-  {
-    "title": "Informe desde Estambul: negociaciones en la COP31 estancadas por los combustibles fósiles",
-    "summary": "La COP31, celebrada en Antalya (Turquía), entró en una fase de estancamiento debido a uno de los temas más polémicos de la agenda climática: el futuro de los combustibles fósiles. Mientras un bloque de países exige que el acuerdo final incluya un compromiso explícito sobre los combustibles fósiles. Naciones productoras como Arabia Saudita y Rusia se oponen.…",
-    "source": "France 24",
-    "url": "https://www.france24.com/es/video/20261121-informe-desde-estambul-negociaciones-en-la-cop31-estancadas-por-los-combustibles-f%C3%B3siles",
-    "category": "Medio Ambiente",
-    "date": "2026-11-21T23:30:39+00:00",
-    "image": "https://s.france24.com/media/display/a03afa3c-e5e2-11f1-95f2-6b451f569414/w:1024/p:16x9/ES-20261121-130417-130754-CS.jpg",
-    "title_en": "Report from Istanbul: negotiations at COP31 stalled by fossil fuels",
-    "summary_en": "COP31, held at Antalya, Turkey, entered a phase of stagnation as a result of one of the most contentious issues on the climate agenda: the future of fossil fuels. While a block of countries requires that the final agreement includes an explicit commitment to fossil fuels. Producer nations such as Saudi Arabia and Russia are opposed...."
-  },
-  {
     "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
     "summary": "\"Hay una faceta mucho, mucho más profunda de cómo un cáncer te cambia\", dice la Princesa de Gales en el documental.",
     "source": "BBC Mundo",
@@ -1122,39 +1122,6 @@ window.PLANETA_NEWS = [
     "summary_en": "No one was wounded and no damage had been reported but Warsaw had described the incident as \"provocation\" by Moscow."
   },
   {
-    "title": "Colombia: una reforma fiscal que desata el descontento",
-    "summary": "Miles de colombianos salieron a las calles contra una reforma fiscal que genera preocupación por su impacto en el bolsillo. Mientras el Gobierno busca reducir el déficit, crece el debate sobre quién debe pagar el ajuste.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/colombia-una-reforma-fiscal-que-desata-el-descontento/a-80006080?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Política",
-    "date": "2026-11-20T21:00:00+00:00",
-    "image": "",
-    "title_en": "Colombia: A fiscal reform that unleashes discontent",
-    "summary_en": "Thousands of Colombians went to the streets against a fiscal reform that gives rise to concern about its impact on his pocket. While the Government was trying to reduce the deficit, the debate about who should pay for the adjustment was growing."
-  },
-  {
-    "title": "Conmebol ratifica su \"firme apoyo\" a la reelección de Infantino en la FIFA",
-    "summary": "\"Se trata de un reconocimiento al liderazgo del actual titular de la FIFA y a las transformaciones positivas en el fútbol\", aseguró el organismo.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/conmebol-ratifica-su-firme-apoyo-a-la-reelección-de-infantino-en-la-fifa/a-80007323?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Deportes",
-    "date": "2026-11-20T20:44:00+00:00",
-    "image": "",
-    "title_en": "Conmebol confirms his \"strong support\" for the re-election of Infantino at FIFA",
-    "summary_en": "\"That's an recognition of the leadership of the current FIFA incumbent and of the positive transformations in football,\" the body said."
-  },
-  {
-    "title": "Anthropic arrasa en su entrada en bolsa y marca un hito para la IA",
-    "summary": "La empresa detrás del chatbot Claude protagonizó una de las salidas a bolsa más exitosas de la historia al recaudar más de 81.000 millones de dólares, en un momento de incertidumbre para el sector de la IA.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/anthropic-arrasa-en-su-entrada-en-bolsa-y-marca-un-hito-para-la-ia/a-80006786?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Economía",
-    "date": "2026-11-20T19:28:00+00:00",
-    "image": "",
-    "title_en": "Anthropic pits at his entry into his bag and sets a milestone for the IA",
-    "summary_en": "The company behind the chatbot Claude starred in one of the most successful stock market outlets in history by raising more than $8billion at a time of uncertainty for the IA sector."
-  },
-  {
     "title": "Lea todos los análisis del voto en las diferentes regiones ante el 29-N",
     "summary": "EL PAÍS ha examinado los escaños en el Congreso de los Diputados que se disputa cada partido en cada comunidad y las posibilidades de la derecha y la izquierda",
     "source": "El País",
@@ -1188,25 +1155,58 @@ window.PLANETA_NEWS = [
     "summary_en": "That prolonged performance takes place weeks after Christa Pike survived the lethal injection of the same drug."
   },
   {
-    "title": "The Beatles estrenan nuevo video de 'In My Life' que rinde homenaje a Liverpool",
-    "summary": "El video, protagonizado por el joven actor Owen Cooper, rinde homenaje a Liverpool y a la historia del cuarteto británico.",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/the-beatles-estrenan-nuevo-video-de-in-my-life-que-rinde-homenaje-a-liverpool/a-80005996?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Cultura",
-    "date": "2026-11-20T17:18:00+00:00",
-    "image": "",
-    "title_en": "The Beatles feature new video of 'In My Life' that pays tribute to Liverpool",
-    "summary_en": "The video, starring the young actor Owen Cooper, pays tribute to Liverpool and to the history of the British quartet."
+    "title": "El acuerdo francoalemán para la dirección del BCE coloca a Hernández de Cos a un paso de la presidencia",
+    "summary": "El holandés Knot evita retirar su candidatura, aunque pierda opciones. El alemán Brunnermeier y la francesa Boone optan a los otros dos puestos a renovar del Comité Ejecutivo",
+    "source": "El País Economía",
+    "url": "https://elpais.com/economia/2026-11-20/hernandez-de-cos-roza-la-presidencia-del-bce-tras-conocerse-los-candidatos-de-francia-y-alemania-a-la-direccion.html",
+    "category": "Economía",
+    "date": "2026-11-20T16:42:05+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/6C3YDLSKXNC2JDIDGOYLY3CTEA.jpg?auth=3363073cfe7bdfa413cf097426f58dc684a7abe9eb1707ee577a768581bc0855",
+    "title_en": "The French-German agreement for the ECB's management puts Hernandez de Cos at a step from the presidency",
+    "summary_en": "The Dutch Khave avoid withdrawing his candidacy, even if his choices are lost. The German Brunnermeier and French Boone select the other two jobs to renew from the Executive Board"
   },
   {
-    "title": "¿Hemos perdido la oportunidad de frenar el cambio climático?",
-    "summary": "Desde temperaturas récord hasta inundaciones devastadoras e incendios forestales, las señales de alerta están por todas partes. ¿Es posible controlar aún el aumento el calentamiento del planeta?",
-    "source": "DW Español",
-    "url": "https://www.dw.com/es/¿hemos-perdido-la-oportunidad-de-frenar-el-cambio-climático/a-80005084?maca=spa-rss-sp-all-1122-rdf",
-    "category": "Medio Ambiente",
-    "date": "2026-11-20T17:05:00+00:00",
-    "image": "",
-    "title_en": "Have we lost the opportunity to stop climate change?",
-    "summary_en": "From record temperatures to devastating floods and forest fires, warning signals are everywhere. Can we still control an increased global warming?"
+    "title": "Lea todas las entrevistas a los candidatos a las elecciones del 29-N",
+    "summary": "EL PAÍS conversa con los aspirantes de cada partido a lo largo de la campaña",
+    "source": "El País",
+    "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/lea-todas-las-entrevistas-a-los-candidatos-a-las-elecciones-del-29-n.html",
+    "category": "Deportes",
+    "date": "2026-11-20T14:28:57+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/B7VR6N7N6VETFETFYRB6EX4H7E.jpg?auth=9bb5c4cf7f0eefede1139236690ac0aaab20b0fe542ce67c9d0be6f5169b678e",
+    "title_en": "Read all interviews with candidates for the 29-N elections",
+    "summary_en": "The Country converts with party's aspirations throughout the campaign"
+  },
+  {
+    "title": "El Gobierno elimina la asfixia burocrática para la ciencia estratégica: los centros podrán pagar más a sus investigadores y comprar más rápido",
+    "summary": "El Consejo de Ministros aprueba la creación de una red de 20 instituciones de interés nacional para la soberanía científica y tecnológica, con mayor autonomía y flexibilidad",
+    "source": "El País Ciencia",
+    "url": "https://elpais.com/ciencia/2026-11-20/el-gobierno-elimina-la-asfixia-burocratica-para-la-ciencia-estrategica-los-centros-podran-pagar-mas-a-sus-investigadores-y-comprar-mas-rapido.html",
+    "category": "Ciencia",
+    "date": "2026-11-20T14:27:27+00:00",
+    "image": "https://imagenes.elpais.com/resizer/v2/VNXYYXJ2RRGJVOFCZ4JHEDQSOU.JPG?auth=56b162df1fb537cb552f855e5ebf2fb2baf0914e7fa5f4d52f66c8524d8e6239",
+    "title_en": "The Government removes bureaucratic asphyxiation for strategic science: centers can pay more to their researchers and buy more quickly",
+    "summary_en": "The Council of Ministers approves the establishment of a network of 20 national institutions for scientific and technological sovereignty with more autonomy and flexibility"
+  },
+  {
+    "title": "Qué pasó con las FARC 10 años después del acuerdo de paz que puso fin a más de 50 años de conflicto con el Estado en Colombia",
+    "summary": "En 2016, más de 13.000 guerrilleros firmaron la paz con el Estado colombiano tras más de 50 años en guerra, dejaron las armas y se reincorporaron a la vida civil. ¿Qué ha ocurrido desde entonces?",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c8zxl4rd6nq5o?at_medium=RSS&at_campaign=rss",
+    "category": "Internacional",
+    "date": "2026-11-20T12:05:05+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2a6/live/8ec2bde0-d2ef-11f1-8d86-83eebc838351.jpg",
+    "title_en": "What happened with FARC 10 years after the peace agreement that put an end to more than 50 years of conflict with the state in Colombia",
+    "summary_en": "In 2016, more than 13,000 guerrillas signed peace with the Colombian state after more than 50 years at war, leave their weapons and re-join civil life. What's happened since?"
+  },
+  {
+    "title": "\"Me cuestionaba por qué vine a este mundo con piel morena, cuando mi padre era blanco\": BBC Mundo entrevista a la cantante mexicana Lila Downs",
+    "summary": "Lila Downs se distingue por mezclar el folclore mexicano en su música. De madre indígena y padre estadounidense, la vida de la ganadora del Grammy y del Latin Grammy ha transcurrido entre dos mundos.",
+    "source": "BBC Mundo",
+    "url": "https://www.bbc.com/mundo/articles/c6y80y8jdkz3o?at_medium=RSS&at_campaign=rss",
+    "category": "Cultura",
+    "date": "2026-11-20T11:36:37+00:00",
+    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ffd9/live/4892ae50-e34f-11f1-99aa-0f40b013ad11.jpg",
+    "title_en": "\"I was questioning why I came to this world with dark skin, when my father was white\": BBC Mundo interviewing Mexican singer Lila Downs",
+    "summary_en": "Lila Downs stands out for mixed Mexican folklore into his music. To an indigenous mother and an American father, the life of the Grammy and Latin Grammy winners has passed between two worlds."
   }
 ];
