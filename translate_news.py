@@ -94,6 +94,9 @@ def main():
         print("Translator unavailable: retaining Spanish text and previous English translations:",repr(exc))
         return
     success=0
+    changed=False
+    rejected={"empty":0,"identical":0,"garbage":0}
+    garbage_samples=[]
     for row in rows:
         for field in ("title","summary","resumen"):
             original=str(row.get(field,"")).strip()
@@ -103,7 +106,9 @@ def main():
             if previous and looks_garbage(previous, original):
                 previous=None
             if previous:
-                row[field+"_en"]=previous
+                if row.get(field+"_en")!=previous:
+                    row[field+"_en"]=previous
+                    changed=True
                 continue
             try:
                 english=translate(original).strip()
@@ -113,11 +118,26 @@ def main():
                     row[field+"_en"]=english
                     cache[key]=english
                     success+=1
+                    changed=True
+                elif not english:
+                    rejected["empty"]+=1
+                elif english==original:
+                    rejected["identical"]+=1
+                else:
+                    rejected["garbage"]+=1
+                    if len(garbage_samples)<3:
+                        garbage_samples.append(english[:80])
             except Exception as exc:
                 print("Translation skipped for an item:",repr(exc))
-    if success:
+    # Guardar siempre que alguna traducción (nueva o restaurada de caché)
+    # se haya aplicado: antes, con success==0, se perdían incluso las
+    # restauradas de caché y el archivo quedaba sin inglés.
+    if changed:
         write_news(rows)
+    if success:
         CACHE.write_text(json.dumps(cache,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("New translations:",success,"| translated stories:",sum(bool(n.get("title_en")) for n in rows),"/",len(rows))
+    if sum(rejected.values()):
+        print("Rejected translations:",rejected,"| samples:",garbage_samples)
 
 if __name__=="__main__":main()

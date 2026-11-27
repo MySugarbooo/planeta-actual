@@ -1,60 +1,60 @@
 <!DOCTYPE html>
 <html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#ffffff"><link rel="icon" type="image/svg+xml" href="./favicon.svg"><link rel="shortcut icon" href="./favicon.svg"><meta name="description" content="México Informa: noticias de todo México con fotografías, resúmenes y enlaces a las fuentes originales.">
+<meta name="theme-color" content="#d81b60"><link rel="icon" type="image/png" href="./logo.png"><link rel="shortcut icon" href="./logo.png"><meta name="description" content="México Informa: noticias de todo México con fotografías, resúmenes y enlaces a las fuentes originales.">
 <title>México Informa | Noticias de México</title>
 <style>
-:root{--ink:#121827;--purple:#6634a5;--purple-dark:#4e2580;--muted:#6a6d75;--line:#e9e5ed;--soft:#f6f0fa;--bg:#fff}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,Helvetica,sans-serif;line-height:1.5}a{color:inherit;text-decoration:none}img{max-width:100%}button,input{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #a986d0;outline-offset:3px}
+:root{--ink:#121827;--pink:#d81b60;--pink-dark:#ad1457;--muted:#6a6d75;--line:#f3dbe3;--soft:#fdeef3;--bg:#fff7f9}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,Helvetica,sans-serif;line-height:1.5}a{color:inherit;text-decoration:none}img{max-width:100%}button,input{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #f48fb1;outline-offset:3px}
 .wrap{max-width:1280px;margin:0 auto;padding:0 16px}
 .site-header{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.96);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
 .header{display:flex;align-items:center;gap:12px;justify-content:space-between;padding:12px 0}
 .brand{display:flex;align-items:center;gap:10px;min-width:0;flex-shrink:1}
-.brand svg{width:38px;height:34px;flex:none}
+.brand img{width:38px;height:38px;flex:none;border-radius:50%}
 .brand-name{font-weight:900;font-style:italic;letter-spacing:-.045em;font-size:18px;white-space:nowrap}
-.brand-name span{background:var(--purple);color:#fff;padding:1px 5px;display:inline-block}
+.brand-name span{background:var(--pink);color:#fff;padding:1px 5px;display:inline-block}
 .tagline{display:none;border-left:1px solid #ddd;padding-left:16px;color:#52525b;font-size:13px;font-style:italic;white-space:nowrap}
 .top-actions{display:flex;gap:6px;align-items:center;flex:none}
 #menuButton,#searchButton{display:none}
-.language-btn{background:#fff;color:#613795;border:1px solid #e5d8ed;border-radius:999px;padding:10px 14px;white-space:nowrap;font-size:12px;font-weight:700;min-height:42px}
+.language-btn{background:#fff;color:#ad1457;border:1px solid #f3cdd8;border-radius:999px;padding:10px 14px;white-space:nowrap;font-size:12px;font-weight:700;min-height:42px}
 .iconbtn{border:0;background:transparent;color:#151726;padding:10px;border-radius:50%}
 .iconbtn svg{width:22px;height:22px;display:block}
 .nav{border-bottom:1px solid #eee;background:#fff}
 .nav-inner{display:flex;align-items:center;gap:8px;overflow-x:auto;scrollbar-width:none;padding:10px 0;-webkit-overflow-scrolling:touch}
 .nav-inner::-webkit-scrollbar{display:none}
-.nav button{flex:none;border:1px solid #e5d8ed;background:#f8f5fb;color:#3d3a44;padding:9px 15px;border-radius:999px;font-size:13px;font-weight:650;min-height:38px}
-.nav button.active{background:var(--purple);color:#fff;border-color:var(--purple)}
-.nav-horoscopes{flex:none;display:inline-flex;align-items:center;color:#60318e!important;font-size:13px;font-weight:750;padding:9px 14px;border:1px solid #e5d8ed;border-radius:999px;background:#f8f5fb;white-space:nowrap}
+.nav button{flex:none;border:1px solid #f3cdd8;background:#fdf2f5;color:#3d3a44;padding:9px 15px;border-radius:999px;font-size:13px;font-weight:650;min-height:38px}
+.nav button.active{background:var(--pink);color:#fff;border-color:var(--pink)}
+.nav-horoscopes{flex:none;display:inline-flex;align-items:center;color:#ad1457!important;font-size:13px;font-weight:750;padding:9px 14px;border:1px solid #f3cdd8;border-radius:999px;background:#fdf2f5;white-space:nowrap}
 main{padding-top:16px}
-.breaking{display:flex;align-items:center;gap:10px;background:#f5eff8;border-radius:12px;padding:12px 14px;font-size:13px;min-height:48px}
-.breaking strong{color:var(--purple);white-space:nowrap}
-.breaking .bolt{font-size:17px;color:#68349f}
+.breaking{display:flex;align-items:center;gap:10px;background:#fdeef3;border-radius:12px;padding:12px 14px;font-size:13px;min-height:48px}
+.breaking strong{color:var(--pink);white-space:nowrap}
+.breaking .bolt{font-size:17px;color:#d81b60}
 .breaking a{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1;min-width:0}
 .breaking a:hover{text-decoration:underline}
 .breaking time{font-size:11px;color:#777;white-space:nowrap;display:none}
 .top-news{display:grid;gap:24px;margin-top:24px}
-.lead img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;background:#f4f2f7}
+.lead img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:14px;background:#fdeef3}
 .imgcredit{font-size:10px;color:#777;margin-top:5px}
-.category{color:var(--purple);font-weight:800;font-size:11px;text-transform:uppercase;letter-spacing:.06em}
+.category{color:var(--pink);font-weight:800;font-size:11px;text-transform:uppercase;letter-spacing:.06em}
 .lead .category{display:block;margin-top:14px}
 .lead h1{font-family:Georgia,'Times New Roman',serif;font-size:clamp(26px,5vw,40px);line-height:1.08;letter-spacing:-.02em;margin:8px 0 10px}
 .lead h1 a:hover{text-decoration:underline}
 .lead p{font-size:15px;color:#55555c;line-height:1.65;margin:0 0 12px}
 .meta{font-size:11px;color:#777;margin:9px 0}
-.source{font-size:11px;color:var(--purple);font-weight:700}
+.source{font-size:11px;color:var(--pink);font-weight:700}
 .source:hover{text-decoration:underline}
 .side-news{display:grid;gap:0}
 .side-item{display:grid;grid-template-columns:minmax(0,1fr) 96px;gap:12px;padding:14px 0;border-bottom:1px solid var(--line);align-items:start}
 .side-item:first-child{padding-top:0}
-.side-item img{width:96px;height:72px;object-fit:cover;border-radius:10px;background:#f3f1f6;display:block}
+.side-item img{width:96px;height:72px;object-fit:cover;border-radius:10px;background:#fdf2f5;display:block}
 .side-item h2{font-family:Georgia,serif;font-size:16px;line-height:1.25;margin:5px 0}
 .side-item h2 a:hover{text-decoration:underline}
 .section-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:36px 0 16px}
 .section-head h2{font-family:Georgia,serif;font-size:24px;margin:0;line-height:1.15}
-.section-head h2:before{content:"";display:inline-block;background:var(--purple);width:5px;height:22px;border-radius:5px;vertical-align:-3px;margin-right:11px}
-.linkmore{color:var(--purple);font-size:12px;font-weight:700;white-space:nowrap}
+.section-head h2:before{content:"";display:inline-block;background:var(--pink);width:5px;height:22px;border-radius:5px;vertical-align:-3px;margin-right:11px}
+.linkmore{color:var(--pink);font-size:12px;font-weight:700;white-space:nowrap}
 .section-cards{display:grid;gap:16px;grid-template-columns:1fr}
-.story{display:flex;flex-direction:column;border:1px solid #eae5ec;border-radius:16px;overflow:hidden;background:#fff}
-.story>div:first-child img{display:block;width:100%;aspect-ratio:16/10;object-fit:cover;background:#f3f1f6}
+.story{display:flex;flex-direction:column;border:1px solid #f3dbe3;border-radius:16px;overflow:hidden;background:#fff}
+.story>div:first-child img{display:block;width:100%;aspect-ratio:16/10;object-fit:cover;background:#fdf2f5}
 .story>div:first-child .imgcredit{padding:6px 16px 0}
 .story>div:last-child{padding:12px 16px 16px}
 .story.no-img>div{padding:16px}
@@ -63,35 +63,35 @@ main{padding-top:16px}
 .story .meta{margin:8px 0 0;font-size:10px}
 .more-head{margin-top:44px}
 .filter{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:18px}
-.filter input{padding:12px 14px;border:1px solid #ddd7e5;border-radius:10px;min-width:200px;flex:1;max-width:440px;font-size:16px}
+.filter input{padding:12px 14px;border:1px solid #f3cdd8;border-radius:10px;min-width:200px;flex:1;max-width:440px;font-size:16px}
 .filter span{font-size:12px;color:var(--muted)}
 .feed{display:grid;gap:16px;grid-template-columns:1fr}
-.translation-status{font-size:12px;color:#866d9f}
+.translation-status{font-size:12px;color:#a05a76}
 .hide{display:none!important}
-.empty{color:#65656a;grid-column:1/-1;padding:22px;background:#faf9fc;border-radius:12px}
+.empty{color:#65656a;grid-column:1/-1;padding:22px;background:#fdf2f5;border-radius:12px}
 .footer{margin-top:56px;border-top:1px solid var(--line);padding:28px 0 40px;color:#777;font-size:12px;line-height:1.6;text-align:center}
 .modal-backdrop{position:fixed;inset:0;background:rgba(18,24,39,.62);z-index:100;display:flex;align-items:flex-start;justify-content:center;padding:24px 16px;overflow-y:auto}
 .modal{background:#fff;border-radius:18px;max-width:640px;width:100%;padding:22px 22px 26px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.25)}
-.modal-close{position:absolute;top:10px;right:12px;border:0;background:#f3f1f6;border-radius:50%;width:38px;height:38px;font-size:22px;line-height:1;color:#121827}
+.modal-close{position:absolute;top:10px;right:12px;border:0;background:#fdf2f5;border-radius:50%;width:38px;height:38px;font-size:22px;line-height:1;color:#121827}
 .modal h2{font-family:Georgia,serif;font-size:clamp(22px,4vw,28px);line-height:1.2;margin:8px 0 12px}
-.modal img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;background:#f4f2f7}
+.modal img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;background:#fdeef3}
 .modal .imgcredit{font-size:10px;color:#777;margin-top:5px}
-.modal-summary-label{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--purple);margin:18px 0 6px}
+.modal-summary-label{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--pink);margin:18px 0 6px}
 .modal-summary{font-size:16px;line-height:1.7;color:#33333a;margin:0}
 .modal-sign{margin:14px 0 0;font-size:13px;color:#55555c;font-style:italic}
-.modal-source{display:inline-block;margin-top:20px;background:var(--purple);color:#fff;font-weight:700;font-size:14px;padding:12px 18px;border-radius:999px}
-.modal-source:hover{background:var(--purple-dark)}
+.modal-source{display:inline-block;margin-top:20px;background:var(--pink);color:#fff;font-weight:700;font-size:14px;padding:12px 18px;border-radius:999px}
+.modal-source:hover{background:var(--pink-dark)}
 body.modal-open{overflow:hidden}
 .story img,.lead img,.side-item img{cursor:pointer}
 @media(max-width:359px){
  .brand-name{font-size:16px}
- .brand svg{width:32px;height:29px}
+ .brand img{width:32px;height:32px}
  .language-btn{padding:8px 10px}
 }
 @media(min-width:640px){
  #menuButton,#searchButton{display:block}
  .brand-name{font-size:20px}
- .brand svg{width:42px;height:38px}
+ .brand img{width:42px;height:42px}
  .wrap{padding:0 20px}
  .breaking time{display:block}
  .section-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -103,7 +103,7 @@ body.modal-open{overflow:hidden}
 @media(min-width:900px){
  .tagline{display:block}
  .brand-name{font-size:25px}
- .brand svg{width:52px;height:45px}
+ .brand img{width:52px;height:52px}
  .top-news{grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:36px;align-items:start}
  .side-news{grid-template-columns:1fr}
  .side-item{grid-template-columns:minmax(0,1fr) 120px}
@@ -120,7 +120,7 @@ body.modal-open{overflow:hidden}
 }
 </style></head><body>
 <header class="site-header"><div class="wrap header">
-<a href="./" class="brand" aria-label="México Informa inicio"><svg viewBox="0 0 100 100" role="img" aria-label="Planeta con anillo y estrellas"><circle cx="49" cy="49" r="29" fill="#111a32"/><ellipse cx="49" cy="50" rx="45" ry="17" transform="rotate(-26 49 50)" fill="none" stroke="#111a32" stroke-width="5"/><path d="M14 17l3 8 8 3-8 3-3 8-3-8-8-3 8-3zm71 55 3 7 7 3-7 3-3 7-3-7-7-3 7-3z" fill="#111a32"/></svg><div class="brand-name">MÉXICO<span>INFORMA</span></div></a>
+<a href="./" class="brand" aria-label="México Informa inicio"><img src="./logo.png" alt="Flor de Nochebuena, logo de México Informa"><div class="brand-name">MÉXICO<span>INFORMA</span></div></a>
 <div class="tagline" data-i18n="tagline">Noticias de todo México</div><div class="top-actions"><button class="iconbtn" id="searchButton" aria-label="Buscar" title="Buscar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10.5" cy="10.5" r="7"/><path d="m16 16 6 6"/></svg></button><button class="iconbtn" id="menuButton" aria-label="Mostrar categorías" title="Mostrar categorías"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button><button id="pa-language" class="language-btn" type="button" aria-label="Switch to English">EN / English</button></div></div></header>
 <nav class="nav"><div class="wrap nav-inner" id="nav"></div></nav>
 <main class="wrap">
