@@ -6,15 +6,18 @@ from urllib.parse import urlparse
 
 ROOT=pathlib.Path(__file__).parent
 FEEDS=[
- ("BBC Mundo","Mundo","https://feeds.bbci.co.uk/mundo/rss.xml"),
- ("DW Español","Mundo","https://rss.dw.com/rdf/rss-sp-all"),
- ("France 24","Mundo","https://www.france24.com/es/rss"),
- ("El País","Mundo","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),
- ("El País Economía","Economía","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"),
- ("El País Tecnología","Tecnología","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"),
- ("El País Ciencia","Ciencia","https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ciencia/portada"),
+ ("El Universal","Nación","https://www.eluniversal.com.mx/arc/outboundfeeds/rss/?outputType=xml"),
+ ("La Jornada","Nación","https://www.jornada.com.mx/rss/edicion.xml?v=1"),
+ ("El Financiero","Economía","https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml"),
+ ("El Economista","Economía","https://www.eleconomista.com.mx/rss/ultimas-noticias"),
+ ("Expansión","Economía","https://expansion.mx/rss"),
+ ("Infobae México","Nación","https://www.infobae.com/arc/outboundfeeds/rss/category/mexico/"),
+ ("Xataka México","Tecnología","https://www.xataka.com.mx/index.xml"),
+ ("Diario de Yucatán","Estados","https://www.yucatan.com.mx/feed"),
 ]
 CATEGORY_PATTERNS = [
+ ("Estados", r"\b(jalisco|nuevo león|puebla|guanajuato|veracruz|chiapas|oaxaca|sinaloa|sonora|chihuahua|coahuila|tamaulipas|michoacán|guerrero|hidalgo|morelos|querétaro|san luis potosí|zacatecas|durango|nayarit|colima|tlaxcala|campeche|quintana roo|baja california|tabasco|yucatán|aguascalientes|ciudad de méxico|estado de méxico|cdmx|gobernador[a]?|alcalde|alcaldesa|municipio|ayuntamiento)\b"),
+ ("Seguridad", r"\b(homicidios?|secuestros?|cártel|cartel|narco|balacera|feminicidio|desaparecidos?|guardia nacional|fiscalía|violencia|extorsión)\b"),
  ("Deportes", r"\b(fútbol|futbol|liga|tenis|alcaraz|mbappé|madrid|racing|barça|bayern|champions|mundial de clubes|partido|gol|regata|atleta|deportivo|copa del mundo|nba|f1|fórmula 1|gran premio)\b"),
  ("Medio Ambiente", r"\b(clima|climátic[oa]|huracán|tormenta|sequía|biodiversidad|especies|contaminación|glaciar|deshielo|incendios forestales|medio ambiente|calentamiento global|energía renovable|vida silvestre|emisiones)\b"),
  ("Tecnología", r"\b(inteligencia artificial|tecnología|tecnológicas|microchip|chip|rob[oó]t|ciberseguridad|redes sociales|algoritmo|software|internet|digital|plataforma|chatgpt)\b"),
@@ -29,7 +32,7 @@ def classify(title, summary, fallback):
     for name, pattern in CATEGORY_PATTERNS:
         if re.search(pattern, content, re.I):
             return name
-    return "Internacional" if fallback == "Mundo" else fallback
+    return "Nacional" if fallback == "Mundo" else fallback
 
 def plain(s):
     s=re.sub(r'<[^>]+>',' ',s or '')
@@ -47,7 +50,7 @@ def main():
     items=[]; seen=set()
     for source, category, url in FEEDS:
         try:
-            feed=feedparser.parse(url,request_headers={'User-Agent':'PlanetaActual/1.0 (RSS reader)'})
+            feed=feedparser.parse(url,request_headers={'User-Agent':'MexicoInforma/1.0 (RSS reader)'})
             print(source,len(feed.entries), 'http',feed.get('status'))
         except Exception as e:
             print('Feed error',source,e);continue
@@ -68,6 +71,6 @@ def main():
     if not items:
         print('Sin datos nuevos: se conserva el archivo anterior')
         return
-    out.write_text('window.PLANETA_NEWS = '+json.dumps(items[:110],ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
+    out.write_text('window.MEXICO_INFORMA_NEWS = '+json.dumps(items[:110],ensure_ascii=False,indent=2)+';\n',encoding='utf-8')
     print('Guardadas',len(items[:110]),'noticias')
 if __name__=='__main__':main()
