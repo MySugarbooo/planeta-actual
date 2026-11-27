@@ -1,5 +1,509 @@
 window.MEXICO_INFORMA_NEWS = [
   {
+    "title": "Inzunza, acusado de narco en EU, gana más que la presidenta; Senado le pagó con cheques nominativos",
+    "summary": "Los ingresos brutos del senador acusado por EU de nexos con el narco superan a los de la Presidenta",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/inzunza-acusado-de-narco-en-eu-gana-mas-que-la-presidenta-senado-le-pago-con-cheques-nominativos/",
+    "category": "Seguridad",
+    "date": "2026-11-27 00:26",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/P255O2DQ2BAWFPSALR4CMJNL3Q.jpg?auth=6eecc415ad39683dd0cae22a56fa1acc03dd0e066d6c12e29559b8b169b8328e&smart=true&width=500",
+    "title_en": "Inzunza, accused of narco in the U.S., wins more than the president, and Senate paid him with nominal checks",
+    "summary_en": "The Senator's gross income charged with narco links by the EU outweighs those of the President"
+  },
+  {
+    "title": "Christian Nodal presume decoración navideña en su casa de Zacatecas",
+    "summary": "Entre focos navideños, un muñeco de nieve luminoso y una galleta de jengibre, el cantante mostró el estilo decorativo en la residencia que comparte con Ángela Aguilar",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/christian-nodal-presume-decoracion-navidena-en-su-casa-de-zacatecas/",
+    "category": "Estados",
+    "date": "2026-11-27 00:21",
+    "image": "https://www.infobae.com/resizer/v2/Z4FWGKEBV5HVJODKWKHJCKKYPQ.jpg?auth=e85f57f095894dfac762e8f360ea708d1c71630fc5955a3e08bbdc75e4263757&smart=true&width=1920&height=1080",
+    "title_en": "Christian Nodal presumed Christmas décor at his house in Zacatecas",
+    "summary_en": "Between Christmas lights, a light snow doll and a ginger cookie, the singer shown his decorative style at his residence with Ángel Aguilar"
+  },
+  {
+    "title": "EN VIVO | Clima CDMX y resto de México hoy viernes 27 de noviembre: primera tormenta invernal amenaza con nieve y lluvias torrenciales",
+    "summary": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-27-de-noviembre-primera-tormenta-invernal-amenaza-con-nieve-y-lluvias-torrenciales/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-27 00:17",
+    "image": "https://www.infobae.com/resizer/v2/QKBTF5LVI5CO5ONOL7MRSAFDEA.jpg?auth=b78f749b4f986202df0af9e08b8cd8c4f2a827f728c48ff287529479e47e3ea1&smart=true&width=1920&height=1080",
+    "title_en": "EN VIVO) 124; Climate CDMX and the rest of Mexico today Friday November 27: First winter storm threat with snow and torrential rain",
+    "summary_en": "Consultation in real-time updates, alerts, news and reports about climate conditions in the country"
+  },
+  {
+    "title": "Hola Conasami: En 2026 se han perdido 482,000 empleos formales",
+    "summary": "¿Es el aumento al salario mínimo la cuestión más relevante en el mercado laboral? No hay duda que todo lo relacionado con el minisalario se llevará los titulares y ocupará un lugar privilegiado en la Mañanera. Mientras tanto, hay algo que está pasando sin prender las señales de alerta que merece: entre fines de diciembre de 2025 y octubre de 2026 se…",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/hola-conasami-2026-han-perdido-482-000-empleos-formales-20261127-846161.html",
+    "category": "Economía",
+    "date": "2026-11-27 00:15",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/05/14/682582502ffbb.png",
+    "title_en": "Hello Conasami: 482,000 jobs have been lost by 2026",
+    "summary_en": "Is an increase to the minimum wage the most important issue in the labour market? There's no doubt that anything about the minisalary will be held by the headlines and will have a privileged place at the Mañanera. Meanwhile, something's going on without picking up the warning signs that she deserves: between late December 2025 and October 2026 it's..."
+  },
+  {
+    "title": "México, la economía compleja que innova poco",
+    "summary": "Aunque México destaca por su alta capacidad industrial, científica y exportadora, genera pocas patentes comerciales debido a la desarticulación entre universidades, empresas y gobierno; el reto es vincularlos eficazmente.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/mexico-economia-compleja-innova-poco-20261127-846160.html",
+    "category": "Ciencia",
+    "date": "2026-11-27 00:13",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/05/15/68263a7203c43.png",
+    "title_en": "Mexico, the complex economy that innovates little",
+    "summary_en": "Although Mexico stands out for its high industrial, scientific and export capacity, it generates few commercial patents as a result of the dismantling of universities, businesses and government and challenges are to effectively link them."
+  },
+  {
+    "title": "CFE: electricidad no subió; el subsidio finalizó en 11 ciudades",
+    "summary": "La variación en tarifas eléctricas registrada por Inegi en la primera mitad de noviembre fue por el fin del subsidio, explicó Francisco Javier Candanosa, subdirector de Operación Financiera.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/empresas/cfe-electricidad-subio-subsidio-finalizo-11-ciudades-20261127-846158.html",
+    "category": "Economía",
+    "date": "2026-11-27 00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b091c12751de.jpeg",
+    "title_en": "CFE: electricity did not rise and the subsidy was completed in 11 cities",
+    "summary_en": "The difference in electrical prices registered by Inegi in the first half of November was at the end of the subsidy, explained Francisco Javier Candanosa, Assistant Director of Financial Operation."
+  },
+  {
+    "title": "Laura Zapata critica a Thalía luego de no visitar las cenizas de su abuela, Eva Mange Márquez, en su regreso a México",
+    "summary": "Tras el concierto junto a Karol G y el encuentro con Yolanda Andrade, la actriz respondió con ironía a los cuestionamientos sobre su hermana",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/laura-zapata-estalla-contra-thalia-luego-de-no-visitar-las-cenizas-de-su-abuela-eva-mange-marquez-en-su-regreso-a-mexico/",
+    "category": "Cultura",
+    "date": "2026-11-26 23:57",
+    "image": "https://www.infobae.com/resizer/v2/IEDWZZLEENGP5MNDLGS4VSUJCE.png?auth=e2e11589bf4e497d83d21b2e98736dc6f7ed41725a167cf6c51e8c2dd26b5a08&smart=true&width=2752&height=1536",
+    "title_en": "Laura Zapata challenges Thalia after she doesn't visit her grandmother's ashes, Eva Mange Márquez, on her return to Mexico",
+    "summary_en": "Following the concert with Karol G and his meeting with Yolanda Andrade, the actress responded with irony to questions about her sister"
+  },
+  {
+    "title": "Canelo Álvarez y Salma Hayek se unen para contar la historia de un boxeador de Tepito: de qué trata ‘Para los contrincantes’",
+    "summary": "La producción de Federico Luis ya triunfó en Cannes y sigue a Damián, niño de 11 años que se enfrenta a las expectativas familiares y emocionales del cuadrilátero",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/canelo-alvarez-y-salma-hayek-se-unen-para-contar-la-historia-de-un-boxeador-de-tepito-de-que-trata-para-los-contrincantes/",
+    "category": "Deportes",
+    "date": "2026-11-26 23:52",
+    "image": "https://www.infobae.com/resizer/v2/XJHFRTBH3ZAIRAM7BQQNBTWYGE.png?auth=277436fc7bfed57169217ce5c16425e583db9865d029e6d7bd226f936755023c&smart=true&width=1920&height=1080",
+    "title_en": "Cinelo Alvarez and Salma Hayek are united to tell the story of a fighter from Tebito: what's about \"To the contenders\"",
+    "summary_en": "The production of Federico Luis already triumphed at Cannes and follows Damian, an 11-year-old child who challenges the family and emotional expectations of the quadrilateral"
+  },
+  {
+    "title": "Historias entretejidas, cinco siglos de hilos compartidos entre Francia y México",
+    "summary": "El Palacio de Iturbide reúne cerca de un centenar de piezas del Mobilier national de Francia y de los talleres textiles mexicanos que adoptaron las técnicas de Gobelins, Beauvais y Aubusson; la exposición muestra tapices de Picasso, Le Courbusier, Matisse, Lurçat, Miró, en diálogo con Tamayo, Goeritz, Mérida y Toledo, entre otrros.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/arteseideas/historias-entretejidas-cinco-siglos-hilos-compartidos-francia-mexico-20261126-846156.html",
+    "category": "Cultura",
+    "date": "2026-11-26 23:38",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b0916fef006a.jpeg",
+    "title_en": "Stories intertwined, five centuries of threads shared between France and Mexico",
+    "summary_en": "The Iturbide Palace brings together about hundreds of pieces from the National Mobilier of France and from Mexican textile workshops that adopted the techniques of Gobelins, Beauvais and Aubusson. The exhibition shows tapes of Picasso, Le Courbusier, Matisse, Lurçat, Miró, in dialogue with Tamayo, Goeritz, Mérida and Toledo, among others."
+  },
+  {
+    "title": "Conasami inicia sesión permanente para salario mínimo",
+    "summary": "Los representantes de los sectores obrero, patronal y gubernamental arrancaron el análisis de las distintas propuestas de incremento recibidas.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/empresas/conasami-inicia-sesion-permanente-salario-minimo-20261126-846155.html",
+    "category": "Economía",
+    "date": "2026-11-26 23:30",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b09152931601.jpeg",
+    "title_en": "Conasami starts permanent session for minimum wage",
+    "summary_en": "The representatives of the labor, employers and government sectors have been drawing up an analysis of the different proposals for an increase."
+  },
+  {
+    "title": "Aumentan las áreas secas en 22 estados de la República",
+    "summary": "Morelos, Quintana Roo y Chiapas lideran el aumento en lugares con condiciones anormalmente secas y sequía.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/aumentan-areas-secas-22-estados-republica-20261126-846153.html",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 23:25",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b0913e81a4d4.jpeg",
+    "title_en": "Retirement of dry areas in 22 states",
+    "summary_en": "Morelos, Quintana Roo and Chiapas lead an increase in locations with abnormally dry conditions and drought."
+  },
+  {
+    "title": "Taxistas bloquean principales avenidas de CDMX durante más de cuatro horas: exigen frenar abusos del Invea",
+    "summary": "Los conductores realizaron bloqueos simultáneos que ocasionaron caos vial, en algunos tramos se fue suspendido el servicio del Metrobús por manifestación de alumnos del IPN",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/taxistas-bloquean-principales-avenidas-de-cdmx-durante-mas-de-cuatro-horas-exigen-frenar-abusos-del-invea/",
+    "category": "Estados",
+    "date": "2026-11-26 23:24",
+    "image": "https://www.infobae.com/resizer/v2/FKT7YVAIRNBKDLRCIVXJAMJGDU.jpg?auth=05b346f0708b4e5581b19755aa891ef944fdee73a3680ed9a968edaa24ecf428&smart=true&width=1920&height=1080",
+    "title_en": "Taxi drivers block main avenues of CDMX for more than four hours: demand to stop Inca abuses",
+    "summary_en": "The drivers performed simultaneous blockades that caused traffic chaos and in some sections the service of Metrobus was suspended by demonstration of ICN students"
+  },
+  {
+    "title": "Alerta Greenpeace polución por petróleo en Las Choapas",
+    "summary": "En un comunicado Pemex informó, que el 5 de marzo, se había presentado una explosión en el pozo exploratorio KREM 1, en el ejido Constitución, de la Choapas.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/alerta-greenpeace-polucion-petroleo-choapas-20261126-846152.html",
+    "category": "Economía",
+    "date": "2026-11-26 23:23",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b0913572fa8b.jpeg",
+    "title_en": "Greenpeace Oil Pollution Alert in Las Chapas",
+    "summary_en": "A pemex communiqué reported that an explosion had been reported at KREM 1 exploratory well at the Jido Constitución de la Chipas on March 5."
+  },
+  {
+    "title": "Califican de injerencia las líneas de denuncia de la DEA",
+    "summary": "El Gabinete de Seguridad de México se unió al reclamo hecho por la mandataria y sostuvo que cada país debe asumir las responsabilidades que le corresponden en el combate a la delincuencia organizada.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/califican-injerencia-lineas-denuncia-dea-20261126-846151.html",
+    "category": "Economía",
+    "date": "2026-11-26 23:21",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b091282be812.jpeg",
+    "title_en": "DEA's denouncing lines are described as interference",
+    "summary_en": "The Mexican Security Cabinet joined the demand made by the Mandataria and held that every country should assume its responsibilities to combat organized crime."
+  },
+  {
+    "title": "La propuesta de Mancera",
+    "summary": "Tres de sus principales colaboradores –Patricia Mercado, Alejandra Barrales y Salomón Chertorivski—, están en Movimiento Ciudadano. Aunque el último jefe del gobierno de la Ciudad de México emanado de las filas perredistas, Miguel Ángel Mancera, aun no se afilia al partido naranja, su cercanía con la formación fundada por Dante Delgado es innegable.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/propuesta-mancera-20261126-846150.html",
+    "category": "Estados",
+    "date": "2026-11-26 23:17",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/05/14/6825475c19bb3.png",
+    "title_en": "The Mancera's proposal",
+    "summary_en": "Three of his main partners - Patricia Mercado, Alejandra Barerals and Salomon Chertorivsky - are currently in Civil Movement. Although the last head of Mexico City's government from the perredist ranks, Miguel Ángel Mancera, did not have an association with an orange party, his closeness with the formation founded by Dante Delgado was undeniable."
+  },
+  {
+    "title": "Tras siete años de lucha, condenan a feminicida de mujer indígena en Guerrero; recibirá 40 años de prisión",
+    "summary": "",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/tras-siete-anos-de-lucha-condenan-a-feminicida-de-mujer-indigena-en-guerrero-recibira-40-anos-de-prision/",
+    "category": "Estados",
+    "date": "2026-11-26 23:14",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/YQHMRXEMONB6VKTYVNPM6NHXBE.jpg?auth=ffb4c841b219a5ad3c99ae48d810408d879770137553f4bc257f50667867279e&smart=true&width=500",
+    "title_en": "After seven years of struggle, they convict femicide as an indigenous woman in Guerrero and will be held for 40 years."
+  },
+  {
+    "title": "León vs Cruz Azul RESUMEN; conoce cómo quedó la ida de los Cuartos de Final del Apertura 2026",
+    "summary": "No te pierdas ninguna acción de este encuentro",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/deportes/leon-vs-cruz-azul-en-vivo-sigue-aqui-los-cuartos-de-final-de-la-liguilla-del-apertura-2026/",
+    "category": "Deportes",
+    "date": "2026-11-26 23:11",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/WB3QCHI2MVBQJFIPW4O4VQRAGA.jpg?auth=319fac3b4fe6f59a3a997d2ce4071fc34e4a1b8781b8f9060e5f3c190f16c5df&smart=true&width=500",
+    "title_en": "Lion vs. Blue Cross SUMMARY. Know how the end quarter of the 2026 Opening became an end",
+    "summary_en": "Do not miss any actions from this meeting"
+  },
+  {
+    "title": "Suman en el INE 140 funcionarios dados de baja",
+    "summary": "La consejera electoral, Carla Humphrey, explicó que han sido detectados “aviadores” en la planta laboral del órgano autónomo por lo que se solicitó a los encargados de las distintas áreas identificar a quienes no acuden a trabajar o fueron contratados durante la administración de Taddei, sobre todo por instrucciones suyas, a fin de determinar si hay…",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/suman-ine-140-funcionarios-dados-baja-20261126-846146.html",
+    "category": "Política",
+    "date": "2026-11-26 23:11",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b09105728d01.jpeg",
+    "title_en": "A total of 140 officials have been discharged from the INE",
+    "summary_en": "The electoral counsellor, Carla Humphrey, explained that they have been spotted \"aviators\" at the work plant of the autonomous body and that they have been requested to identify those who do not come to work or have been hired during the Taddei administration, especially by his instructions, with a view to determining whether there are..."
+  },
+  {
+    "title": "Defiende Morena exégesis en sobrerrepresentación",
+    "summary": "Sistema, construido por PRI y PAN, afirma.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/defiende-morena-exegesis-sobrerrepresentacion-20261126-846145.html",
+    "category": "Economía",
+    "date": "2026-11-26 23:08",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/09/22/6ab22ace0e5ac.jpeg",
+    "title_en": "Defiende Brunette Exégesis in Overrepresentation",
+    "summary_en": "System, built by PRI and PAN, says."
+  },
+  {
+    "title": "Sorry, ICE, ¡ya huele de nuevo a dólares paisanos!",
+    "summary": "¿Qué empresas ganan en México después de las elecciones en Estados Unidos?",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/sorry-ice-huele-nuevo-dolares-paisanos-20261126-846144.html",
+    "category": "Economía",
+    "date": "2026-11-26 23:04",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/02/23/699caac9a63a2.png",
+    "title_en": "Sorry, ICE, you smell back to local dollars!",
+    "summary_en": "What companies gain from Mexico after the U.S. elections?"
+  },
+  {
+    "title": "Crisis de vivienda, mercado y densificación urbana (I)",
+    "summary": "Hay una brecha creciente en México entre necesidades de vivienda por parte de jóvenes y nuevas familias, y la producción y oferta de vivienda nueva. Se estima en aproximadamente 500 mil el número total anual de nuevos demandantes de vivienda, aunque no todos son demanda económica solvente. No obstante, la producción formal registrada en el Registro Único de…",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/crisis-vivienda-mercado-densificacion-urbana-i-20261126-846143.html",
+    "category": "Economía",
+    "date": "2026-11-26 23:01",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/05/14/68255b8c85b5a.png",
+    "title_en": "Housing, market and urban densification crisis (I)",
+    "summary_en": "There was an increasing divide in Mexico between housing needs by youth and new families and production and supply of new housing. The total number of new housing applicants per year is estimated at about 500,000 but they are not all solvent economic demand. Nevertheless, formal production registered with the Unified Register of..."
+  },
+  {
+    "title": "Fundación Por México reconoce a 100 mujeres líderes en la Gala VIRTUS",
+    "summary": "La primera edición de VIRTUS recibió 265 postulaciones y reconoció a mujeres de 10 categorías. Las galardonadas también tendrán acceso a un programa anual de mentoría para fortalecer sus proyectos.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/empresas/fundacion-mexico-reconoce-100-mujeres-lideres-gala-virtus-20261126-846141.html",
+    "category": "Economía",
+    "date": "2026-11-26 22:59",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b090dc497457.jpeg",
+    "title_en": "Foundation For Mexico recognizes 100 women leaders at the VIRTUS Gala",
+    "summary_en": "The first edition of VIRTUS received 265 applications and recognized women from 10 categories. The winners will also have access to an annual mentoring program to strengthen their projects."
+  },
+  {
+    "title": "María Elena Leal, hija de Lola Beltrán, exige justicia por el asesinato de su yerno: ‘Son tiempos duros’",
+    "summary": "María Elena Leal habló sobre el proceso judicial por el asesinato de su yerno en CDMX y explicó cómo enfrenta su hija la pérdida de su esposo.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/espectaculos/2026/11/26/maria-elena-leal-exige-justicia-por-el-asesinato-de-su-yerno/",
+    "category": "Estados",
+    "date": "2026-11-26 22:57",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/aip0cF0mmHK67ndLZIOb8cJ1UEo=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DRKFWF7DGJBR7IBVXEQQNY3Q2I.jpg",
+    "title_en": "María Elena Leal, daughter of Lola Beltran, demands justice for his son-in-law's murder: 'It's tough times'",
+    "summary_en": "María Elena Leal spoke about the court proceedings for his son-in-law's murder at CDMX and explain how his daughter faces his husband's loss."
+  },
+  {
+    "title": "Cofepris alerta por venta de Duvalín Untable FALSO: ¿Cómo reconocerlo y dónde denunciarlo?",
+    "summary": "Cofepris advirtió que el Duvalín Untable se comercializa en plataformas digitales, pese a que dejó de fabricarse en septiembre de 2021.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/salud/2026/11/26/cofepris-alerta-por-venta-de-duvalin-untable-falsificado-como-identificarlo-y-que-riesgos-tiene/",
+    "category": "Economía",
+    "date": "2026-11-26 22:36",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/3ZkNqGcTzl4aO4vgxkcJCGaFpRQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3CMFUQCY5RFR5MWTEXNDJGK5ME.jpeg",
+    "title_en": "Coffee alert for sale from Duvalín Untable FALSO: How to recognize and where to report him?",
+    "summary_en": "Cofepris warned that Duvalín Untable was commercialised on digital platforms, although it stopped manufacturing in September 2021."
+  },
+  {
+    "title": "Exhiben penthouse de 19 millones de pesos vinculado a Luz Elena González",
+    "summary": "Un nuevo escándalo sacude a Luz Elena González Escobar, actual secretaria de Energía del gobierno federal, luego de que Carlos Loret de Mola exhibiera documentos de un inmueble cuyo precio de compraventa habría ascendido a 19 millones de pesos. En el reportaje titulado El penthouse oculto de Luz Elena González, se presentan imágenes del inmueble […]",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/26/exhiben-penthouse-de-19-millones-de-pesos-vinculado-a-luz-elena-gonzalez.html",
+    "category": "Economía",
+    "date": "2026-11-26 22:36",
+    "image": "",
+    "title_en": "Exhiban penthouse of 19 million pesos linked to Luzo Elena González",
+    "summary_en": "A new scandal shattering Luz Elena González Escobar, currently an Energy Secretary of the federal government, after Carlos Loret de Mola exhibited documents from a property whose sales price would have been amounting to 19 million pesos. The report entitled The Hidden Penthouse of Luz Elena González presents images of the [...]"
+  },
+  {
+    "title": "Temperaturas en Mazatlán: prepárate antes de salir de casa",
+    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/temperaturas-en-mazatlan-preparate-antes-de-salir-de-casa/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:31",
+    "image": "https://www.infobae.com/resizer/v2/HJMB5EHFXJAFVEP6G54S6MDVPY.png?auth=1b59a030acc815aa514a55a1b77809e853ea9b5212908a05b00164551ecc8fa8&smart=true&width=1920&height=1080",
+    "title_en": "Temperatures in Mazatlan: get ready before you leave the house",
+    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
+  },
+  {
+    "title": "Las últimas previsiones para Ciudad de México: temperatura, lluvias y viento este 27 de noviembre",
+    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/las-ultimas-previsiones-para-ciudad-de-mexico-temperatura-lluvias-y-viento-este-27-de-noviembre/",
+    "category": "Estados",
+    "date": "2026-11-26 22:31",
+    "image": "https://www.infobae.com/resizer/v2/S4HRATMSCZC5LKID5MCCTKH54E.jpg?auth=5f842b3e8870fb1e0df3c1790ddbf09a18245077c7b0ede112949b8be48f71ca&smart=true&width=1456&height=816",
+    "title_en": "The latest forecasts for Mexico City: temperature, rain and wind this November 27",
+    "summary_en": "The lowest recorded temperature in Mexico was that of December 27, 1997, as the thermometer decreased to -25 degrees"
+  },
+  {
+    "title": "China asegura que relación con México no es contra terceros",
+    "summary": "El diplomático puntualizó que la cooperación corresponde a los intereses de ambos países y pueblos.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/internacionales/china-asegura-relacion-mexico-terceros-20261126-846129.html",
+    "category": "Economía",
+    "date": "2026-11-26 22:25",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/11/26/6b08d195e3354.r_d.813-613-0.jpeg",
+    "title_en": "China Assures That Relationship with Mexico Is Not Against third parties",
+    "summary_en": "The diplomat noted that cooperation corresponds to the interests of both countries and peoples."
+  },
+  {
+    "title": "VIDEOS: Así recibe la sierra de Durango la nevada de la primera tormenta invernal",
+    "summary": "Durango registra su primera nevada de la temporada invernal. La Rosilla alcanzó -13.5 grados y autoridades mantienen vigilancia.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/estados/2026/11/26/videos-asi-recibe-la-sierra-de-durango-la-nevada-de-la-primera-tormenta-invernal/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:21",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/QjIjfEKy60jXriGmOCb8evBlzjo=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NBDRJLSYKFFW5ETJBCMM6SGNOM.jpg",
+    "title_en": "VIDEOS: Thus receives the saw of Durango the snow of the first winter storm",
+    "summary_en": "Durango records his first winter snow. La Rosilla reached -13.5 degrees and authorities are monitoring."
+  },
+  {
+    "title": "Puerto Vallarta: el estado del tiempo para este 27 de noviembre",
+    "summary": "Debido a su ubicación geográfica, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/puerto-vallarta-el-estado-del-tiempo-para-este-27-de-noviembre/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:20",
+    "image": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&smart=true&width=1920&height=1080",
+    "title_en": "Puerto Vallarta: The state of time for this November 27",
+    "summary_en": "Due to its geographical location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
+  },
+  {
+    "title": "Predicción del clima: estas son las temperaturas en Culiacán Rosales",
+    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/prediccion-del-clima-estas-son-las-temperaturas-en-culiacan-rosales/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:19",
+    "image": "https://www.infobae.com/resizer/v2/LKSZU72PPFBCNCTAN3EYUOSYGY.png?auth=29194d3058a3a50b319665d1a0255e537b3615c5182dc01a963d82465b089c6b&smart=true&width=1920&height=1080",
+    "title_en": "Climate prediction: these are temperatures at Culiacan Rosales",
+    "summary_en": "The lowest recorded temperature in Mexico was that of December 27, 1997, as the thermometer decreased to -25 degrees"
+  },
+  {
+    "title": "Clima en Santiago Ixcuintla: temperatura y probabilidad de lluvia para este viernes 27 de noviembre",
+    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/clima-en-santiago-ixcuintla-temperatura-y-probabilidad-de-lluvia-para-este-viernes-27-de-noviembre/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:19",
+    "image": "https://www.infobae.com/resizer/v2/V55K73VDGZGBJP3URF3KFHH7YQ.png?auth=9394ef9f492638265edb585b9d92cd7caf11c52de86ca61132dbed0926cb3a98&smart=true&width=1920&height=1080",
+    "title_en": "Climate in Santiago Ixcuintla: temperature and rain probability for this Friday November 27",
+    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
+  },
+  {
+    "title": "Previsión meteorológica del estado del tiempo en Ecatepec para este viernes 27 de noviembre",
+    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/prevision-meteorologica-del-estado-del-tiempo-en-ecatepec-para-este-viernes-27-de-noviembre/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:19",
+    "image": "https://www.infobae.com/resizer/v2/WHC4WVADFJFFZKHHRCTDSAEVOE.png?auth=dedba864f0a8bf1abeda6eae563dc5b7c72c7857103d8d1428e29833c20dd16a&smart=true&width=1920&height=1080",
+    "title_en": "Weather forecasts of the state of time at Ecatepec for this Friday, November 27",
+    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
+  },
+  {
+    "title": "Diputados y senadores reciben Premio Águila Canacintra 2026; 31 figuras políticas fueron reconocidas",
+    "summary": "La presidenta del organismo empresarial, María de Lourdes Medina Ortega destacó el diálogo institucional entre el sector industrial y el Poder Legislativo para enfrentar retos económicos",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/diputados-y-senadores-reciben-premio-aguila-canacintra-2026-31-figuras-politicas-fueron-reconocidas/",
+    "category": "Nación",
+    "date": "2026-11-26 22:18",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/HX42XXDGTBE7RIWPSG4VRRHBDI.jpg?auth=e60236e76862f8c5436b589eb01c2e96b809ef1e67fa74cbb8f6217efe3c5132&smart=true&width=500",
+    "title_en": "deputies and senators are awarded Canacintra 2026 Eagle Award and 31 political figures have been recognised",
+    "summary_en": "The president of the company, María de Lourdes Medina Ortega emphasized the institutional dialogue between industry and the Legislature to face economic challenges"
+  },
+  {
+    "title": "CNTE retoma diálogo con gobierno; siguen pendientes Ley Issste y desaparición de Usicamm",
+    "summary": "",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/cnte-retoma-dialogo-con-gobierno-siguen-pendientes-ley-issste-y-desaparicion-de-usicamm/",
+    "category": "Política",
+    "date": "2026-11-26 22:18",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/DKQVO55D3VF3DC2Y5A6KE4Q3PM.jpeg?auth=981ccc083649f34b32d9bc7bfc0f3ef318c67b53b37aba89d3b70d53854dd71d&smart=true&width=500",
+    "title_en": "CNTE Reacts Dialogue with Government, Issste Act and Uscamm's Missing"
+  },
+  {
+    "title": "Despliegan operativo en Guasave por presunto artefacto explosivo cerca de la Secretaría de Educación",
+    "summary": "Autoridades de Sinaloa desplegaron un dispositivo ante la amenaza por un presunto artefacto explosivo.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/estados/2026/11/26/despliegan-operativo-en-guasave-por-presunto-artefacto-explosivo-cerca-de-la-secretaria-de-educacion/",
+    "category": "Estados",
+    "date": "2026-11-26 22:18",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Jq4UyS2tMMoagx-Eg0m1qvjO8tQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IUFGPRTRN5DRZGCGCCX4RCWDV4.jpg",
+    "title_en": "They have been deployed at Guasave for alleged explosive device near the Ministry of Education",
+    "summary_en": "Sinaloa authorities deployed a device to the threat by an alleged explosive device."
+  },
+  {
+    "title": "Pronóstico del clima en Acapulco de Juárez este 27 de noviembre: temperatura, lluvias y viento",
+    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/pronostico-del-clima-en-acapulco-de-juarez-este-27-de-noviembre-temperatura-lluvias-y-viento/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:18",
+    "image": "https://www.infobae.com/resizer/v2/LTD2IZU2XZHJ7HF3UWSH6TA7WI.png?auth=5e912c6aa3df9a494f339ad71b23657b4162064b40fce5adc5df692cae4733cb&smart=true&width=1920&height=1080",
+    "title_en": "A climate diagnosis at Acapulco de Juárez this November 27: temperature, rain and wind",
+    "summary_en": "The lowest recorded temperature in the Mexican territory was that of December 27, 1997, as the thermometer declined to the -25 degrees."
+  },
+  {
+    "title": "Temperaturas en Mérida: prepárate antes de salir de casa",
+    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/temperaturas-en-merida-preparate-antes-de-salir-de-casa/",
+    "category": "Nación",
+    "date": "2026-11-26 22:18",
+    "image": "https://www.infobae.com/resizer/v2/IBCQMKDY7RBY5IOO7CIQIBRRCE.png?auth=1537d0bef91f48fd7045e1465362a121f7836c6138d83a18462c989bfe8cdd1a&smart=true&width=1920&height=1080",
+    "title_en": "Temperatures in Merida: get ready before you leave the house",
+    "summary_en": "The lowest temperature in the country was that of 27 December 1997, as the thermometer declined to -25 degrees"
+  },
+  {
+    "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Puebla de Zaragoza este 27 de noviembre",
+    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-puebla-de-zaragoza-este-27-de-noviembre/",
+    "category": "Estados",
+    "date": "2026-11-26 22:18",
+    "image": "https://www.infobae.com/resizer/v2/BHOGCUQVUVAM5A3ZTOJUYT67HI.png?auth=c9d121d20dfdc701c22cb5cb4999c3fc99641a9ff464eed4036c67a2d425075e&smart=true&width=1920&height=1080",
+    "title_en": "Farewell to uncertainty, know about climate conditions at Puebla de Zaragoza this November 27",
+    "summary_en": "The lowest recorded temperature in Mexico was that of December 27, 1997, as the thermometer decreased to -25 degrees"
+  },
+  {
+    "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Monterrey este 27 de noviembre",
+    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-monterrey-este-27-de-noviembre/",
+    "category": "Nación",
+    "date": "2026-11-26 22:17",
+    "image": "https://www.infobae.com/resizer/v2/H3VVX23BAFAUXMSL4DO4PCCFAY.png?auth=388ad03c4736ab179f6fda5d75c8dd8efbaa7960a4c8984c3c355ab7bd08aab2&smart=true&width=1920&height=1080",
+    "title_en": "Farewell to uncertainty, know climate conditions at Monterrey on November 27",
+    "summary_en": "The lowest temperature in the country was that of 27 December 1997, as the thermometer declined to -25 degrees"
+  },
+  {
+    "title": "Las últimas previsiones para Tijuana: temperatura, lluvias y viento este 27 de noviembre",
+    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/las-ultimas-previsiones-para-tijuana-temperatura-lluvias-y-viento-este-27-de-noviembre/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:17",
+    "image": "https://www.infobae.com/resizer/v2/ES3SLBIXOZCRHMVSFGKG7W244E.png?auth=38ea33f9517573cc0e2306d0dead9168d77ae6de48262ea4bf24867035b5e5a9&smart=true&width=1920&height=1080",
+    "title_en": "The latest forecasts for Tijuana: temperature, rain and wind this November 27",
+    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
+  },
+  {
+    "title": "Clima: temperatura y probabilidad de lluvia para Guadalajara este 27 de noviembre",
+    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/clima-temperatura-y-probabilidad-de-lluvia-para-guadalajara-este-27-de-noviembre/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:17",
+    "image": "https://www.infobae.com/resizer/v2/SGDHSU6UNNDWRODNWHHK6QZ6AY.png?auth=c17e95996fc72d9b217616f87ad35325a406f14310efb838234096ebada94750&smart=true&width=1920&height=1080",
+    "title_en": "Climate: temperature and rain probability for Guadalajara this November 27",
+    "summary_en": "The lowest recorded temperature in the Mexican territory was that of December 27, 1997, as the thermometer declined to the -25 degrees."
+  },
+  {
+    "title": "Informalidad laboral aumenta en 18 estados mexicanos",
+    "summary": "Durante el tercer trimestre del 2026, Durango, Nayarit y Michoacán presentaron los mayores incrementos anuales.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/estados/informalidad-laboral-aumenta-18-estados-mexicanos-20261126-846125.html",
+    "category": "Estados",
+    "date": "2026-11-26 22:16",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/08/28/6a9123e78d434.jpeg",
+    "title_en": "Labour information increased in 18 Mexican states",
+    "summary_en": "During the third quarter of 2026, Durango, Nayarit and Michoacan had the highest monthly increases."
+  },
+  {
+    "title": "Prepárase antes de salir: Este es el pronóstico del clima en Cancún este 27 de noviembre",
+    "summary": "La temperatura más alta registrada en el país fue la del 6 de julio de 1966, cuando el termómetro subió hasta los 58.5 grados",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-cancun-este-27-de-noviembre/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-26 22:16",
+    "image": "https://www.infobae.com/resizer/v2/6DZTHOW5SJCOXA6LVI4FXRMRDA.png?auth=e6940630f11354f40218612183ec1fd02d73dad51a01d5775030cbfb81834e23&smart=true&width=1920&height=1080",
+    "title_en": "Prepare to leave: That's the climate forecast in Cancún this November 27.",
+    "summary_en": "The highest temperature in the country was that of 6 July 1966, as the thermometer increased to 58.5 degrees"
+  },
+  {
+    "title": "¿Será más fácil divorciarte? Sheinbaum envía al Congreso reforma en materia de Justicia familiar",
+    "summary": "La Cámara de Diputados recibió la iniciativa de reforma de la presidenta Claudia Sheinbaum que facilitará el trámite de divorcio, así como las adopciones y pensiones alimenticias.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/sera-mas-facil-divorciarte-sheinbaum-envia-al-congreso-reforma-en-materia-de-justicia-familiar/",
+    "category": "Política",
+    "date": "2026-11-26 22:07",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/T4CztIUxbCM63y8WOrNyV_xIy-g=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YT3LD4Y5RRBPZM7IKWEPYLU5FA.jpg",
+    "title_en": "Can you get a divorce easier? Sheinbaum sends family justice reform to Congress",
+    "summary_en": "The House of Deputies received an initiative to reform President Claudia Sheinbaum that will facilitate divorce proceedings and adoption and maintenance."
+  },
+  {
+    "title": "Banco de México prevé más crecimiento sin presiones de demanda hasta el 2028",
+    "summary": "Volatilidad del peso, bajo vigilancia.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/economia/banco-mexico-preve-crecimiento-presiones-demanda-20261126-846123.html",
+    "category": "Economía",
+    "date": "2026-11-26 22:04",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/01/09/69618e40a00cf.webp",
+    "title_en": "Bank of Mexico expects more growth without demand pressures up to 2028",
+    "summary_en": "Value of weight under surveillance."
+  },
+  {
     "title": "Ayuntamiento de Mérida recupera inmueble que era utilizado como estacionamiento clandestino en el Centro Histórico",
     "summary": "Una plaza municipal ubicada en la esquina de las calles 65 y 54 del Centro Histórico, que durante años operó como estacionamiento clandestino y tiradero nocturno de desechos, fue recuperada por el Ayuntamiento de Mérida con el apoyo de la Policía Municipal y la Agencia de Transporte de Yucatán (ATY). De acuerdo con un comunicado […]",
     "source": "Diario de Yucatán",
@@ -11,15 +515,15 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "A town square located at the corner of 65 and 54 streets of the historic centre, which for years operated as an underground parking and night waste dump, was retrieved by the Mérida town hall with the support of the Municipal police and the Yucatan Transport Agency (ATY). According to a [...]"
   },
   {
-    "title": "León vs Cruz Azul EN VIVO; Sigue aquí los Cuartos de Final de la Liguilla del Apertura 2026",
-    "summary": "No te pierdas ninguna acción de este encuentro",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/deportes/leon-vs-cruz-azul-en-vivo-sigue-aqui-los-cuartos-de-final-de-la-liguilla-del-apertura-2026/",
-    "category": "Deportes",
-    "date": "2026-11-26 22:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/WB3QCHI2MVBQJFIPW4O4VQRAGA.jpg?auth=319fac3b4fe6f59a3a997d2ce4071fc34e4a1b8781b8f9060e5f3c190f16c5df&smart=true&width=500",
-    "title_en": "Lion vs. Blue Cross EN VIVO and remains here at the end of the Liguilla of the Opening 2026",
-    "summary_en": "Do not miss any actions from this meeting"
+    "title": "Afore XXI Banorte, la que más ahorros de cuentas inactivas ha transferido al FPB",
+    "summary": "Desde la creación del Fondo de Pensiones del Bienestar, en el 2024, hasta septiembre del 2026, ha transferido 6,893 millones de pesos de ahorros que estaban en dichas cuentas.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/sectorfinanciero/afore-xxi-banorte-ahorros-cuentas-inactivas-transferido-fpb-20261126-846122.html",
+    "category": "Economía",
+    "date": "2026-11-26 22:01",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/04/29/681108f94c549.jpeg",
+    "title_en": "Afore XXI Banorte, most of which have been transferred to FPB",
+    "summary_en": "From the establishment of the Welfare Pension Fund in 2024 to September 2026, it has transferred 6.893 million pesos of savings that were in these accounts."
   },
   {
     "title": "Banamex quiere que más mexicanos inviertan de manera sencilla y segura; lanza herramienta",
@@ -209,17 +713,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Pachuca got his lead at the final quarter of a year against the Chivas, who are forced to gain his turn to advance."
   },
   {
-    "title": "Pachuca remonta a Chivas con pinceladas de Oussama Idrissi",
-    "summary": "El marroquí firmó dos golazos para que los Tuzos dieran vuelta al marcador en la ida de cuartos de final; Guadalajara tiene que ganar al menos por un tanto en la vuelta para ser semifinalista.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/deportes/pachuca-vence-chivas-guadalajara-torneo-apertura-2026-quedo-marcador-20261126-846117.html",
-    "category": "Economía",
-    "date": "2026-11-26 21:32",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08f9ab6d335.jpeg",
-    "title_en": "pachuca goes back to Chivas with Oussama Idrissi's brush",
-    "summary_en": "The Moroccan signed two strokes for the Tuzo to turn the score back at the end of the quarter. Guadalajara has to gain at least for a while to be a semifinalist."
-  },
-  {
     "title": "SEP se pronuncia por muerte de Dulce Guadalupe, estudiante de 14 años que sufrió una presunta agresión en secundaria de Zacatecas",
     "summary": "La adolescente falleció tras permanecer hospitalizada por un golpe en la cabeza durante un presunto caso de violencia escolar: su familia denunció una agresión por parte de otra estudiante y posibles omisiones del plantel",
     "source": "Infobae México",
@@ -229,17 +722,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.infobae.com/resizer/v2/4W3CS7WW7ZEUBA2ODZJMMYK224.png?auth=9cd0efe8f2fc9e87e755981b118b663477859996a2008c05b92e817617b1c3df&smart=true&width=2752&height=1536",
     "title_en": "SEP pronounced his death as Dulce Guadalupe, a 14 year old student with an alleged assault at Zacatecas high school",
     "summary_en": "The teenage girl died after being hospitalized with a blow to the head during an alleged case of school violence: her family reported an assault by another student and potential omissions by his family"
-  },
-  {
-    "title": "Luis Donaldo Colosio Riojas quiere gobernar Sonora",
-    "summary": "Tras su registro como aspirante a la candidatura del partido Movimiento Ciudadano (MC) al gobierno de aquel estado, afirmó que “los mismo de siempre’’ tratan de desprestigiarlo y que “están dispuestos a todo para que nada cambie’’.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/politica/luis-donaldo-colosio-riojas-quiere-gobernar-sonora-20261126-846116.html",
-    "category": "Estados",
-    "date": "2026-11-26 21:26",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08f734cb848.jpeg",
-    "title_en": "Luis Donaldo Colosio Riojas wants to govern Sonora",
-    "summary_en": "Following his registration as an aspirant for the Civil Movement (MC) party's candidacy to the government of that state, he stated that \"the same as usual\" are trying to put him down and that \"they are ready to do anything to change anything.\""
   },
   {
     "title": "Caen 4 presuntos integrantes de red que, presumiblemente, mataba a personas para cobrar seguros de vida en Jalisco; aseguran más de 2 mdp",
@@ -275,28 +757,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Don't miss any meeting actions"
   },
   {
-    "title": "Cofepris alerta por venta de Duvalín Untable falsificado: ¿Cómo identificarlo y qué riesgos tiene?",
-    "summary": "Cofepris advirtió que el Duvalín Untable se comercializa en plataformas digitales, pese a que dejó de fabricarse en septiembre de 2021.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/salud/2026/11/26/cofepris-alerta-por-venta-de-duvalin-untable-falsificado-como-identificarlo-y-que-riesgos-tiene/",
-    "category": "Economía",
-    "date": "2026-11-26 21:17",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/3ZkNqGcTzl4aO4vgxkcJCGaFpRQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3CMFUQCY5RFR5MWTEXNDJGK5ME.jpeg",
-    "title_en": "Coffee alert for sale from Duvalín Untable counterfeit: How to identify and what risks have you got?",
-    "summary_en": "Cofepris warned that Duvalín Untable was commercialised on digital platforms, although it stopped manufacturing in September 2021."
-  },
-  {
-    "title": "Alerta de explosivo obliga a evacuar escuelas y oficinas en Guasave: autoridades encuentran un condensador eléctrico",
-    "summary": "Elementos de la Célula Especializada en Explosivos de la Guardia Nacional revisaron el objeto localizado en la colonia Revolución Mexicana",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/alerta-de-explosivo-obliga-a-evacuar-escuelas-y-oficinas-en-guasave-autoridades-encuentran-un-condensador-electrico/",
-    "category": "Seguridad",
-    "date": "2026-11-26 21:16",
-    "image": "https://www.infobae.com/resizer/v2/34INCSZE5ZEPHNXIAILAAEZV4U.jpg?auth=d193dac7893a96276a8708504df14c5412f6653c16d9942eb9a76eaefd5250b7&smart=true&width=1920&height=1080",
-    "title_en": "Explosive alert forces to evacuate schools and office in Guasave: authorities find an electrical capacitor",
-    "summary_en": "Elements from the Special Explosives Cell of the National Guard reviewed the objects located in the Mexican Revolution colony"
-  },
-  {
     "title": "Tamaulipas recibe el Encuentro Nacional de Pueblos Mágicos y Comunitarios; es el primer encuentro que incorpora criterios de sostenibilidad",
     "summary": "Rodríguez Zamora destacó que esta edición tiene un enfoque sustentable, al convertirse en el primer encuentro de este tipo que incorpora criterios de sostenibilidad",
     "source": "El Universal",
@@ -330,39 +790,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "'Spider-Man: Brand New Day 'will have a re-premiere in Mexican cinemas with unpublished material that lengthens the film's duration."
   },
   {
-    "title": "En enero iniciará la ampliación del Puente Internacional Nuevo Laredo III en Tamaulipas: SOP",
-    "summary": "La Secretaría de Obras (a través de la Comisión para la Licitación de Obras Públicas) informó que recibió dos propuestas para la primera etapa de ampliación y dos para la segunda etapa.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/enero-iniciara-ampliacion-puente-internacional-nuevo-laredo-iii-tamaulipas-sop-20261126-846114.html",
-    "category": "Estados",
-    "date": "2026-11-26 21:10",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2019/09/06/66e950579ce5e.jpeg",
-    "title_en": "The extension of the New Laredo III International Bridge at Tamaulipas will begin in January: SOP",
-    "summary_en": "The Construction Secretariat (through the Commission for Public Works) reported that it received two proposals for the first phase of extension and two proposals for the second phase."
-  },
-  {
-    "title": "Cae en Mexicali el hijo de “El Isra”, líder de Los Rusos en Baja California",
-    "summary": "Junto a Jesús Eduardo Trigueros se detuvo a otro sujeto identificado como Abraham “N”",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/cae-en-mexicali-el-hijo-de-el-isra-lider-de-los-rusos-en-baja-california/",
-    "category": "Estados",
-    "date": "2026-11-26 21:09",
-    "image": "https://www.infobae.com/resizer/v2/3TYNH3JKAVHPLGFQUQ3JE24OAI.jpg?auth=32d9ad7991f65ea312b9489f0cded70fdb1651ef5832e663731de1e44d3001d4&smart=true&width=1920&height=1080",
-    "title_en": "The son of \"El Isra,\" leading Russian in Baja California, falls in Mexicali",
-    "summary_en": "At his place with Jesus Edward Trigueros another person was arrested as Abraham \"N\""
-  },
-  {
-    "title": "Debilitan a “Los Mayos” con un decomiso de más de 14 millones de pesos de droga en Mexicali: hay un detenido",
-    "summary": "Efectivos militares confiscaron cincuenta kilogramos de metanfetamina",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/debilitan-a-los-mayos-con-un-decomiso-de-mas-de-14-millones-de-pesos-de-droga-en-mexicali-hay-un-detenido/",
-    "category": "Nación",
-    "date": "2026-11-26 21:06",
-    "image": "https://www.infobae.com/resizer/v2/2RSR44BHYZBK3C6L3G5X3MY62U.jpg?auth=145e2c659dfab6621e8568f84395a78a101294e95d220425aa3e981a8ff8a700&smart=true&width=1920&height=1080",
-    "title_en": "They give back to \"Los Mayos\" with a confiscation of more than 14 million pesos of drugs in Mexicali: there's a detainee",
-    "summary_en": "Military personnel confiscated 50 kilograms of methamphetamine"
-  },
-  {
     "title": "‘Que se vayan todos’: Arturo Ávila reta a oposición a eliminar diputados plurinominales",
     "summary": "¿No quieren sobrerrepresentación? Arturo Ávila retó a la oposición a debatir para eliminar los diputados plurinominales.",
     "source": "El Financiero",
@@ -374,17 +801,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Don't you want some overrepresentation? Arturo Ávila challenges opposition to discuss to eliminate plurinominal deputies."
   },
   {
-    "title": "El peso vuelve a perder y consolida su peor racha desde 2023",
-    "summary": "En lo que va del penúltimo mes de año, la moneda mexicana pierde cerca de 5.05% y en lo que va del presente año, se deprecia 9.70 por ciento.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/mercados/peso-vuelve-perder-consolida-peor-racha-20261126-846113.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:59",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08f1bb20a91.jpeg",
-    "title_en": "The weight will lose again and consolidate its worse streak since 2023",
-    "summary_en": "For the last few months of the year, the Mexican currency loses about 5.05% and as far as this year goes, it depreciates 9.70%."
-  },
-  {
     "title": "Localizan cráneo y fémur y un mensaje frente a Plaza de Armas en Durango; señalan posible brujería",
     "summary": "CIUDAD DE MÉXICO.- Un nuevo hallazgo de restos óseos acompañado de un mensaje llamó la atención de las autoridades en Gómez Palacio, Durango. Este jueves por la mañana, un cráneo y un fémur presuntamente humanos fueron encontrados frente a la Plaza de Armas, sobre un medidor de energía eléctrica y junto a un cartel con […]",
     "source": "Diario de Yucatán",
@@ -394,17 +810,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "",
     "title_en": "They place skull and femur and a message in front of Plaza de Armas at Durango and point to potential witchcraft",
     "summary_en": "MÉXICO.- A new finding of bone remains accompanied by a message attracted the attention of authorities at Gómez Palacio, Durango. That Thursday morning, a skull and a allegedly human femur were found in front of the Plaza de Armas, about an electrical power meter and with a sign with [...]"
-  },
-  {
-    "title": "Detienen a Hugo Lozano, exdirector de CAPAMA, en Acapulco por circular en camioneta robada",
-    "summary": "El exfuncionario fue interceptado por policías estatales en el centro del puerto; mujeres que lo acompañaban intentaron impedir que se lo llevaran",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/detienen-a-hugo-lozano-exdirector-de-capama-en-acapulco-por-circular-en-camioneta-robada/",
-    "category": "Nación",
-    "date": "2026-11-26 20:57",
-    "image": "https://www.infobae.com/resizer/v2/XYGDT24ZMRF47GEQAYIXZDE3PU.png?auth=483cb55fc8293a04d9006724864ff675195aae894d54ea1571023b04d9e349ba&smart=true&width=2752&height=1536",
-    "title_en": "Hugo Lozano, former director of CAMAMA, arrested at Acapulco for passing by stolen truck",
-    "summary_en": "The former official was intercepted by state police at the port centre and his accompanying women have been trying to stop his conduct."
   },
   {
     "title": "UAM propone revisar planes de estudio ante paro estudiantil; alumnos exigen mejora en sanitarios, laboratorios y enseñanza",
@@ -429,39 +834,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "To date, the victim's identity has been undisclosed"
   },
   {
-    "title": "Extradita Colombia a Estados Unidos a un mexicano acusado de lavar dinero para el narcotráfico",
-    "summary": "El detenido José María Ruiz Migoya fue entregado tras meses de trámites judiciales en Bogotá",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/extradita-colombia-a-estados-unidos-a-un-mexicano-acusado-de-lavar-dinero-para-el-narcotrafico/",
-    "category": "Nación",
-    "date": "2026-11-26 20:51",
-    "image": "https://www.infobae.com/resizer/v2/NP4LGG7AJREBDIJG65HKX5F5CQ.jpg?auth=a88a2ac02e6d4473cd3cc06b2486992d90660ff6734b118763a00cae4a551310&smart=true&width=1920&height=1080",
-    "title_en": "Extradite Colombia to the U.S. to a Mexican accused of laundering money for drug trafficking",
-    "summary_en": "The detainee José María Ruiz Migoya was delivered after months of judicial proceedings in Bogotá"
-  },
-  {
-    "title": "Pemex atiende incendio en ducto de Cadereyta, Nuevo León: investiga el origen del accidente",
-    "summary": "La petrolera desplegó personal especializado en el ejido Las Palomitas para verificar las condiciones de la zona y determinar las causas del incidente",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/pemex-atiende-incendio-en-ducto-de-cadereyta-nuevo-leon-investiga-el-origen-del-accidente/",
-    "category": "Estados",
-    "date": "2026-11-26 20:50",
-    "image": "https://www.infobae.com/resizer/v2/Q6JZYVAIQJCT7JEDESQ4L53HOU.png?auth=d291950debb2f17244186c33cb607a107803a18cdada2f1fbea94a83fdb9d42f&smart=true&width=2752&height=1536",
-    "title_en": "Pemex caters for fire in Canal Cadereyta, Nuevo León: Research the origin of the incident",
-    "summary_en": "The oil company deployed specialist personnel at the Las Palomites ejido to check the conditions of the area and to determine the cause of the incident"
-  },
-  {
-    "title": "Personal especializado de Pemex atiende incidente en un ducto en Cadereyta",
-    "summary": "Petróleos Mexicanos detalló que su personal está verificando las condiciones del sitio.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/politica/personal-especializado-pemex-atiende-incidente-ducto-cadereyta-20261126-846112.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:47",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08ef0928c21.jpeg",
-    "title_en": "Special personnel from Pemex attends incident at a pipeline at Cadereyta",
-    "summary_en": "Mexican oils detailed that their personnel are monitoring the conditions of the site."
-  },
-  {
     "title": "Inversión de 2.4 millones de pesos para reparar calles en la Emiliano Zapata Sur",
     "summary": "Las calles de la Emiliano Zapata Sur I, en Mérida, eran un riesgo para quienes viven y transitan por la zona, contó la vecina Dalia Suaste Ek, quien agradeció que ya se estén reparando. El gobierno del Estado atiende 79 calles de esta colonia que abarcan una superficie de 504 metros cuadrados, con una inversión […]",
     "source": "Diario de Yucatán",
@@ -473,39 +845,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The streets of Emiliano Zapata Sur I, at Mérida, were a risk to those living and passing through the area, said neighbor Dalia Suaste Ek, who expressed his gratitude that they are currently being repaired. The state government caters for 79 streets of this colony that cover an area of 504 square metres with an investment [...]"
   },
   {
-    "title": "Bolsas mexicanas pierden 1.4% en jornada de feriado en EU",
-    "summary": "la Junta de Gobierno del Banco de México elevó su expectativa de crecimiento para la economía mexicana en 2026 de 1.5 a 1.9 por ciento.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/mercados/bolsas-mexicanas-pierden-1-4-jornada-feriado-eu-20261126-846111.html",
-    "category": "Deportes",
-    "date": "2026-11-26 20:43",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/01/09/6780618b9f015.jpeg",
-    "title_en": "Mexican bags lose 1.4% at EU holiday",
-    "summary_en": "The Bank of Mexico's Board of Government increased its growth expectations for the Mexican economy by 2026 from 1.5 to 1.9 percent."
-  },
-  {
-    "title": "Dmitry Bivol exhibe a Canelo Álvarez: no ha recibido oferta para la revancha",
-    "summary": "El campeón unificado de peso semipesado afirma que está dispuesto a enfrentar al mexicano, aunque no han hablado directamente ni hay negociaciones entre representantes",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/deportes/2026/11/27/dmitry-bivol-exhibe-a-canelo-alvarez-no-ha-recibido-oferta-para-la-revancha/",
-    "category": "Deportes",
-    "date": "2026-11-26 20:42",
-    "image": "https://www.infobae.com/resizer/v2/NMS2WKIDL4FZEL66VSJTWVCBAI.jpg?auth=56e46f6c8ca1d6e13a436c8bc2c72ed1c84952208da2eae6601b9477474c7b26&smart=true&width=4097&height=2731",
-    "title_en": "Dmitry Birol exhibits Canelo Alvarez: No offer for rematch",
-    "summary_en": "The united half-heavy champion claims his willingness to face the Mexican, though they have been silent and negotiations between representatives"
-  },
-  {
-    "title": "HSBC México lanza herramienta",
-    "summary": "NVIDIA suspende envíos de chips​Musk donará acciones de SpaceX​FibraShop pacta dos financiamientos",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/mercados/hsbc-mexico-lanza-herramienta-20261126-846110.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:41",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2023/10/20/66e47eebb5b87.jpeg",
-    "title_en": "HSBC Mexico Launches Tool",
-    "summary_en": "NVIDIA suspends shipments of chips)) Musk will donate actions of SpaceX)) FibraShop pacts two financing"
-  },
-  {
     "title": "Primavera Sound Buenos Aires 2026: ¿Cuándo y dónde ver EN VIVO a Gorillaz y The Strokes desde México?",
     "summary": "Consulta los horarios de Primavera Sound 2026 en CDMX para ver a Gorillaz, The Strokes y más artistas en vivo a través de Disney+.",
     "source": "El Financiero",
@@ -515,83 +854,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/f1NE6sbOIKxNT9ve0u-A09UdCG8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RDKHYIDTEFGPFPZGDZNRS2RLWE.jpg",
     "title_en": "Spring Sound Buenos Aires 2026: When and where to see Gordillazo and The Strokes from Mexico?",
     "summary_en": "See Spring Sound 2026 at CDMX to watch Gorillazo, The Strokes and more live artists through Disney +."
-  },
-  {
-    "title": "El español, la gran puerta del libro italiano al mundo",
-    "summary": "Hay un vínculo especial que une al mundo del libro italiano con la Feria Internacional del Libro (FIL) de Guadalajara, donde este año nuestro país es invitado de honor. Ese vínculo no se debilitará cuando se apaguen las luces de la 40.ª edición, que se inaugura el 28 de noviembre. Nuestra historia puede contarse de muchas maneras y hoy quiero hacerlo a…",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/opinion/espanol-gran-puerta-libro-italiano-mundo-20261126-846108.html",
-    "category": "Cultura",
-    "date": "2026-11-26 20:36",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/06/03/683f1fdbba0b2.r_d.1000-562-0.png",
-    "title_en": "Spanish, the great door of the Italian book to the world",
-    "summary_en": "There's a special link that links the world of the Italian book with the International Book Fair (FIL) of Guadalajara, where this year our country's guest of honor. That link will not be weakened after the lights of the 40th edition have been put out and opened on November 28. Our story can be told in many ways and today I want to do it to..."
-  },
-  {
-    "title": "Mariana BO responde al comunicado de José Eduardo Derbez y lo acusa de desacreditarla para cuidar su imagen",
-    "summary": "La DJ mexicana publica un mensaje donde acusa al actor de proteger su imagen al desacreditarla por pone límites, horas después del comunicado de Derbez",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/mariana-bo-responde-al-comunicado-de-jose-eduardo-derbez-y-lo-acusa-de-desacreditarla-para-cuidar-su-imagen/",
-    "category": "Cultura",
-    "date": "2026-11-26 20:34",
-    "image": "https://www.infobae.com/resizer/v2/WEUOTUJ3GVAAFJYZJ6RK4FXPK4.jpg?auth=5972a43f27bf21f8d9422be9ee0483aca19f4285efd17fcc825ac11d10a07a90&smart=true&width=1200&height=675",
-    "title_en": "Mariana BO responded to José Eduardo Derbez's statement and accused him of discrediting her to care for his image",
-    "summary_en": "The Mexican DJ issues a message accusing the actor of protecting his image by discrediting his image by setting limits, hours after Derbez's statement"
-  },
-  {
-    "title": "México recuperará 85% de su capacidad para exportar ganado a EU tras apertura de Nogales: Senasica",
-    "summary": "Tras la suspensión de las exportaciones por la presencia de la plaga, México ha reabierto gradualmente los puntos de salida de ganado hacia Estados Unidos, recordó Francisco Javier Calderón, director en jefe del Senasica.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/mexico-recuperara-85-capacidad-exportar-ganado-eu-apertura-nogales-senasica-20261126-846106.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:33",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/02/18/67b507b98fced.jpeg",
-    "title_en": "Mexico will recover 85% of its capacity to export cattle to the US after Nogales's opening: Senasica",
-    "summary_en": "Following the suspension of exports by the presence of the plague, Mexico has gradually re-opened cattle outlays to the U.S., remarked Francisco Javier Calderon, head of Senasica."
-  },
-  {
-    "title": "Influenza aviar en Umán: Agricultura aprueba vacunación en ocho municipios de Yucatán",
-    "summary": "Reportes sobre la mortalidad de aves llevaron a la activación de protocolos para frenar la expansión del virus",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/influenza-aviar-en-uman-agricultura-aprueba-vacunacion-en-ocho-municipios-de-yucatan/",
-    "category": "Salud",
-    "date": "2026-11-26 20:29",
-    "image": "https://www.infobae.com/resizer/v2/HRHTIYL7LJGN3DEFREON44TSNI.jpg?auth=98fb8e19f329475423c581de392468bc52609606ea5a809469e179fea60e76b2&smart=true&width=650&height=380",
-    "title_en": "Avian Influenza in Uman: Agriculture approves vaccination in eight municipalities of Yucatan",
-    "summary_en": "Reporting about bird mortality led to activated protocols to stop virus expansion"
-  },
-  {
-    "title": "Morena acusa a Lorenzo Córdova de cambiar su postura sobre la sobrerrepresentación",
-    "summary": "Ariadna Montiel difundió una grabación en la que el exconsejero del INE sostiene que el tope constitucional de 8% debe revisarse individualmente para cada fuerza política",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/morena-acusa-a-lorenzo-cordova-de-cambiar-su-postura-sobre-la-sobrerrepresentacion/",
-    "category": "Política",
-    "date": "2026-11-26 20:28",
-    "image": "https://www.infobae.com/resizer/v2/3E4PWAPBHFETNPJ6SEYFHH3WBY.jpg?auth=28efd5eaa3775f1d34c383394ca8bd8140271be2e065d3666221991826768def&smart=true&width=1920&height=1080",
-    "title_en": "Brunette accuses Lorenzo Córdova of changing his posture about overrepresentation",
-    "summary_en": "Ariadna Montiel released a film with his former INE advisor claiming that the 8% constitutional ceiling should be reviewed individually for each political force"
-  },
-  {
-    "title": "Conoce el setlist oficial de Hayley Williams para el Auditorio Nacional de la CDMX",
-    "summary": "La cantautora estadounidense trae a la Ciudad de México 25 canciones de su tour global",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/conoce-el-setlist-oficial-de-hayley-williams-para-el-auditorio-nacional-de-la-cdmx/",
-    "category": "Estados",
-    "date": "2026-11-26 20:22",
-    "image": "https://www.infobae.com/resizer/v2/DAPXOPOFQFDYNGZARGM7FZIMQM.jpg?auth=80b0365a23614dd07188d61e83e335c47d8a7cf9f40502a0b18be1b0bcb3f68b&smart=true&width=1920&height=1080",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
-  },
-  {
-    "title": "IMSS recaba 10,000 millones de pesos con primera bursatilización",
-    "summary": "El Instituto Mexicano del Seguro Social llevó a cabo su primera emisión de créditos hipotecarios.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/mercados/imss-recaba-10-000-millones-pesos-primera-bursatilizacion-20261126-846101.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:20",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/12/6acd48f744c5e.jpeg",
-    "title_en": "IMSS earned 10 billion pesos with first bursations",
-    "summary_en": "The Mexican Social Security Institute conducted its first issue of mortgage credit."
   },
   {
     "title": "Cinemex tendrá boletos a 39 pesos por el Black Friday: ¿Qué películas entran en la promoción?",
@@ -614,39 +876,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.eluniversal.com.mx/resizer/v2/HHFT4ZQPNRDHXEIW6CPHGMCFVA.png?auth=16246e8ad60c6b3ee04a0cec4e76816e2e55b2a05a6aeaf543aae6b503874ed5&smart=true&width=500",
     "title_en": "Coffepris alert for forgery of Filatil, Ozempic, Saxenda and Duvalín and warns health risks",
     "summary_en": "The health authority requested to avoid the purchase and consumption of products, as they have been unaware of their provenance and manufacturing and storage conditions"
-  },
-  {
-    "title": "Oaxaca registra sismo de 4.1 de intensidad en Crucecita",
-    "summary": "El movimiento sísmico tuvo lugar a las 16:17 horas, a una distancia de 23 km de Crucecita y tuvo una profundidad de 24.1 km",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/oaxaca-registra-sismo-de-41-de-intensidad-en-crucecita/",
-    "category": "Estados",
-    "date": "2026-11-26 20:16",
-    "image": "https://www.infobae.com/resizer/v2/IVAV5TIJM5FS3JVFJ2YGPI2FEQ.jpg?auth=cc126fd72c9b26bf7cab7aa7113d1512c68c51b58e8e2731c2a95f2c6a8cfe6e&smart=true&width=1920&height=1080",
-    "title_en": "Oaxaca Record 4.1 Intensified Seism at Crucisita",
-    "summary_en": "The seismic movement was at 4: 17 p.m., at a distance of 23 km from Crocecite and had a depth of 24.1 km"
-  },
-  {
-    "title": "Mazatlán consolida su turismo de cruceros",
-    "summary": "La actividad naviera durante los primeros 11 meses del 2026 ha generado una derrama económica superior a los 765 millones de pesos.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/estados/mazatlan-consolida-turismo-cruceros-20261126-846102.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:15",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/09/28/6abb329286091.jpeg",
-    "title_en": "Mazatlan consolidates his cruise tourism",
-    "summary_en": "The shipping activity during the first 11 months of 2026 has generated an economic spill of more than 765 million pesos."
-  },
-  {
-    "title": "Fibra Uno apunta a duplicar sus dividendos en 2027",
-    "summary": "Funo prevé elevar su generación de EBITDA a 28,500 millones de pesos hacia 2027.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/mercados/fibra-apunta-duplicar-dividendos-20261126-846100.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:15",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/11/12/6732f4da5a566.jpeg",
-    "title_en": "Fibra One aims to double its dividends by 2027",
-    "summary_en": "Funa expects to raise his EBITDA generation to 28,500 million pesos by 2027."
   },
   {
     "title": "Nueva ley para sustituir a la Usicamm tiene 95% de avance, afirma el SNTE",
@@ -693,39 +922,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Bradley C. Hanson regains his office as President of the Council and his Mexican regulator refused to take up his entire bench last February"
   },
   {
-    "title": "Festival Luces y Colores de Invierno llega al Museo de Historia Natural con danza, música y actividades familiares",
-    "summary": "El Museo de Historia Natural y Cultura Ambiental de Chapultepec reúne una agenda para todas las edades que combina ciencia, actividades temáticas y propuestas de temporada, con opciones gratuitas y de bajo costo",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/festival-luces-y-colores-de-invierno-llega-al-museo-de-historia-natural-con-danza-musica-y-actividades-familiares/",
-    "category": "Cultura",
-    "date": "2026-11-26 20:05",
-    "image": "https://www.infobae.com/resizer/v2/CKUKBCE54ZDLDARKZIIZS6KJMY.png?auth=f586ce8fcb7303f9dc3fcd4fafcda8694037c11b8e0f5a71d7add30035bb2c23&smart=true&width=2752&height=1536",
-    "title_en": "Winter lights and colors festival arrives at the Natural History Museum with dance, music and family activities",
-    "summary_en": "The Museo de Historia Natural and Cultura Ambiental de Chapultepec brings together an agenda for all ages that combines science, thematic activities and seasonal proposals with free and low-cost options"
-  },
-  {
-    "title": "Jorge Romero responde a Sheinbaum: Morena hace fraude con registro de candidaturas y el PAN sí participará en la elección",
-    "summary": "El dirigente nacional del blanquiazul no se quedó callado ante los diversos señalamientos que hizo la presidenta en su conferencia mañanera",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/jorge-romero-responde-a-sheinbaum-morena-hace-fraude-con-registro-de-candidaturas-y-el-pan-si-participara-en-la-eleccion/",
-    "category": "Nación",
-    "date": "2026-11-26 20:00",
-    "image": "https://www.infobae.com/resizer/v2/RBRIIPFVZVCNJGNPK5WNIRJ6MM.jpg?auth=1027fc4e0e17ce1f22c713ba9e2c1efd58bc41d42e28419929592b746802233f&smart=true&width=1920&height=1080",
-    "title_en": "Jorge Romero responded to Sheinbaum: Brunette makes fraud with registration and the NAP will participate in the election",
-    "summary_en": "The national leader of the blue whiteness did not be silent about the various statements made by the president at her morning conference"
-  },
-  {
-    "title": "Laura Zapata estalla contra Thalía luego de no visitar las cenizas de su abuela Eva Mange Márquez en su regreso a México",
-    "summary": "Tras el concierto junto a Karol G y el encuentro con Yolanda Andrade, la actriz respondió con ironía a los cuestionamientos sobre su hermana",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/laura-zapata-estalla-contra-thalia-luego-de-no-visitar-las-cenizas-de-su-abuela-eva-mange-marquez-en-su-regreso-a-mexico/",
-    "category": "Cultura",
-    "date": "2026-11-26 19:54",
-    "image": "https://www.infobae.com/resizer/v2/IEDWZZLEENGP5MNDLGS4VSUJCE.png?auth=e2e11589bf4e497d83d21b2e98736dc6f7ed41725a167cf6c51e8c2dd26b5a08&smart=true&width=2752&height=1536",
-    "title_en": "Laura Zapata starks at Thalia after she doesn't visit her grandmother Eva Mange Márquez's ashes while she's back to Mexico.",
-    "summary_en": "Following the concert with Karol G and his meeting with Yolanda Andrade, the actress responded with irony to questions about her sister"
-  },
-  {
     "title": "Llevan hasta el WC: ¿Cuándo y cómo participar en la promoción de palomitas ‘Trae tu canasta’?",
     "summary": "Mexicanos llevan lavadoras, inodoros y ollas para aprovechar la promoción de palomitas de Cinépolis por 169 pesos.",
     "source": "El Financiero",
@@ -735,17 +931,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/z4i7vp_WPtPM3Y5EOzSn6aRRSEA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L22J32CJPJF7JMVFN7DZL6BY6M.png",
     "title_en": "They lead to the WC: When and how to participate in the promotion of 'Bring Your Basket' Popcorn?",
     "summary_en": "Mexican have washing machines, toilets and pots to gain from the promotion of cinebpoli's palomites for 169 pesos."
-  },
-  {
-    "title": "Banamex lanza nueva herramienta de inversión desde su app",
-    "summary": "Jenny Ramírez Bribiesca, directora de transformación digital e inversiones de Banamex, destacó que una de las principales metas con esta nueva opción, es que crezca ese 9.0% de los clientes que hoy invierten.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/sectorfinanciero/banamex-lanza-nueva-herramienta-inversion-app-20261126-846094.html",
-    "category": "Tecnología",
-    "date": "2026-11-26 19:49",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/04/29/69f2b3a80fdc2.jpeg",
-    "title_en": "Banamex launches new investment tool from its app",
-    "summary_en": "Jenny Ramirez Bribiesca, director of digital transformation and investments at Banamex, emphasized that one of the main goals with this new option, is to increase that 9.0% of today's customers."
   },
   {
     "title": "Comisión de salarios mínimos inicia deliberación sobre aumento en 2027; buscan que para 2030 supere 2.5 veces la Línea de Pobreza",
@@ -770,39 +955,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The Today No Circula program applies to vehicles with blue fattening and holograms 1 and 2. The measure aims to regulate vehicle flow and reduce pollutant emissions."
   },
   {
-    "title": "Campo mexicano enfrenta el reto de ser más rentable y productivo, advierten productores",
-    "summary": "Lorena Delgado, presidenta del Consejo de Desarrollo Agropecuario y Agroindustrial de Jalisco, consideró crucial contar con financiamiento, mejores canales de comercialización, administración de riesgos y tecnología accesible.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/campo-mexicano-enfrenta-reto-rentable-productivo-advierten-productores-20261126-846093.html",
-    "category": "Tecnología",
-    "date": "2026-11-26 19:46",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2017/10/31/66e94ce67bd2f.jpeg",
-    "title_en": "Mexican Field challenges to be more profitable and productive, warn producers",
-    "summary_en": "Lorena Delgado, president of the Board for Agricultural and Agro-Industrial Development of Jalisco, found financing, better marketing channels, risk management and accessible technologies crucial."
-  },
-  {
-    "title": "EN VIVO| Bloqueos en carreteras, accidentes y manifestaciones 26 de noviembre: bloquean el Anillo Periférico",
-    "summary": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-26-de-noviembre/",
-    "category": "Nación",
-    "date": "2026-11-26 19:46",
-    "image": "https://www.infobae.com/resizer/v2/KLS7FRU5BFCVFDCKBZIO33SZS4.jpg?auth=3190a0aa7e09e963c7f6ff5f771c3cc31445aa01453530b8474b06f73e603efd&smart=true&width=1920&height=1080",
-    "title_en": "EN VIVO) 124; Roadblocks, accidents and events 26 November: they block the Peripherical Ring",
-    "summary_en": "Keep up with real-time information about occurring in the Valle de México"
-  },
-  {
-    "title": "Secretaría de las Mujeres condena abusos sexuales tras denuncia de Ximena Santaolalla y ofrece apoyo para buscar justicia",
-    "summary": "La dependencia manifestó su solidaridad con la escritora tras hacer públicos los presuntos abusos que sufrió durante su infancia y aseguró que cuenta con el respaldo del Gobierno de México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/secretaria-de-las-mujeres-condena-abusos-sexuales-tras-denuncia-de-ximena-santaolalla-y-ofrece-apoyo-para-buscar-justicia/",
-    "category": "Política",
-    "date": "2026-11-26 19:46",
-    "image": "https://www.infobae.com/resizer/v2/46PM5RJ4LFH77FAVVG3BEJOU44.png?auth=b727ef01980069f556eb20d68192b2cde2d61d407f3615f527c192a039819b1d&smart=true&width=2752&height=1536",
-    "title_en": "Women's Secretariat condemns sexual abuse after Ximena Santaolalla's report and offers support to seek justice",
-    "summary_en": "The Unit expressed its solidarity with the writer after making public the alleged abuses she suffered during her childhood and assured that she has been supported by the Government of Mexico"
-  },
-  {
     "title": "Fiscalía CDMX logra nueva vinculación a proceso de Odilón \"N\"; era objetivo prioritario contra el despojo",
     "summary": "Según la Fiscalía capitalina, entre 2018 y 2019, Odilón “N” promovió tres juicios para obtener escrituras de la propiedad de un fallecido en la colonia Jardines del Pedregal",
     "source": "El Universal",
@@ -812,17 +964,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.eluniversal.com.mx/resizer/v2/J7DOMPLNW5EJLKBVS7HA3BKVNY.jpg?auth=575b95a974f16e22400144417534db1fe2162841baaa01af53e5a41bd84f0cee&smart=true&width=500",
     "title_en": "Prosecutor's office CDMX achieved new link with Odilón's \"N\" process and was a priority goal against offsetting",
     "summary_en": "According to the capital public prosecutor's office, between 2018 and 2019, Odilón \"N\" advanced three trials to get his property from a deceased person at Jardines del Pedregal colony."
-  },
-  {
-    "title": "Joven acusa a empleados de tienda departamental de presunto cargo por 90 mil pesos y pide revisar las grabaciones",
-    "summary": "La afectada detectó una transacción que asegura no haber realizado después de entregar su plástico a una trabajadora de la tienda; pidió investigar lo ocurrido",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/joven-acusa-a-empleados-de-tienda-departamental-de-presunto-cargo-por-90-mil-pesos-y-pide-revisar-las-grabaciones/",
-    "category": "Nación",
-    "date": "2026-11-26 19:45",
-    "image": "https://www.infobae.com/resizer/v2/CUBKFNZEIVCPHIBDZEPIUJFADU.jpg?auth=5d233fbc6f24a07470f7e92e00553534374f298543c1fee0cbef72b1143661e1&smart=true&width=1920&height=1080",
-    "title_en": "Young man accuses departmental tent employees of an alleged 90 thousand pesos and asks to check recordings",
-    "summary_en": "The person concerned detected a transaction that she claims did not conduct after she gave her plastic to a tent worker and requested to investigate what happened."
   },
   {
     "title": "Venden Ozempic falsificado en México, Cofepris identifica lotes irregulares",
@@ -847,17 +988,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The project amends three laws to expedite family proceedings and lays down a 180-day period for states to harmonize their laws"
   },
   {
-    "title": "Zacatecas proyecta presupuesto de 45,400 millones de pesos para el 2027",
-    "summary": "El gobierno estatal hizo entrega del Paquete Económico para el próximo ejercicio fiscal, que prevé reducir la deuda pública y fortalecer los ingresos propios.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/estados/zacatecas-proyecta-presupuesto-45-400-millones-pesos-20261126-846092.html",
-    "category": "Estados",
-    "date": "2026-11-26 19:37",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2022/09/08/66e4ac2bb3ac4.jpeg",
-    "title_en": "Zacatecas projects budget of 45.4 billion pesos by 2027",
-    "summary_en": "The state government gave up the economic package for the next fiscal year that aims to reduce public debt and strengthen its own income."
-  },
-  {
     "title": "Explosión en instalaciones de Pemex en Cadereyta moviliza a Protección Civil y rescatistas",
     "summary": "MONTERREY.- Una explosión reportada en la comunidad rural de Las Palomitas, en el municipio de Cadereyta Jiménez, Nuevo León, movilizó a cuerpos de emergencia y personal de seguridad de Petróleos Mexicanos (Pemex). Cabe señalar que Protección Civil de Nuevo León informó que recibió el reporte del siniestro a las 16:40 horas en la comunidad de […]",
     "source": "Diario de Yucatán",
@@ -869,28 +999,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "MONTERREY.- A reported explosion in the rural community of Las Palomites, in the municipality of Cadereyta Jiménez, Nuevo León, mobilized emergency and security personnel from Mexican Oil (pemex). It should be noted that Civil Protection of Nuevo León reported that he received his report of his [...]"
   },
   {
-    "title": "Querétaro promueve turismo de romance en Madrid",
-    "summary": "Durante el evento, el estado presentó su oferta para bodas y celebraciones, un segmento que ha generado una derrama económica de 8,400 millones de pesos en los últimos cinco años.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/estados/queretaro-promueve-turismo-romance-madrid-20261126-846091.html",
-    "category": "Estados",
-    "date": "2026-11-26 19:33",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2020/02/11/66e8a806b52c1.jpeg",
-    "title_en": "Queretaro promotes romance tourism in Madrid",
-    "summary_en": "During the event, the state put forward its offer for weddings and celebrations, a segment that has generated an economic spill of 8.4 billion pesos in the last five years."
-  },
-  {
-    "title": "Proponen eliminar prescripción de la prima de antigüedad desde la Constitución",
-    "summary": "La prima de antigüedad podría convertirse en un derecho constitucional imprescriptible en México, gracias a una iniciativa en el Senado que busca garantizar que los trabajadores y sus beneficiarios puedan reclamar el pago de esta prestación sin límite de tiempo.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/capital-humano/proponen-eliminar-prescripcion-prima-antigueedad-constitucion-20261126-845363.html",
-    "category": "Economía",
-    "date": "2026-11-26 19:30",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/09/30/66fb560d4faec.jpeg",
-    "title_en": "They propose to remove the limitation of an old age bonus from the Constitution",
-    "summary_en": "The old age bonus could become an imprescriptible constitutional right in Mexico, with an initiative at the Senate that aims to ensure that workers and their beneficiaries can demand payment of this benefits without a time limit."
-  },
-  {
     "title": "‘Yo aquí estoy’: Edmundo Jacobo, exsecretario ejecutivo del INE, cuestiona que no investiguen a Taddei",
     "summary": "Taddei renunició al INE luego se que se dieron a conocer polémicas adjudicaciones a un contratista que provocaron la investigación de la Auditoría Superior de la Federación (ASF).",
     "source": "El Financiero",
@@ -900,28 +1008,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/CvF3xgBUvSpez6B_wP0aQmpgJVY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LKUYPUW3YVHPRFKOPDKW6STPJA.png",
     "title_en": "\"I'm here\": Edmundo Jacobo, former executive secretary of the INE, challenges that they do not investigate Taddei",
     "summary_en": "Taddei reunited the INE and controversial awards were published to a contractor that provoked the Federation's Higher Audit (ASF) investigation."
-  },
-  {
-    "title": "UX Arena en Tulum: alerta por daño ambiental; cómo es y dónde está el complejo de espectáculos",
-    "summary": "La UX Arena de Tulum anunció su apertura para el próximo 31 de diciembre de 2026, pero ambientalistas alertan sobre los daños que causarán los espectáculos masivos a la fauna local por los desechos sanitarios, basura, luces y ruido La construcción del complejo para espectáculos con capacidad de hasta 40 mil personas en plena selva […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/mexico/2026/11/26/ux-arena-tulum-alerta-dano-ambiental-como-es-donde-complejo-espectaculos.html",
-    "category": "Estados",
-    "date": "2026-11-26 19:27",
-    "image": "",
-    "title_en": "UX Arena in Tulum: alert for environmental damage and how and where's the show complex",
-    "summary_en": "The UX Arena of Tulum announced its opening by 31 December 2026, but environmentalists alert about the damage that mass shows will cause to local fauna by sanitary waste, garbage, lights and noise The construction of the complex for shows with capacity for up to 40,000 people in full jungle [...]"
-  },
-  {
-    "title": "Sistema de identificación individual de ganado bovino es clave para asegurar exportación a EU: CNOG",
-    "summary": "José Ulises García Romero, director de Movilización Nacional del Senasica, alertó que existe incumplimiento de algunos productores para colocar el arete del ganado.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/sistema-identificacion-individual-ganado-bovino-clave-asegurar-exportacion-eu-cnog-20261126-846089.html",
-    "category": "Economía",
-    "date": "2026-11-26 19:26",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/12/6acd4f1556810.jpeg",
-    "title_en": "Individual identification system for cattle is key to secure export to EU: CNOG",
-    "summary_en": "José Ulyses García Romero, director of Senasica's National Mobilization, noted that some producers have been found to have been noncompliance with the cattle's earring."
   },
   {
     "title": "Esto dijo Ricardo Anaya sobre el futuro electoral del PAN rumbo a 2027; pide al INE frenar sobrerrepresentación de Morena",
@@ -946,82 +1032,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Ernesto 'Borrego' Gandara, former mayor of Hermosillo and former PRI Senator, will coordinate the Colosio Riojas campaign at Sonora."
   },
   {
-    "title": "Brugada alerta por primera tormenta invernal en CDMX para este fin de semana; se espera la lluvia más fuerte del año",
-    "summary": "A partir de este viernes 27 de noviembre, la Secretaría de Gestión Integral de Riesgos y Protección Civil prevé precipitaciones de fuertes a muy fuertes y descenso de temperatura, con posible caída de aguanieve y nieve en las partes altas",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/metropoli/brugada-alerta-por-primera-tormenta-invernal-en-cdmx-para-este-fin-de-semana-se-espera-la-lluvia-mas-fuerte-del-ano/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 19:20",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/RXA4XPFSI5BC7NTH5XXYQ22L7I.jpg?auth=66c9a5ed7997dcb77ee2d2f53f49151457d2ef5f3f5f32df66cd39358893f46e&smart=true&width=500",
-    "title_en": "Warm alert for first winter storm at CDMX for this weekend, with the highest rain of the year expected",
-    "summary_en": "From Friday, November 27, the Secretariat of Comprehensive Risk Management and Civil Protection expects high to high and low temperature rainfall with a potential fall in high water and snow"
-  },
-  {
-    "title": "Secretaría de las Mujeres respalda y acompaña a Ximena Santaolalla; \"ninguna mujer debe enfrentar sola el camino hacia la justicia\"",
-    "summary": "",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/nacion/secretaria-de-las-mujeres-respalda-y-acompana-a-ximena-santaolalla-ninguna-mujer-debe-enfrentar-sola-el-camino-hacia-la-justicia/",
-    "category": "Nación",
-    "date": "2026-11-26 19:02",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/T4NKNNH6GBGG5LMPKR2Y4ONB2Y.png?auth=32762b4f28c3cd9a0530a2f49b1fcd72cfcc621f5f141607fbc2bf9fd6bef18c&smart=true&width=500",
-    "title_en": "Women's Secretariat supports and accompanies Ximena Santaolalla: \"No woman should face the path to justice alone\""
-  },
-  {
-    "title": "Hallan cráneo y fémur humano frente a Plaza de Armas de Gómez Palacio, Durango; autoridades investigan mensaje dejado en el sitio",
-    "summary": "La línea de investigación apunta, también por el mensaje encontrado, el cual no fue revelado, que se trata de un tipo ritual o posible brujería",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/estados/hallan-craneo-y-femur-humano-frente-a-plaza-de-armas-de-gomez-palacio-durango-autoridades-investigan-mensaje-dejado-en-el-sitio/",
-    "category": "Ciencia",
-    "date": "2026-11-26 18:57",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/ATDMTUYEFVHKFF5XEEXEVOO4K4.jpg?auth=fe43933bd3f1de2030b4abbf5ae45b8a27c341c5ad98f9547804e7bd7cdc622c&smart=true&width=500",
-    "title_en": "They have found human skull and femur in front of Plaza de Armas de Gómez Palacio, Durango, and authorities have been investigating message leave at the site",
-    "summary_en": "The line of research points, also by the message found, that was not revealed, that it's a ritual type or potential witchcraft"
-  },
-  {
-    "title": "En Puebla, 20% de operaciones inmobiliarias son fraudes, alertan",
-    "summary": "Carolina León Soriano, presidenta de la Adagi, indicó que preocupa a su sector esa competencia desleal, ya que genera una mala imagen aun cuando no son responsables, porque están certificados y acreditados ante las autoridades.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/estados/puebla-20-operaciones-inmobiliarias-son-fraudes-alertan-20261126-846085.html",
-    "category": "Estados",
-    "date": "2026-11-26 18:55",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2022/03/18/66e45579890eb.png",
-    "title_en": "In Puebla, 20% of real estate operations are frauds, alert",
-    "summary_en": "The president of Adagi, Carolina León Soriano, stated that his sector was concerned about this unfair competition as it generated a bad image even if they were not responsible, as they were certified and accredited to the authorities."
-  },
-  {
-    "title": "Misión Tricolor Femenil: romper 12 años de oscuridad",
-    "summary": "México enfrentará a Haití en el Premundial para Brasil 2027. Ganando, asegurará jugar su primera Copa del Mundo desde 2015; perdiendo, los directivos prevén un duro golpe al ecosistema de este deporte.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/deportes/mision-tricolor-femenil-romper-12-anos-oscuridad-20261126-846081.html",
-    "category": "Deportes",
-    "date": "2026-11-26 18:51",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08d40e8e4ea.jpeg",
-    "title_en": "Triple Women's Mission: breaking 12 years of darkness",
-    "summary_en": "Mexico will face Haiti at Brazil's Preworld 2027. Winning will secure his first World Cup from 2015 and lose, managers anticipate a bad blow to the ecosystem of this sport."
-  },
-  {
-    "title": "Policías evitan que hombre se arroje de puente peatonal en Iztacalco; paramédicos le diagnostican trastorno de estrés agudo",
-    "summary": "Los hechos ocurrieron en la avenida Río Churubusco y la calle Oriente 106, en la colonia Gabriel Ramos Millán",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/metropoli/policias-evitan-que-hombre-se-arroje-de-puente-peatonal-en-iztacalco-paramedicos-le-diagnostican-trastorno-de-estres-agudo/",
-    "category": "Nación",
-    "date": "2026-11-26 18:48",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/Z3QUR3LQ5JG3TCCTYLROXGTS7M.jpg?auth=1d72734b8e52415cce288f9b88c5e14b9f88fb18eea2642e3619043496978046&smart=true&width=500",
-    "title_en": "Police prevent man from throwing his foot bridge at Iztacalco and paramedics diagnose him with acute stress disorder",
-    "summary_en": "The events occurred at Isla Churumreco and Isla 106, at Gabriel Ramos Millan colony"
-  },
-  {
-    "title": "Embajador Chen Daojiang: \"Relaciones entre México y China no apuntan contra terceras partes\"",
-    "summary": "El diplomático aseguró que en la relación bilateral se debe respetar la soberanía y eliminar las interferencias externas.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/internacionales/embajador-chen-daojiang-relaciones-mexico-china-apuntan-terceras-partes-20261126-846077.html",
-    "category": "Economía",
-    "date": "2026-11-26 18:44",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2026/11/26/6b08d195e3354.r_d.813-613-0.jpeg",
-    "title_en": "Ambassador Chen Daojiang: \"Relations between Mexico and China do not target third parties\"",
-    "summary_en": "The diplomat stated that the bilateral relationship should respect sovereignty and eliminate external interference."
-  },
-  {
     "title": "Megaprotesta de trabajadores del IMSS, Metro e IPN se unen: ¿Cuáles son las alternativas viales?",
     "summary": "Al norte de la CDMX también se registran manifestaciones: la intersección del Eje 5 Norte Montevideo y avenida Instituto Politécnico Nacional están cerrados.",
     "source": "El Financiero",
@@ -1044,17 +1054,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Gerardo Fernández Noroña recriminated the 4T and stated that she's already sick of his attacks and have no support from Brunette."
   },
   {
-    "title": "Arranca la recta final, Conasami se declara en sesión permanente para fijar salario mínimo de 2027",
-    "summary": "Los representantes de los sectores obrero, patronal y gubernamental arrancaron el análisis de las distintas propuestas de incremento recibidas durante las últimas semanas.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/capital-humano/arranca-recta-final-conasami-declara-sesion-permanente-fijar-salario-minimo-20261126-846074.html",
-    "category": "Economía",
-    "date": "2026-11-26 18:35",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/25/6b0787361ca90.png",
-    "title_en": "Start the final straight, Conasami declares itself at a regular session to set minimum wage of 2027",
-    "summary_en": "The representatives of the workers, employers and government sectors have been drawing up an analysis of the different proposals for an increase received during the last few weeks."
-  },
-  {
     "title": "La SEP lo hace oficial: estudiantes de preparatoria podrán elegir entre falda o pantalón sin importar su género",
     "summary": "Los estudiantes de bachillerato en México podrán elegir si quieren usar falda o pantalón como parte de su uniforme escolar, sin importar su género . La medida de la Secretaría de Educación Pública busca que cada alumno pueda decidir cómo vestir y evitar que las prendas estén condicionadas por estereotipos. La disposición entró en vigor el 25 de noviembre de…",
     "source": "Xataka México",
@@ -1075,28 +1074,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "",
     "title_en": "Black Friday 2026: this Advent Calendar Funko POP! from Pokémon already has a pounding price for Christmas gifts",
     "summary_en": "The start of the Black Friday 2026 has given us great surprises with some promotions available at Amazon Mexico. Also, as we know that there will also be people who will use these dates for Christmas gifts, today we bring you this beautiful Advent Calendar Funko POP! from Pokémon that you can currently buy for only 637 pesos. Funko Bitty POP!..."
-  },
-  {
-    "title": "Gran Premio de Qatar 2026: Cuándo y dónde ver EN VIVO prácticas, qualy y carrera de Checo Pérez en F1",
-    "summary": "Conoce todos los detalles para seguir al mexicano en la penúltima carrera del año",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/deportes/gran-premio-de-qatar-2026-cuando-y-donde-ver-en-vivo-practicas-qualy-y-carrera-de-checo-perez-en-f1/",
-    "category": "Deportes",
-    "date": "2026-11-26 18:33",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/BUVY3I4GE5FYTF74JPNDYZFCFQ.jpg?auth=349235ec7be4d0793663f2a48e6032f4862994c2c5ec7670ac62cf9fa88d201f&smart=true&width=500",
-    "title_en": "Qatar's Grand Prix 2026: When and where to watch IN VIVO practices, qualy and Czech Pérez's F1 race",
-    "summary_en": "Know all the details to follow the Mexican in the penultimate race of the year"
-  },
-  {
-    "title": "Universidad Panamericana consolida su presencia en FIL Guadalajara con novedosa oferta editorial",
-    "summary": "Con un stand inspirado en la arquitectura italiana y una oferta de más de 170 títulos, la institución académica eleva al 68% la participación de productos de investigación en su programa de actividades, apostando por la divulgación y la batalla por la lectura.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/arteseideas/universidad-panamericana-consolida-presencia-fil-guadalajara-novedosa-oferta-editorial-20261126-846069.html",
-    "category": "Ciencia",
-    "date": "2026-11-26 18:19",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08ca7e5a6cd.jpeg",
-    "title_en": "Universidad Panamericano consolidates its presence at FIL Guadalajara with new editorial offer",
-    "summary_en": "A stand with an inspiration from the Italian architecture and an offer of more than 170 degrees, the academic institution increases to 68% the participation of research products in its program of activities, betting on outreach and the battle for reading."
   },
   {
     "title": "Atrapan a otro líder de La Mayiza: Detienen al ‘Chapo Félix’ en la sierra de Durango",
@@ -1130,17 +1107,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Eq_ZS0TIELDOjeK_3eaHRstbVhs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4TNAS346BRGC5FNRG4P2ZIBUYA.jpg",
     "title_en": "To avoid signing them: Reject an application for amparo from the 'Chapo Isidro' against extradition to the EU",
     "summary_en": "The Office of the Prosecutor-General and the Security Cabinet will evaluate whether 'El Chapo Isidro' is extradited to the US or challenges first a judicial proceedings in Mexico."
-  },
-  {
-    "title": "VIDEO Reportan explosión en instalaciones de Pemex en Cadereyta, Nuevo León; un ducto de hidrocarburos habría presentado una fractura",
-    "summary": "Hasta el momento, se desconoce si el incidente dejó personas lesionadas, así como la magnitud de los daños en la infraestructura petrolera",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/estados/reportan-explosion-en-instalaciones-de-pemex-en-cadereyta-nuevo-leon-un-ducto-de-hidrocarburos-habria-presentado-una-fractura/",
-    "category": "Estados",
-    "date": "2026-11-26 18:05",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/HA2D3FKE4JAQVHZSLVJW2LXONQ.jpg?auth=59a21517e371c0a3fa50ca1de00293b6adf4f5ee256be898c6c0ed5e140770b9&smart=true&width=500",
-    "title_en": "VIDEO report explosion at pemex's installations at Cadereyta, Nuevo León and a hydrocarbon pipeline had been found to have been broken",
-    "summary_en": "To date, it remains unknown whether the incident resulted in injuries and the magnitude of damage to oil infrastructure"
   },
   {
     "title": "LG quiere aprender de los mexicanos para diseñar sus próximos productos",
@@ -1206,5 +1172,38 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
+  },
+  {
+    "title": "El hospital del Tec de Monterrey que impulsó el empresario detrás de Cemex y atiende más de 100,000 pacientes",
+    "summary": "Más allá de su trayectoria al frente de Cemex, Lorenzo Zambrano también participó en el impulso de proyectos educativos y médicos del Tecnológico de Monterrey.",
+    "source": "Expansión",
+    "url": "https://expansion.mx/empresas/2026/11/26/hospital-empresario-cemex-tec-monterrey-atiende-100-000",
+    "category": "Salud",
+    "date": "2026-11-26 17:02",
+    "image": "https://cdn-3.expansion.mx/dims4/default/e88e7e0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2Fbe%2Fd884f091499d941b1e2c8d15fdc4%2Fquien-es-el-dueno-del-hospital-zambrano-hellion-tecsalud-y-que-tiene-que-ver-el-director-de-cemex.jpg",
+    "title_en": "The Monterrey Tec hospital that advanced the entrepreneur after Cemex and care for more than 100,000 patients",
+    "summary_en": "Beyond his conduct at the head of Cemex, Lorenzo Zambrano also participated in the development of educational and medical projects at Monterrey Technology."
+  },
+  {
+    "title": "Bolsa Mexicana desaprovecha el Acción de Gracias: Cierra con pérdidas en descanso de Wall Street",
+    "summary": "En el mercado petrolero, el WTI avanzó 1.48 por ciento a 84.92 dólares por barril, un alza neta de 1.24 dólares.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/mercados/2026/11/26/bolsa-mexicana-abre-mixto-mientras-wall-street-descansa-por-accion-de-gracias/",
+    "category": "Economía",
+    "date": "2026-11-26 16:43",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/ZQAeeL2RmfCX1lmaSv6_CnOFoQg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C5RUXU2EVNHJPNGLXD4ZEOJZNM.jpg",
+    "title_en": "Mexican Stock Exchange Unseizes Thanksgiving: Closing with Rest Loss from Wall Street",
+    "summary_en": "In the oil market, WTI advanced 1.48 percent to 84.92 dollars per barrel, a net rise of 1.24 dollars."
+  },
+  {
+    "title": "Zelda: Ocarina of time por 700 pesos: con este paquete de Nintendo Switch 2 el juego te queda a precio de remate en Black Friday 2026",
+    "summary": "Con el Black Friday 2026 en curso, no cabe duda que tanto la consola Nintendo Switch 2 como The Legend of Zelda: Ocarina of Time estarán en el radar de más de uno. Afortunadamente, Amazon México está consciente de ello, y hoy puedes comprar este bundle por 12,199 pesos , pero gracias a las promociones bancarias su precio puede ser aún más barato. Nintendo…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/seleccion/zelda-ocarina-of-time-700-pesos-este-paquete-nintendo-switch-2-juego-te-queda-a-precio-remate-black-friday-2026",
+    "category": "Economía",
+    "date": "2026-11-26 16:32",
+    "image": "",
+    "title_en": "Zelda: Ocarina of time for 700 pesos: with this package of Nintendo Switch 2 the game remains at best price at Black Friday 2026",
+    "summary_en": "With the Black Friday 2026 currently under way, there's no doubt that both the Nintendo Switch 2 console and The Legend of Zelda: Ocarina of Time will be on more than one radar. Fortunately, Amazon Mexico is aware of that, and today you can buy this bundle for 12.199 pesos, but thanks to bank promotions its price can be even cheaper. Nintendo..."
   }
 ];
