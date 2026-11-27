@@ -1,5 +1,16 @@
 window.MEXICO_INFORMA_NEWS = [
   {
+    "title": "Conoce el setlist oficial de Hayley Williams para el Auditorio Nacional de la CDMX",
+    "summary": "La cantautora estadounidense trae a la Ciudad de México 25 canciones de su tour global",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/conoce-el-setlist-oficial-de-hayley-williams-para-el-auditorio-nacional-de-la-cdmx/",
+    "category": "Estados",
+    "date": "2026-11-27T02:22:25+00:00",
+    "image": "https://www.infobae.com/resizer/v2/DAPXOPOFQFDYNGZARGM7FZIMQM.jpg?auth=80b0365a23614dd07188d61e83e335c47d8a7cf9f40502a0b18be1b0bcb3f68b&smart=true&width=1920&height=1080",
+    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
+    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
+  },
+  {
     "title": "Cinemex tendrá boletos a 39 pesos por el Black Friday: ¿Qué películas entran en la promoción?",
     "summary": "El Black Friday no solo aplica en compras, tambien se manifestó en forma de descuentos para disfrutar tu película favorita en el cine.",
     "source": "El Financiero",
@@ -1197,16 +1208,5 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08c81e04f57.jpeg",
     "title_en": "EU leaders will resume budget negotiations after summit in December that did not solve challenges",
     "summary_en": "To the discrepancies about future Community accounts we have been added the lack of agreement as to how to fund military and budgetary assistance to Ukraine by 2027."
-  },
-  {
-    "title": "VIDEO Reportan explosión en instalaciones de Pemex en Cadereyta, Nuevo León; un ducto de hidrocarburos habría presentado una fractura",
-    "summary": "Hasta el momento, se desconoce si el incidente dejó personas lesionadas, así como la magnitud de los daños en la infraestructura petrolera",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/estados/reportan-explosion-en-instalaciones-de-pemex-en-cadereyta-nuevo-leon-un-ducto-de-hidrocarburos-habria-presentado-una-fractura/",
-    "category": "Estados",
-    "date": "2026-11-27T00:05:04+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/HA2D3FKE4JAQVHZSLVJW2LXONQ.jpg?auth=59a21517e371c0a3fa50ca1de00293b6adf4f5ee256be898c6c0ed5e140770b9&smart=true&width=500",
-    "title_en": "VIDEO report explosion at pemex's installations at Cadereyta, Nuevo León and a hydrocarbon pipeline had been found to have been broken",
-    "summary_en": "To date, it remains unknown whether the incident resulted in injuries and the magnitude of damage to oil infrastructure"
   }
 ];
