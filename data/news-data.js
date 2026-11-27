@@ -1,5 +1,675 @@
 window.MEXICO_INFORMA_NEWS = [
   {
+    "title": "Predicción del estado del tiempo en el puerto de Veracruz para este 27 de noviembre",
+    "summary": "La ciudad de Veracruz se caracteriza por su gran valor histórico y cultural",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/prediccion-del-estado-del-tiempo-en-el-puerto-de-veracruz-para-este-27-de-noviembre/",
+    "category": "Estados",
+    "date": "2026-11-27 06:16",
+    "image": "https://www.infobae.com/resizer/v2/U7NMRV24J5HX7P6GA2KSURHVTA.png?auth=376de6695f6be1d01ce03e27c6b6c95d96c29e2a1eb10965bab564974cf3e6a1&smart=true&width=1920&height=1080",
+    "title_en": "Projection of the state of time at the port of Veracruz for this November 27",
+    "summary_en": "The town of Veracruz is characterized by its great historic and cultural value"
+  },
+  {
+    "title": "Estado de las estaciones del Metrobús en esta última hora del 27 de noviembre",
+    "summary": "Este medio de transporte cuenta con más de 22 millones de usuarios al año, a los que mueve a través de sus siete líneas",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/estado-de-las-estaciones-del-metrobus-en-esta-ultima-hora-del-27-de-noviembre/",
+    "category": "Nación",
+    "date": "2026-11-27 06:16",
+    "image": "https://www.infobae.com/resizer/v2/46UNDQIMIFAYLFQXPN3SIGBX64.jpg?auth=c5cb7d85c9118d3c94cf5025da3ad4f53d14b2994648572a8190c11a53e27975&smart=true&width=1920&height=1080",
+    "title_en": "Status of Metrobus stations at this last hour of November 27",
+    "summary_en": "That means of transport includes more than 22 million users a year and moves them through its seven lines"
+  },
+  {
+    "title": "Recorrido Navideño en Jardines de México: fechas y costo de esta actividad con talleres, desfile y Santa Claus para los niños",
+    "summary": "El eje de la experiencia será el recorrido entre miles de luces, túneles iluminados y espacios preparados para fotografías",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/recorrido-navideno-en-jardines-de-mexico-fechas-y-costo-de-esta-actividad-con-talleres-desfile-y-santa-claus-para-los-ninos/",
+    "category": "Nación",
+    "date": "2026-11-27 06:00",
+    "image": "https://www.infobae.com/resizer/v2/LOZXDEUXPVANBBBR2ZJLHYULRY.png?auth=6ea18f8f7ab9d63c03baf500b43913bd9d4c413bef19e58b714315b84af93bf2&smart=true&width=1536&height=1024",
+    "title_en": "Christmas Tour in Jardines of Mexico: dates and cost of this activity with workshops, parade and Santa Claus for children",
+    "summary_en": "The axis of the experience will be the journey between thousands of lights, light tunnels and spaces prepared for photographs"
+  },
+  {
+    "title": "Rommel Pacheco espera ver al Tri Femenil en Juegos Olímpicos de 2028",
+    "summary": "",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/deportes/rommel-pacheco-espera-ver-al-tri-femenil-en-juegos-olimpicos-de-2028/",
+    "category": "Deportes",
+    "date": "2026-11-27 05:58",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/SGZYKMJAN5E3HKSAMG7VARFXSU.jpg?auth=64bd78adbdc9a466ccf772423bf0063b8ce740f0ffb7fca2952104bac56acccb&smart=true&width=500",
+    "title_en": "Rommel pacheco expects to see the Women's Trier at 2028 Olympic Games"
+  },
+  {
+    "title": "¿Qué está pasando en el Metro y Metrobús hoy 27 de noviembre? Reportan atrasos en Línea B",
+    "summary": "Información y actualización del servicio de transporte público en la capital este viernes en vivo minuto a minuto",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/que-esta-pasando-en-el-metro-y-metrobus-hoy-27-de-noviembre/",
+    "category": "Nación",
+    "date": "2026-11-27 05:51",
+    "image": "https://www.infobae.com/resizer/v2/WYTGKPNFCVEZXE72VQMHQPGYFQ.jpg?auth=547e791c8b691f203e9b2f1112a9feffab07f2201acb2f090f2bad7eef88f47a&smart=true&width=1920&height=1080",
+    "title_en": "What's going on at Metro and Metrobus today, November 27? Reported online B backlogs",
+    "summary_en": "Information and update of public transport service in the capital this Friday live minute to minute"
+  },
+  {
+    "title": "La memoria del fuego",
+    "summary": "Conoce cómo el uliche, el atole agrio y otras recetas tradicionales preservan los saberes indígenas, la memoria familiar y el patrimonio culinario de México.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/sonya-santos/2026/11/27/la-memoria-del-fuego/",
+    "category": "Economía",
+    "date": "2026-11-27 05:43",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/diin68yvMRst5q6ORWS3tx0kvow=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RJLPZXZT2NGMJNGOBOWFQDQZ2I.jpeg",
+    "title_en": "The memory of fire",
+    "summary_en": "He knows how uliche, atole and other traditional recipes preserve indigenous knowledge, family memory and Mexico's culinary heritage."
+  },
+  {
+    "title": "Bolo Fest 2026 en CDMX: ¿lloverá durante el desfile navideño del sábado 28 de noviembre?",
+    "summary": "La primera tormenta invernal de la temporada amenaza con complicar la celebración organizada por una tienda departamental",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/bolo-fest-2026-en-cdmx-llovera-durante-el-desfile-navideno-del-sabado-28-de-noviembre/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-27 05:34",
+    "image": "https://www.infobae.com/resizer/v2/G2L5TSU3LNHXPCSXUS4HL5TCNA.jpg?auth=746da7e06e7180c79f61fd3ea5f5043cf17489cec3501b066cadb4576129c469&smart=true&width=1920&height=1080",
+    "title_en": "Bowo Fest 2026 at CDMX: will it rain during the Christmas parade on Saturday, November 28?",
+    "summary_en": "The first winter storm of the season challenges complicate the celebration organized by a department tent"
+  },
+  {
+    "title": "Esta es la calidad del aire en CDMX y Edomex este viernes 27 de noviembre: reporte completo por alcaldías y municipios",
+    "summary": "Todos los días y cada hora se realiza un monitoreo de la calidad del ambiente en el Valle de México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/esta-es-la-calidad-del-aire-en-cdmx-y-edomex-este-viernes-27-de-noviembre-reporte-completo-por-alcaldias-y-municipios/",
+    "category": "Estados",
+    "date": "2026-11-27 05:30",
+    "image": "https://www.infobae.com/resizer/v2/5O4OAWENAZBZFNMGZAMUR5XWAA.jpg?auth=e4de4dedfd6d92e40494d027e056706c79dd31ce1cfb41cd5b12af9f27b43e3f&smart=true&width=1456&height=816",
+    "title_en": "That's the air quality at CDMX and Edomex this Friday November 27: complete report by mayors and municipalities",
+    "summary_en": "A monitoring of the quality of the environment in the Valle de México takes place every day and every hour"
+  },
+  {
+    "title": "Votos, votos, votos... el reto de la oposición",
+    "summary": "El INE perfila dejar intacto el criterio para la sobrerrepresentación legislativa que dio al oficialismo su supermayoría y socavó el número de curules opositoras.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/salvador-camarena/2026/11/27/votos-votos-votos-el-reto-de-la-oposicion/",
+    "category": "Economía",
+    "date": "2026-11-27 05:29",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/xJTstCfS418NNL9bqxYOfmeVbbU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EF7PGSVLX5BSBKI22Z36FEDB5E.jpg",
+    "title_en": "Votes, votes, votes... opposition challenges",
+    "summary_en": "The INE purifies to leave intact the criterion for legislative overrepresentation that gave its supermajority and undermined the number of opposition curules."
+  },
+  {
+    "title": "Puebla: así quedó el precio de la gasolina hoy viernes 27 de noviembre",
+    "summary": "La Comisión Nacional de Energía es el organismo encargado de informar todos los días el precio de los carburantes en el país",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/puebla-asi-quedo-el-precio-de-la-gasolina-hoy-viernes-27-de-noviembre/",
+    "category": "Estados",
+    "date": "2026-11-27 05:16",
+    "image": "https://www.infobae.com/resizer/v2/NGOMXOHEH5HFPLLVMJCWBF63QM.jpg?auth=3d9dd252e303d70a3c49fa8ad0ad8103dc5fae4895167e03b01a722ced2290f1&smart=true&width=1920&height=1080",
+    "title_en": "Puebla: Thus remained the price of gasoline today Friday November 27",
+    "summary_en": "The National Commission for Energy (NEC) is the body charged with daily information about fuel prices in the country"
+  },
+  {
+    "title": "EN VIVO| Bloqueos en carreteras, accidentes y manifestaciones 27 de noviembre",
+    "summary": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-27-de-noviembre/",
+    "category": "Nación",
+    "date": "2026-11-27 05:15",
+    "image": "https://www.infobae.com/resizer/v2/TB2YMGDQZZHHPFXY653RONBHVQ.png?auth=f28b6d779c55f111ef2a332e5f5564159da9e8e006fe4ebaf89a12436e0b34ca&smart=true&width=2752&height=1536",
+    "title_en": "EN VIVO) 124. Roadblocks, accidents and events 27 November",
+    "summary_en": "Keep up with real-time information about occurring in the Valle de México"
+  },
+  {
+    "title": "Tras un Pez y una Fresa",
+    "summary": "El fiscal federal del Distrito Oeste de Texas, Justin R. Simmons, reveló una acusación formal del gran jurado en contra de 21 miembros y colaboradores de La Nueva Familia Michoacana, un cártel que dejó crecer el gobierno de Enrique Peña Nieto pero que alcanzó máximos durante el obradorato, controlando la vida productiva en el sur del Estado de México,…",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2026/11/27/tras-un-pez-y-una-fresa/",
+    "category": "Seguridad",
+    "date": "2026-11-27 05:12",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/yu7l2-8L7LcS0qEPbVsfBkBL0NQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RZ6UUDZGKREHLMS76ETE5PGPAM.jpg",
+    "title_en": "Following a Fish and a strawberry",
+    "summary_en": "The federal prosecutor of the West District of Texas, Justin R. Simmons, revealed a formal accusation of the great jury against 21 members and co-workers of The New Michoacana Family, a cartel that grew up with Enrique Peña Nieto's government but reached its highest level during his work, monitoring production life in the south of Mexico's state."
+  },
+  {
+    "title": "Amplían horario de verificentros en el Edomex para facilitar trámite de vehículos",
+    "summary": "Se extenderá la atención en los Centros de Verificación Vehicular este fin de semana para facilitar el trámite a los propietarios de automóviles",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/amplian-horario-de-verificentros-en-el-edomex-para-facilitar-tramite-de-vehiculos/",
+    "category": "Nación",
+    "date": "2026-11-27 05:12",
+    "image": "https://www.infobae.com/resizer/v2/QUAQOJR3XRHDFOHQTU7FTDOZHE.jpg?auth=aa0517368fe63d40d65ccca1443a1ad92bf0ea1698bde8b79ddf7c6b7de674f4&smart=true&width=1920&height=1080",
+    "title_en": "Expand check hours at Edomex to facilitate vehicle processing",
+    "summary_en": "Health care will be extended at VCs this weekend to facilitate processing of car owners"
+  },
+  {
+    "title": "Levantan 21 infracciones a unidades de carga",
+    "summary": "La medida se toma tras el colapso vial registrado en la México-Querétaro",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/metropoli/levantan-21-infracciones-a-unidades-de-carga/",
+    "category": "Estados",
+    "date": "2026-11-27 05:05",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/I2EO544VOVHBDPNSL5SFRQJJJI.jpg?auth=5a1d75f085cccd80599b67b2accbcb1bf62b34e8dbe5745d96a9f4f57381b0eb&smart=true&width=500",
+    "title_en": "They raise 21 violations of cargo units",
+    "summary_en": "The measure will be taken after the relative relative collapse of the Mexico-Querétaro"
+  },
+  {
+    "title": "“Acabó la era Taddei”: consejera del INE afirma que ahora todo está consensuado",
+    "summary": "Ahora todo está consensuado, dice consejera del INE",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/27/acabo-la-era-taddei-consejera-del-ine-afirma-que-ahora-todo-esta-consensuado.html",
+    "category": "Estados",
+    "date": "2026-11-27 05:00",
+    "image": "",
+    "title_en": "\"The Taddei Age Finished\": INN Councillor says that now everything's consensual",
+    "summary_en": "Now everything's consensual, says INN Councillor"
+  },
+  {
+    "title": "Sin rodeos ni culpas al INE",
+    "summary": "El mensaje desde el instituto fue contundente: los partidos tienen la obligación constitucional de fomentar la participación y, si optan por marginarse, la responsabilidad será enteramente suya.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/confidencial/2026/11/27/sin-rodeos-ni-culpas-al-ine/",
+    "category": "Economía",
+    "date": "2026-11-27 04:57",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/LTdeUAi2XV18UkwuLj2Jy1DPUko=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GIJZH4C6PZEYNM3PSA5VDJQRQI.jpg",
+    "title_en": "No sign and no blame for the INE",
+    "summary_en": "The message from the institute was strong: parties have a constitutional obligation to promote participation and, if they choose to marginalise themselves, responsibility will be entirely their own."
+  },
+  {
+    "title": "Adoración por el fracaso",
+    "summary": "El esfuerzo y empeño puesto por los partidos, el gobierno, las fracciones parlamentarias, los órganos electorales, la fiscalía y, desde luego, la pandilla encabezada por Guadalupe Taddei está dando frutos.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/rene-delgado/2026/11/27/adoracion-por-el-fracaso/",
+    "category": "Seguridad",
+    "date": "2026-11-27 04:46",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/i9dsyIFZ3WxnkifGr3L8tq6AbP4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QWV4WQWFQFDRHPVBZQFNYDKLSE.jpg",
+    "title_en": "Adoration for failure",
+    "summary_en": "The efforts and efforts put in place by the parties, the government, parliamentary factions, electoral organs, the prosecution and, of course, the gangs headed by Guadeloupe Taddei are bearing fruit."
+  },
+  {
+    "title": "¿Tu seguro médico subió más de 100%? Diputados van contra abusos de aseguradoras",
+    "summary": "El año pasado, las pólizas de seguros de gastos médicos aumentaron en más del 100%.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/27/tu-seguro-medico-subio-mas-de-100-diputados-van-contra-abusos-de-aseguradoras/",
+    "category": "Salud",
+    "date": "2026-11-27 04:46",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/XpHI6ZZmuscM5daialeeCJmd_tY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/K5HFTTQQANHFRPXSOCY5OPYTXE.jpeg",
+    "title_en": "Your health care increased by more than 100%? Deputies go against abuse of insurers",
+    "summary_en": "Last year, health insurance policies increased by more than 100 per cent."
+  },
+  {
+    "title": "México busca apertura para las exportaciones",
+    "summary": "Ebrard plantea fortalecer las exportaciones",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/27/mexico-busca-apertura-para-las-exportaciones.html",
+    "category": "Estados",
+    "date": "2026-11-27 04:45",
+    "image": "",
+    "title_en": "Mexico looks for opening up for export",
+    "summary_en": "Ebrard challenges strengthening export"
+  },
+  {
+    "title": "APEC 2026: si México busca inversiones, debe quitar obstáculos",
+    "summary": "Es indudable que nuestra relación comercial es tensa con China. Más aún, nuestra capacidad para atraer nuevos negocios se encuentra en un estado vulnerable dado el esquema de revisiones anuales obligatorias del T-MEC en el que nos encontramos desde julio de este año.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/27/apec-2026-si-mexico-busca-inversiones-debe-quitar-obstaculos/",
+    "category": "Economía",
+    "date": "2026-11-27 04:25",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/-Vwn08Fxky5QLmbXSv1wadTe1aI=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MHOLHZQIQ5HNJONKSIFJWGFLTU.jpg",
+    "title_en": "APEC 2026: If Mexico looks for investments, it should remove challenges",
+    "summary_en": "Undoubtedly our trade relationship with China is tense. Moreover, our capacity to attract new businesses lies in a vulnerable state given the system of obligatory annual revisions of the T-MEC we have been in since July of this year."
+  },
+  {
+    "title": "Colonia Guerrero enfrenta presión inmobiliaria, desigualdad y deterioro urbano: diagnóstico alerta sobre riesgos para sus habitantes",
+    "summary": "A cuatro décadas de la reconstrucción social posterior al sismo de 1985, presenta problemáticas que pone desafíos para preservar el arraigo vecinal de la colonia ubicada en alcaldía Cuauhtémoc",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/colonia-guerrero-enfrenta-presion-inmobiliaria-desigualdad-y-deterioro-urbano-diagnostico-alerta-sobre-riesgos-para-sus-habitantes/",
+    "category": "Estados",
+    "date": "2026-11-27 04:17",
+    "image": "https://www.infobae.com/resizer/v2/7GDSAVABCBC3XFQ7DWSRERXT5E.jpg?auth=8fe29c5df23510b1781db902116acc3f53eacb23c83fdfd2dd27a453f3c47e2a&smart=true&width=1920&height=1080",
+    "title_en": "Colonia Guerrero faces real estate pressure, inequality and urban degradation: an alert diagnosis of risks to its inhabitants",
+    "summary_en": "At four decades after social reconstruction after the earthquake of 1985, challenges have been put to preserve the neighborhood of the colony located at Cuauhtémoc mayor's office"
+  },
+  {
+    "title": "Precios de la gasolina hoy en Jalisco: Litro de Magna, Premium y Diésel este jueves 26 de noviembre",
+    "summary": "La Comisión Nacional de Energía es el organismo encargado de informar todos los días el costo de las gasolinas en el país",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/precios-de-la-gasolina-hoy-en-jalisco-litro-de-magna-premium-y-diesel-este-jueves-26-de-noviembre/",
+    "category": "Estados",
+    "date": "2026-11-27 04:16",
+    "image": "https://www.infobae.com/resizer/v2/6NUTLUQRYVHCBJQ7HUJKEHJVOA.jpg?auth=663a3822d70c158a01430fb0aa7acc996edbf6d7a8bd451eaf579c1a42ae4da2&smart=true&width=1920&height=1080",
+    "title_en": "Prices of gasoline today in Jalisco: Litre of Magna, Premium and Diesel this Thursday November 26",
+    "summary_en": "The National Energy Commission (NEC) is the body charged with daily information about the cost of gasoline in the country"
+  },
+  {
+    "title": "Precio de la gasolina en Ciudad de México hoy jueves 26 de noviembre: ¿Cuánto cuesta el litro de Magna y Premium?",
+    "summary": "La Comisión Nacional de Energía es la entidad responsable de informar todos los días el precio de las gasolinas en México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/precio-de-la-gasolina-en-ciudad-de-mexico-hoy-jueves-26-de-noviembre-cuanto-cuesta-el-litro-de-magna-y-premium/",
+    "category": "Estados",
+    "date": "2026-11-27 04:16",
+    "image": "https://www.infobae.com/resizer/v2/7FSD6LWXONAJFKYGTVPFDIFWFU.jpg?auth=7399177e06f91d15746f9ca9f6e669980d9041f1bc1e432f7817962df3a28e10&smart=true&width=1920&height=1080",
+    "title_en": "Gas prices in Mexico City today Thursday, November 26: How much does a liter of Magna and Premium cost?",
+    "summary_en": "The National Energy Commission (NEC) is responsible for daily information about the price of gasoline in Mexico"
+  },
+  {
+    "title": "Nacionales: cuál es el precio de la gasolina este 26 de noviembre",
+    "summary": "La Comisión Nacional de Energía es el organismo que informa todos los días el costo de las gasolinas en México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/nacionales-cual-es-el-precio-de-la-gasolina-este-26-de-noviembre/",
+    "category": "Economía",
+    "date": "2026-11-27 04:16",
+    "image": "https://www.infobae.com/resizer/v2/HAGRJXU5YJFRHJTUKOO3SXEUAU.jpg?auth=611deb3d672514101c91b67ee35d380161841759da01a480cf7cbcee3431172d&smart=true&width=1920&height=1080",
+    "title_en": "National: what's the price of gasoline this November 26",
+    "summary_en": "The National Energy Commission (NEC) is the body that reports daily about the costs of gas stations in Mexico"
+  },
+  {
+    "title": "Sasha Sokol arremete contra promocional de Timbiriche que distorsiona su historia con Luis de Llano: “ViX con V de vergüenza”",
+    "summary": "La cantante recordó que la justicia mexicana ya se pronunció sobre los hechos",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/sasha-sokol-arremete-contra-promocional-de-timbiriche-que-distorsiona-su-historia-con-luis-de-llano-vix-con-v-de-verguenza/",
+    "category": "Cultura",
+    "date": "2026-11-27 04:04",
+    "image": "https://www.infobae.com/resizer/v2/7PWSRB4OG5BW5NMW2IRW4YCLYQ.jpg?auth=86b86cf0f32ba2d8983bb9b74956c07dd00a73902e3090c12e894781fba0a78a&smart=true&width=1920&height=1080",
+    "title_en": "Sasha Sokol pounding against Promotional Timbiriche that distorts his story with Luis de Llano: \"ViX with V with shame\"",
+    "summary_en": "The singer recalled that Mexican justice has already been pronounced about the facts"
+  },
+  {
+    "title": "Precio de la gasolina en Nuevo León hoy jueves 26 de noviembre: ¿Cuánto cuesta el litro de Magna y Premium?",
+    "summary": "El valor de los carburantes en el país puede cambiar debido a múltiples factores como el tipo de cambio frente al dólar, impuestos y la logística para el traslado",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/precio-de-la-gasolina-en-nuevo-leon-hoy-jueves-26-de-noviembre-cuanto-cuesta-el-litro-de-magna-y-premium/",
+    "category": "Estados",
+    "date": "2026-11-27 04:01",
+    "image": "https://www.infobae.com/resizer/v2/HAGRJXU5YJFRHJTUKOO3SXEUAU.jpg?auth=611deb3d672514101c91b67ee35d380161841759da01a480cf7cbcee3431172d&smart=true&width=1920&height=1080",
+    "title_en": "Prices of gasoline in Nuevo León today Thursday November 26: How much does a liter of Magna and Premium cost?",
+    "summary_en": "The value of fuel in the country can change as a result of many factors, such as the exchange rate relative to the dollar, taxes and logistics for transport"
+  },
+  {
+    "title": "Crehana va por eficientar la nómina",
+    "summary": "En el caso específico del país, es un salvavidas para revisar que, en los salarios, los conceptos por ISR, cuotas del IMSS y conceptos del Infonavit estén en orden antes de autorizar pagos, con un motor propio que utiliza a la inteligencia artificial.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/11/27/crehana-va-por-eficientar-la-nomina/",
+    "category": "Tecnología",
+    "date": "2026-11-27 03:53",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/1cS9Q9ANm_I32TvRoB-vE_mdHU0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MALUV2ANLBHLFGVOSIXOM4M7XQ.jpeg",
+    "title_en": "Crehana's about to efficiency his payroll.",
+    "summary_en": "In the specific case of the country, it's a lifesaver to check that, in wages, IER concepts, IMSS quotas and Inphonavit concepts are in order before approving payments with an own motor that uses artificial intelligence."
+  },
+  {
+    "title": "Proyecto Trion en Tamaulipas: inversión que transformará el sector energético",
+    "summary": "El Proyecto Trion, ubicado aproximadamente a 180 kilómetros al este de las costas de Matamoros, marca un punto de inflexión para la industria energética nacional.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/11/27/proyecto-trion-en-tamaulipas-inversion-que-transformara-el-sector-energetico/",
+    "category": "Estados",
+    "date": "2026-11-27 03:41",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/P5EyN-rqMO7_3RFF1SanZqa7Qo8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WAHYQGYS6RFU3C6HKKKANTE4EI.jpg",
+    "title_en": "Tion Project in Tamaulipas: Investment that will transform the energy sector",
+    "summary_en": "The Trion Project, situated about 180 km east of the coast of Matamoros, marks a turning point for the national energy industry."
+  },
+  {
+    "title": "Cupón Amazon en Noviembre 2026",
+    "summary": "Código de descuento Amazon: Black Friday con hasta 65% y 24 MSI, 15% con Santander, 10% con Banamex y BBVA, $100 en la app y 30% con Kueski Pay.",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/descubre-y-compra/amazon-cupones-y-codigos-de-descuento-100-mxn-en-tu-primera-compra-desde-la-app/",
+    "category": "Nación",
+    "date": "2026-11-27 03:17",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/6FFJ3YMYXZDW7ONJAYGKZFBUTE.jpg?auth=2578f25ec969f890de769dd692192c67cfb58732428d82eb10454860f2e89e26&smart=true&width=500",
+    "title_en": "Amazon Coupon at November 2026",
+    "summary_en": "Amazon discount code: Black Friday with up to 65% and 24 MSI, 15% with Santander, 10% with Banamex and BBVA, 100 at app and 30% with Kueski Pay."
+  },
+  {
+    "title": "Código de Descuento Adidas en Noviembre 2026",
+    "summary": "Cupones Adidas: Black Friday con hasta 50%, hasta 55% en Maratones México, 30% con código en tu pedido, 25% en primera compra y envío gratis desde $1,299.",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/descubre-y-compra/adidas-codigo-de-descuento-y-descuentos-hasta-50-en-deportes-envio-gratis/",
+    "category": "Nación",
+    "date": "2026-11-27 03:10",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/5RE56LF3CRFVJJC556BXBLVYPY.jpg?auth=f4242399dc525b67c3ac63bec0391b4abce0a06a4a2cf2f460dae13478be1e96&smart=true&width=500",
+    "title_en": "Adidas discount code in November 2026",
+    "summary_en": "Adidas cupones: Black Friday with up to 50%, up to 55% in Maratons Mexico, 30% with code at your order, 25% at first purchase and free shipping from $1,299."
+  },
+  {
+    "title": "Banxico eleva pronóstico de crecimiento del PIB a 1.9 por ciento para este año",
+    "summary": "Depreciación del peso tendrá un impacto limitado en la inflación, prevé.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/economia/2026/11/27/banxico-eleva-pronostico-de-crecimiento-del-pib-a-19-por-ciento-para-este-ano/",
+    "category": "Economía",
+    "date": "2026-11-27 03:05",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/PuLootf-PytG2kaIUdXRPX-9FUU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/37X2WJXR2BDNLGCZNSXB5NM3BU.jpg",
+    "title_en": "Banxico elevates GDP growth prognosis to 1.9 percent for this year",
+    "summary_en": "Weighting will have a limited impact on inflation, as expected."
+  },
+  {
+    "title": "Tribunal Colegiado confirma amparo a Vadhir Derbez por unanimidad: Fiscalía CDMX no acreditó elementos para detenerlo",
+    "summary": "Los tres magistrados ratificaron por unanimidad la protección judicial otorgada al actor",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/tribunal-colegiado-confirma-amparo-a-vadhir-derbez-por-unanimidad-fiscalia-cdmx-no-acredito-elementos-para-detenerlo/",
+    "category": "Seguridad",
+    "date": "2026-11-27 03:05",
+    "image": "https://www.infobae.com/resizer/v2/6JTUVK5RTBENLHEUSPFMCUGSAQ.jpg?auth=26759badd59f1bbd2f71c8ee601729524c1e55c7eb74857d9121bed0f0d3cab6&smart=true&width=1920&height=1080",
+    "title_en": "Collegiate Court confirms amparo to Vadhyr Derbez unanimously: Prosecutor's office CDMX did not credit elements to stop him",
+    "summary_en": "The three judges unanimously ratified the judicial protection given to the actor"
+  },
+  {
+    "title": "Más PIB, menos empleo",
+    "summary": "La previsión del crecimiento de los puestos de trabajo afiliados al IMSS para este año bajó a un intervalo de 180 mil a 280 mil, cuando en agosto era de 220 mil a 400 mil y en mayo de 260 mil a 460 mil.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/11/27/mas-pib-menos-empleo/",
+    "category": "Economía",
+    "date": "2026-11-27 02:42",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/sWLLfX6KdQ324E8wFEzTR0B9g1A=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/E465JLOJZZAU5DZGEUTMWX7KB4.jpg",
+    "title_en": "More GDP, less jobs",
+    "summary_en": "The outlook for the growth of jobs affiliated with the IMSS for this year fell to an interval of 180 to 280 thousand, while in August it was 220 to 400 thousand and in May 260 to 460 thousand."
+  },
+  {
+    "title": "Editorial: EU: ¿denunciar la corrupción?",
+    "summary": "El miércoles, el director general de la Administración para el Control de Drogas de Estados Unidos (DEA, por sus siglas en inglés), Terry Cole, proporcionó medios de contacto para recibir denuncias en Sinaloa sobre integrantes y “funcionarios corruptos” vinculados con cárteles del narcotráfico. Asimismo, anticipó que ayer difundiría las líneas telefónicas…",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/opinion/002a1edi?partner=rss",
+    "category": "Estados",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Editorial: EU: To report corruption?",
+    "summary_en": "On Wednesday, the Director General of the U.S. Drug Control Administration (DEA), Terry Cole, provided means of contact to receive Sinaloa complaints about members and \"corrupt officials\" linked with drug cartels. He also anticipated that yesterday he would spread phone lines..."
+  },
+  {
+    "title": "Eliminar pluris de la Constitución si rechaza la fórmula actual, reta Morena a la oposición",
+    "summary": "El presidente de la Junta de Coordinación Política (Jucopo) del Senado, Ignacio Mier Velazco (Morena), retó a la oposición a eliminar de la Constitución la llamada “cláusula de gobernabilidad” y a los legisladores plurinominales, si no están de acuerdo con la fórmula vigente para la asignación de estos últimos.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/008n1pol?partner=rss",
+    "category": "Política",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "To remove plures from the Constitution if you reject the current formula, challenges Brunette to opposition",
+    "summary_en": "The President of the Senate's Political Coordination Board (Jocopo), Ignacio Mier Velazco (Brunette), challenges opposition to remove from the Constitution the so-called \"governance clause\" and to plurinominal legislators, if they disagree with the current formula for their assignment."
+  },
+  {
+    "title": "China y México, aliados en la promoción del desarrollo común: Chen",
+    "summary": "China y México deben promover la construcción de un sistema más razonable y justo de la gobernanza global, declaró esta tarde Chen Daojiang, embajador de China en México.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/economia/025n1eco?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "China and Mexico, partners in promoting common development: Chen",
+    "summary_en": "China and Mexico have to promote the construction of a more reasonable and fair system of global governance, said China's ambassador to Mexico Chen Daojiang this afternoon."
+  },
+  {
+    "title": "Entre 2016 y 2018, Gómez Mont percibió 178 mdp de factureras",
+    "summary": "La Fiscalía General de la República (FGR) acusó y obtuvo orden de aprehensión desde septiembre de 2021 ante un juez con sede en Toluca, estado de México, contra Inés Gómez Mont por obtener ilícitamente 178 millones 723 mil 428 de pesos provenientes de las empresas Tangamanga y Gupea, ambas señaladas como factureras, entre 2016 y 2018.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/007n1pol?partner=rss",
+    "category": "Seguridad",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Between 2016 and 2018, Gómez Mont earned 178 mdp of billing",
+    "summary_en": "The Prosecutor General's Office (FGR) accused and obtained an arrest warrant from September 2021 before a judge with headquarters in Toluca, Mexico, against Inés Gómez Mont for illegally obtaining 178 million 723 thousand 428 pesos from the Tangamanga and Gupia companies, both reported as billing, from 2016 to 2018."
+  },
+  {
+    "title": "Taxistas colapsan tránsito en el norte y el oriente; denuncian abusos del Invea",
+    "summary": "El tránsito vehicular en el norte y el oriente de la Ciudad de México colapsó a causa de cuatro bloqueos que realizaron taxistas, quienes utilizaron sus vehículos con cromática rosa y blanco para cerrar vialidades principales con la consigna de “ya basta de los abusos del Instituto de Verificación Administrativa”.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/capital/033n1cap?partner=rss",
+    "category": "Estados",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Taxists collapse traffic to the north and east and report abuses of Inca",
+    "summary_en": "The traffic of vehicles to the north and east of Mexico City collapsed as a result of four blockades by taxi drivers, who used their vehicles with pink and white chromata to close main roads with the slogan \"That's enough of the abuses of the Institute of Administrative Verification.\""
+  },
+  {
+    "title": "Sigue impune en QR asesinato de refugiada salvadoreña cometido por cuatro policías",
+    "summary": "Cinco años después de que Victoria Salazar, refugiada salvadoreña, falleció en la vía pública cuando era sometida por cuatro policías municipales en Tulum, Quintana Roo, el caso continúa en la impunidad, pues todos los elementos fueron liberados este año y las hijas de la víctima siguen sin recibir ninguna reparación integral del daño, denunció el Instituto…",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/014n1pol?partner=rss",
+    "category": "Estados",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "The murder of Salvadoran refugee committed by four police officers remains with impunity at QR",
+    "summary_en": "Five years after Victoria Salazar, a Salvadoran refugee, died on the public track while she was submitted by four municipal police officers at Tulum, Quintana Roo, the case continues with impunity as all elements were released this year and the victim's daughters still have no complete remedy for the damage, the Institute reported..."
+  },
+  {
+    "title": "En punto mínimo, hogares que no pueden adquirir la canasta básica",
+    "summary": "La pobreza laboral en México marcó un nuevo mínimo histórico en el tercer trimestre, informó el Instituto Nacional de Estadística y Geografía (Inegi).",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/economia/021n1eco?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "At a minimum, households that cannot acquire the basic basket",
+    "summary_en": "Labour poverty in Mexico marked a new historic minimum in the third quarter, reported the National Institute of Statistics and Geography (Inegi)."
+  },
+  {
+    "title": "Woldenberg y Peschard piden al instituto electoral rectificar criterio de pluris",
+    "summary": "La víspera de que el Instituto Nacional Electoral (INE) decida sobre el mecanismo de asignación de diputados plurinominales, los ex consejeros José Woldenberg y Jacqueline Peschard pidieron al órgano “rectificar” el criterio, a fin de evitar “distorsiones” entre votos y curules rumbo a los comicios de 2027.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/010n2pol?partner=rss",
+    "category": "Política",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Woldenberg and Peschard demand an electoral institute to rectify pluri criteria",
+    "summary_en": "The day before the National Electoral Institute (INE) decided about the mechanism for the assignment of plurinominal deputies, former counselors José Woldenberg and Jacqueline Peschard asked the body to \"recite\" the criterion, so as to avoid \"distortions\" between votes and curules leading to the 2027 elections."
+  },
+  {
+    "title": "Quitan nombre de Gustavo Díaz Ordaz a 29 escuelas de Puebla; ahora son 5 de Mayo",
+    "summary": "Puebla, Pue., Un total de 29 escuelas públicas en 16 municipios de la entidad dejaron de llevar el nombre del ex presidente priísta Gustavo Díaz Ordaz (1964-1970) y adoptaron la denominación oficial 5 de Mayo.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/estados/032n4est?partner=rss",
+    "category": "Estados",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "They remove the name of Gustavo Díaz Ordaz to 29 schools of Puebla and are now May 5",
+    "summary_en": "Puebla, Pue. A total of 29 public schools in 16 municipalities of the entity stopped bearing the name of former priist president Gustavo Diaz Ordaz (1964-1970) and adopted the official name May 5."
+  },
+  {
+    "title": "Sólo han votado en la consulta 6 mil 483 de 250 mil politécnicos",
+    "summary": "La Secretaría de Educación Pública (SEP) informó que hasta este jueves, 6 mil 483 integrantes de la comunidad del Instituto Politécnico Nacional (IPN) –integrada por poco más de 250 mil alumnos, docentes y trabajadores– habían participado en el proceso de consulta para elegir a quienes integrarán las dos ternas entre las que la presidenta Claudia Sheinbaum…",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/012n1pol?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "They have only voted at the consultation 6 thousand 483 of 250 thousand polytechnicians",
+    "summary_en": "The Secretariat of Public Education (SEP) reported that up to Thursday, 6 thousand 483 members of the community of the National Polytechnic Institute (IPN), composed of just over 250 thousand pupils, teachers and workers, had been involved in the consultation process to select those who will be among whom President Claudia Sheinbaum..."
+  },
+  {
+    "title": "Enrique Galván Ochoa: Dinero",
+    "summary": "Califica el desempeño de la presidenta Sheinbaum en China. ¿Qué fue lo mejor, lo mas importante? Este es el tema de nuestro sondeo semanal en redes sociales. Los resultados se muestran en la gráfica.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/opinion/006o1eco?partner=rss",
+    "category": "Tecnología",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Enrique Galvan Ochoa: Money",
+    "summary_en": "He qualifies President Sheinbaum's performance in China. What was best, most important? That's the issue of our weekly social networking survey. The results are shown in the graph."
+  },
+  {
+    "title": "Productores de maíz y de frijol en dos estados piden apoyo federal, “como a los caficultores”",
+    "summary": "Zacatecas, Zac., Productores de maíz en Jalisco y de frijol en Zacatecas aplaudieron ayer que la presidenta Claudia Sheinbaum Pardo haya defendido a los productores cafetaleros de Chiapas frente al bajo precio que les paga la trasnacional europea Nestlé y aprovecharon para solicitarle su apoyo para obtener también mejores precios.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/estados/030n2est?partner=rss",
+    "category": "Estados",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Corn and bean producers in two states call for federal support, \"as with growers\"",
+    "summary_en": "Zacatecas, Zac., Maize producers at Jalisco and bean producers at Zacatecas applauded yesterday that President Claudia Sheinbaum Pardo has been defending the coffee producers in Chiapas from the low price paid to them by European national Nestlé and have been using them to demand their support to get better prices as well."
+  },
+  {
+    "title": "Consumidor en México sale menos, pero gasta más: revela estudio a restaurantes",
+    "summary": "El crecimiento de la industria de restaurantes en México este 2026 vino del precio de la cuenta, del ticket promedio, no de un aumento de transacciones; es decir, no del incremento de visitas a estos sitios, sino por los ajustes de precios del menú, reveló Euromonitor Internacional.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/economia/024n2eco?partner=rss",
+    "category": "Economía",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Consumers in Mexico get out less but spend more: reveal studio to restaurants",
+    "summary_en": "The growth of the restaurants industry in Mexico this 2026 came from the price of the account, from the average ticket, not from an increase of transactions, that's to say, from the increase of visits to these sites but from the price adjustments of the menu, revealed Euromonitor International."
+  },
+  {
+    "title": "Eleva el BdeM su perspectiva de crecimiento económico a 1.9%",
+    "summary": "El Banco de México (BdeM) elevó su perspectiva de crecimiento para este año, de 1.5 a 1.9 por ciento. El organismo argumentó que esta revisión se basa en que el desempeño de la economía, sobre todo en el tercer trimestre, “ha sido mejor a lo esperado”.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/economia/023n1eco?partner=rss",
+    "category": "Economía",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Highlights BdeM's economic growth perspective to 1.9%",
+    "summary_en": "The Bank of Mexico (BdeM) increased its growth perspective for this year from 1.5 to 1.9 percent. The body argued that this review was based on how economic performance, especially in the third quarter, \"has been better than expected.\""
+  },
+  {
+    "title": "Se generaron 738 mil 285 empleos en octubre; la mayoría, informales",
+    "summary": "La ocupación laboral en México aumentó en octubre, impulsada por la creación de empleos informales, según datos del Instituto Nacional de Estadística y Geografía (Inegi).",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/economia/021n2eco?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "738 thousand 285 jobs have been generated in October and most jobs have been informal",
+    "summary_en": "Labour employment in Mexico increased in October, driven by the creation of informal jobs, according to data from the National Institute of Statistics and Geography (Inegi)."
+  },
+  {
+    "title": "Zavala obtiene plaza olímpica en tiro deportivo",
+    "summary": "La tiradora mexicana Alejandra Zavala consiguió una nueva plaza olímpica para México rumbo a Los Ángeles 2028, luego de conquistar la medalla de plata en la prueba de pistola de 25 metros del 15 Campeonato de las Américas, que se celebra en Lima, Perú. La jalisciense sumó 26 puntos para quedarse con el segundo lugar, detrás de la estadunidense Ada Claudia…",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/deportes/a12n4dep?partner=rss",
+    "category": "Deportes",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Zavala gets an Olympic square at a sports shoot",
+    "summary_en": "The Mexican shooter Alejandra Zavala earned a new Olympic square for Mexico headed to Los Angeles 2028 after conquering the silver medal at the 25-foot gun test of the 15th Championship of the Americas, held in Lima, Peru. The Jeliscian added 26 points to get second place, after the U.S. Ada Claudia..."
+  },
+  {
+    "title": "Pedro Miguel: Gómez Mont y otros casos esclarecedores",
+    "summary": "Imaginen: tengo doble nacionalidad, estadunidense y afgana, y cometo una serie de delitos en Texas, en Oklahoma o en Maine. Luego, escapo a México y permanezco allí en una situación migratoria irregular. El Departamento de Justicia de Washington envía a las autoridades mexicanas una solicitud fundada de extradición y éstas, después de un mes de pensarlo,…",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/020a2pol?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Pedro Miguel: Gómez Mont and other clarifying cases",
+    "summary_en": "Imagine: I have dual nationality, to be and to be an Afghan and to commit a number of crimes in Texas, Oklahoma or Maine. Then I run to Mexico and stay there in an irregular migration situation. The Washington Department of Justice sends to the Mexican authorities a well-founded request for extradition and these, after a month of thinking about it,..."
+  },
+  {
+    "title": "En Hidalgo, abren queja tras denuncia de diputada de PT por presunto abuso sexual",
+    "summary": "La Comisión de Derechos Humanos del Estado de Hidalgo informó que inició la queja de oficio VG-1769-26, derivado de hechos expuestos por la diputada local del Partido del Trabajo (PT), Orquídea Larragoiti Osorio, quien aseguró que fue víctima de abuso sexual por su correligionario Francisco Javier Vázquez Calixto, comisionado estatal y legislador federal…",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/estados/031n3est?partner=rss",
+    "category": "Estados",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "In Hidalgo, they file a complaint after a complaint from PT deputy about alleged sexual abuse",
+    "summary_en": "The Commission for Human Rights of the State of Hidalgo reported that it initiated an ex officio complaint VG-1769-26, derived from events put forward by local Labour Party (PT) deputy Orquídea Larragoiti OSorio, who stated that she was sexually abused by his co-religionary Francisco Javier Vázquez Calixto, state commissioner and federal legislator..."
+  },
+  {
+    "title": "Continúa el paro en la UPN al no cumplirse la entrega de la Beca Elisa Acuña",
+    "summary": "Integrantes del movimiento estudiantil que mantienen en resguardo las instalaciones de la Universidad Pedagógica Nacional (UPN) Ajusco desde hace más de tres semanas informaron que no se entregará la sede hasta que se dispersen la totalidad de los recursos de la Beca Elisa Acuña, con un monto único de 5 mil 400 a 6 mil pesos.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/012n2pol?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "UPN unemployment continues with the surrender of the Elisa Acuña Fellowship",
+    "summary_en": "Members of the student movement who have been keeping the National Pedagogical University (UPN) Aqusco's headquarters under hold for more than three weeks have been reported to have been held up until all of the resources of the Élisa Acuña Fellowship have been dispersed with a unique amount of about 5,000 400 to 6,000 pesos."
+  },
+  {
+    "title": "Premier de Australia pide visitar México; Sheinbaum lo “impresionó”: embajador",
+    "summary": "El primer ministro de Australia, Anthony Albanese, quedó “tan impresionado” con la presidenta Claudia Sheinbaum, durante el encuentro que sostuvieron en la reciente cumbre de APEC y las posibilidades en la relación bilateral, que quiere visitar México a la brevedad, comentó el embajador Crispín Conroy.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/018n3pol?partner=rss",
+    "category": "Política",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Premier from Australia asks to visit Mexico and Sheinbaum \"impressed him\": ambassador",
+    "summary_en": "Australian Prime Minister Anthony Albanese was \"so impressed\" with President Claudia Sheinbaum at their meeting at the recent AFEC summit and with his bilateral relationship with Mexico soon, Ambassador Crispin Conroy said."
+  },
+  {
+    "title": "México y China fortalecen cooperación en ciencia y educación superior",
+    "summary": "Representantes del sector educativo, líderes universitarios y autoridades gubernamentales inauguraron el V Foro de Rectoras y Rectores México-China en la Asociación Nacional de Universidades e Instituciones de Educación Superior (Anuies), con el propósito de dar forma operativa a proyectos de desarrollo conjunto en áreas claves de educación superior,…",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/politica/012n3pol?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Mexico and China strengthen cooperation in science and higher education",
+    "summary_en": "Representatives of the educational sector, university leaders and government authorities have opened the fifth Forum of Mexican rectors and rectors at the National Association of Universities and Institutions of Higher Education (Anuies) with the aim of operationalizing co-development projects in key areas of higher education,..."
+  },
+  {
+    "title": "Caen peso y BMV; dólar spot cierra en $19.7214",
+    "summary": "El peso mexicano cerró ayer en su nivel más bajo desde el 16 de abril de 2025 e hiló siete jornadas a la baja frente al dólar.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/economia/023n3eco?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Flow weight and BMV, spot dollars close at $19,7214",
+    "summary_en": "The Mexican peso closed yesterday at its lowest level since April 16, 2025 and rounded seven days down against the dollar."
+  },
+  {
+    "title": "Observaciones de la ASF no son pruebas definitivas de irregularidades: Hacienda",
+    "summary": "Las observaciones de la Auditoría Superior de la Federación a Casa de Moneda no acreditan actos de corrupción, se encuentran en proceso de aclaración y no constituyen sanciones definitivas, explicó la Secretaría de Hacienda y Crédito Público sobre las presuntas irregularidades por 10.4 millones de pesos en el organismo.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/economia/022n1eco?partner=rss",
+    "category": "Nación",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "The FSA's comments are not final evidence of irregularities: Finance",
+    "summary_en": "The comments of the Supreme Audit of the Federation to Casa de Coreda do not atprove acts of corruption, are currently in the process of being clarified and do not constitute final sanctions, explain the Secretariat of Finance and Public Credit about the alleged irregularities of 10.4 million pesos in the body."
+  },
+  {
+    "title": "Muere tras un golpe en la frente, alumna de 14 años en secundaria de Zacatecas",
+    "summary": "Dulce Guadalupe, de 14 años, alumna de la secundaria federal Juan Pablo García, en la ciudad de Zacatecas, falleció ayer tras estar tres días hospitalizada, resultado de un golpe que recibió en la frente durante una actividad física en el plantel.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/estados/032n2est?partner=rss",
+    "category": "Estados",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "He dies after a blow to his forehead, a 14 year old student at Zacatecas high school",
+    "summary_en": "Dulce Guadelupe, 14, a student at Juan Pablo García's federal high school, in the town of Zacatecas, died yesterday after his 3-day hospitalisation, as a result of a blow to his forehead during his physical activity at his headquarters."
+  },
+  {
+    "title": "Julio Hernández López: Astillero",
+    "summary": "Es notable que en tiempos de tanta controversia entre partidos se haya logrado en la Cámara de Diputados la presentación de una iniciativa de reformas legales con el apoyo de todas las bancadas. El punto de convergencia ha sido el constante abuso de aseguradoras en materia de salud y de hospitales y clínicas privadas.",
+    "source": "La Jornada",
+    "url": "https://www.jornada.com.mx/2026/11/27/opinion/008o1pol?partner=rss",
+    "category": "Salud",
+    "date": "2026-11-27 02:35",
+    "image": "",
+    "title_en": "Julio Hernández López: Shipyard",
+    "summary_en": "It is remarkable that at a time of so much dispute between parties an initiative of legal reforms with the support of all parties was put forward at the House of Deputies. The convergence point has been the continuing abuse of health insurance and private hospitals and clinics."
+  },
+  {
+    "title": "La SSPC no recibió denuncias ni solicitudes de protección por parte del regidor de Morena, Gabriel Rivas, asesinado en Morelos",
+    "summary": "José Luis Bucio Quiroz aseguró que el regidor nunca solicitó medidas de protección ni fue sometido a una evaluación de riesgo antes de ser asesinado en Cuernavaca",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/la-sspc-no-recibio-denuncias-ni-solicitudes-de-proteccion-por-parte-del-regidor-de-morena-gabriel-rivas-asesinado-en-morelos/",
+    "category": "Estados",
+    "date": "2026-11-27 02:16",
+    "image": "https://www.infobae.com/resizer/v2/S66PTECBK5BG3NQRKS62X4YUOI.jpg?auth=05320e892b96b158b20cb489b23fe8647a008385e84520c2c48057a80603b4af&smart=true&width=1920&height=1080",
+    "title_en": "SSPC did not receive claims or requests for protection from Brunette's regador, Gabriel Rivas, killed at Morelos",
+    "summary_en": "José Luis Bucio Quiroz stated that the regador never requested protective measures and was subjected to a risk assessment before his death at Cuernavaca"
+  },
+  {
+    "title": "Guarda tus billetes: Ferrari México rechaza pagos en efectivo y depósitos a otras cuentas",
+    "summary": "Ferrari informó que no aceptan pagos en efectivo ni depósitos a otras cuentas que no sean las oficiales.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/empresas/2026/11/27/guarda-tus-billetes-ferrari-mexico-rechaza-pagos-en-efectivo-y-depositos-a-otras-cuentas/",
+    "category": "Economía",
+    "date": "2026-11-27 01:52",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/B1eVP3EB5ZcoX6PFYGH9eb31XLw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/M4QDA7BRNNBNJG4DO2YXEKVWEU.jpeg",
+    "title_en": "Save your tickets: Ferrari Mexico rejects cash and deposits to other accounts",
+    "summary_en": "Ferrari reported that they do not accept cash payments or deposits to other accounts other than official accounts."
+  },
+  {
+    "title": "Cupón Hoteles.com en Noviembre 2026",
+    "summary": "Código de descuento Hoteles.com: 26% en la app y 6% extra en línea hasta el 1 de diciembre, hasta 50% en hospedajes por Black Friday y 54% en Los Cabos.",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/descubre-y-compra/cupon-hotelescom-y-descuentos-26-off-en-agosto-2026/",
+    "category": "Nación",
+    "date": "2026-11-27 01:50",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/TU6M5XTZKZCUXJ6OCJZFHD2BQE.jpg?auth=708f02a53d3a2470a8fc480bff83fd636c822c1f6388da4163cec1aaf9c5fa09&smart=true&width=500",
+    "title_en": "Hoteles.com Coupon at November 2026",
+    "summary_en": "Hoteles.com discount code: 26% on the app and 6% extra online up to 1 December, up to 50% at Black Friday and 54% at Los Cabos."
+  },
+  {
     "title": "¿Cuántas camisetas le caben a Mery Pozos?",
     "summary": "Sí, Merilyn Gómez Pozos, Mery Pozos en las bardas que ya tapizan Guadalajara, llegó a la Cámara por primera vez en 2012, siendo una pluri naranja, y se sentó en la Mesa Directiva los tres años de aquella legislatura.",
     "source": "El Financiero",
@@ -33,17 +703,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Keep up with all updates about telepast movements throughout the country"
   },
   {
-    "title": "Código Promocional RIU en Noviembre 2026",
-    "summary": "Promociones RIU: hasta 10% con RIU Class, códigos de hasta 20% en hoteles, 10% extra en la app y en Riu Plaza, y ofertas en Cancún.",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/descubre-y-compra/codigo-promocional-riu/",
-    "category": "Nación",
-    "date": "2026-11-27 01:10",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/V2SPX5GEPZFNDIDEFFJOYZDXEU.jpg?auth=fa2c5e1db6cf3ed08304d85d8e0301433b17a3572d5b8e7a8c65ec630eec44b6&smart=true&width=500",
-    "title_en": "Promotional code RIU in November 2026",
-    "summary_en": "RIU Promotions: up to 10% with RIU Class, up to 20% code at hotels, 10% extra at the app and Riu Plaza and offers at Cancún."
-  },
-  {
     "title": "Black Ecco TI aclara proceso de contratación con Pemex",
     "summary": "Carta",
     "source": "El Universal",
@@ -55,16 +714,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Charter"
   },
   {
-    "title": "Aranceles no frenan envío de contenedores de China a México: UNCTAD",
-    "summary": "",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/cartera/aranceles-no-frenan-envio-de-contenedores-de-china-a-mexico-unctad/",
-    "category": "Economía",
-    "date": "2026-11-27 00:58",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/VFVPQ2JJQJHADAEW43AD3SHKAU.jpg?auth=9796cfc700cdd112134b710396016f4bf62c3d0491c953bf269437b7170610ea&smart=true&width=500",
-    "title_en": "Tariffs Don't Fan China Container to Mexico: UNCTAD"
-  },
-  {
     "title": "Congreso del Edomex pide indemnizar automovilistas por afectaciones causados por baches a través de un fondo estatal",
     "summary": "El Congreso mexiquense exhortó al gobierno estatal y a los 125 ayuntamientos a crear mecanismos para indemnizar a conductores afectados por baches y socavones",
     "source": "Infobae México",
@@ -74,17 +723,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.infobae.com/resizer/v2/CPIHLTCTVREO3DUVPLHVA5DFGU.jpg?auth=5284107fc42f8e4f9af1b509b1750f980302aaf408f01b942a633695a6018c18&smart=true&width=1920&height=1080",
     "title_en": "Edomex Congress Asks To Reparate Cars for Fingerjobs caused by Bugs through a State Fund",
     "summary_en": "The Mexiquense Congress called on the state government and 125 municipalities to put in place mechanisms to compensate drivers affected by potholes and undermining"
-  },
-  {
-    "title": "\"PAN sí va en 2027; Morena se llevará una sorpresa”: Jorge Romero, presidente del PAN",
-    "summary": "Se pronuncia por una purga en el INE por los nexos de varios consejeros con Guadalupe Taddei; alerta sobre el narco en las elecciones del próximo año",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/nacion/pan-si-va-en-2027-morena-se-llevara-una-sorpresa-jorge-romero-presidente-del-pan/",
-    "category": "Seguridad",
-    "date": "2026-11-27 00:55",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/VOI5L5X6AJG2LJPI4UGFRPCXTA.jpg?auth=1bfb32b56dcdcbc1c8c4cbabe49c6e567bf51c6e750ee0a0ed519fa998055afd&smart=true&width=500",
-    "title_en": "\"PAN does go in 2027; Brunette will have a surprise\": Jorge Romero, president of the pAN",
-    "summary_en": "It's pronounced by purga at the INE for the links of several counselors with Guadalupe Taddei and an alert about narco at next year's elections"
   },
   {
     "title": "Christian Nodal presume decoración navideña en su casa de Zacatecas",
@@ -318,17 +956,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Cofepris warned that Duvalín Untable was commercialised on digital platforms, although it stopped manufacturing in September 2021."
   },
   {
-    "title": "Exhiben penthouse de 19 millones de pesos vinculado a Luz Elena González",
-    "summary": "Un nuevo escándalo sacude a Luz Elena González Escobar, actual secretaria de Energía del gobierno federal, luego de que Carlos Loret de Mola exhibiera documentos de un inmueble cuyo precio de compraventa habría ascendido a 19 millones de pesos. En el reportaje titulado El penthouse oculto de Luz Elena González, se presentan imágenes del inmueble […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/mexico/2026/11/26/exhiben-penthouse-de-19-millones-de-pesos-vinculado-a-luz-elena-gonzalez.html",
-    "category": "Economía",
-    "date": "2026-11-26 22:36",
-    "image": "",
-    "title_en": "Exhiban penthouse of 19 million pesos linked to Luzo Elena González",
-    "summary_en": "A new scandal shattering Luz Elena González Escobar, currently an Energy Secretary of the federal government, after Carlos Loret de Mola exhibited documents from a property whose sales price would have been amounting to 19 million pesos. The report entitled The Hidden Penthouse of Luz Elena González presents images of the [...]"
-  },
-  {
     "title": "Temperaturas en Mazatlán: prepárate antes de salir de casa",
     "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
     "source": "Infobae México",
@@ -384,39 +1011,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Due to its geographical location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
   },
   {
-    "title": "Predicción del clima: estas son las temperaturas en Culiacán Rosales",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/prediccion-del-clima-estas-son-las-temperaturas-en-culiacan-rosales/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 22:19",
-    "image": "https://www.infobae.com/resizer/v2/LKSZU72PPFBCNCTAN3EYUOSYGY.png?auth=29194d3058a3a50b319665d1a0255e537b3615c5182dc01a963d82465b089c6b&smart=true&width=1920&height=1080",
-    "title_en": "Climate prediction: these are temperatures at Culiacan Rosales",
-    "summary_en": "The lowest recorded temperature in Mexico was that of December 27, 1997, as the thermometer decreased to -25 degrees"
-  },
-  {
-    "title": "Clima en Santiago Ixcuintla: temperatura y probabilidad de lluvia para este viernes 27 de noviembre",
-    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/clima-en-santiago-ixcuintla-temperatura-y-probabilidad-de-lluvia-para-este-viernes-27-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 22:19",
-    "image": "https://www.infobae.com/resizer/v2/V55K73VDGZGBJP3URF3KFHH7YQ.png?auth=9394ef9f492638265edb585b9d92cd7caf11c52de86ca61132dbed0926cb3a98&smart=true&width=1920&height=1080",
-    "title_en": "Climate in Santiago Ixcuintla: temperature and rain probability for this Friday November 27",
-    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
-  },
-  {
-    "title": "Previsión meteorológica del estado del tiempo en Ecatepec para este viernes 27 de noviembre",
-    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/prevision-meteorologica-del-estado-del-tiempo-en-ecatepec-para-este-viernes-27-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 22:19",
-    "image": "https://www.infobae.com/resizer/v2/WHC4WVADFJFFZKHHRCTDSAEVOE.png?auth=dedba864f0a8bf1abeda6eae563dc5b7c72c7857103d8d1428e29833c20dd16a&smart=true&width=1920&height=1080",
-    "title_en": "Weather forecasts of the state of time at Ecatepec for this Friday, November 27",
-    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
-  },
-  {
     "title": "Despliegan operativo en Guasave por presunto artefacto explosivo cerca de la Secretaría de Educación",
     "summary": "Autoridades de Sinaloa desplegaron un dispositivo ante la amenaza por un presunto artefacto explosivo.",
     "source": "El Financiero",
@@ -428,72 +1022,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Sinaloa authorities deployed a device to the threat by an alleged explosive device."
   },
   {
-    "title": "Pronóstico del clima en Acapulco de Juárez este 27 de noviembre: temperatura, lluvias y viento",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/pronostico-del-clima-en-acapulco-de-juarez-este-27-de-noviembre-temperatura-lluvias-y-viento/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 22:18",
-    "image": "https://www.infobae.com/resizer/v2/LTD2IZU2XZHJ7HF3UWSH6TA7WI.png?auth=5e912c6aa3df9a494f339ad71b23657b4162064b40fce5adc5df692cae4733cb&smart=true&width=1920&height=1080",
-    "title_en": "A climate diagnosis at Acapulco de Juárez this November 27: temperature, rain and wind",
-    "summary_en": "The lowest recorded temperature in the Mexican territory was that of December 27, 1997, as the thermometer declined to the -25 degrees."
-  },
-  {
-    "title": "Temperaturas en Mérida: prepárate antes de salir de casa",
-    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/temperaturas-en-merida-preparate-antes-de-salir-de-casa/",
-    "category": "Nación",
-    "date": "2026-11-26 22:18",
-    "image": "https://www.infobae.com/resizer/v2/IBCQMKDY7RBY5IOO7CIQIBRRCE.png?auth=1537d0bef91f48fd7045e1465362a121f7836c6138d83a18462c989bfe8cdd1a&smart=true&width=1920&height=1080",
-    "title_en": "Temperatures in Merida: get ready before you leave the house",
-    "summary_en": "The lowest temperature in the country was that of 27 December 1997, as the thermometer declined to -25 degrees"
-  },
-  {
-    "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Puebla de Zaragoza este 27 de noviembre",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-puebla-de-zaragoza-este-27-de-noviembre/",
-    "category": "Estados",
-    "date": "2026-11-26 22:18",
-    "image": "https://www.infobae.com/resizer/v2/BHOGCUQVUVAM5A3ZTOJUYT67HI.png?auth=c9d121d20dfdc701c22cb5cb4999c3fc99641a9ff464eed4036c67a2d425075e&smart=true&width=1920&height=1080",
-    "title_en": "Farewell to uncertainty, know about climate conditions at Puebla de Zaragoza this November 27",
-    "summary_en": "The lowest recorded temperature in Mexico was that of December 27, 1997, as the thermometer decreased to -25 degrees"
-  },
-  {
-    "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Monterrey este 27 de noviembre",
-    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-monterrey-este-27-de-noviembre/",
-    "category": "Nación",
-    "date": "2026-11-26 22:17",
-    "image": "https://www.infobae.com/resizer/v2/H3VVX23BAFAUXMSL4DO4PCCFAY.png?auth=388ad03c4736ab179f6fda5d75c8dd8efbaa7960a4c8984c3c355ab7bd08aab2&smart=true&width=1920&height=1080",
-    "title_en": "Farewell to uncertainty, know climate conditions at Monterrey on November 27",
-    "summary_en": "The lowest temperature in the country was that of 27 December 1997, as the thermometer declined to -25 degrees"
-  },
-  {
-    "title": "Las últimas previsiones para Tijuana: temperatura, lluvias y viento este 27 de noviembre",
-    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/las-ultimas-previsiones-para-tijuana-temperatura-lluvias-y-viento-este-27-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 22:17",
-    "image": "https://www.infobae.com/resizer/v2/ES3SLBIXOZCRHMVSFGKG7W244E.png?auth=38ea33f9517573cc0e2306d0dead9168d77ae6de48262ea4bf24867035b5e5a9&smart=true&width=1920&height=1080",
-    "title_en": "The latest forecasts for Tijuana: temperature, rain and wind this November 27",
-    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
-  },
-  {
-    "title": "Clima: temperatura y probabilidad de lluvia para Guadalajara este 27 de noviembre",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/clima-temperatura-y-probabilidad-de-lluvia-para-guadalajara-este-27-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 22:17",
-    "image": "https://www.infobae.com/resizer/v2/SGDHSU6UNNDWRODNWHHK6QZ6AY.png?auth=c17e95996fc72d9b217616f87ad35325a406f14310efb838234096ebada94750&smart=true&width=1920&height=1080",
-    "title_en": "Climate: temperature and rain probability for Guadalajara this November 27",
-    "summary_en": "The lowest recorded temperature in the Mexican territory was that of December 27, 1997, as the thermometer declined to the -25 degrees."
-  },
-  {
     "title": "Informalidad laboral aumenta en 18 estados mexicanos",
     "summary": "Durante el tercer trimestre del 2026, Durango, Nayarit y Michoacán presentaron los mayores incrementos anuales.",
     "source": "El Economista",
@@ -503,17 +1031,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/08/28/6a9123e78d434.jpeg",
     "title_en": "Labour information increased in 18 Mexican states",
     "summary_en": "During the third quarter of 2026, Durango, Nayarit and Michoacan had the highest monthly increases."
-  },
-  {
-    "title": "Prepárase antes de salir: Este es el pronóstico del clima en Cancún este 27 de noviembre",
-    "summary": "La temperatura más alta registrada en el país fue la del 6 de julio de 1966, cuando el termómetro subió hasta los 58.5 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-cancun-este-27-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 22:16",
-    "image": "https://www.infobae.com/resizer/v2/6DZTHOW5SJCOXA6LVI4FXRMRDA.png?auth=e6940630f11354f40218612183ec1fd02d73dad51a01d5775030cbfb81834e23&smart=true&width=1920&height=1080",
-    "title_en": "Prepare to leave: That's the climate forecast in Cancún this November 27.",
-    "summary_en": "The highest temperature in the country was that of 6 July 1966, as the thermometer increased to 58.5 degrees"
   },
   {
     "title": "¿Será más fácil divorciarte? Sheinbaum envía al Congreso reforma en materia de Justicia familiar",
@@ -538,94 +1055,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Value of weight under surveillance."
   },
   {
-    "title": "Ayuntamiento de Mérida recupera inmueble que era utilizado como estacionamiento clandestino en el Centro Histórico",
-    "summary": "Una plaza municipal ubicada en la esquina de las calles 65 y 54 del Centro Histórico, que durante años operó como estacionamiento clandestino y tiradero nocturno de desechos, fue recuperada por el Ayuntamiento de Mérida con el apoyo de la Policía Municipal y la Agencia de Transporte de Yucatán (ATY). De acuerdo con un comunicado […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/merida/2026/11/26/ayuntamiento-de-merida-recupera-inmueble-que-era-utilizado-como-estacionamiento-clandestino-en-el-centro-historico.html",
-    "category": "Estados",
-    "date": "2026-11-26 22:03",
-    "image": "",
-    "title_en": "Municipality of Mérida regains property that was used as an underground parking place at the historic centre",
-    "summary_en": "A town square located at the corner of 65 and 54 streets of the historic centre, which for years operated as an underground parking and night waste dump, was retrieved by the Mérida town hall with the support of the Municipal police and the Yucatan Transport Agency (ATY). According to a [...]"
-  },
-  {
-    "title": "Afore XXI Banorte, la que más ahorros de cuentas inactivas ha transferido al FPB",
-    "summary": "Desde la creación del Fondo de Pensiones del Bienestar, en el 2024, hasta septiembre del 2026, ha transferido 6,893 millones de pesos de ahorros que estaban en dichas cuentas.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/sectorfinanciero/afore-xxi-banorte-ahorros-cuentas-inactivas-transferido-fpb-20261126-846122.html",
-    "category": "Economía",
-    "date": "2026-11-26 22:01",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/04/29/681108f94c549.jpeg",
-    "title_en": "Afore XXI Banorte, most of which have been transferred to FPB",
-    "summary_en": "From the establishment of the Welfare Pension Fund in 2024 to September 2026, it has transferred 6.893 million pesos of savings that were in these accounts."
-  },
-  {
-    "title": "Banamex quiere que más mexicanos inviertan de manera sencilla y segura; lanza herramienta",
-    "summary": "Los usuarios del banco podrán invertir en diferentes instrumentos como títulos de fondos de inversión administrados por BlackRock.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/sectorfinanciero/banamex-quiere-mexicanos-inviertan-manera-sencilla-segura-lanza-herramienta-20261126-846121.html",
-    "category": "Economía",
-    "date": "2026-11-26 21:59",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/02/24/699e8994d6911.jpeg",
-    "title_en": "Banamex wants more Mexicans to invest in a simple and secure manner; pits tool",
-    "summary_en": "Bank users will be able to invest in different instruments as investment fund securities administered by BlackRock."
-  },
-  {
-    "title": "En el 2027, el IMSS gastará más en pensiones que en atención a la salud",
-    "summary": "Según México Evalúa, el instituto tendrá un gasto de 1.8 bdp, un crecimiento real de 9.8% frente a lo autorizado para el 2026.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/sectorfinanciero/2027-imss-gastara-pensiones-atencion-salud-20261126-846119.html",
-    "category": "Salud",
-    "date": "2026-11-26 21:52",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/26/6a66e3d65f59a.jpeg",
-    "title_en": "In 2027, IMSS will spend more on pensions than health care",
-    "summary_en": "According to Mexico Evalúa, the institute will have an expense of 1.8 bdp, an actual growth of 9.8% as compared with that authorized by 2026."
-  },
-  {
-    "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 26 de noviembre: primera tormenta invernal traerá lluvias intensas y nieve",
-    "summary": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-26-de-noviembre-primera-tormenta-invernal-traera-lluvias-intensas-y-nieve/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 21:52",
-    "image": "https://www.infobae.com/resizer/v2/PQEE3P2OHNDJLOIWIUPB2YYGVE.jpg?auth=533dadf245f11611118ee9c48475d30ea8fa8fc0dbee2c49443c8d1ed6135335&smart=true&width=1920&height=1080",
-    "title_en": "EN VIVO) 124; Climate CDMX and the rest of Mexico today Thursday 26 November: First winter storm will bring intense rain and snow",
-    "summary_en": "Consultation in real-time updates, alerts, news and reports about climate conditions in the country"
-  },
-  {
-    "title": "Bárbara de Regil da clase de cardio a 300 mujeres en el penal de Santa Martha Acatitla",
-    "summary": "La actriz encabeza una rutina de 50 minutos en el penal femenil de la Ciudad de México por invitación de la diputada local Rebeca Peralta León",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/barbara-de-regil-da-clase-de-cardio-a-300-mujeres-en-el-penal-de-santa-martha-acatitla/",
-    "category": "Estados",
-    "date": "2026-11-26 21:52",
-    "image": "https://www.infobae.com/resizer/v2/CWCX4KQEDJEY3FAFMZLBKRHVAY.jpg?auth=f37652f5f798ef5d770838b067273f7e5935b69852b2c43bace3d1f11c602be9&smart=true&width=1200&height=675",
-    "title_en": "Barbara de Regil gives cardio class to 300 women at Santa Martha Acatitla Penalty",
-    "summary_en": "The actress leads a 50-minute routine at the Mexican City Women's Penalty at the invitation of local deputy Rebeca Peralta León"
-  },
-  {
-    "title": "Sabrina Sabrok anuncia su llegada a la Cámara de Diputados: participará en foro de salud sexual organizado por legislador de Morena",
-    "summary": "La Comisión de Diversidad Sexual, presidida por el morenista Jaime López Vela, realizará el evento el martes 8 de diciembre",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/sabrina-sabrok-anuncia-su-llegada-a-la-camara-de-diputados-participara-en-foro-de-salud-sexual-organizado-por-legislador-de-morena/",
-    "category": "Salud",
-    "date": "2026-11-26 21:50",
-    "image": "https://www.infobae.com/resizer/v2/P36NE2HLFFCMHIC7IPRPH22VUE.png?auth=bcc87a408032842b7e149b3fdfb713045268748d1398f56351fa3b4c8fa01fd5&smart=true&width=1920&height=1080",
-    "title_en": "Sabrina Sabrok Announces his Retirement to the House of Deputies: He will participate in a Sexual Health Forum organized by Brunette Legislature",
-    "summary_en": "The Commission on Sexual Diversity, chaired by Morenist Jaime López Vela, will hold the event on Tuesday, 8 December"
-  },
-  {
-    "title": "¿Qué está pasando en el Metro y Metrobús hoy 26 de noviembre?: Línea 7 y B con retrasos por revisión de vías y retiro de un tren",
-    "summary": "Información y actualización del servicio de transporte público en la capital este jueves en vivo minuto a minuto",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/que-esta-pasando-en-el-metro-y-metrobus-hoy-26-de-noviembre/",
-    "category": "Nación",
-    "date": "2026-11-26 21:50",
-    "image": "https://www.infobae.com/resizer/v2/PFFPRVQZYNBB3LN4HFNWBR5HPY.jpg?auth=b8ad532ccfd5326352bd42835c0ddc43439d6cf6b25e25a1e773c393025dda45&smart=true&width=1920&height=1080",
-    "title_en": "What's going on at Metro and Metrobus today 26 November?: Line 7 and B with delays with track review and train retirement",
-    "summary_en": "Information and update of public transport service in the capital this Thursday live minute to minute"
-  },
-  {
     "title": "¡Casi 14 veces México! Así creció el agujero de la capa de ozono en 2026: ¿Qué riesgos implica?",
     "summary": "El satélite Copernicus Sentinel-5P detectó que el agujero de ozono de 2026 está entre los más grandes registrados en los últimos 48 años.",
     "source": "El Financiero",
@@ -635,72 +1064,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/gQteHIsmVN6XoVAo7BZipfUX8xA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/46JP4S3MTVEWLDCF6XVDQVRZQU.jpeg",
     "title_en": "Almost 14 times Mexico! Thus the ozone hole grew in 2026: What risks does it have?",
     "summary_en": "The Copernicus Sentinel-5P satellite found that the 2026 ozone hole was among the largest in the last 48 years."
-  },
-  {
-    "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 26 de noviembre: Detienen a “El Chapo Félix” junto con tres personas más en Durango",
-    "summary": "Sigue las noticias más importantes sobre los acontecimientos violentos en el país con Infobae México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-26-de-noviembre-grupo-doble-blindaje-sufre-ataque-armado-en-hermosillo-su-vocalista-es-reportado-grave/",
-    "category": "Estados",
-    "date": "2026-11-26 21:48",
-    "image": "https://www.infobae.com/resizer/v2/IQMWV3VB5NCUTKFIVZHT3MQTD4.jpg?auth=15508ee219d7b56d09f8590cfa92531ab51d1a445a65c8eb406da66ee79368ba&smart=true&width=1600&height=872",
-    "title_en": "IN VIVO) 124; Security, drug and crime in Mexico today November 26: They stop \"El Chapo Félix\" with three more people in Durango",
-    "summary_en": "Following the most important news about violent events with Infobae Mexico"
-  },
-  {
-    "title": "Ahora Nuevo León, Jorge Romero nombra a Adrián de la Garza coordinador de la Defensa de la Patria, la Familia y la Libertad",
-    "summary": "El alcalde de Monterrey recibió la coordinación de la Defensa de la Patria, la Familia y la Libertad; también fueron designados representantes panistas en San Pedro y San Nicolás",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/ahora-nuevo-leon-jorge-romero-nombra-a-adrian-de-la-garza-coordinador-de-la-defensa-de-la-patria-la-familia-y-la-libertad/",
-    "category": "Estados",
-    "date": "2026-11-26 21:47",
-    "image": "https://www.infobae.com/resizer/v2/CLJGQZKW3REXPBI6RQYEYRSQDA.png?auth=a25be53c81c1ba1150e7a88122acebf85410a134e0a91b414fb42158b31ab320&smart=true&width=2752&height=1536",
-    "title_en": "Now Nuevo León, Jorge Romero appoints Adrian de la Garza as coordinator of the Defence of Homeland, Family and Freedom",
-    "summary_en": "The mayor of Monterrey was co-ordinated with the Defence of Homeland, Family and Freedom and Panist representatives were also appointed to St. Peter and St. Nicholas"
-  },
-  {
-    "title": "Reclutaban a gente de escasos recursos, contrataban seguros a su nombre y luego los asesinaban: así operaba la célula desarticulada en Jalisco",
-    "summary": "Cuatro detenidos enfrentan cargos por homicidio doloso y fraude tras cateos simultáneos en Zapopan y El Arenal, donde la Fiscalía del Estado aseguró vehículos, joyería y un cheque por más de 10 millones de pesos vinculados al esquema",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/reclutaban-a-gente-de-escasos-recursos-contrataban-seguros-a-su-nombre-y-luego-los-asesinaban-asi-operaba-la-celula-desarticulada-en-jalisco/",
-    "category": "Seguridad",
-    "date": "2026-11-26 21:47",
-    "image": "https://www.infobae.com/resizer/v2/MVBT2NLBF5HVLOPKQRBFS7HQOQ.jpg?auth=9c7a40e5b0b6830fbf2467f565bcfa3e25292a0ad40eb27cc9183f30279b8cd9&smart=true&width=1920&height=1080",
-    "title_en": "They recruited people with few resources, hired his name's insurance and then killed them: so did the broken cell at Jalisco.",
-    "summary_en": "Four detainees face charges of manslaughter and fraud after simultaneous searches at Zapopan and El Arenal, where the public prosecutor's office guaranteed vehicles, jewelry and a check for more than 10 million pesos linked to the scheme"
-  },
-  {
-    "title": "SOMOS en Yucatán denuncia ante el Iepac a Liborio Vidal por presuntos actos de precampaña",
-    "summary": "“En SOMOS no vamos a permitir que se disfrace una precampaña de proceso interno para evadir la ley”, afirma Tonatiuh Villanueva Caltempa, dirigente estatal de SOMOS en Yucatán, al anunciar la denuncia presentada ante el Instituto Electoral y de Participación Ciudadana de Yucatán (Iepac) contra Liborio Vidal Aguilar y MORENA por presuntos actos anticipados…",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/merida/2026/11/26/somos-en-yucatan-denuncia-ante-el-iepac-a-liborio-vidal-por-presuntos-actos-de-precampana.html",
-    "category": "Estados",
-    "date": "2026-11-26 21:46",
-    "image": "",
-    "title_en": "SOMOS in Yucatan denounces to Iebac Liborio Vidal for alleged presentative acts",
-    "summary_en": "\"At SOMOS we will not allow an internal process campaign to avoid law,\" says Tonatiuh Villanueva Caltempa, state leader of SOMOS at Yucatan, while announcing his complaint to the Yucatan Electoral and Civil Participation Institute (Iebac) against Liborio Vidal Aguilar and MORENA for alleged earlier acts..."
-  },
-  {
-    "title": "CCE: Acuerdo entre México y EEUU para reducir aranceles podría consolidar la seguridad económica de América del Norte",
-    "summary": "El sector empresarial mexicano se mantiene optimista respecto al futuro de la relación bilateral en materia comercial",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/cce-acuerdo-entre-mexico-y-eeuu-para-reducir-aranceles-podria-consolidar-la-seguridad-economica-de-america-del-norte/",
-    "category": "Economía",
-    "date": "2026-11-26 21:42",
-    "image": "https://www.infobae.com/resizer/v2/FD2T3YW52BDMNC6WBOGEIRZROY.jpg?auth=8ddff9fd61fc50813f8fd802ebd69a43869aeb67e7491b5572a0310f8fabe785&smart=true&width=1920&height=1080",
-    "title_en": "EC: Agreement between Mexico and the US to reduce tariffs could strengthen North American economic security",
-    "summary_en": "The Mexican business sector remains optimistic about the future of the bilateral trade relationship"
-  },
-  {
-    "title": "Morena responde a Movimiento Ciudadano: presenta a Lorenia Valles como precandidata única en Sonora",
-    "summary": "La precampaña de la senadora con licencia arranca el 2 de diciembre y concluye el 10 de enero de 2027",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/morena-responde-a-movimiento-ciudadano-presenta-a-lorenia-valles-como-precandidata-unica-en-sonora/",
-    "category": "Estados",
-    "date": "2026-11-26 21:41",
-    "image": "https://www.infobae.com/resizer/v2/TDCJSTNMIBF77NMNPDYMWHX7SQ.jpg?auth=f48ed1e832f0173e8a8d0a9de611bd8960e1512e550addceb4d8f324efc33725&smart=true&width=2048&height=1368",
-    "title_en": "Brunette responded to Civil Movement: she presented Lorenia Valles as a unique preset at Sonora",
-    "summary_en": "The precampaign of the licensed Senator starts on December 2 and ends on January 10, 2027"
   },
   {
     "title": "Los Tuzos tumban al líder en la ida: Pachuca le gana a Chivas los cuartos de final de Liga MX como local",
@@ -725,105 +1088,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Pemex deployed specialized personnel to cover the explosion at a Canal at Cadereyta, Nuevo León and to check the cause of the incident."
   },
   {
-    "title": "¡Spider-Man muestra adelanto de ‘Avengers: Doomsday’! ¿Qué sabemos de las escenas extra en su reestreno?",
-    "summary": "'Spider-Man: Brand New Day' va a tener un reestreno en cines de México con material inédito que alarga la duración de la película.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/26/reestreno-de-spider-man-brand-new-day-tendra-adelanto-de-avengers-doomsday-y-otras-escenas-ineditas/",
-    "category": "Cultura",
-    "date": "2026-11-26 21:11",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/36FZh_B0CbvqpXTzILK7jYEE9no=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MHYYTAWV3VABTD7PUYJHIWXUMY.jpg",
-    "title_en": "Spider-Man shows advance of 'Avengers: Doomsday'! What do we know about extra scenes at his rerelease?",
-    "summary_en": "'Spider-Man: Brand New Day 'will have a re-premiere in Mexican cinemas with unpublished material that lengthens the film's duration."
-  },
-  {
-    "title": "‘Que se vayan todos’: Arturo Ávila reta a oposición a eliminar diputados plurinominales",
-    "summary": "¿No quieren sobrerrepresentación? Arturo Ávila retó a la oposición a debatir para eliminar los diputados plurinominales.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/que-se-vayan-todos-arturo-avila-reta-a-oposicion-a-eliminar-diputados-plurinominales/",
-    "category": "Economía",
-    "date": "2026-11-26 21:01",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/LH8oelQBx5fppQ1yGQS73F3BtEE=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NPSCEN5EW5DGVNZQYJ7UIHA5E4.jpg",
-    "title_en": "'Let them all leave ': Arturo Ávila challenges opposition to eliminating plurinominal deputies",
-    "summary_en": "Don't you want some overrepresentation? Arturo Ávila challenges opposition to discuss to eliminate plurinominal deputies."
-  },
-  {
-    "title": "Localizan cráneo y fémur y un mensaje frente a Plaza de Armas en Durango; señalan posible brujería",
-    "summary": "CIUDAD DE MÉXICO.- Un nuevo hallazgo de restos óseos acompañado de un mensaje llamó la atención de las autoridades en Gómez Palacio, Durango. Este jueves por la mañana, un cráneo y un fémur presuntamente humanos fueron encontrados frente a la Plaza de Armas, sobre un medidor de energía eléctrica y junto a un cartel con […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/mexico/2026/11/26/localizan-craneo-y-femur-y-un-mensaje-frente-a-plaza-de-armas-en-durango-senalan-posible-brujeria.html",
-    "category": "Seguridad",
-    "date": "2026-11-26 20:58",
-    "image": "",
-    "title_en": "They place skull and femur and a message in front of Plaza de Armas at Durango and point to potential witchcraft",
-    "summary_en": "MÉXICO.- A new finding of bone remains accompanied by a message attracted the attention of authorities at Gómez Palacio, Durango. That Thursday morning, a skull and a allegedly human femur were found in front of the Plaza de Armas, about an electrical power meter and with a sign with [...]"
-  },
-  {
-    "title": "Inversión de 2.4 millones de pesos para reparar calles en la Emiliano Zapata Sur",
-    "summary": "Las calles de la Emiliano Zapata Sur I, en Mérida, eran un riesgo para quienes viven y transitan por la zona, contó la vecina Dalia Suaste Ek, quien agradeció que ya se estén reparando. El gobierno del Estado atiende 79 calles de esta colonia que abarcan una superficie de 504 metros cuadrados, con una inversión […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/merida/2026/11/26/inversion-de-2-4-millones-de-pesos-para-reparar-calles-en-la-emiliano-zapata-sur.html",
-    "category": "Economía",
-    "date": "2026-11-26 20:46",
-    "image": "",
-    "title_en": "Investment of 2.4 million pesos to repair streets at Emiliano Zapata South",
-    "summary_en": "The streets of Emiliano Zapata Sur I, at Mérida, were a risk to those living and passing through the area, said neighbor Dalia Suaste Ek, who expressed his gratitude that they are currently being repaired. The state government caters for 79 streets of this colony that cover an area of 504 square metres with an investment [...]"
-  },
-  {
-    "title": "Primavera Sound Buenos Aires 2026: ¿Cuándo y dónde ver EN VIVO a Gorillaz y The Strokes desde México?",
-    "summary": "Consulta los horarios de Primavera Sound 2026 en CDMX para ver a Gorillaz, The Strokes y más artistas en vivo a través de Disney+.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/26/primavera-sound-buenos-aires-2026-cuando-y-donde-ver-en-vivo-a-gorillaz-y-the-strokes-desde-mexico/",
-    "category": "Estados",
-    "date": "2026-11-26 20:40",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/f1NE6sbOIKxNT9ve0u-A09UdCG8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RDKHYIDTEFGPFPZGDZNRS2RLWE.jpg",
-    "title_en": "Spring Sound Buenos Aires 2026: When and where to see Gordillazo and The Strokes from Mexico?",
-    "summary_en": "See Spring Sound 2026 at CDMX to watch Gorillazo, The Strokes and more live artists through Disney +."
-  },
-  {
-    "title": "Cinemex tendrá boletos a 39 pesos por el Black Friday: ¿Qué películas entran en la promoción?",
-    "summary": "El Black Friday no solo aplica en compras, tambien se manifestó en forma de descuentos para disfrutar tu película favorita en el cine.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/26/cinemex-tendra-boletos-a-39-pesos-por-el-black-friday-que-peliculas-entran-en-la-promocion/",
-    "category": "Cultura",
-    "date": "2026-11-26 20:19",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/VdpO5tFb8zBYG0zqJFVvMU5ue2M=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HA745XTXDBEJPLGOKIIIZ4Z3CQ.png",
-    "title_en": "Cinemex will have 39 pesos tickets for the Black Friday: What films come into the promotion?",
-    "summary_en": "The Black Friday doesn't only apply to purchases, but also expressed itself as discounts to enjoy your favorite movie at cinema."
-  },
-  {
-    "title": "Nueva ley para sustituir a la Usicamm tiene 95% de avance, afirma el SNTE",
-    "summary": "CIUDAD DE MÉXICO.- La nueva legislación que sustituirá a la Unidad del Sistema para la Carrera de las Maestras y los Maestros (Usicamm) registra 95% de avance, de acuerdo con el secretario general del Sindicato Nacional de Trabajadores de la Educación (SNTE), Alfonso Cepeda Salas. El dirigente aseguró que el proyecto se elaboró con la […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/mexico/2026/11/26/nueva-ley-para-sustituir-a-la-usicamm-tiene-95-de-avance-afirma-el-snte.html",
-    "category": "Estados",
-    "date": "2026-11-26 20:14",
-    "image": "",
-    "title_en": "New law to replace Usicamm has 95% advance, says SNTE",
-    "summary_en": "MÉXICO.- The new legislation that will replace the Unit of the System for the Career of Teachers and Teachers (Usicamm) has 95% progress, according to the General Secretary of the National Association of Educational Workers (SNTE), Alfonso Cepeda Salas. The leader stated that the project was prepared with [...]"
-  },
-  {
-    "title": "Víctor Hugo, quien dio voz a Sylvester Stallone, critica doblaje de ‘Yo soy Rocky’: ‘Me preocupa’",
-    "summary": "Víctor Hugo aseguró estar preocupado por lo que está ocurriendo con el doblaje en México, incluido el de la producción 'Yo soy Rocky'.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/12/victor-hugo-aguilar-actor-que-presto-su-voz-a-sylvester-stallone-critica-doblaje-de-yo-soy-rocky/",
-    "category": "Economía",
-    "date": "2026-11-26 20:13",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/IUvzEG3eWZ2W4IGqFrHplqZJKtw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JKRJIJ7BPBBIJGEHGUURQRXYRA.jpg",
-    "title_en": "Victor Hugo, who gave a voice to Sylvester Stallone, challenges dubbing 'I'm Rocky': 'I care'",
-    "summary_en": "Victor Hugo stated his concern about what's happening with Mexico's dubbing, including with production 'I'm Rocky'."
-  },
-  {
-    "title": "¿Qué significado tiene el moño rojo en el árbol de Navidad? Esto dice el Feng Shui sobre dónde ponerlo",
-    "summary": "CIUDAD DE MÉXICO.- Con la llegada de las festividades decembrinas, la decoración de los espacios interiores cobra relevancia entre quienes buscan armonizar su entorno. De acuerdo con los principios tradicionales del Feng Shui, el color rojo representa el elemento fuego, la vitalidad y la buena fortuna, por lo que funciona como un símbolo de protección […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/imagen/2026/11/26/que-significado-tiene-el-mono-rojo-en-el-arbol-de-navidad-esto-dice-el-feng-shui-sobre-donde-ponerlo.html",
-    "category": "Estados",
-    "date": "2026-11-26 20:11",
-    "image": "",
-    "title_en": "What's the meaning of the red mojo at the Christmas tree? That's what Feng Shui says about where to put them.",
-    "summary_en": "MÉXICO.- With the arrival of the Decembrine Festivals, the decoration of the inner spaces gain relevance among those who seek to harmonize their surroundings. According to Feng Shui's traditional principles, red color represents the element fire, vitality and good fortune, so it works as a symbol of [...]"
-  },
-  {
     "title": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
     "summary": "Bradley C. Hanson retoma sus funciones como Presidente del Consejo; el regulador mexicano le negó tomar la totalidad del banco en febrero pasado",
     "source": "Expansión",
@@ -835,28 +1099,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Bradley C. Hanson regains his office as President of the Council and his Mexican regulator refused to take up his entire bench last February"
   },
   {
-    "title": "Llevan hasta el WC: ¿Cuándo y cómo participar en la promoción de palomitas ‘Trae tu canasta’?",
-    "summary": "Mexicanos llevan lavadoras, inodoros y ollas para aprovechar la promoción de palomitas de Cinépolis por 169 pesos.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/26/cuando-y-como-participar-en-la-promocion-de-palomitas-trae-tu-canasta-de-cinepolis/",
-    "category": "Economía",
-    "date": "2026-11-26 19:52",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/z4i7vp_WPtPM3Y5EOzSn6aRRSEA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L22J32CJPJF7JMVFN7DZL6BY6M.png",
-    "title_en": "They lead to the WC: When and how to participate in the promotion of 'Bring Your Basket' Popcorn?",
-    "summary_en": "Mexican have washing machines, toilets and pots to gain from the promotion of cinebpoli's palomites for 169 pesos."
-  },
-  {
-    "title": "‘Viernes sin tu amor’ (y sin tu auto): Así queda el Hoy No Circula para este 27 de noviembre",
-    "summary": "El programa Hoy No Circula aplica para vehículos con engomado azul y hologramas 1 y 2. La medida busca regular el flujo vehicular y reducir emisiones contaminantes.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/cdmx/2026/11/26/hoy-no-circula-en-cdmx-y-edomex-viernes-27-de-noviembre-de-2026-placas-9-y-0-descansan-source-ia/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 19:46",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/z0WLRHbPUss5WHWwIeNs6tOH9mU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/62R2QMDJLFFNDF3JYSO7Z7L5MQ.jpeg",
-    "title_en": "'Friday without your love '(and without your car): That's how today doesn't run for November 27",
-    "summary_en": "The Today No Circula program applies to vehicles with blue fattening and holograms 1 and 2. The measure aims to regulate vehicle flow and reduce pollutant emissions."
-  },
-  {
     "title": "Venden Ozempic falsificado en México, Cofepris identifica lotes irregulares",
     "summary": "Novo Nordisk México reportó productos falsificados que presentan lotes no reconocidos, plumas de otros laboratorios y empaques con anomalías.",
     "source": "Expansión",
@@ -866,50 +1108,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://cdn-3.expansion.mx/dims4/default/d4bd69a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2Faa%2F0e58ee9847e4961c8f152aac7936%2F000-36na2z9.jpg",
     "title_en": "They sell fake Ozempic in Mexico, Coffopris identifies irregular lots",
     "summary_en": "Novo Nordisk Mexico reported counterfeit products with unrecognized batches, pens from other laboratories and abnormal packaging."
-  },
-  {
-    "title": "‘Yo aquí estoy’: Edmundo Jacobo, exsecretario ejecutivo del INE, cuestiona que no investiguen a Taddei",
-    "summary": "Taddei renunició al INE luego se que se dieron a conocer polémicas adjudicaciones a un contratista que provocaron la investigación de la Auditoría Superior de la Federación (ASF).",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/yo-aqui-estoy-edmundo-jacobo-exsecretario-ejecutivo-del-ine-cuestiona-que-no-investiguen-a-taddei/",
-    "category": "Ciencia",
-    "date": "2026-11-26 19:29",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/CvF3xgBUvSpez6B_wP0aQmpgJVY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LKUYPUW3YVHPRFKOPDKW6STPJA.png",
-    "title_en": "\"I'm here\": Edmundo Jacobo, former executive secretary of the INE, challenges that they do not investigate Taddei",
-    "summary_en": "Taddei reunited the INE and controversial awards were published to a contractor that provoked the Federation's Higher Audit (ASF) investigation."
-  },
-  {
-    "title": "Un expriista coordinará la campaña de Colosio Riojas en Sonora: ¿Quién es Ernesto ‘Borrego’ Gándara?",
-    "summary": "Ernesto ‘Borrego’ Gándara, exalcalde de Hermosillo y exsenador del PRI, coordinará la campaña de Colosio Riojas en Sonora.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/estados/2026/11/26/un-expriista-coordinara-la-campana-de-colosio-riojas-en-sonora-quien-es-ernesto-borrego-gandara/",
-    "category": "Estados",
-    "date": "2026-11-26 19:24",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/85AlSRXe9ZDp25JKmoWKmEJBMpU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SRV7RWT2TNGDLG3BRDFZTANG5Q.jpg",
-    "title_en": "A pressor will coordinate Colosio Riojas's campaign at Sonora: Who's Ernesto 'Borrego' Gandara?",
-    "summary_en": "Ernesto 'Borrego' Gandara, former mayor of Hermosillo and former PRI Senator, will coordinate the Colosio Riojas campaign at Sonora."
-  },
-  {
-    "title": "Megaprotesta de trabajadores del IMSS, Metro e IPN se unen: ¿Cuáles son las alternativas viales?",
-    "summary": "Al norte de la CDMX también se registran manifestaciones: la intersección del Eje 5 Norte Montevideo y avenida Instituto Politécnico Nacional están cerrados.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/cdmx/2026/11/26/megaprotesta-de-trabajadores-del-imss-metro-e-ipn-se-unen-cuales-son-las-alternativas-viales/",
-    "category": "Estados",
-    "date": "2026-11-26 18:43",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/KjpLr6BNY2GJzgzPYKsyql5IsT4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NVM2ZB7OVVFDZNYGHWUJVUQKF4.png",
-    "title_en": "Maprotesta of IMSS, Metro and IPN workers come together: What are the road alternatives?",
-    "summary_en": "To the north of the CDMX have also been registered demonstrations: the intersection of the axis 5 North Montevideo and Avenue National Polytechnic Institute are closed."
-  },
-  {
-    "title": "¿Ahora quién podrá defenderlo? Noroña ‘recrimina’ que la 4T no proceda contra quienes lo agredieron",
-    "summary": "Gerardo Fernández Noroña recriminó a la 4T, y declaró que ya está harto de las agresiones en su contra y no tener un respaldo de Morena.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/gerardo-fernandez-norona-recrimina-que-morena-y-la-4t-no-procedan-contra-quienes-lo-agredieron-fisicamente/",
-    "category": "Economía",
-    "date": "2026-11-26 18:39",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/ziwfBfqt16568-GmmrGeUWN5Pt4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/G5JUWDJ4ABDF7PUPPWVQLXD3TM.jpg",
-    "title_en": "Now who can defend him? Noroña 'recrimina' that the 4T did not come against those who assaulted him",
-    "summary_en": "Gerardo Fernández Noroña recriminated the 4T and stated that she's already sick of his attacks and have no support from Brunette."
   },
   {
     "title": "La SEP lo hace oficial: estudiantes de preparatoria podrán elegir entre falda o pantalón sin importar su género",
@@ -934,39 +1132,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The start of the Black Friday 2026 has given us great surprises with some promotions available at Amazon Mexico. Also, as we know that there will also be people who will use these dates for Christmas gifts, today we bring you this beautiful Advent Calendar Funko POP! from Pokémon that you can currently buy for only 637 pesos. Funko Bitty POP!..."
   },
   {
-    "title": "Atrapan a otro líder de La Mayiza: Detienen al ‘Chapo Félix’ en la sierra de Durango",
-    "summary": "Además de la captura de 'El Chapo Félix', hubo decomiso de armas largas, cartuchos y cargadores.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/atrapan-a-otro-lider-de-la-mayiza-detienen-al-chapo-felix-en-la-sierra-de-durango/",
-    "category": "Estados",
-    "date": "2026-11-26 18:15",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/_15e-bhWdPiP5sy4sEDC2oaJFOk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SPLJET2IZJBH5DONLFKVR3UDKY.jpg",
-    "title_en": "They get another leader from La Mayiza: They stop the 'Chapo Félix' in the Sierra de Durango",
-    "summary_en": "In addition to the capture of 'El Chapo Félix', there have been seizures of long arms, cartridges and chargers."
-  },
-  {
-    "title": "Primera tormenta invernal 2026: ¿Qué estados tendrán lluvias intensas y temperaturas de hasta -10 grados?",
-    "summary": "El SMN pronostica lluvias de hasta 250 milímetros, heladas y posible caída de nieve en varios estados de México este viernes.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/primera-tormenta-invernal-2026-que-estados-tendran-lluvias-intensas-y-temperaturas-de-hasta-10-grados/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-26 18:12",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/5RRDw4wxK6eYn1tULOLRXxm6RU4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JN3NTG7RZVAKTNWBGYMCRIO5GM.jpg",
-    "title_en": "First winter storm 2026: What states will have intense rain and temperatures up to -10 degrees?",
-    "summary_en": "The SMN forecasts rain up to 250 mm, frost and potential snow fall in several states of Mexico this Friday."
-  },
-  {
-    "title": "Por no echarle la firma: Desechan solicitud de amparo del ‘Chapo Isidro’ contra extradición a EU",
-    "summary": "La Fiscalía General de la República y el Gabinete de Seguridad evaluarán si ‘El Chapo Isidro’ es extraditado a EU o enfrenta primero un proceso judicial en México.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/desechan-solicitud-de-amparo-del-chapo-isidro-porque-no-firmo-el-documento/",
-    "category": "Seguridad",
-    "date": "2026-11-26 18:10",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Eq_ZS0TIELDOjeK_3eaHRstbVhs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4TNAS346BRGC5FNRG4P2ZIBUYA.jpg",
-    "title_en": "To avoid signing them: Reject an application for amparo from the 'Chapo Isidro' against extradition to the EU",
-    "summary_en": "The Office of the Prosecutor-General and the Security Cabinet will evaluate whether 'El Chapo Isidro' is extradited to the US or challenges first a judicial proceedings in Mexico."
-  },
-  {
     "title": "LG quiere aprender de los mexicanos para diseñar sus próximos productos",
     "summary": "La compañía surcoreana inauguró en el Tec de Monterrey la primera sede del Another Campus fuera de Corea del Sur, una iniciativa que también le permitirá conocer los hábitos y necesidades de los consumidores locales.",
     "source": "Expansión",
@@ -978,27 +1143,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The South Korean company launched at Monterrey's Tec the first headquarters of the Another Campus outside South Korea, an initiative that will also allow them to gain an understanding of local consumers' habits and needs."
   },
   {
-    "title": "Unos de barbacoa para ir al ‘jale’: Así es San Luisito, la taquería norteña en la CDMX",
-    "summary": "Taquería San Luisito lleva los tacos mañaneros de Monterrey a la Roma Norte de CDMX, con barbacoa de res, asado de boda y chicharrón norteño.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/food-and-drink/2026/11/26/asi-es-la-taqueria-san-luisito-que-lleva-los-tacos-mananeros-de-monterrey-a-la-cdmx/",
-    "category": "Estados",
-    "date": "2026-11-26 17:59",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/BkGElDECD3s-nZLBDSfNKAIKGDU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZQYKMOLRSZBRZOGKYSL3J3XBF4.png",
-    "title_en": "A few Barbeque to go to the Jale: That's how San Lusito, the Northern tachy at the CDMX",
-    "summary_en": "Taquería San Luisito takes the morning tacos from Monterrey to the North Rome of CDMX with re barbecue, wedding Roast and Northern jug."
-  },
-  {
-    "title": "Amatitán: el destino de Jalisco donde el tequila cuenta una historia de más de 150 años",
-    "summary": "",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/viajes/2026/11/26/amatitan-el-destino-de-jalisco-donde-el-tequila-cuenta-una-historia-de-mas-de-150-anos/",
-    "category": "Estados",
-    "date": "2026-11-26 17:40",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/KNNHq58ld809gjwTb5MtpLhs39A=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZCB74UBKM5AS7DKG63CO6X55Y4.jpg",
-    "title_en": "Amatitanan: The Fate of Jalisco where Tequila tells a story more than 150 years"
-  },
-  {
     "title": "México simplifica el proceso para obtener la CURP: estos son los nuevos requisitos para tramitarla",
     "summary": "Recientemente, la Secretaría de Gobernación simplificó el trámite para obtener la Clave Única de Registro de Población (CURP) en México al fusionar siete procedimientos distintos y prohibir que se exijan copias o documentos adicionales. Así quedó establecido en el acuerdo publicado el pasado 23 de noviembre de 2026 en el Diario Oficial de la Federación .…",
     "source": "Xataka México",
@@ -1008,17 +1152,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "",
     "title_en": "Mexico Simplifies the process to get the CURP: these are the new requirements for its processing",
     "summary_en": "The Ministry of the Interior had recently simplified the procedure for obtaining the Unique Population Registry Key (CURP) in Mexico by merging seven different proceedings and prohibiting additional copies or documents from being required. That was established by an agreement published on 23 November 2026 in the Official Journal of the Federation...."
-  },
-  {
-    "title": "Basifican a trabajadores del IMSS en Hospital General Regional de Tecámac, Edomex",
-    "summary": "Se formalizó la adscripción del personal a 28 días de puesta en marcha la estrategia.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/edomex/2026/11/26/basifican-a-trabajadores-del-imss-en-hospital-general-regional-de-tecamac-edomex/",
-    "category": "Salud",
-    "date": "2026-11-26 17:19",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/mzTK-AvkyrpMhKCmz1u2dzC5-74=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NOAMVHEJR5FS3FJLDB27LPN7VY.jpeg",
-    "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
-    "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
   },
   {
     "title": "Tengo dos perros y esta aspiradora de Dreame por fin cumplió una promesa que otras no consiguen: olvidarme del pelo",
@@ -1043,17 +1176,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Beyond his conduct at the head of Cemex, Lorenzo Zambrano also participated in the development of educational and medical projects at Monterrey Technology."
   },
   {
-    "title": "Bolsa Mexicana desaprovecha el Acción de Gracias: Cierra con pérdidas en descanso de Wall Street",
-    "summary": "En el mercado petrolero, el WTI avanzó 1.48 por ciento a 84.92 dólares por barril, un alza neta de 1.24 dólares.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/mercados/2026/11/26/bolsa-mexicana-abre-mixto-mientras-wall-street-descansa-por-accion-de-gracias/",
-    "category": "Economía",
-    "date": "2026-11-26 16:43",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/ZQAeeL2RmfCX1lmaSv6_CnOFoQg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/C5RUXU2EVNHJPNGLXD4ZEOJZNM.jpg",
-    "title_en": "Mexican Stock Exchange Unseizes Thanksgiving: Closing with Rest Loss from Wall Street",
-    "summary_en": "In the oil market, WTI advanced 1.48 percent to 84.92 dollars per barrel, a net rise of 1.24 dollars."
-  },
-  {
     "title": "Zelda: Ocarina of time por 700 pesos: con este paquete de Nintendo Switch 2 el juego te queda a precio de remate en Black Friday 2026",
     "summary": "Con el Black Friday 2026 en curso, no cabe duda que tanto la consola Nintendo Switch 2 como The Legend of Zelda: Ocarina of Time estarán en el radar de más de uno. Afortunadamente, Amazon México está consciente de ello, y hoy puedes comprar este bundle por 12,199 pesos , pero gracias a las promociones bancarias su precio puede ser aún más barato. Nintendo…",
     "source": "Xataka México",
@@ -1063,17 +1185,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "",
     "title_en": "Zelda: Ocarina of time for 700 pesos: with this package of Nintendo Switch 2 the game remains at best price at Black Friday 2026",
     "summary_en": "With the Black Friday 2026 currently under way, there's no doubt that both the Nintendo Switch 2 console and The Legend of Zelda: Ocarina of Time will be on more than one radar. Fortunately, Amazon Mexico is aware of that, and today you can buy this bundle for 12.199 pesos, but thanks to bank promotions its price can be even cheaper. Nintendo..."
-  },
-  {
-    "title": "Toño Ochoa renueva drenajes en Durango capital para evitar brotes de aguas negras",
-    "summary": "El Ayuntamiento y el Gobierno de Durango impulsan obras de drenaje por cerca de 40 millones de pesos para prevenir colapsos y descargas de aguas residuales al río Tunal.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/estados/2026/11/26/tono-ochoa-renueva-drenajes-en-durango-capital-para-evitar-brotes-de-aguas-negras/",
-    "category": "Estados",
-    "date": "2026-11-26 16:21",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/AljISlkn-Tsu01DamKmFoqhdpI0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/D3WVQEDYOZBX7HSAPPQ7GC3LH4.jpeg",
-    "title_en": "Toño Ochoa renews drains at Durango capital to avoid blackwater outlays",
-    "summary_en": "The City and Government of Durango have been promoting drilling jobs with about 40 million pesos to prevent collapse and waste water discharges to the Tunal River."
   },
   {
     "title": "Gobernadora de Banxico descarta inicio de ciclo de reducciones en la tasa de referencia",
@@ -1096,115 +1207,5 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "",
     "title_en": "Cinebpolis allows to fill nearly every peter of Popcorn for 169 pesos and Mexico has been out of control",
     "summary_en": "To go to cinema usually involves buying Popcorn before entering the living room but some people think that a single bucket isn't enough. Now, Cinépolis allows you to carry a pier from home to fill with Popcorn, from a bucket to a casserole, as long as it meets its hygiene and safety conditions. That's about the promotion."
-  },
-  {
-    "title": "Black Friday 2026: celular Xiaomi con 12 GB de RAM y cámara con zoom de hasta 120x ya tiene precio de remate y una bocina de regalo",
-    "summary": "¡Llegó el Black Friday 2026 en Amazon México ! La última oportunidad del año para aprovechar de grandes rebajas. De hecho, las fechas también resultan convenientes para quienes buscan regalos de Navidad , o bien, para estrenar nuevos productos de cara al 2027. Con esto en mente, hoy te mostraremos este fabuloso celular Xiaomi 17T 5G que ahora tiene un…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/seleccion/black-friday-2026-celular-xiaomi-12-gb-ram-camara-zoom-120x-tiene-precio-remate-bocina-regalo",
-    "category": "Economía",
-    "date": "2026-11-26 15:30",
-    "image": "",
-    "title_en": "Black Friday 2026: Xiaomi phone with 12 GB RAM and camera with zoom up to 120x already have an outage price and a gift horn",
-    "summary_en": "The 2026 Black Friday came to Amazon Mexico! The last opportunity of the year to take advantage of great discounts. In fact, dates are also suitable for those looking for Christmas gifts, or for new products with a view to 2027. With this in mind, today we will show you this fabulous cellphone Xiaomi 17T 5G that now has a..."
-  },
-  {
-    "title": "México registra su quinta mayor salida trimestral de inversión de cartera",
-    "summary": "Si bien durante el tercer trimestre del año se reportó una salida de 11,696 mdd en inversiones de bonos y acciones; analistas atribuyen el ajuste al alza de tasas en EU y a que más mexicanos invirtieron en el extranjero",
-    "source": "Expansión",
-    "url": "https://expansion.mx/economia/2026/11/26/mexico-registra-su-quinta-mayor-salida-trimestral-de-inversion-de-cartera",
-    "category": "Economía",
-    "date": "2026-11-26 15:25",
-    "image": "https://cdn-3.expansion.mx/dims4/default/c7d225a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff1%2F64%2Ffbb618064b15b9c59e1b4082dc4d%2Fsalida-capitales-mexico.jpeg",
-    "title_en": "Mexico's fifth largest share of portfolio investment",
-    "summary_en": "Although an outlays of 11,696 mdd have been reported during the third quarter of the year in equity and bonds and share investments, analysts have attributed an upward adjustment of U.S. and more Mexicans have invested abroad"
-  },
-  {
-    "title": "Tiendas 3B deja de lado los comerciales y apuesta por una publicidad difícil de comprar, que sus clientes la recomienden",
-    "summary": "En lugar de pagar comerciales de televisión, radio o anuncios impresos, Tiendas 3B utiliza herramientas de bajo costo que lo ha llevado a abrir más de 3,000 tiendas en México.",
-    "source": "Expansión",
-    "url": "https://expansion.mx/mercadotecnia/2026/11/26/tiendas-3b-estrategia-competir-sin-gastar-comerciales",
-    "category": "Economía",
-    "date": "2026-11-26 15:21",
-    "image": "https://cdn-3.expansion.mx/dims4/default/3734c33/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F65%2F2d%2F268c675547b3b9536f93b82395f6%2Flos-propios-clientes-de-tiendas-3b-le-hacen-publicidad-y-asi-el-negocio-se-ahorra-gastos-en-comerciales-para-la-tv.jpeg",
-    "title_en": "3B Stores puts out commercials and bets on an advertising difficult to buy, that their customers recommend",
-    "summary_en": "Instead of paying commercial television, radio or print ads, 3B Stores uses low-cost tools that have led them to open more than 3,000 stores in Mexico."
-  },
-  {
-    "title": "Tener una tarjeta de crédito Banamex en México podría salirte más caro en 2027",
-    "summary": "Si tienes una tarjeta de crédito Banamex , vale la pena que revises las nuevas condiciones de tu contrato antes de que termine el año. El banco está preparando una serie de cambios para 2027 que podrían hacer que tener una de sus tarjetas te salga más caro, especialmente si sueles retrasarte con tus pagos o no la utilizas todos los meses. A partir del 19 de…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/banca-digital/tener-tarjeta-credito-banamex-mexico-podria-salirte-caro-2027",
-    "category": "Economía",
-    "date": "2026-11-26 15:02",
-    "image": "",
-    "title_en": "Having a Banamex credit card in Mexico could get more expensive by 2027",
-    "summary_en": "If you have a Banamex credit card, you better check your new contract terms before the end of the year. The bank's preparing a number of changes by 2027 that could make having one of his cards more expensive, especially if you usually get late with your payments or don't use them every month. From 19..."
-  },
-  {
-    "title": "WhatsApp: tuvieron que pasar más de 17 años para los mensajes programados. Ya los puedes usar en México",
-    "summary": "Ya puedes programar mensajes en WhatsApp en México . La compañía anunció en una publicación de su blog el lanzamiento oficial de los mensajes programados, una de las funciones más esperadas por todos los usuarios de la plataforma de mensajería más grande del mundo. WhatsApp nació en 2009 , es decir que tuvieron que pasar 17 años para la llegada de los…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/aplicaciones/whatsapp-tuvieron-que-pasar-17-anos-para-mensajes-programados-puedes-usar-mexico",
-    "category": "Tecnología",
-    "date": "2026-11-26 14:30",
-    "image": "",
-    "title_en": "WhatsApp: more than 17 years have passed for scheduled messages. Now you can use them in Mexico",
-    "summary_en": "Now you can program messages at WhatsApp in Mexico. The company announced in a blog post the official launch of scheduled messages, one of the most awaited functions by all users of the world's largest messaging platform. WhatsApp was born in 2009, that's to say it had to be 17 years before the arrival of the..."
-  },
-  {
-    "title": "PIB de México crecerá más, Banxico sube expectativa a 1.9% para el cierre de 2026",
-    "summary": "El banco central indicó que esta mejora se debió al crecimiento que mostró el sector de servicios y a la reactivación continua de las actividades industriales en el país",
-    "source": "Expansión",
-    "url": "https://expansion.mx/economia/2026/11/26/banxico-expectativa-pib-economia-2026-2027",
-    "category": "Economía",
-    "date": "2026-11-26 12:47",
-    "image": "https://cdn-3.expansion.mx/dims4/default/92fb998/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3c%2F8d%2F3df5495c44d284f86a14fde59bc5%2F26.11.26.MediaPrincipal.1.jpg",
-    "title_en": "Mexico's GDP will grow more, Banxico increases expectations to 1.9% by 2026's closure",
-    "summary_en": "The central Bank stated that this improvement was due to the growth shown by the service sector and to the continuous reactivation of industrial activities in the country"
-  },
-  {
-    "title": "Pensión IMSS e ISSSTE de diciembre: cuándo depositan el último pago del año y quiénes recibirán el aguinaldo",
-    "summary": "El último pago del año llegará para millones de jubilados y pensionados. Revisa cuándo depositan el IMSS y el ISSSTE, qué pasa con el aguinaldo y cómo reportar un depósito pendiente.",
-    "source": "Expansión",
-    "url": "https://expansion.mx/finanzas-personales/2026/11/26/pension-imss-issste-diciembre-2026-cuando-cuanto-depositan",
-    "category": "Economía",
-    "date": "2026-11-26 12:41",
-    "image": "https://cdn-3.expansion.mx/dims4/default/b2638e0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F99%2Fd2%2F18c3745148b0a9fed20584ebfe95%2Fpagos-pension-de-imss-e-issste-en-diciembre.png",
-    "title_en": "IMSS and ISSTE pension from December: When they place the last payment of the year and who will get the avalando",
-    "summary_en": "The last payment of the year will come for millions of retirees and pensioners. Check when they deposited IMSS and ISSSTE, what about the aquinald and how to report an outstanding reservoir."
-  },
-  {
-    "title": "CFE obtiene concesión para competir con Telcel, AT&T y Movistar en el mercado móvil",
-    "summary": "La empresa estatal podrá ofrecer servicios de telefonía e internet con fines de lucro, bajo nuevas obligaciones de transparencia financiera, inversión y compartición de infraestructura.",
-    "source": "Expansión",
-    "url": "https://expansion.mx/empresas/2026/11/26/cfe-concesion-competir-telcel-mercado-movil",
-    "category": "Tecnología",
-    "date": "2026-11-26 11:57",
-    "image": "https://cdn-3.expansion.mx/dims4/default/00cc5ca/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4b%2F81%2F63daba7e431ea6c3a7f342342401%2F13-cfe-internet-1.jpeg",
-    "title_en": "CFE gets concession to compete with Telcel, AT & T and Movistar in mobile market",
-    "summary_en": "The state company will be able to offer information and information and information technologies with a view to improving financial transparency, investment and infrastructure sharing."
-  },
-  {
-    "title": "Xcaret planea un hotel más económico para familias ante la menor ocupación en la Riviera Maya",
-    "summary": "Miguel Quintana Pali planea un hotel donde seis personas paguen por una sola habitación y visiten los parques con horarios fijos, en un Caribe mexicano con menor ocupación hotelera.",
-    "source": "Expansión",
-    "url": "https://expansion.mx/empresas/2026/11/26/xcaret-evitar-efecto-tulum-abrira-hotel-barato",
-    "category": "Economía",
-    "date": "2026-11-26 10:45",
-    "image": "https://cdn-3.expansion.mx/dims4/default/a81ead0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F68%2F98%2F7f9e013d45b1acfa98c1f8eab2cb%2Fxcaret-parque-2.jpeg",
-    "title_en": "Xcaret plans a more affordable family hotel with its lower jobs at Riviera Maya",
-    "summary_en": "Miguel Quintana Pali plans a hotel where 6 people pay for a single room and visit the parks with regular schedules, in a Mexican Caribbean with lower hotel jobs."
-  },
-  {
-    "title": "Deel México: Precios y Cómo Contratar sin Entidad en Noviembre 2026",
-    "summary": "Deel: Employer of Record desde US$599 al mes, contratistas desde US$49 y nómina en México sin abrir una empresa local.",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/descubre-y-compra/deel-mexico-precios-employer-of-record-y-como-contratar-sin-entidad/",
-    "category": "Nación",
-    "date": "2026-11-26 08:53",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/FNVB4ZJDIVAAZNKAZHCE7JR4NI.png?auth=f957529c0f906162c46d9e691d49505a306252f699bbeb8e15d64609b71e1e5e&smart=true&width=500",
-    "title_en": "Deel Mexico: Prices and how to hire without an entity in November 2026",
-    "summary_en": "Deel: Employer of Record from US $599 a month, contractors from US $49 and payroll from Mexico without opening a local company."
   }
 ];
