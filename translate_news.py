@@ -17,13 +17,13 @@ CACHE=ROOT/"data"/"translations-cache.json"
 
 def read_news():
     data=NEWS.read_text(encoding="utf-8").strip()
-    prefix="window.PLANETA_NEWS = "
+    prefix="window.MEXICO_INFORMA_NEWS = "
     if not data.startswith(prefix):
         raise ValueError("Unexpected news-data.js format")
     return json.loads(data[len(prefix):].rstrip(";").strip())
 
 def write_news(rows):
-    NEWS.write_text("window.PLANETA_NEWS = "+json.dumps(rows,ensure_ascii=False,indent=2)+";\n",encoding="utf-8")
+    NEWS.write_text("window.MEXICO_INFORMA_NEWS = "+json.dumps(rows,ensure_ascii=False,indent=2)+";\n",encoding="utf-8")
 
 def build_translator():
     import argostranslate.package as package
