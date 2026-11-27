@@ -9,6 +9,7 @@ import hashlib
 import json
 import os
 import pathlib
+import re
 import sys
 
 ROOT=pathlib.Path(__file__).parent
@@ -24,6 +25,29 @@ def read_news():
 
 def write_news(rows):
     NEWS.write_text("window.MEXICO_INFORMA_NEWS = "+json.dumps(rows,ensure_ascii=False,indent=2)+";\n",encoding="utf-8")
+
+def looks_garbage(text, original=""):
+    """Detecta traducciones corruptas del traductor automático.
+
+    El modelo a veces devuelve un token repetido hasta el infinito
+    (p. ej. "mainstremainstremain...") en vez de una traducción.
+    Esos valores nunca deben publicarse ni guardarse en caché:
+    sin traducción en inglés, la página muestra el texto en español.
+    """
+    t=(text or "").strip().lower()
+    if not t:
+        return False
+    if "mainstremain" in t:
+        return True
+    if re.search(r"(\w{3,})(?:\s*\1){3,}", t):
+        return True
+    for n in (5, 8, 10, 12):
+        sub=t[:n]
+        if sub and len(t) >= 4*n and not t.replace(sub, "").strip():
+            return True
+    if original and len(t) > 3*len(original.strip()) and len(t) > 120:
+        return True
+    return False
 
 def build_translator():
     import argostranslate.package as package
@@ -51,6 +75,11 @@ def main():
     rows=read_news()
     cache=json.loads(CACHE.read_text(encoding="utf-8")) if CACHE.exists() else {}
     if not isinstance(cache,dict):cache={}
+    # Limpia traducciones corruptas ya guardadas para retraducirlas.
+    for row in rows:
+        for field in ("title","summary","resumen"):
+            if looks_garbage(row.get(field+"_en"), row.get(field,"")):
+                del row[field+"_en"]
     missing=0
     for row in rows:
         for field in ("title","summary","resumen"):
@@ -71,13 +100,16 @@ def main():
             if not original:continue
             key=hashlib.sha256(original.encode("utf-8")).hexdigest()
             previous=cache.get(key) or row.get(field+"_en")
+            if previous and looks_garbage(previous, original):
+                previous=None
             if previous:
                 row[field+"_en"]=previous
                 continue
             try:
                 english=translate(original).strip()
-                # Do not present unchanged Spanish as a completed translation.
-                if english and english!=original:
+                # Do not present unchanged Spanish as a completed translation,
+                # and never store a garbled machine output.
+                if english and english!=original and not looks_garbage(english, original):
                     row[field+"_en"]=english
                     cache[key]=english
                     success+=1
