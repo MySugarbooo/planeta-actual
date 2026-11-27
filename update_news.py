@@ -107,7 +107,7 @@ def main():
         previous=[]
     known={re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90] for i in previous}
     items += [i for i in previous if re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90] not in seen]
-    data='const NEWS_DATA = '+json.dumps(items[:110],ensure_ascii=False,indent=1)+';\n'
+    data='window.MEXICO_INFORMA_NEWS = '+json.dumps(items[:110],ensure_ascii=False,indent=1)+';\n'
     h=hashlib.sha256(data.encode()).hexdigest()[:12]
     (ROOT/'data').mkdir(exist_ok=True)
     (ROOT/'data'/'news-data.js').write_text(data,encoding='utf-8')
