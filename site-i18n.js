@@ -1,31 +1,31 @@
 (function(){
 const dictionary = {
   es: {
-    tagline:"Noticias del mundo",horoscopes:"Horóscopos",latest:"Última hora",loading:"Cargando titulares...",
-    selection:"Selección del mundo",related:"También en el mundo",more:"Ver más →",all:"Todas las noticias",
+    tagline:"Noticias de todo México",horoscopes:"Horóscopos",latest:"Última hora",loading:"Cargando titulares...",
+    selection:"Selección de México",related:"También en México",more:"Ver más →",all:"Todas las noticias",
     search:"Buscar noticias, países o temas…",sourceinfo:"Noticias con enlace a la fuente original",
-    footer:"© Planeta Actual · Información internacional basada en medios enlazados. Las imágenes proceden de los enlaces de origen cuando están disponibles. Las imágenes no verificadas se señalan como representativas. Los resúmenes automatizados requieren revisión editorial.",
+    footer:"© México Informa · Noticias de México basadas en medios enlazados. Cada nota enlaza a su fuente original y las imágenes son de esa fuente, con su crédito. Si una nota no trae imagen, no se muestra ninguna.",
     source:"Fuente",no_news:"Sin noticias para este filtro.",no_more:"No hay más noticias disponibles por ahora.",
     all_shown:"Ya se muestran todas las noticias de esta categoría arriba.",consult:"Consulta la noticia en la fuente original.",
     images:"Imagen proporcionada por el medio de origen",illustration:"Imagen representativa",news:"noticias",
     original:"Este artículo conserva el texto original en español mientras se completa su traducción.",
     category_inicio:"Inicio",category_deportes:"Deportes",category_internacional:"Internacional",category_política:"Política",
     category_economía:"Economía",category_tecnología:"Tecnología",category_ciencia:"Ciencia",
-    category_medio_ambiente:"Medio Ambiente",category_cultura:"Cultura",category_salud:"Salud",
+    category_medio_ambiente:"Medio Ambiente",category_cultura:"Cultura",category_salud:"Salud",category_nacional:"Nacional",category_estados:"Estados",category_seguridad:"Seguridad",
     date:"Fecha", english:"English",spanish:"Español"
   },
   en: {
-    tagline:"World news",horoscopes:"Horoscopes",latest:"Breaking news",loading:"Loading headlines...",
+    tagline:"Mexico news",horoscopes:"Horoscopes",latest:"Breaking news",loading:"Loading headlines...",
     selection:"Around the world",related:"Elsewhere in the world",more:"See more →",all:"All stories",
     search:"Search news, countries or topics…",sourceinfo:"Stories link to their original sources",
-    footer:"© Planeta Actual · International coverage based on linked news outlets. Photographs come from source publishers when available. Unverified images are labeled as illustrative. Automated summaries require editorial review.",
+    footer:"© México Informa · Mexico news based on linked media outlets. Each story links to its original source and images are from that source, with credit. If a story has no image, none is shown.",
     source:"Source",no_news:"No stories found for this category.",no_more:"No additional stories available at this time.",
     all_shown:"All stories in this category are already shown above.",consult:"Read the full story at the original source.",
     images:"Image supplied by the original publisher",illustration:"Illustrative image",news:"stories",
     original:"Original Spanish text is shown while the automatic translation is being prepared.",
     category_inicio:"Home",category_deportes:"Sports",category_internacional:"World",category_política:"Politics",
     category_economía:"Economy",category_tecnología:"Technology",category_ciencia:"Science",
-    category_medio_ambiente:"Environment",category_cultura:"Culture",category_salud:"Health",
+    category_medio_ambiente:"Environment",category_cultura:"Culture",category_salud:"Health",category_nacional:"Mexico",category_estados:"States",category_seguridad:"Security",
     date:"Date",english:"English",spanish:"Español"
   }
 };
@@ -58,7 +58,7 @@ function date(s){
 }
 function apply(){
  document.documentElement.lang=value;
- document.title=location.pathname.includes("horoscopos.html")?(value==="en"?"Daily horoscopes | Planeta Actual":"Horóscopos diarios | Planeta Actual"):(value==="en"?"Planeta Actual | World news":"Planeta Actual | Noticias del mundo");
+ document.title=location.pathname.includes("horoscopos.html")?(value==="en"?"Daily horoscopes | México Informa":"Horóscopos diarios | México Informa"):(value==="en"?"México Informa | World news":"México Informa | Noticias del mundo");
  document.querySelectorAll("[data-i18n]").forEach(e=>e.textContent=get(e.getAttribute("data-i18n")));
  document.querySelectorAll("[data-i18n-placeholder]").forEach(e=>e.placeholder=get(e.getAttribute("data-i18n-placeholder")));
  document.querySelectorAll("[data-i18n-aria]").forEach(e=>e.setAttribute("aria-label",get(e.getAttribute("data-i18n-aria"))));
