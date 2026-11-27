@@ -28,7 +28,7 @@ const cats=['Inicio','Nacional','Política','Economía','Deportes','Estados','Se
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeURL=u=>/^https:\/\//.test(String(u||''))?esc(u):'';
 const niceDate=s=>{let d=new Date(s);return isNaN(d)?'':d.toLocaleDateString('es-MX',{day:'numeric',month:'short',year:'numeric'})};
-const img=n=>!n.image?'':'<div><img loading="lazy" src="'+safeURL(n.image)+" alt="'+esc(PA_I18N.get('images'))+'"><div class="imgcredit">Foto: '+esc(n.source||'')+'</div></div>';
+const img=n=>!n.image?'':'<div><img loading="lazy" src="'+safeURL(n.image)+'" alt="'+esc(PA_I18N.get('images'))+'"><div class="imgcredit">Foto: '+esc(n.source||'')+'</div></div>';
 const cat=n=>n.category==='Mundo'?'Internacional':(n.category||'Internacional');
 const date=n=>PA_I18N.date(n.date);
 const link=n=>'<a class="source" href="'+safeURL(n.url)+'" target="_blank" rel="noopener noreferrer">'+PA_I18N.get('source')+': '+esc(n.source||'Medio de origen')+' ↗</a>';
