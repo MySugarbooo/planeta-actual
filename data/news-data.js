@@ -6,7 +6,8 @@ window.MEXICO_INFORMA_NEWS = [
   "url": "https://www.eluniversal.com.mx/estados/ataque-a-balazos-y-persecucion-deja-un-herido-en-culiacan-sinaloa-el-presunto-delincuente-fue-ingresado-a-la-cruz-roja/",
   "category": "Estados",
   "date": "2026-11-27 14:46",
-  "image": "https://www.eluniversal.com.mx/resizer/v2/F6YVYJFYHFDELFPW3J6KRRKSMI.jpg?auth=e17f4947e9922579565669366e6a53a173960fbcf12a44b15193888ebf155e1b&smart=true&width=500"
+  "image": "https://www.eluniversal.com.mx/resizer/v2/F6YVYJFYHFDELFPW3J6KRRKSMI.jpg?auth=e17f4947e9922579565669366e6a53a173960fbcf12a44b15193888ebf155e1b&smart=true&width=500",
+  "resumen": "Un ataque a balazos y una persecución dejaron un herido en Culiacán, Sinaloa; el presunto delincuente fue ingresado a la Cruz Roja."
  },
  {
   "title": "Nieve, hielo y temperaturas bajo cero: Así avanza la primera tormenta invernal en tres estados de México",
@@ -15,7 +16,8 @@ window.MEXICO_INFORMA_NEWS = [
   "url": "https://www.elfinanciero.com.mx/estados/2026/11/27/nieve-hielo-y-temperaturas-bajo-cero-asi-avanza-la-primera-tormenta-invernal-en-tres-estados-de-mexico/",
   "category": "Medio Ambiente",
   "date": "2026-11-27 14:46",
-  "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/sKepXkcOu7s5sn8ETSmvLyHwT_c=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IMGSMFEVTVE6LCKROA4OCIEGRU.jpg"
+  "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/sKepXkcOu7s5sn8ETSmvLyHwT_c=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/IMGSMFEVTVE6LCKROA4OCIEGRU.jpg",
+  "resumen": "Nieve, hielo y temperaturas bajo cero: así avanza la primera tormenta invernal en tres estados de México. La primera tormenta invernal de la temporada 2026-2027 dejó nevadas en siete localidades de Guanaceví, Durango, y hielo en el Cerro del Potosí, en Nuevo León."
  },
  {
   "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 27 de noviembre: guardia de seguridad fue encontrado muerto en cisterna",
@@ -37,7 +39,8 @@ window.MEXICO_INFORMA_NEWS = [
   "url": "https://www.infobae.com/mexico/2026/11/27/gobierno-pide-a-fiscalia-de-cdmx-investigar-de-oficio-el-caso-de-ximena-santaolalla-el-silencio-no-significa-consentimiento/",
   "category": "Seguridad",
   "date": "2026-11-27 14:42",
-  "image": "https://www.infobae.com/resizer/v2/Z4AWXDCKX5FAVGMJPEKFX7TDTI.png?auth=06ccb92d20cb4dcf077663dc41bda519ad6f7559f1edff9a207cb81d36b92f22&smart=true&width=2752&height=1536"
+  "image": "https://www.infobae.com/resizer/v2/Z4AWXDCKX5FAVGMJPEKFX7TDTI.png?auth=06ccb92d20cb4dcf077663dc41bda519ad6f7559f1edff9a207cb81d36b92f22&smart=true&width=2752&height=1536",
+  "resumen": "El gobierno pidió a la Fiscalía de CDMX investigar de oficio el caso de Ximena Santaolalla: 'El silencio no significa consentimiento'. La SIPINNA recordó que las leyes federales y capitalinas establecen que los delitos sexuales contra menores de edad no prescriben."
  },
  {
   "title": "La Selección Mexicana ya tiene fecha y rival confirmado para los 16avos de final del Mundial Sub 17; conócelo aquí",
