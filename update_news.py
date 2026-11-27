@@ -75,6 +75,17 @@ def image_of(entry):
     return ""
 def main():
     items=[]; seen=set(); filtered=0
+    # Carga previa primero: los resúmenes reescritos ("resumen") viven en
+    # news-data.js y deben conservarse cuando una nota se reconstruye
+    # desde el feed; si no, cada actualización borraría el trabajo hecho.
+    try:
+        txt=(ROOT/'data'/'news-data.js').read_text(encoding='utf-8') if (ROOT/'data'/'news-data.js').exists() else ''
+        prefix='window.MEXICO_INFORMA_NEWS = '
+        previous=json.loads(txt[len(prefix):].rsplit(';\n',1)[0]) if txt.startswith(prefix) else []
+    except Exception:
+        previous=[]
+    prev_by_url={i.get('url'):i for i in previous if i.get('url')}
+    prev_by_key={re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90]:i for i in previous}
     for source, category, url in FEEDS:
         try:
             feed=feedparser.parse(url,request_headers={'User-Agent':'MexicoInforma/1.0 (RSS reader)'})
@@ -100,13 +111,11 @@ def main():
             if not is_mexico_news(title,summary,cat):
                 filtered+=1; continue
             items.append(dict(title=title,summary=summary,source=source,url=link,category=cat,date=date,image=image_of(e)))
+            old=prev_by_url.get(link) or prev_by_key.get(key)
+            if old:
+                if old.get('resumen'): items[-1]['resumen']=old['resumen']
+                if old.get('resumen_en'): items[-1]['resumen_en']=old['resumen_en']
     items.sort(key=lambda x:x['date'],reverse=True)
-    try:
-        txt=(ROOT/'data'/'news-data.js').read_text(encoding='utf-8') if (ROOT/'data'/'news-data.js').exists() else ''
-        prefix='window.MEXICO_INFORMA_NEWS = '
-        previous=json.loads(txt[len(prefix):].rsplit(';\n',1)[0]) if txt.startswith(prefix) else []
-    except Exception:
-        previous=[]
     known={re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90] for i in previous}
     items += [i for i in previous if re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90] not in seen]
     data='window.MEXICO_INFORMA_NEWS = '+json.dumps(items[:110],ensure_ascii=False,indent=1)+';\n'
