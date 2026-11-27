@@ -12,7 +12,7 @@ const dictionary = {
     original:"Este artículo conserva el texto original en español mientras se completa su traducción.",
     category_inicio:"Inicio",category_deportes:"Deportes",category_internacional:"Internacional",category_política:"Política",
     category_economía:"Economía",category_tecnología:"Tecnología",category_ciencia:"Ciencia",
-    category_medio_ambiente:"Medio Ambiente",category_cultura:"Cultura",category_salud:"Salud",category_nacional:"Nacional",category_estados:"Estados",category_seguridad:"Seguridad",
+    category_medio_ambiente:"Medio Ambiente",category_cultura:"Cultura",category_salud:"Salud",category_nacional:"Nacional",category_nación:"Nación",category_estados:"Estados",category_seguridad:"Seguridad",
     date:"Fecha", english:"English",spanish:"Español"
   },
   en: {
@@ -27,7 +27,7 @@ const dictionary = {
     original:"Original Spanish text is shown while the automatic translation is being prepared.",
     category_inicio:"Home",category_deportes:"Sports",category_internacional:"World",category_política:"Politics",
     category_economía:"Economy",category_tecnología:"Technology",category_ciencia:"Science",
-    category_medio_ambiente:"Environment",category_cultura:"Culture",category_salud:"Health",category_nacional:"Mexico",category_estados:"States",category_seguridad:"Security",
+    category_medio_ambiente:"Environment",category_cultura:"Culture",category_salud:"Health",category_nacional:"Mexico",category_nación:"Nation",category_estados:"States",category_seguridad:"Security",
     date:"Date",english:"English",spanish:"Español"
   }
 };
