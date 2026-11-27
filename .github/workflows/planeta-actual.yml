@@ -1,4 +1,4 @@
-name: Actualizar noticias y publicar Planeta Actual
+name: Actualizar noticias y publicar México Informa
 on:
   schedule:
     - cron: '13 * * * *'
