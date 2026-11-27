@@ -70,6 +70,19 @@ main{padding-top:16px}
 .hide{display:none!important}
 .empty{color:#65656a;grid-column:1/-1;padding:22px;background:#faf9fc;border-radius:12px}
 .footer{margin-top:56px;border-top:1px solid var(--line);padding:28px 0 40px;color:#777;font-size:12px;line-height:1.6;text-align:center}
+.modal-backdrop{position:fixed;inset:0;background:rgba(18,24,39,.62);z-index:100;display:flex;align-items:flex-start;justify-content:center;padding:24px 16px;overflow-y:auto}
+.modal{background:#fff;border-radius:18px;max-width:640px;width:100%;padding:22px 22px 26px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.25)}
+.modal-close{position:absolute;top:10px;right:12px;border:0;background:#f3f1f6;border-radius:50%;width:38px;height:38px;font-size:22px;line-height:1;color:#121827}
+.modal h2{font-family:Georgia,serif;font-size:clamp(22px,4vw,28px);line-height:1.2;margin:8px 0 12px}
+.modal img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:12px;background:#f4f2f7}
+.modal .imgcredit{font-size:10px;color:#777;margin-top:5px}
+.modal-summary-label{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--purple);margin:18px 0 6px}
+.modal-summary{font-size:16px;line-height:1.7;color:#33333a;margin:0}
+.modal-sign{margin:14px 0 0;font-size:13px;color:#55555c;font-style:italic}
+.modal-source{display:inline-block;margin-top:20px;background:var(--purple);color:#fff;font-weight:700;font-size:14px;padding:12px 18px;border-radius:999px}
+.modal-source:hover{background:var(--purple-dark)}
+body.modal-open{overflow:hidden}
+.story img,.lead img,.side-item img{cursor:pointer}
 @media(max-width:359px){
  .brand-name{font-size:16px}
  .brand svg{width:32px;height:29px}
@@ -116,18 +129,19 @@ main{padding-top:16px}
 <div class="section-head"><h2 data-i18n="selection">Selección de México</h2><a href="#all-news" class="linkmore" data-i18n="more">Ver más →</a></div><div id="featuredCards" class="section-cards"></div>
 <div id="all-news" class="more-head section-head"><h2 data-i18n="all">Todas las noticias</h2><span class="linkmore" id="counter"></span></div><div class="filter"><input id="search" aria-label="Buscar noticias" data-i18n-placeholder="search" placeholder="Buscar noticias o temas…"><span data-i18n="sourceinfo">Noticias con enlace a la fuente original</span><span id="translation-status" class="translation-status" hidden></span></div><div class="feed" id="feed"></div>
 </main><footer class="footer"><div class="wrap" data-i18n="footer">© México Informa · Noticias de México basadas en medios enlazados. Cada nota enlaza a su fuente original y las imágenes son de esa fuente, con su crédito. Si una nota no trae imagen, no se muestra ninguna.</div></footer>
+<div id="newsModal" class="modal-backdrop hide" role="dialog" aria-modal="true"><div class="modal"><button id="modalClose" class="modal-close" type="button" data-i18n-aria="close" aria-label="Cerrar">×</button><div id="modalContent"></div></div></div>
 <script src="data/news-data.js"></script><script src="./site-i18n.js"></script><script>
 const all=(window.MEXICO_INFORMA_NEWS||[]).filter(n=>n.title&&/^https:\/\//.test(n.url));let category='Inicio';
 const cats=['Inicio','Nacional','Política','Economía','Deportes','Estados','Seguridad','Tecnología','Ciencia','Cultura','Salud','Medio Ambiente'];
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeURL=u=>/^https:\/\//.test(String(u||''))?esc(u):'';
 const niceDate=s=>{let d=new Date(s);return isNaN(d)?'':d.toLocaleDateString('es-MX',{day:'numeric',month:'short',year:'numeric'})};
-const img=n=>!n.image?'':'<div><img loading="lazy" src="'+safeURL(n.image)+'" alt="'+esc(PA_I18N.get('images'))+'"><div class="imgcredit">Foto: '+esc(n.source||'')+'</div></div>';
+const img=n=>!n.image?'':'<div><img loading="lazy" data-open="'+esc(n.url)+'" src="'+safeURL(n.image)+'" alt="'+esc(PA_I18N.get('images'))+'"><div class="imgcredit">Foto: '+esc(n.source||'')+'</div></div>';
 const cat=n=>n.category==='Mundo'?'Internacional':(n.category||'Internacional');
 const date=n=>PA_I18N.date(n.date);
 const link=n=>'<a class="source" href="'+safeURL(n.url)+'" target="_blank" rel="noopener noreferrer">'+PA_I18N.get('source')+': '+esc(n.source||'Medio de origen')+' ↗</a>';
-const card=n=>'<article class="story'+(n.image?'':' no-img')+'">'+img(n)+'<div><span class="category">'+esc(PA_I18N.label(cat(n)))+'</span><h3><a href="'+safeURL(n.url)+'" target="_blank" rel="noopener noreferrer">'+esc(PA_I18N.newsText(n,'title'))+'</a></h3><div class="meta">'+date(n)+'</div>'+link(n)+'</div></article>';
-const side=n=>'<article class="side-item'+(n.image?'':' no-img')+'"><div><span class="category">'+esc(cat(n))+'</span><h2><a href="'+safeURL(n.url)+'" target="_blank" rel="noopener noreferrer">'+esc(n.title)+'</a></h2><div class="meta">'+date(n)+'</div></div>'+img(n)+'</article>';
+const card=n=>'<article class="story'+(n.image?'':' no-img')+'">'+img(n)+'<div><span class="category">'+esc(PA_I18N.label(cat(n)))+'</span><h3><a href="#" data-open="'+esc(n.url)+'">'+esc(PA_I18N.newsText(n,'title'))+'</a></h3><div class="meta">'+date(n)+'</div>'+link(n)+'</div></article>';
+const side=n=>'<article class="side-item'+(n.image?'':' no-img')+'"><div><span class="category">'+esc(cat(n))+'</span><h2><a href="#" data-open="'+esc(n.url)+'">'+esc(n.title)+'</a></h2><div class="meta">'+date(n)+'</div></div>'+img(n)+'</article>';
 function render(){
  PA_I18N.apply();
  const search=document.getElementById('search').value.trim().toLowerCase();
@@ -149,7 +163,7 @@ function render(){
    if(idx>0)list.unshift(list.splice(idx,1)[0]);
  }
  const first=list[0];
- document.getElementById('lead').innerHTML=first?img(first)+'<div class="category">'+esc(cat(first))+'</div><h1><a href="'+safeURL(first.url)+'" target="_blank" rel="noopener noreferrer">'+esc(PA_I18N.newsText(first,'title'))+'</a></h1><p>'+esc(PA_I18N.newsText(first,'summary')||PA_I18N.get('consult'))+'</p><div class="meta">'+date(first)+' · '+esc(first.source||'')+'</div>'+link(first):'<p>'+PA_I18N.get('no_news')+'</p>';
+ document.getElementById('lead').innerHTML=first?img(first)+'<div class="category">'+esc(cat(first))+'</div><h1><a href="#" data-open="'+esc(first.url)+'">'+esc(PA_I18N.newsText(first,'title'))+'</a></h1><p>'+esc(PA_I18N.newsText(first,'summary')||PA_I18N.get('consult'))+'</p><div class="meta">'+date(first)+' · '+esc(first.source||'')+'</div>'+link(first):'<p>'+PA_I18N.get('no_news')+'</p>';
  document.getElementById('rightNews').innerHTML=list.slice(1,5).map(side).join('');
  const related=category==='Inicio'?[]:all.filter(n=>cat(n)!==category).sort((a,b)=>new Date(b.date)-new Date(a.date));
  const suggestions=list.slice(5,9);
@@ -162,7 +176,7 @@ function render(){
  const status=document.getElementById('translation-status');
  status.hidden=PA_I18N.language!=='en'||!list.some(n=>!n.title_en);
  status.textContent=PA_I18N.get('original');
- const latest=all[0];if(latest){document.getElementById('ticker').textContent=PA_I18N.newsText(latest,'title');document.getElementById('ticker').href=safeURL(latest.url);document.getElementById('tickerTime').textContent=date(latest)}
+ const latest=all[0];if(latest){const tick=document.getElementById('ticker');tick.textContent=PA_I18N.newsText(latest,'title');tick.href='#';tick.setAttribute('data-open',latest.url);document.getElementById('tickerTime').textContent=date(latest)}
  document.querySelectorAll('[data-cat]').forEach(b=>{b.classList.toggle('active',b.dataset.cat===category);b.textContent=PA_I18N.label(b.dataset.cat)});
  document.querySelectorAll('[data-horoscope-link]').forEach(a=>{a.textContent=PA_I18N.get('horoscopes');a.href=PA_I18N.nextURL('./horoscopos.html')});
 }
@@ -172,5 +186,18 @@ document.getElementById('search').addEventListener('input',render);
 document.getElementById('searchButton').onclick=()=>{document.getElementById('search').focus();document.getElementById('all-news').scrollIntoView({behavior:'smooth'})};
 document.getElementById('menuButton').onclick=()=>document.getElementById('nav').scrollIntoView({behavior:'smooth'});
 document.getElementById('pa-language').addEventListener('click',()=>{PA_I18N.change(PA_I18N.language==='en'?'es':'en');render()});
+const modal=document.getElementById('newsModal'),modalContent=document.getElementById('modalContent');
+function openNews(url){
+ const n=all.find(x=>x.url===url);if(!n)return;
+ const sum=PA_I18N.newsText(n,'summary')||PA_I18N.get('consult');
+ modalContent.innerHTML='<div class="category">'+esc(PA_I18N.label(cat(n)))+'</div><h2>'+esc(PA_I18N.newsText(n,'title'))+'</h2>'+img(n)+'<div class="modal-summary-label">'+esc(PA_I18N.get('summary'))+'</div><p class="modal-summary">'+esc(sum)+'</p><p class="modal-sign">— '+esc(PA_I18N.get('summary_by'))+'</p><a class="modal-source" href="'+safeURL(n.url)+'" target="_blank" rel="noopener noreferrer">'+esc(PA_I18N.get('read_full'))+' '+esc(n.source||'')+' ↗</a>';
+ modal.classList.remove('hide');document.body.classList.add('modal-open');
+ document.getElementById('modalClose').focus();
+}
+function closeNews(){modal.classList.add('hide');document.body.classList.remove('modal-open')}
+document.getElementById('modalClose').addEventListener('click',closeNews);
+modal.addEventListener('click',e=>{if(e.target===modal)closeNews()});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!modal.classList.contains('hide'))closeNews()});
+document.addEventListener('click',e=>{const t=e.target.closest('[data-open]');if(t){e.preventDefault();openNews(t.getAttribute('data-open'))}});
 render();
 </script></body></html>
