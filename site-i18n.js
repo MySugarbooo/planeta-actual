@@ -3,7 +3,7 @@ const dictionary = {
   es: {
     tagline:"Noticias de todo México",horoscopes:"Horóscopos",latest:"Última hora",loading:"Cargando titulares...",
     selection:"Selección de México",related:"También en México",more:"Ver más →",all:"Todas las noticias",
-    search:"Buscar noticias, países o temas…",sourceinfo:"Noticias con enlace a la fuente original",
+    search:"Buscar noticias, estados o temas…",sourceinfo:"Noticias con enlace a la fuente original",
     footer:"© México Informa · Noticias de México basadas en medios enlazados. Cada nota enlaza a su fuente original y las imágenes son de esa fuente, con su crédito. Si una nota no trae imagen, no se muestra ninguna.",
     source:"Fuente",no_news:"Sin noticias para este filtro.",no_more:"No hay más noticias disponibles por ahora.",
     all_shown:"Ya se muestran todas las noticias de esta categoría arriba.",consult:"Consulta la noticia en la fuente original.",
@@ -16,8 +16,8 @@ const dictionary = {
   },
   en: {
     tagline:"Mexico news",horoscopes:"Horoscopes",latest:"Breaking news",loading:"Loading headlines...",
-    selection:"Around the world",related:"Elsewhere in the world",more:"See more →",all:"All stories",
-    search:"Search news, countries or topics…",sourceinfo:"Stories link to their original sources",
+    selection:"Selected in Mexico",related:"More from Mexico",more:"See more →",all:"All stories",
+    search:"Search news, states or topics…",sourceinfo:"Stories link to their original sources",
     footer:"© México Informa · Mexico news based on linked media outlets. Each story links to its original source and images are from that source, with credit. If a story has no image, none is shown.",
     source:"Source",no_news:"No stories found for this category.",no_more:"No additional stories available at this time.",
     all_shown:"All stories in this category are already shown above.",consult:"Read the full story at the original source.",
@@ -58,7 +58,7 @@ function date(s){
 }
 function apply(){
  document.documentElement.lang=value;
- document.title=location.pathname.includes("horoscopos.html")?(value==="en"?"Daily horoscopes | México Informa":"Horóscopos diarios | México Informa"):(value==="en"?"México Informa | World news":"México Informa | Noticias del mundo");
+ document.title=location.pathname.includes("horoscopos.html")?(value==="en"?"Daily horoscopes | México Informa":"Horóscopos diarios | México Informa"):(value==="en"?"México Informa | Mexico news":"México Informa | Noticias de México");
  document.querySelectorAll("[data-i18n]").forEach(e=>e.textContent=get(e.getAttribute("data-i18n")));
  document.querySelectorAll("[data-i18n-placeholder]").forEach(e=>e.placeholder=get(e.getAttribute("data-i18n-placeholder")));
  document.querySelectorAll("[data-i18n-aria]").forEach(e=>e.setAttribute("aria-label",get(e.getAttribute("data-i18n-aria"))));
