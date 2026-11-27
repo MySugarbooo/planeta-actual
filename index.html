@@ -189,7 +189,7 @@ document.getElementById('pa-language').addEventListener('click',()=>{PA_I18N.cha
 const modal=document.getElementById('newsModal'),modalContent=document.getElementById('modalContent');
 function openNews(url){
  const n=all.find(x=>x.url===url);if(!n)return;
- const sum=PA_I18N.newsText(n,'summary')||PA_I18N.get('consult');
+ const sum=PA_I18N.newsText(n,'resumen')||PA_I18N.newsText(n,'summary')||PA_I18N.get('consult');
  modalContent.innerHTML='<div class="category">'+esc(PA_I18N.label(cat(n)))+'</div><h2>'+esc(PA_I18N.newsText(n,'title'))+'</h2>'+img(n)+'<div class="modal-summary-label">'+esc(PA_I18N.get('summary'))+'</div><p class="modal-summary">'+esc(sum)+'</p><p class="modal-sign">— '+esc(PA_I18N.get('summary_by'))+'</p><a class="modal-source" href="'+safeURL(n.url)+'" target="_blank" rel="noopener noreferrer">'+esc(PA_I18N.get('read_full'))+' '+esc(n.source||'')+' ↗</a>';
  modal.classList.remove('hide');document.body.classList.add('modal-open');
  document.getElementById('modalClose').focus();

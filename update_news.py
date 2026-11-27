@@ -102,7 +102,9 @@ def main():
             items.append(dict(title=title,summary=summary,source=source,url=link,category=cat,date=date,image=image_of(e)))
     items.sort(key=lambda x:x['date'],reverse=True)
     try:
-        previous=json.loads((ROOT/'data'/'news-data.js').read_text(encoding='utf-8')[14:].rsplit(';\n',1)[0]) if (ROOT/'data'/'news-data.js').exists() else []
+        txt=(ROOT/'data'/'news-data.js').read_text(encoding='utf-8') if (ROOT/'data'/'news-data.js').exists() else ''
+        prefix='window.MEXICO_INFORMA_NEWS = '
+        previous=json.loads(txt[len(prefix):].rsplit(';\n',1)[0]) if txt.startswith(prefix) else []
     except Exception:
         previous=[]
     known={re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90] for i in previous}
