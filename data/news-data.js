@@ -1,5 +1,214 @@
 window.MEXICO_INFORMA_NEWS = [
   {
+    "title": "Morena responde a Movimiento Ciudadano: presenta a Lorenia Valles como precandidata única en Sonora",
+    "summary": "La precampaña de la senadora con licencia arranca el 2 de diciembre y concluye el 10 de enero de 2027",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/morena-responde-a-movimiento-ciudadano-presenta-a-lorenia-valles-como-precandidata-unica-en-sonora/",
+    "category": "Estados",
+    "date": "2026-11-27T02:47:37+00:00",
+    "image": "https://www.infobae.com/resizer/v2/TDCJSTNMIBF77NMNPDYMWHX7SQ.jpg?auth=f48ed1e832f0173e8a8d0a9de611bd8960e1512e550addceb4d8f324efc33725&smart=true&width=2048&height=1368",
+    "title_en": "Brunette responded to Civil Movement: she presented Lorenia Valles as a unique preset at Sonora",
+    "summary_en": "The precampaign of the licensed Senator starts on December 2 and ends on January 10, 2027"
+  },
+  {
+    "title": "Inversión de 2.4 millones de pesos para reparar calles en la Emiliano Zapata Sur",
+    "summary": "Las calles de la Emiliano Zapata Sur I, en Mérida, eran un riesgo para quienes viven y transitan por la zona, contó la vecina Dalia Suaste Ek, quien agradeció que ya se estén reparando. El gobierno del Estado atiende 79 calles de esta colonia que abarcan una superficie de 504 metros cuadrados, con una inversión […]",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/merida/2026/11/26/inversion-de-2-4-millones-de-pesos-para-reparar-calles-en-la-emiliano-zapata-sur.html",
+    "category": "Economía",
+    "date": "2026-11-27T02:46:41+00:00",
+    "image": "",
+    "title_en": "Investment of 2.4 million pesos to repair streets at Emiliano Zapata South",
+    "summary_en": "The streets of Emiliano Zapata Sur I, at Mérida, were a risk to those living and passing through the area, said neighbor Dalia Suaste Ek, who expressed his gratitude that they are currently being repaired. The state government caters for 79 streets of this colony that cover an area of 504 square metres with an investment [...]"
+  },
+  {
+    "title": "¿Cómo verte como un X-Men con ChatGPT? Te decimos cuál es el prompt",
+    "summary": "¿Quieres convertirte en un X-Men? Te compartimos el prompt para transformar tu fotografía en un mutante de Marvel con ChatGPT.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/tech/2026/11/26/como-verte-como-un-x-men-con-chatgpt-te-decimos-cual-es-el-prompt/",
+    "category": "Tecnología",
+    "date": "2026-11-27T02:45:40+00:00",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Rt7bghWx11nCU0gi6kk48laTsdk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BEZMAN6CMFCWJLTFOLQQW2FRB4.jpg",
+    "title_en": "How do I look at you as an X-Men with ChatGPT? We'll tell you what's the prompt.",
+    "summary_en": "Do you want to become an X-Men? We share your prompt to turn your photo into a Marvel mutant with ChatGPT."
+  },
+  {
+    "title": "Pachuca vs Chivas EN VIVO; Sigue aquí partido de ida de los Cuartos de Final de la Liguilla",
+    "summary": "No te pierdas ninguna acción del encuentro",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/deportes/pachuca-vs-chivas-en-vivo-sigue-aqui-partido-de-ida-de-los-cuartos-de-final-de-la-liguilla/",
+    "category": "Deportes",
+    "date": "2026-11-27T02:44:36+00:00",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/L3IACDYTZNAYRJOWEX7OLDFNGU.jpg?auth=f9c1e1c35fe50efa6d1d2cae9cbb98e72c1114f00cd7e797401321e506423292&smart=true&width=500",
+    "title_en": "Pachuca vs. Chivas EN VIVO. Still here we have an end of the Liguilla quarter.",
+    "summary_en": "Don't miss any meeting actions"
+  },
+  {
+    "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 26 de noviembre: Detienen a “El Chapo Félix” junto con tres personas más en Durango",
+    "summary": "Sigue las noticias más importantes sobre los acontecimientos violentos en el país con Infobae México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/26/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-26-de-noviembre-grupo-doble-blindaje-sufre-ataque-armado-en-hermosillo-su-vocalista-es-reportado-grave/",
+    "category": "Estados",
+    "date": "2026-11-27T02:43:09+00:00",
+    "image": "https://www.infobae.com/resizer/v2/IQMWV3VB5NCUTKFIVZHT3MQTD4.jpg?auth=15508ee219d7b56d09f8590cfa92531ab51d1a445a65c8eb406da66ee79368ba&smart=true&width=1600&height=872",
+    "title_en": "IN VIVO) 124; Security, drug and crime in Mexico today November 26: They stop \"El Chapo Félix\" with three more people in Durango",
+    "summary_en": "Following the most important news about violent events with Infobae Mexico"
+  },
+  {
+    "title": "Dmitry Bivol exhibe a Canelo Álvarez: no ha recibido oferta para la revancha",
+    "summary": "El campeón unificado de peso semipesado afirma que está dispuesto a enfrentar al mexicano, aunque no han hablado directamente ni hay negociaciones entre representantes",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/deportes/2026/11/27/dmitry-bivol-exhibe-a-canelo-alvarez-no-ha-recibido-oferta-para-la-revancha/",
+    "category": "Nación",
+    "date": "2026-11-27T02:42:14+00:00",
+    "image": "https://www.infobae.com/resizer/v2/NMS2WKIDL4FZEL66VSJTWVCBAI.jpg?auth=56e46f6c8ca1d6e13a436c8bc2c72ed1c84952208da2eae6601b9477474c7b26&smart=true&width=4097&height=2731",
+    "title_en": "Dmitry Birol exhibits Canelo Alvarez: No offer for rematch",
+    "summary_en": "The united half-heavy champion claims his willingness to face the Mexican, though they have been silent and negotiations between representatives"
+  },
+  {
+    "title": "Detienen a Hugo Lozano, exdirector de CAPAMA, en Acapulco por circular en camioneta robada",
+    "summary": "El exfuncionario fue interceptado por policías estatales en el centro del puerto; mujeres que lo acompañaban intentaron impedir que se lo llevaran",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/detienen-a-hugo-lozano-exdirector-de-capama-en-acapulco-por-circular-en-camioneta-robada/",
+    "category": "Nación",
+    "date": "2026-11-27T02:40:15+00:00",
+    "image": "https://www.infobae.com/resizer/v2/XYGDT24ZMRF47GEQAYIXZDE3PU.png?auth=483cb55fc8293a04d9006724864ff675195aae894d54ea1571023b04d9e349ba&smart=true&width=2752&height=1536",
+    "title_en": "Hugo Lozano, former director of CAMAMA, arrested at Acapulco for passing by stolen truck",
+    "summary_en": "The former official was intercepted by state police at the port centre and his accompanying women have been trying to stop his conduct."
+  },
+  {
+    "title": "Primavera Sound Buenos Aires 2026: ¿Cuándo y dónde ver EN VIVO a Gorillaz y The Strokes desde México?",
+    "summary": "Consulta los horarios de Primavera Sound 2026 en CDMX para ver a Gorillaz, The Strokes y más artistas en vivo a través de Disney+.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/26/primavera-sound-buenos-aires-2026-cuando-y-donde-ver-en-vivo-a-gorillaz-y-the-strokes-desde-mexico/",
+    "category": "Estados",
+    "date": "2026-11-27T02:40:02+00:00",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/f1NE6sbOIKxNT9ve0u-A09UdCG8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RDKHYIDTEFGPFPZGDZNRS2RLWE.jpg",
+    "title_en": "Spring Sound Buenos Aires 2026: When and where to see Gordillazo and The Strokes from Mexico?",
+    "summary_en": "See Spring Sound 2026 at CDMX to watch Gorillazo, The Strokes and more live artists through Disney +."
+  },
+  {
+    "title": "La violencia escolar empieza mucho antes del ataque",
+    "summary": "En una escuela, muchas cosas pueden pasar inadvertidas. Un estudiante que deja de participar, una joven que evita ciertos espacios, un docente que acumula cansancio, un grupo que normaliza las burlas o una amenaza que circula por redes sociales y parece, al principio, una provocación más. A veces las señales están ahí durante semanas. Otras veces, el primer…",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/violencia-escolar-empieza-ataque-20261126-846109.html",
+    "category": "Seguridad",
+    "date": "2026-11-27T02:38:48+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/06/03/683f1fdbba0b2.r_d.1000-562-0.png",
+    "title_en": "School violence begins long before the attack",
+    "summary_en": "At a school, a lot of things can go unnoticed. A student who stops participating, a youth who prevents some spaces, a teacher who accumulates tiredness, a group that normalizes mocking or a threat that circulates through social networks and looks at first a more provocative. The signs are sometimes there for weeks. Other times, first..."
+  },
+  {
+    "title": "Corona de Adviento 2026: ¿Cuándo se enciende la primera vela?; descubre su significado",
+    "summary": "El primer domingo de adviento está por llegar y a continuación te diremos la fecha exacta",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/tendencias/corona-de-adviento-2026-cuando-se-enciende-la-primera-vela-descubre-su-significado/",
+    "category": "Nación",
+    "date": "2026-11-27T02:38:00+00:00",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/GXYGCJCCNNFMVMIKN5JRAQ4BB4.png?auth=d63505317782dd7d46c25e99dfa0c81774aa8e71848f6b64e9a81e24604ccdb2&smart=true&width=500",
+    "title_en": "The crown of Advent 2026: When does the first candle light up?",
+    "summary_en": "The first Advent Sunday is about to come and then we'll tell you the exact date"
+  },
+  {
+    "title": "El español, la gran puerta del libro italiano al mundo",
+    "summary": "Hay un vínculo especial que une al mundo del libro italiano con la Feria Internacional del Libro (FIL) de Guadalajara, donde este año nuestro país es invitado de honor. Ese vínculo no se debilitará cuando se apaguen las luces de la 40.ª edición, que se inaugura el 28 de noviembre. Nuestra historia puede contarse de muchas maneras y hoy quiero hacerlo a…",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/espanol-gran-puerta-libro-italiano-mundo-20261126-846108.html",
+    "category": "Cultura",
+    "date": "2026-11-27T02:36:40+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/06/03/683f1fdbba0b2.r_d.1000-562-0.png",
+    "title_en": "Spanish, the great door of the Italian book to the world",
+    "summary_en": "There's a special link that links the world of the Italian book with the International Book Fair (FIL) of Guadalajara, where this year our country's guest of honor. That link will not be weakened after the lights of the 40th edition have been put out and opened on November 28. Our story can be told in many ways and today I want to do it to..."
+  },
+  {
+    "title": "Coalición gobernante de Nueva Zelanda pierde la mayoría, según resultado electoral",
+    "summary": "Christopher Luxon ha dirigido un gobierno interino desde las elecciones, pero ahora necesitará el respaldo del partido centrista recién creado Opportunity.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/internacionales/coalicion-gobernante-nueva-zelanda-pierde-mayoria-resultado-electoral-20261126-846107.html",
+    "category": "Deportes",
+    "date": "2026-11-27T02:34:38+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08eb5662592.jpeg",
+    "title_en": "New Zealand's ruling coalition loses majority, with electoral result",
+    "summary_en": "Christopher Luxon has been leading an interim government since the elections but will now require the support of the newly created centrist party Opportunity."
+  },
+  {
+    "title": "Mariana BO responde al comunicado de José Eduardo Derbez y lo acusa de desacreditarla para cuidar su imagen",
+    "summary": "La DJ mexicana publica un mensaje donde acusa al actor de proteger su imagen al desacreditarla por pone límites, horas después del comunicado de Derbez",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/mariana-bo-responde-al-comunicado-de-jose-eduardo-derbez-y-lo-acusa-de-desacreditarla-para-cuidar-su-imagen/",
+    "category": "Cultura",
+    "date": "2026-11-27T02:34:09+00:00",
+    "image": "https://www.infobae.com/resizer/v2/WEUOTUJ3GVAAFJYZJ6RK4FXPK4.jpg?auth=5972a43f27bf21f8d9422be9ee0483aca19f4285efd17fcc825ac11d10a07a90&smart=true&width=1200&height=675",
+    "title_en": "Mariana BO responded to José Eduardo Derbez's statement and accused him of discrediting her to care for his image",
+    "summary_en": "The Mexican DJ issues a message accusing the actor of protecting his image by discrediting his image by setting limits, hours after Derbez's statement"
+  },
+  {
+    "title": "México recuperará 85% de su capacidad para exportar ganado a EU tras apertura de Nogales: Senasica",
+    "summary": "Tras la suspensión de las exportaciones por la presencia de la plaga, México ha reabierto gradualmente los puntos de salida de ganado hacia Estados Unidos, recordó Francisco Javier Calderón, director en jefe del Senasica.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/empresas/mexico-recuperara-85-capacidad-exportar-ganado-eu-apertura-nogales-senasica-20261126-846106.html",
+    "category": "Economía",
+    "date": "2026-11-27T02:33:55+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/02/18/67b507b98fced.jpeg",
+    "title_en": "Mexico will recover 85% of its capacity to export cattle to the US after Nogales's opening: Senasica",
+    "summary_en": "Following the suspension of exports by the presence of the plague, Mexico has gradually re-opened cattle outlays to the U.S., remarked Francisco Javier Calderon, head of Senasica."
+  },
+  {
+    "title": "Tu celular Samsung puede mostrar su pantalla en una tablet Galaxy: así funciona Samsung Flow",
+    "summary": "Recientemente hice un viaje de trabajo a Brasil y decidí llevarme únicamente mi Samsung Galaxy Tab S12 Ultra para hacer toda la cobertura . Estando allá, en más de una ocasión me pregunté cómo tener el celular en la tablet . Me explico: quería una forma de trabajar y tener \"en una ventana\" el teléfono para no distraerme cuando llegara una notificación o…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/territorio-samsung-mexico/tu-celular-samsung-puede-mostrar-su-pantalla-tablet-galaxy-asi-funciona-samsung-flow",
+    "category": "Tecnología",
+    "date": "2026-11-27T02:30:27+00:00",
+    "image": "",
+    "title_en": "Your Samsung cell phone can display its screen on a Galaxy tablet: That's how Samsung Flow works",
+    "summary_en": "I recently did a work trip to Brazil and decided to get me only my Samsung Galaxy Tab S12 Ultra to do all the cover. Being there, I once asked myself how to have his phone on his tablet. I explain: I wanted a way to work and have his phone \"in a window\" so I wouldn't be distracted by a notice or..."
+  },
+  {
+    "title": "Influenza aviar en Umán: Agricultura aprueba vacunación en ocho municipios de Yucatán",
+    "summary": "Reportes sobre la mortalidad de aves llevaron a la activación de protocolos para frenar la expansión del virus",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/influenza-aviar-en-uman-agricultura-aprueba-vacunacion-en-ocho-municipios-de-yucatan/",
+    "category": "Estados",
+    "date": "2026-11-27T02:29:34+00:00",
+    "image": "https://www.infobae.com/resizer/v2/HRHTIYL7LJGN3DEFREON44TSNI.jpg?auth=98fb8e19f329475423c581de392468bc52609606ea5a809469e179fea60e76b2&smart=true&width=650&height=380",
+    "title_en": "Avian Influenza in Uman: Agriculture approves vaccination in eight municipalities of Yucatan",
+    "summary_en": "Reporting about bird mortality led to activated protocols to stop virus expansion"
+  },
+  {
+    "title": "Morena acusa a Lorenzo Córdova de cambiar su postura sobre la sobrerrepresentación",
+    "summary": "Ariadna Montiel difundió una grabación en la que el exconsejero del INE sostiene que el tope constitucional de 8% debe revisarse individualmente para cada fuerza política",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/morena-acusa-a-lorenzo-cordova-de-cambiar-su-postura-sobre-la-sobrerrepresentacion/",
+    "category": "Política",
+    "date": "2026-11-27T02:28:14+00:00",
+    "image": "https://www.infobae.com/resizer/v2/3E4PWAPBHFETNPJ6SEYFHH3WBY.jpg?auth=28efd5eaa3775f1d34c383394ca8bd8140271be2e065d3666221991826768def&smart=true&width=1920&height=1080",
+    "title_en": "Brunette accuses Lorenzo Córdova of changing his posture about overrepresentation",
+    "summary_en": "Ariadna Montiel released a film with his former INE advisor claiming that the 8% constitutional ceiling should be reviewed individually for each political force"
+  },
+  {
+    "title": "Trump dice tener \"información\" que descarta que CEO de Nvidia sea una amenaza para la seguridad",
+    "summary": "Trump reveló que él y otros funcionarios de su administración trabajaron entre bastidores para impulsar la reincorporación de Huang.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/internacionales/trump-dice-informacion-descarta-ceo-nvidia-sea-amenaza-seguridad-20261126-846104.html",
+    "category": "Política",
+    "date": "2026-11-27T02:23:03+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08e8863c1df.jpeg",
+    "title_en": "Trump claims to have \"information\" that rule out Nvidia's CEO as a security threat",
+    "summary_en": "Trump revealed that his and his other officials worked backstage to advance his reinstatement of Huang."
+  },
+  {
+    "title": "El precio de la IA: lo que revela la salida a Bolsa de Anthropic",
+    "summary": "El pasado 19 de noviembre, Anthropic, la empresa que desarrolla el asistente de inteligencia artificial Claude, comenzó a cotizar en el Nasdaq con la clave ANT. La Oferta Pública Inicial (IPO, por sus siglas en inglés) fue la más grande de la historia: colocó acciones a 83 dólares y recaudó unos 79,000 millones de dólares.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/opinion/precio-ia-revela-salida-bolsa-anthropic-20261126-846103.html",
+    "category": "Tecnología",
+    "date": "2026-11-27T02:22:41+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/06/03/683f1fdbba0b2.r_d.1000-562-0.png",
+    "title_en": "The price of the IA: what reveals the exit to the Anthropic Stock Exchange",
+    "summary_en": "Last November 19, Anthropic, the company that develops artificial intelligence assistant Claude, began to quote at the Nasdaq with the ANT key. The initial public offer (IPO) was the largest in history: it put shares at $83 and raised about $79 billion."
+  },
+  {
     "title": "Conoce el setlist oficial de Hayley Williams para el Auditorio Nacional de la CDMX",
     "summary": "La cantautora estadounidense trae a la Ciudad de México 25 canciones de su tour global",
     "source": "Infobae México",
@@ -9,6 +218,17 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.infobae.com/resizer/v2/DAPXOPOFQFDYNGZARGM7FZIMQM.jpg?auth=80b0365a23614dd07188d61e83e335c47d8a7cf9f40502a0b18be1b0bcb3f68b&smart=true&width=1920&height=1080",
     "title_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstreTajikmainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@",
     "summary_en": "mainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstremainstre@@"
+  },
+  {
+    "title": "IMSS recaba 10,000 millones de pesos con primera bursatilización",
+    "summary": "El Instituto Mexicano del Seguro Social llevó a cabo su primera emisión de créditos hipotecarios.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/mercados/imss-recaba-10-000-millones-pesos-primera-bursatilizacion-20261126-846101.html",
+    "category": "Economía",
+    "date": "2026-11-27T02:20:13+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/12/6acd48f744c5e.jpeg",
+    "title_en": "IMSS earned 10 billion pesos with first bursations",
+    "summary_en": "The Mexican Social Security Institute conducted its first issue of mortgage credit."
   },
   {
     "title": "Cinemex tendrá boletos a 39 pesos por el Black Friday: ¿Qué películas entran en la promoción?",
@@ -231,14 +451,14 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "Andrea de Nigris confirms on social networks that she will marry Leo, whom she describes as his best friend, despite his grandmother Dona Alegría's discontent with her"
   },
   {
-    "title": "¿Qué ver?: \"Quasimodo, el alma de París\", la historia real que inspiró al clásico de la literatura",
+    "title": "¿Qué ver?: \"Quasimodo, el alma de París\", la historia real del personaje que inspiró al clásico de la literatura",
     "summary": "Consulta los detalles en la fuente original.",
     "source": "El Universal",
     "url": "https://www.eluniversal.com.mx/espectaculos/que-ver-quasimodo-el-alma-de-paris-la-historia-real-que-inspiro-al-clasico-de-la-literatura/",
     "category": "Cultura",
     "date": "2026-11-27T02:02:25+00:00",
     "image": "https://www.eluniversal.com.mx/resizer/v2/Z3FYEE2PWBGEJGX3LIUVU35GTU.jpg?auth=beae8339cf1117ccbcb2eaf8bc7ce8a90acbe15cb2f08af064e3a9d6e16aafc1&smart=true&width=500",
-    "title_en": "What to see?: \"Quasimodo, the soul of Paris,\" the real story that inspired the classic of literature",
+    "title_en": "What to see?: \"Quasimodo, the soul of Paris,\" the true story of the character that inspired the classic of literature",
     "summary_en": "See details at the original source."
   },
   {
@@ -273,17 +493,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.infobae.com/resizer/v2/RBRIIPFVZVCNJGNPK5WNIRJ6MM.jpg?auth=1027fc4e0e17ce1f22c713ba9e2c1efd58bc41d42e28419929592b746802233f&smart=true&width=1920&height=1080",
     "title_en": "Jorge Romero responded to Sheinbaum: Brunette makes fraud with registration and the NAP will participate in the election",
     "summary_en": "The national leader of the blue whiteness did not be silent about the various statements made by the president at her morning conference"
-  },
-  {
-    "title": "Pachuca vs Chivas EN VIVO; Sigue aquí partido de ida de los Cuartos de Final de la Liguilla",
-    "summary": "No te pierdas ninguna acción del encuentro",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/deportes/pachuca-vs-chivas-en-vivo-sigue-aqui-partido-de-ida-de-los-cuartos-de-final-de-la-liguilla/",
-    "category": "Deportes",
-    "date": "2026-11-27T01:59:19+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/L3IACDYTZNAYRJOWEX7OLDFNGU.jpg?auth=f9c1e1c35fe50efa6d1d2cae9cbb98e72c1114f00cd7e797401321e506423292&smart=true&width=500",
-    "title_en": "Pachuca vs. Chivas EN VIVO. Still here we have an end of the Liguilla quarter.",
-    "summary_en": "Don't miss any meeting actions"
   },
   {
     "title": "¿Qué está pasando en el Metro y Metrobús hoy 26 de noviembre?: Línea 7 y B con retrasos por revisión de vías y retiro de un tren",
@@ -999,214 +1208,5 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.eluniversal.com.mx/resizer/v2/BUVY3I4GE5FYTF74JPNDYZFCFQ.jpg?auth=349235ec7be4d0793663f2a48e6032f4862994c2c5ec7670ac62cf9fa88d201f&smart=true&width=500",
     "title_en": "Qatar's Grand Prix 2026: When and where to watch IN VIVO practices, qualy and Czech Pérez's F1 race",
     "summary_en": "Know all the details to follow the Mexican in the penultimate race of the year"
-  },
-  {
-    "title": "Conasami reconoce que incrementos al salario mínimo elevaron el costo laboral para las empresas, pero no debería evitar un nuevo aumento",
-    "summary": "Tras siete años consecutivos de alzas, la dependencia hizo un análisis sobre las consecuencias que han tenido esas decisiones",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/conasami-reconoce-que-incrementos-al-salario-minimo-elevaron-el-costo-laboral-para-las-empresas-pero-no-deberia-evitar-un-nuevo-aumento/",
-    "category": "Economía",
-    "date": "2026-11-27T00:33:10+00:00",
-    "image": "https://www.infobae.com/resizer/v2/CQVCPABSJ5DPZPK4C7NC47XPJY.jpg?auth=67a0128b46252e0bb49e6cb6c7354f009bb97f55e41e93b62bb45e86646a5a05&smart=true&width=1920&height=1080",
-    "title_en": "Conasami recognizes that increases to the minimum wage have increased employment costs for businesses but should not avoid a new increase",
-    "summary_en": "After seven consecutive years of elves, the Unit did an analysis of the impact of these decisions."
-  },
-  {
-    "title": "Larvas en el bote de basura: el error que puede hacer que se multipliquen en pocas horas",
-    "summary": "Un descuido con la tapa del cubo puede convertir la basura doméstica en un foco de larvas en pocas horas",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/larvas-en-el-bote-de-basura-el-error-que-puede-hacer-que-se-multipliquen-en-pocas-horas/",
-    "category": "Nación",
-    "date": "2026-11-27T00:33:00+00:00",
-    "image": "https://www.infobae.com/resizer/v2/2RMEMJM2SBAQ3ACKAEYF5JNDMI.png?auth=2ae37b465d4f7f3f0d025d1f00193986f75d28c1e5f3f56e05a0d37189aa5a01&smart=true&width=2752&height=1536",
-    "title_en": "Larves in the garbage can: the error that can make them multiply in a few hours",
-    "summary_en": "A carelessness with a cube cover can turn domestic trash into a larvae focus in a few hours"
-  },
-  {
-    "title": "ThinkTab X11; una tablet resistente para trabajar más allá de la oficina",
-    "summary": "El dispositivo integra batería removible, pantalla 2.5K y conectividad avanzada para trabajadores de entornos industriales",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/techbit/thinktab-x11-una-tablet-resistente-para-trabajar-mas-alla-de-la-oficina/",
-    "category": "Nación",
-    "date": "2026-11-27T00:30:00+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/Y3M3NZYWAVEFRE4QPZJLJ77RO4.webp?auth=06532c0da48c75667374f41f3bd39976b78d604f24a6d73f2eca8287fc663a06&smart=true&width=500",
-    "title_en": "ThinkTab X11, a resilient tablet to work beyond the office",
-    "summary_en": "The device incorporates removable batteries, 2.5K display and advanced connectivity for workers from industrial environments"
-  },
-  {
-    "title": "Cartón de Tony: Sísifo y su Roc(h)a",
-    "summary": "Consulta los detalles en la fuente original.",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/editorial/2026/11/26/carton-de-tony-sisifo-y-su-rocha.html",
-    "category": "Estados",
-    "date": "2026-11-27T00:30:00+00:00",
-    "image": "",
-    "title_en": "Button of Tony: Sisifus and his Roc (h) a",
-    "summary_en": "See details at the original source."
-  },
-  {
-    "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 26 de noviembre: Detienen a “El Chapo Félix” junto con tres personas más en Durango",
-    "summary": "Sigue las noticias más importantes sobre los acontecimientos violentos en el país con Infobae México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-26-de-noviembre-grupo-doble-blindaje-sufre-ataque-armado-en-hermosillo-su-vocalista-es-reportado-grave/",
-    "category": "Estados",
-    "date": "2026-11-27T00:27:18+00:00",
-    "image": "https://www.infobae.com/resizer/v2/IQMWV3VB5NCUTKFIVZHT3MQTD4.jpg?auth=15508ee219d7b56d09f8590cfa92531ab51d1a445a65c8eb406da66ee79368ba&smart=true&width=1600&height=872",
-    "title_en": "IN VIVO) 124; Security, drug and crime in Mexico today November 26: They stop \"El Chapo Félix\" with three more people in Durango",
-    "summary_en": "Following the most important news about violent events with Infobae Mexico"
-  },
-  {
-    "title": "Volkswagen Lamando GTS 2026 en México; precio y motor",
-    "summary": "El Volkswagen Lamando es el nuevo sedán de la marca en nuestro país, más grande y potente que el Jetta",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/autopistas/volkswagen-lamando-gts-2026-en-mexico-precio-y-motor/",
-    "category": "Economía",
-    "date": "2026-11-27T00:25:25+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/YSEWVNL4ZRFYFBHIAI6V6AXL5Q.jpg?auth=50dd2408fd3bfb71da7c6d3a08bfee28983300333afeff7ad1957d70c52487f7&smart=true&width=500",
-    "title_en": "Volkswagen Lamando GTS 2026 in Mexico, price and motor",
-    "summary_en": "The Volkswagen Lamando is our brand's new sedan, bigger and more powerful than Jetta."
-  },
-  {
-    "title": "PAN: error no participar",
-    "summary": "Ricardo Anaya, coordinador del Partido Acción Nacional y excandidato presidencial, uno supone que, en acuerdo a la dirigencia nacional de su partido, no descartó que el PAN se abstenga de participar en las elecciones federales de 2027.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/opinion/pan-error-participar-20261126-846071.html",
-    "category": "Deportes",
-    "date": "2026-11-27T00:24:27+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/06/18/685303d58f033.r_d.258-236-0.png",
-    "title_en": "NAP: Failed not to participate",
-    "summary_en": "Ricardo Anaya, coordinator of the National Action Party and former presidential candidate, assumed that, according to his party's national leadership, his party did not rule out that the NAP refrains from participating in the 2027 federal elections."
-  },
-  {
-    "title": "Morelos reporta reducción de 61% en homicidios dolosos; feminicidios bajan casi 9% en lo que va de 2026: Mesa de Paz y Seguridad",
-    "summary": "En la conferencia también el subsecretario de Política Criminal de la Secretaría de Seguridad y Protección Ciudadana federal, José Luis Rodríguez Díaz de León, dio a conocer los avances del Plan Cuautla",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/estados/morelos-reporta-reduccion-de-61-en-homicidios-dolosos-feminicidios-bajan-casi-9-en-lo-que-va-de-2026-mesa-de-paz-y-seguridad/",
-    "category": "Estados",
-    "date": "2026-11-27T00:23:10+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/XSKMR27GSZF3TMOX5DDMICQLMY.jpg?auth=980269fa93fb033c6bcc106d776fdc05829c2aa1717507deef3d37de9ee0702a&smart=true&width=500",
-    "title_en": "Morelos reports a 61% reduction in bad murders and femicides have been down about 9% as far as 2026: peace and security table",
-    "summary_en": "At the conference also the Assistant Secretary of Criminal Policy of the Federal Secretariat of Security and Civil Protection, José Luis Rodriguez Díaz de León, published the progress of Plan Cuautla"
-  },
-  {
-    "title": "Cerca de 90,000 trabajadores de la CDMX definen el viernes en las urnas el futuro del SUTGCDMX",
-    "summary": "La jornada, que abordará 40 secciones sindicales en 200 casillas distribuidas en las 16 alcaldías, arrancará a las 7:00 horas y concluirá mañana mismo a las 18:00 horas con el cierre de urnas.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/cerca-90-000-trabajadores-cdmx-definen-viernes-urnas-futuro-sutgcdmx-20261126-846070.html",
-    "category": "Estados",
-    "date": "2026-11-27T00:20:55+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2021/09/22/66e89fc09529a.r_d.290-54-0.jpeg",
-    "title_en": "About 90,000 CDMX workers define the future of SUTGCDMX at polls Friday",
-    "summary_en": "The day, which will cover 40 trade union sections in 200 boxes distributed in the 16 mayors, will start at 7: 00 and end tomorrow at 6: 00 with the closing of polls."
-  },
-  {
-    "title": "Vadhir Derbez habría perdido contratos millonarios del 2027 y 2028 por las acusaciones de abuso sexual",
-    "summary": "El hijo de Eugenio Derbez enfrenta consecuencias profesionales mientras magistrados anulan la orden de aprehensión girada en su contra por una presunta violación",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/vadhir-derbez-habria-perdido-contratos-millonarios-del-2027-y-2028-por-las-acusaciones-de-abuso-sexual/",
-    "category": "Nación",
-    "date": "2026-11-27T00:20:32+00:00",
-    "image": "https://www.infobae.com/resizer/v2/DCRPNFXJSJE45HPDDJRKFBRZNA.png?auth=592d877c3106e2c11664779ed8c4bdcb7aa3463c20372d2d17fc0ae6601a6a46&smart=true&width=2752&height=1536",
-    "title_en": "Vadhyr Derbez allegedly lost million contracts from 2027 and 2028 for charges of sexual abuse",
-    "summary_en": "Eugenio Derbez's son faces professional consequences while magistrates nullify his warrant for an alleged rape"
-  },
-  {
-    "title": "Universidad Panamericana consolida su presencia en FIL Guadalajara con novedosa oferta editorial",
-    "summary": "Con un stand inspirado en la arquitectura italiana y una oferta de más de 170 títulos, la institución académica eleva al 68% la participación de productos de investigación en su programa de actividades, apostando por la divulgación y la batalla por la lectura.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/arteseideas/universidad-panamericana-consolida-presencia-fil-guadalajara-novedosa-oferta-editorial-20261126-846069.html",
-    "category": "Ciencia",
-    "date": "2026-11-27T00:19:54+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08ca7e5a6cd.jpeg",
-    "title_en": "Universidad Panamericano consolidates its presence at FIL Guadalajara with new editorial offer",
-    "summary_en": "A stand with an inspiration from the Italian architecture and an offer of more than 170 degrees, the academic institution increases to 68% the participation of research products in its program of activities, betting on outreach and the battle for reading."
-  },
-  {
-    "title": "Regresa el Fan Fest a CDMX: instalarán mega pantalla para el México vs Haití de la Concacaf W por el pase al Mundial 2027",
-    "summary": "El gobierno capitalino invitó a toda la población a ver y disfrutar del evento deportivo de manera gratuita",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/deportes/2026/11/26/regresa-el-fan-fest-a-cdmx-instalaran-mega-pantalla-para-el-mexico-vs-haiti-de-la-concacaf-w-por-el-pase-al-mundial-2027/",
-    "category": "Estados",
-    "date": "2026-11-27T00:17:37+00:00",
-    "image": "https://www.infobae.com/resizer/v2/RM7DPG3UYNFUVKAFT2WKBZL444.JPG?auth=731abee24996c4d83cb113055a9901a12b8719545a5d35ae4dae373fc9ac5277&smart=true&width=4464&height=2976",
-    "title_en": "Fan Fest returns to CDMX: they will install mega-screen for Mexico vs. Haiti of the Concacaf W through the 2027 World Cup",
-    "summary_en": "The capital government invited the whole population to watch and enjoy the sports event for free"
-  },
-  {
-    "title": "Tras seis horas de bloqueos, taxistas liberan vialidades en CDMX; no logran acuerdos con autoridades",
-    "summary": "Los taxistas mantienen pendiente su exigencia de recibir las constancias del INVEA",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/metropoli/tras-seis-horas-de-bloqueos-taxistas-liberan-vialidades-en-cdmx-no-logran-acuerdos-con-autoridades/",
-    "category": "Estados",
-    "date": "2026-11-27T00:16:33+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/QB6GBT3E5ZA6PDV56P4ICKROVQ.jpg?auth=6efdcf33f6c8a18050a1c8a895f8228d29ce22c08f1a3e876b7a287b1879e6c7&smart=true&width=500",
-    "title_en": "After 6 hours of blockades, taxi drivers release challenges at CDMX and have been unable to reach agreements with authorities",
-    "summary_en": "Taxi drivers have their demand to get INVEA's constancy pending"
-  },
-  {
-    "title": "Atrapan a otro líder de La Mayiza: Detienen al ‘Chapo Félix’ en la sierra de Durango",
-    "summary": "Además de la captura de 'El Chapo Félix', hubo decomiso de armas largas, cartuchos y cargadores.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/atrapan-a-otro-lider-de-la-mayiza-detienen-al-chapo-felix-en-la-sierra-de-durango/",
-    "category": "Estados",
-    "date": "2026-11-27T00:15:57+00:00",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/_15e-bhWdPiP5sy4sEDC2oaJFOk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SPLJET2IZJBH5DONLFKVR3UDKY.jpg",
-    "title_en": "They get another leader from La Mayiza: They stop the 'Chapo Félix' in the Sierra de Durango",
-    "summary_en": "In addition to the capture of 'El Chapo Félix', there have been seizures of long arms, cartridges and chargers."
-  },
-  {
-    "title": "Primera tormenta invernal 2026: ¿Qué estados tendrán lluvias intensas y temperaturas de hasta -10 grados?",
-    "summary": "El SMN pronostica lluvias de hasta 250 milímetros, heladas y posible caída de nieve en varios estados de México este viernes.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/primera-tormenta-invernal-2026-que-estados-tendran-lluvias-intensas-y-temperaturas-de-hasta-10-grados/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27T00:12:43+00:00",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/5RRDw4wxK6eYn1tULOLRXxm6RU4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JN3NTG7RZVAKTNWBGYMCRIO5GM.jpg",
-    "title_en": "First winter storm 2026: What states will have intense rain and temperatures up to -10 degrees?",
-    "summary_en": "The SMN forecasts rain up to 250 mm, frost and potential snow fall in several states of Mexico this Friday."
-  },
-  {
-    "title": "The 101’ers Years: Buscando a Joe Strummer antes de The Clash",
-    "summary": "Antes de The Clash existió The 101’ers y antes de Joe Strummer existió Woody Mellor.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/opinion/the-101-ers-years-buscando-joe-strummer-the-clash-20261126-846068.html",
-    "category": "Economía",
-    "date": "2026-11-27T00:11:58+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08c87a5b06d.webp",
-    "title_en": "The 101's Years: Looking for Joe Strummer before The Clash",
-    "summary_en": "Before The Clash existed The 101's and before Joe Strummer existed Woody Mellor."
-  },
-  {
-    "title": "Por no echarle la firma: Desechan solicitud de amparo del ‘Chapo Isidro’ contra extradición a EU",
-    "summary": "La Fiscalía General de la República y el Gabinete de Seguridad evaluarán si ‘El Chapo Isidro’ es extraditado a EU o enfrenta primero un proceso judicial en México.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/26/desechan-solicitud-de-amparo-del-chapo-isidro-porque-no-firmo-el-documento/",
-    "category": "Seguridad",
-    "date": "2026-11-27T00:10:06+00:00",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Eq_ZS0TIELDOjeK_3eaHRstbVhs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4TNAS346BRGC5FNRG4P2ZIBUYA.jpg",
-    "title_en": "To avoid signing them: Reject an application for amparo from the 'Chapo Isidro' against extradition to the EU",
-    "summary_en": "The Office of the Prosecutor-General and the Security Cabinet will evaluate whether 'El Chapo Isidro' is extradited to the US or challenges first a judicial proceedings in Mexico."
-  },
-  {
-    "title": "Ratifican a José Quiñonez como vicefiscal de Sinaloa tras renuncia de Dámaso Castro, acusado por EEUU de nexos con Los Chapitos",
-    "summary": "En el evento también fue confirmada Rocío Yamileth Aguilar Zazueta como titular de la Vicefiscalía Regional Zona Centro",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/ratifican-a-jose-quinonez-como-vicefiscal-de-sinaloa-tras-renuncia-de-damaso-castro-acusado-por-eeuu-de-nexos-con-los-chapitos/",
-    "category": "Estados",
-    "date": "2026-11-27T00:08:06+00:00",
-    "image": "https://www.infobae.com/resizer/v2/IBEXAOWKYBD7VDV4UQOA5BFCK4.jpg?auth=d9445e48d5ef784db647d5067996d45bf7326ed92646ceb94ff2eea504e8adf8&smart=true&width=1920&height=1080",
-    "title_en": "José Quiñonez as Sinaloa's deputy prosecutor after his resignation from Dámaso Castro, accused by the US of links with Los Chapitos",
-    "summary_en": "The event was also confirmed by Rocío Samileth Aguilar Zazueta as the incumbent of the Regional Prosecutor's Office Zona Centro"
-  },
-  {
-    "title": "Líderes de la UE retomarán en diciembre negociación del presupuesto tras cumbre que no resolvió escollos",
-    "summary": "A las discrepancias sobre las futuras cuentas comunitarias se suma la falta de acuerdo sobre cómo financiar la asistencia militar y presupuestaria a Ucrania en 2027.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/internacionales/lideres-ue-retomaran-diciembre-negociacion-presupuesto-cumbre-resolvio-escollos-20261126-846067.html",
-    "category": "Economía",
-    "date": "2026-11-27T00:06:24+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08c81e04f57.jpeg",
-    "title_en": "EU leaders will resume budget negotiations after summit in December that did not solve challenges",
-    "summary_en": "To the discrepancies about future Community accounts we have been added the lack of agreement as to how to fund military and budgetary assistance to Ukraine by 2027."
   }
 ];
