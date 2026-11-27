@@ -1,5 +1,137 @@
 window.MEXICO_INFORMA_NEWS = [
   {
+    "title": "Cinemex tendrá boletos a 39 pesos por el Black Friday: ¿Qué películas entran en la promoción?",
+    "summary": "El Black Friday no solo aplica en compras, tambien se manifestó en forma de descuentos para disfrutar tu película favorita en el cine.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/26/cinemex-tendra-boletos-a-39-pesos-por-el-black-friday-que-peliculas-entran-en-la-promocion/",
+    "category": "Cultura",
+    "date": "2026-11-27T02:19:26+00:00",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/VdpO5tFb8zBYG0zqJFVvMU5ue2M=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HA745XTXDBEJPLGOKIIIZ4Z3CQ.png",
+    "title_en": "Cinemex will have 39 pesos tickets for the Black Friday: What films come into the promotion?",
+    "summary_en": "The Black Friday doesn't only apply to purchases, but also expressed itself as discounts to enjoy your favorite movie at cinema."
+  },
+  {
+    "title": "Cofepris alerta por falsificación de Filatil, Ozempic, Saxenda y Duvalín; advierte riesgos a la salud",
+    "summary": "La autoridad sanitaria pidió evitar la compra y consumo de los productos, al desconocer su procedencia y condiciones de fabricación y almacenamiento",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/cofepris-alerta-por-falsificacion-de-filatil-ozempic-saxenda-y-duvalin-advierte-riesgos-a-la-salud/",
+    "category": "Salud",
+    "date": "2026-11-27T02:17:30+00:00",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/HHFT4ZQPNRDHXEIW6CPHGMCFVA.png?auth=16246e8ad60c6b3ee04a0cec4e76816e2e55b2a05a6aeaf543aae6b503874ed5&smart=true&width=500",
+    "title_en": "Coffepris alert for forgery of Filatil, Ozempic, Saxenda and Duvalín and warns health risks",
+    "summary_en": "The health authority requested to avoid the purchase and consumption of products, as they have been unaware of their provenance and manufacturing and storage conditions"
+  },
+  {
+    "title": "Oaxaca registra sismo de 4.1 de intensidad en Crucecita",
+    "summary": "El movimiento sísmico tuvo lugar a las 16:17 horas, a una distancia de 23 km de Crucecita y tuvo una profundidad de 24.1 km",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/oaxaca-registra-sismo-de-41-de-intensidad-en-crucecita/",
+    "category": "Estados",
+    "date": "2026-11-27T02:16:15+00:00",
+    "image": "https://www.infobae.com/resizer/v2/IVAV5TIJM5FS3JVFJ2YGPI2FEQ.jpg?auth=cc126fd72c9b26bf7cab7aa7113d1512c68c51b58e8e2731c2a95f2c6a8cfe6e&smart=true&width=1920&height=1080",
+    "title_en": "Oaxaca Record 4.1 Intensified Seism at Crucisita",
+    "summary_en": "The seismic movement was at 4: 17 p.m., at a distance of 23 km from Crocecite and had a depth of 24.1 km"
+  },
+  {
+    "title": "Mazatlán consolida su turismo de cruceros",
+    "summary": "La actividad naviera durante los primeros 11 meses del 2026 ha generado una derrama económica superior a los 765 millones de pesos.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/estados/mazatlan-consolida-turismo-cruceros-20261126-846102.html",
+    "category": "Economía",
+    "date": "2026-11-27T02:15:57+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/09/28/6abb329286091.jpeg",
+    "title_en": "Mazatlan consolidates his cruise tourism",
+    "summary_en": "The shipping activity during the first 11 months of 2026 has generated an economic spill of more than 765 million pesos."
+  },
+  {
+    "title": "Fibra Uno apunta a duplicar sus dividendos en 2027",
+    "summary": "Funo prevé elevar su generación de EBITDA a 28,500 millones de pesos hacia 2027.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/mercados/fibra-apunta-duplicar-dividendos-20261126-846100.html",
+    "category": "Economía",
+    "date": "2026-11-27T02:15:23+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/11/12/6732f4da5a566.jpeg",
+    "title_en": "Fibra One aims to double its dividends by 2027",
+    "summary_en": "Funa expects to raise his EBITDA generation to 28,500 million pesos by 2027."
+  },
+  {
+    "title": "Brasil acusa a Emmanuel Macron de desinformar sobre la calidad de su carne; presidente francés la calificó de \"dopada\"",
+    "summary": "En un encuentro en el Palacio Eliseo, el mandatario francés junto con organizaciones agrarias declaro que la carne del país suramericano estaba \"dopada\"",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/mundo/brasil-acusa-a-emmanuel-macron-de-desinformar-sobre-la-calidad-de-su-carne-presidente-frances-la-califico-de-dopada/",
+    "category": "Política",
+    "date": "2026-11-27T02:15:03+00:00",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/5ZKUXSZHI5HFZP7EXUPJWZB3HI.jpg?auth=ca9ad42b981b18fe64af39f4f485054b85608e605980ab6f7a93a43543f34658&smart=true&width=500",
+    "title_en": "Brazil accuses Emmanuel Macron of misinformation about his meat's quality and called his French president \"dopada\"",
+    "summary_en": "At a meeting at the Eliseo Palace, the French president with agricultural organisations stated that South American meat was \"doped\""
+  },
+  {
+    "title": "Nueva ley para sustituir a la Usicamm tiene 95% de avance, afirma el SNTE",
+    "summary": "CIUDAD DE MÉXICO.- La nueva legislación que sustituirá a la Unidad del Sistema para la Carrera de las Maestras y los Maestros (Usicamm) registra 95% de avance, de acuerdo con el secretario general del Sindicato Nacional de Trabajadores de la Educación (SNTE), Alfonso Cepeda Salas. El dirigente aseguró que el proyecto se elaboró con la […]",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/26/nueva-ley-para-sustituir-a-la-usicamm-tiene-95-de-avance-afirma-el-snte.html",
+    "category": "Estados",
+    "date": "2026-11-27T02:14:56+00:00",
+    "image": "",
+    "title_en": "New law to replace Usicamm has 95% advance, says SNTE",
+    "summary_en": "MÉXICO.- The new legislation that will replace the Unit of the System for the Career of Teachers and Teachers (Usicamm) has 95% progress, according to the General Secretary of the National Association of Educational Workers (SNTE), Alfonso Cepeda Salas. The leader stated that the project was prepared with [...]"
+  },
+  {
+    "title": "El Brent ganó al subir la tensión por el suministro",
+    "summary": "Los ministros de la OPEP+ se reunirán el domingo para decidir su política de producción para 2027.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/mercados/brent-gano-subir-tension-suministro-20261126-846098.html",
+    "category": "Política",
+    "date": "2026-11-27T02:13:17+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08e6db739e1.jpeg",
+    "title_en": "The Brent earned as his power came up with his supply.",
+    "summary_en": "OPEC + ministers will meet on Sunday to decide their production policy by 2027."
+  },
+  {
+    "title": "Víctor Hugo, quien dio voz a Sylvester Stallone, critica doblaje de ‘Yo soy Rocky’: ‘Me preocupa’",
+    "summary": "Víctor Hugo aseguró estar preocupado por lo que está ocurriendo con el doblaje en México, incluido el de la producción 'Yo soy Rocky'.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/12/victor-hugo-aguilar-actor-que-presto-su-voz-a-sylvester-stallone-critica-doblaje-de-yo-soy-rocky/",
+    "category": "Economía",
+    "date": "2026-11-27T02:13:01+00:00",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/IUvzEG3eWZ2W4IGqFrHplqZJKtw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JKRJIJ7BPBBIJGEHGUURQRXYRA.jpg",
+    "title_en": "Victor Hugo, who gave a voice to Sylvester Stallone, challenges dubbing 'I'm Rocky': 'I care'",
+    "summary_en": "Victor Hugo stated his concern about what's happening with Mexico's dubbing, including with production 'I'm Rocky'."
+  },
+  {
+    "title": "María Corina Machado lanza asambleas vecinales para idear programa de gobierno en Venezuela",
+    "summary": "Alrededor de 2,000 encuentros con vecinos fueron organizados en Venezuela y en el extranjero durante el primer día de la iniciativa, según el equipo de Machado.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/internacionales/maria-corina-machado-lanza-asambleas-vecinales-idear-programa-gobierno-venezuela-20261126-846099.html",
+    "category": "Política",
+    "date": "2026-11-27T02:12:51+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08e512300b0.jpeg",
+    "title_en": "María Corina Machado Launches Neighbourhood Assemblies To Ideate Government Program in Venezuela",
+    "summary_en": "About 2,000 meetings with neighbours were organized in Venezuela and abroad on the first day of the initiative, according to Machado's team."
+  },
+  {
+    "title": "\"Rob Lowe: The Outsider\", documental sobre el actor al que le veían más futuro que a Tom Cruise",
+    "summary": "Consulta los detalles en la fuente original.",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/espectaculos/rob-lowe-the-outsider-documental-sobre-el-actor-al-que-le-veian-mas-futuro-que-a-tom-cruise/",
+    "category": "Cultura",
+    "date": "2026-11-27T02:12:03+00:00",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/6EMS6ENZGREHTJOZRHEI7NOYRA.jpg?auth=b6c9d4208812178cbac63b6b62415b6ca9ece9742177cf28c7e9279e71313acd&smart=true&width=500",
+    "title_en": "\"Rob Lowe: The Outsider,\" documentary about the actor they saw more about than Tom Cruise",
+    "summary_en": "See details at the original source."
+  },
+  {
+    "title": "El oro bajó ante el temor a una subida de tasas de la Fed",
+    "summary": "El oro al contado bajó 0.4% a 3,566.99 dólares por onza.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/mercados/oro-temor-subida-tasas-fed-20261126-846096.html",
+    "category": "Economía",
+    "date": "2026-11-27T02:11:50+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/08/09/6a79382460b83.jpeg",
+    "title_en": "The gold came down with fear of an increased Fed rate",
+    "summary_en": "The cash gold fell 0.4% to $3,566,99 per ounce."
+  },
+  {
     "title": "¿Qué significado tiene el moño rojo en el árbol de Navidad? Esto dice el Feng Shui sobre dónde ponerlo",
     "summary": "CIUDAD DE MÉXICO.- Con la llegada de las festividades decembrinas, la decoración de los espacios interiores cobra relevancia entre quienes buscan armonizar su entorno. De acuerdo con los principios tradicionales del Feng Shui, el color rojo representa el elemento fuego, la vitalidad y la buena fortuna, por lo que funciona como un símbolo de protección […]",
     "source": "Diario de Yucatán",
@@ -11,6 +143,17 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "MÉXICO.- With the arrival of the Decembrine Festivals, the decoration of the inner spaces gain relevance among those who seek to harmonize their surroundings. According to Feng Shui's traditional principles, red color represents the element fire, vitality and good fortune, so it works as a symbol of [...]"
   },
   {
+    "title": "Dueño de los Steelers respalda a su entrenador tras acusaciones de Aaron Rodgers",
+    "summary": "Rodgers, cuatro veces Jugador Más Valioso de la NFL, fue despedido por los Steelers el miércoles tras realizar incendiarios comentarios sobre McCarthy, en una entrevista televisiva para ESPN.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/deportes/dueno-steelers-respalda-entrenador-acusaciones-aaron-rodgers-20261126-846097.html",
+    "category": "Economía",
+    "date": "2026-11-27T02:11:12+00:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08e65902258.jpeg",
+    "title_en": "Steeler's Owner Supports his Coach after Aaron Rodgers Charges",
+    "summary_en": "Rodgers, four times NFL's most valid player, was fired by the Steelers on Wednesday after performing inflammatory comments about McCarthy, at an ESPN television interview."
+  },
+  {
     "title": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
     "summary": "Bradley C. Hanson retoma sus funciones como Presidente del Consejo; el regulador mexicano le negó tomar la totalidad del banco en febrero pasado",
     "source": "Expansión",
@@ -20,6 +163,28 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://cdn-3.expansion.mx/dims4/default/916021b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2F35%2F05efce6c4aa1a70a757c7874357c%2Fcambio-consejo-bankaool.jpeg",
     "title_en": "Moses Chaves leaves Bankaool's Council with his office as his majority owner impossible",
     "summary_en": "Bradley C. Hanson regains his office as President of the Council and his Mexican regulator refused to take up his entire bench last February"
+  },
+  {
+    "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 26 de noviembre: primera tormenta invernal traerá lluvias intensas y nieve",
+    "summary": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/26/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-26-de-noviembre-primera-tormenta-invernal-traera-lluvias-intensas-y-nieve/",
+    "category": "Estados",
+    "date": "2026-11-27T02:08:36+00:00",
+    "image": "https://www.infobae.com/resizer/v2/PQEE3P2OHNDJLOIWIUPB2YYGVE.jpg?auth=533dadf245f11611118ee9c48475d30ea8fa8fc0dbee2c49443c8d1ed6135335&smart=true&width=1920&height=1080",
+    "title_en": "EN VIVO) 124; Climate CDMX and the rest of Mexico today Thursday 26 November: First winter storm will bring intense rain and snow",
+    "summary_en": "Consultation in real-time updates, alerts, news and reports about climate conditions in the country"
+  },
+  {
+    "title": "Hijo de Francisco Aguirre se solidariza con Ximena Santaolalla ante graves acusaciones de abuso",
+    "summary": "Juan Aguirre Abdo mostró su respaldo incondicional a su hermana Ximena luego de que ella denunciara a su padrastro por presunto abuso.",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/27/hijo-de-francisco-aguirre-se-solidariza-con-ximena-santaolalla-ante-graves-acusaciones-de-abuso/",
+    "category": "Nación",
+    "date": "2026-11-27T02:08:05+00:00",
+    "image": "https://www.infobae.com/resizer/v2/J7CMC6FF35BQFEMYTM7CN2TFKI.png?auth=f78e1b2597c4cfd29385797d58ec5e7031294ea9000424b1d4aa6f7ba9bb887b&smart=true&width=2752&height=1536",
+    "title_en": "The son of Francisco Aguirre expressed his solidarity with Ximena Santaolalla with serious allegations of abuse",
+    "summary_en": "Juan Aguirre Abdo shown his unconditional support to his sister Ximena after she reported his stepfather for alleged abuse."
   },
   {
     "title": "Festival Luces y Colores de Invierno llega al Museo de Historia Natural con danza, música y actividades familiares",
@@ -275,14 +440,14 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The project amends three laws to expedite family proceedings and lays down a 180-day period for states to harmonize their laws"
   },
   {
-    "title": "Miss Universo Cuba 2025, confiesa que fue diagnóstico con esclerosis múltiple",
+    "title": "Miss Universo Cuba 2025 confiesa que fue diagnosticada con esclerosis múltiple",
     "summary": "EE.UU.— A escasos días de la Gran Final de Miss Universe 2026, Lina Luaces, quien fuera la representante de Cuba el año pasado, sorprendió al hablar abiertamente sobre su mal estado de salud. Asimismo, la también hija de la conductora del programa El Gordo y la Flaca, Lili Estefan, manifestó que después de pasar varios meses […]",
     "source": "Diario de Yucatán",
     "url": "https://www.yucatan.com.mx/imagen/2026/11/26/lina-luaces-miss-universo-cuba-2025-e-hija-de-lili-estefa-revela-diagnostico-de-esclerosis-multiple.html",
     "category": "Salud",
     "date": "2026-11-27T01:38:52+00:00",
     "image": "",
-    "title_en": "Miss Universe Cuba 2025, she confesses that she was diagnosed with multiple sclerosis",
+    "title_en": "Miss Universe Cuba 2025 confesses she was diagnosed with multiple sclerosis",
     "summary_en": "Estados Unidos - A few days after the Grand Final of Miss Universe 2026, Lina Luaces, who was Cuba's representative last year, surprised to speak openly about his bad health. Also, the daughter of the program's El Gordo and la Flaca manager, Lili Stephan, stated that after several months of [...]"
   },
   {
@@ -957,17 +1122,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The capital government invited the whole population to watch and enjoy the sports event for free"
   },
   {
-    "title": "Procesado por choque en la Mérida-Progreso donde perdió la vida Natasha Parra: le imponen esta medida cautelar",
-    "summary": "El morelense Ricardo B.U. fue vinculado a proceso tras el accidente en la carretera Mérida-Progreso el 19 de noviembre de 2026, donde perdió la vida la estudiante y modelo Natasha Parra, de 22 años, informó la FGE Yucatán La Fiscalía General del Estado presentó los datos de prueba suficientes, por lo que Ricardo seguirá tras las […]",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/merida/2026/11/26/procesado-choque-merida-progreso-natasha-parra-refrendan-medida-cautelar.html",
-    "category": "Estados",
-    "date": "2026-11-27T00:17:04+00:00",
-    "image": "",
-    "title_en": "Processed by a clash at the Merida- Progress where Natasha Parra lost his life: they impose this precautionary measure",
-    "summary_en": "The Moretele Ricardo B.U. was linked to proceedings after the incident on the Meridian Road.Progress on November 19, 2026, where his 22-year-old student and model Natasha Parra lost his life, reported FGE Yucatan The public prosecutor's office submitted sufficient evidence and Ricardo will continue after his [...]"
-  },
-  {
     "title": "Tras seis horas de bloqueos, taxistas liberan vialidades en CDMX; no logran acuerdos con autoridades",
     "summary": "Los taxistas mantienen pendiente su exigencia de recibir las constancias del INVEA",
     "source": "El Universal",
@@ -988,17 +1142,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/_15e-bhWdPiP5sy4sEDC2oaJFOk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SPLJET2IZJBH5DONLFKVR3UDKY.jpg",
     "title_en": "They get another leader from La Mayiza: They stop the 'Chapo Félix' in the Sierra de Durango",
     "summary_en": "In addition to the capture of 'El Chapo Félix', there have been seizures of long arms, cartridges and chargers."
-  },
-  {
-    "title": "Relación China-México no debe ser objeto de interferencias, dice embajador Chen Daojiang; llama a defender la soberanía",
-    "summary": "El embajador destacó la participación de la presidenta Claudia Sheinbaum en el Foro y su encuentro con el mandatario Xi Jinping",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/nacion/relacion-china-mexico-no-debe-ser-objeto-de-interferencias-dice-embajador-chen-daojiang-llama-a-defender-la-soberania/",
-    "category": "Nación",
-    "date": "2026-11-27T00:12:56+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/V5OYXFOBIJDGJJZKU2TIHIKSJQ.jpg?auth=a943d778c7d581a6a73294e82c1f1c564cf1ad74a36a1ee3415a2384344bafbc&smart=true&width=500",
-    "title_en": "China's ratio - Mexico should be free from interference, says Ambassador Chen Daojiang, call to uphold sovereignty",
-    "summary_en": "The ambassador highlighted President Claudia Sheinbaum's participation at the Forum and his meeting with President Xi Jinping"
   },
   {
     "title": "Primera tormenta invernal 2026: ¿Qué estados tendrán lluvias intensas y temperaturas de hasta -10 grados?",
@@ -1034,17 +1177,6 @@ window.MEXICO_INFORMA_NEWS = [
     "summary_en": "The Office of the Prosecutor-General and the Security Cabinet will evaluate whether 'El Chapo Isidro' is extradited to the US or challenges first a judicial proceedings in Mexico."
   },
   {
-    "title": "Santiago Abascal llama \"gran buitre\" a Pedro Sánchez durante debate en España; Ada Colau sale en defensa del presidente",
-    "summary": "Luego de las declaraciones de Abascal, el jefe de gobierno calificó de \"deplorable\" el estilo de hacer política de su contrincante",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/mundo/santiago-abascal-llama-gran-buitre-a-pedro-sanchez-durante-debate-en-espana-ada-colau-sale-en-defensa-del-presidente/",
-    "category": "Política",
-    "date": "2026-11-27T00:09:35+00:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/KSU6DRL4EBEWLAMK4IFDYMNH7U.jpg?auth=5c44e3b87d51f41c3689c7d5b8bebd183f2de432e1f5f50a821cfa215af40bfc&smart=true&width=500",
-    "title_en": "Santiago Abascal calls Pedro Sánchez \"great vulture\" during his Spanish debate and Ada Colau goes out in defence of his president",
-    "summary_en": "Following Abascal's statements, the head of government described his opposition's politics as \"deplorable\""
-  },
-  {
     "title": "Ratifican a José Quiñonez como vicefiscal de Sinaloa tras renuncia de Dámaso Castro, acusado por EEUU de nexos con Los Chapitos",
     "summary": "En el evento también fue confirmada Rocío Yamileth Aguilar Zazueta como titular de la Vicefiscalía Regional Zona Centro",
     "source": "Infobae México",
@@ -1054,17 +1186,6 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.infobae.com/resizer/v2/IBEXAOWKYBD7VDV4UQOA5BFCK4.jpg?auth=d9445e48d5ef784db647d5067996d45bf7326ed92646ceb94ff2eea504e8adf8&smart=true&width=1920&height=1080",
     "title_en": "José Quiñonez as Sinaloa's deputy prosecutor after his resignation from Dámaso Castro, accused by the US of links with Los Chapitos",
     "summary_en": "The event was also confirmed by Rocío Samileth Aguilar Zazueta as the incumbent of the Regional Prosecutor's Office Zona Centro"
-  },
-  {
-    "title": "EN VIVO | Clima CDMX y resto de México hoy jueves 26 de noviembre: primera tormenta invernal traerá lluvias intensas y nieve",
-    "summary": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-26-de-noviembre-primera-tormenta-invernal-traera-lluvias-intensas-y-nieve/",
-    "category": "Estados",
-    "date": "2026-11-27T00:07:21+00:00",
-    "image": "https://www.infobae.com/resizer/v2/PQEE3P2OHNDJLOIWIUPB2YYGVE.jpg?auth=533dadf245f11611118ee9c48475d30ea8fa8fc0dbee2c49443c8d1ed6135335&smart=true&width=1920&height=1080",
-    "title_en": "EN VIVO) 124; Climate CDMX and the rest of Mexico today Thursday 26 November: First winter storm will bring intense rain and snow",
-    "summary_en": "Consultation in real-time updates, alerts, news and reports about climate conditions in the country"
   },
   {
     "title": "Líderes de la UE retomarán en diciembre negociación del presupuesto tras cumbre que no resolvió escollos",
@@ -1087,126 +1208,5 @@ window.MEXICO_INFORMA_NEWS = [
     "image": "https://www.eluniversal.com.mx/resizer/v2/HA2D3FKE4JAQVHZSLVJW2LXONQ.jpg?auth=59a21517e371c0a3fa50ca1de00293b6adf4f5ee256be898c6c0ed5e140770b9&smart=true&width=500",
     "title_en": "VIDEO report explosion at pemex's installations at Cadereyta, Nuevo León and a hydrocarbon pipeline had been found to have been broken",
     "summary_en": "To date, it remains unknown whether the incident resulted in injuries and the magnitude of damage to oil infrastructure"
-  },
-  {
-    "title": "Alejandra Guzmán recuerda como ‘horrorosa’ su gira con Paulina Rubio: “Perdí mucho tiempo, paciencia y dinero”",
-    "summary": "La cantante reveló que ambas pelearon desde el primer día y descartó volver a trabajar con ella, aunque sí dejó la puerta abierta a un reencuentro con Gloria Trevi",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/alejandra-guzman-recuerda-como-horrorosa-su-gira-con-paulina-rubio-perdi-tiempo-paciencia-y-mucho-dinero/",
-    "category": "Cultura",
-    "date": "2026-11-27T00:04:26+00:00",
-    "image": "https://www.infobae.com/resizer/v2/IN25HFASXVE5BP3RGZ3EWFIJUQ.png?auth=1e2a94f134e97513fe88c9ecd9160698b133d66c55d780042739cf4c217ff8dd&smart=true&width=2752&height=1536",
-    "title_en": "Alejandra Guzmán recalls as' horror 'his tour with Paulina Rubio: \"I have lost so much time, patience and money\"",
-    "summary_en": "The singer revealed that they both fought from the first day and ruled out to work with her again, but did leave the door open to a meeting with Gloria Trevi"
-  },
-  {
-    "title": "Último día para llenar tu recipiente de palomitas: hasta cuándo estará disponible la promoción en el cine",
-    "summary": "La campaña permite a los clientes llenar recipientes de distintos tamaños con palomitas por 169 pesos y ha provocado furor en las redes sociales",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/26/ultimo-dia-para-llenar-tu-recipiente-de-palomitas-en-cinepolis-hasta-cuando-estara-vigente-la-promocion-trae-tu-canasta/",
-    "category": "Tecnología",
-    "date": "2026-11-27T00:02:33+00:00",
-    "image": "https://www.infobae.com/resizer/v2/7N4225RJBZHUTHR2N2JXURATVI.png?auth=16a4d59b3b4f5c26b938cf1314c2d7bf9c4dad01250dd8bfd5b08401221611ac&smart=true&width=2752&height=1536",
-    "title_en": "Last day to fill your pat with Popcorn: how soon will the promotion be available at cinema",
-    "summary_en": "The campaign allows customers to fill containers of different sizes with Popcorn for 169 pesos and has provoked furor on social networks"
-  },
-  {
-    "title": "Dictan prisión al médico acusado por la muerte de Sandra Díaz, chef de ‘Venga la Alegría’",
-    "summary": "La presentadora de la franquicia centroamericana de TV Azteca falleció tras recibir una inyección en el cuello en una clínica privada",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/dictan-prision-al-medico-acusado-por-la-muerte-de-sandra-diaz-chef-de-venga-la-alegria/",
-    "category": "Salud",
-    "date": "2026-11-27T00:02:21+00:00",
-    "image": "https://www.infobae.com/resizer/v2/D5BT2RKYPJFHXPPR5V5S7FGP24.jpg?auth=1460b5919b949d98c4a7993fb44732518015cb7b63de7f633900fb53e4a1d7cb&smart=true&width=1920&height=1080",
-    "title_en": "They give imprisonment to the doctor accused of the death of Sandra Diaz, chef of 'Ver la Alegría'",
-    "summary_en": "The presenter of the Central American TV Federation Azteca died after an injection into his neck at a private clinic"
-  },
-  {
-    "title": "Concanaco advierte que un aumento al salario mínimo es inviable en un entorno de bajo crecimiento y alto costo para la formalidad",
-    "summary": "La inversión privada no se opone a un alza a las remuneraciones de los trabajadores, pero tampoco soslayan un entorno complicado",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/25/concanaco-advierte-que-un-aumento-al-salario-minimo-es-inviable-en-un-entorno-de-bajo-crecimiento-y-alto-costo-para-la-formalidad/",
-    "category": "Economía",
-    "date": "2026-11-27T00:02:10+00:00",
-    "image": "https://www.infobae.com/resizer/v2/DWHKFJPTJNFD7HG45PHFGYXCK4.jpg?auth=3011c71685d517ba94c73d3d3140583247410f1fd873878c9ea23d4900acf45f&smart=true&width=1920&height=1080",
-    "title_en": "Concanac warns that an increase to the minimum wage is infeasible in an environment of low growth and high costs for formality",
-    "summary_en": "Private investment does not have an opposition to an increase in the pay of workers but does not avoid a complicated environment"
-  },
-  {
-    "title": "LG quiere aprender de los mexicanos para diseñar sus próximos productos",
-    "summary": "La compañía surcoreana inauguró en el Tec de Monterrey la primera sede del Another Campus fuera de Corea del Sur, una iniciativa que también le permitirá conocer los hábitos y necesidades de los consumidores locales.",
-    "source": "Expansión",
-    "url": "https://expansion.mx/tecnologia/2026/11/26/lg-mexico-another-campus-desarrollo-productos-tecnologicos",
-    "category": "Economía",
-    "date": "2026-11-27T00:00:43+00:00",
-    "image": "https://cdn-3.expansion.mx/dims4/default/5dd78b9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2F58%2Fe47a10f44094867a8bad3550d623%2Fcolaboracion-creativa-en-el-campus-tecnologico.png",
-    "title_en": "LG wants to learn from Mexicans to design their next products",
-    "summary_en": "The South Korean company launched at Monterrey's Tec the first headquarters of the Another Campus outside South Korea, an initiative that will also allow them to gain an understanding of local consumers' habits and needs."
-  },
-  {
-    "title": "Volkswagen Lamando GTS llega a México desde China con 217 hp y precio de casi 800,000 pesos",
-    "summary": "Volkswagen tiene un nuevo sedán en México , pero esta vez no viene de Alemania ni de alguna de sus plantas tradicionales en el continente americano. El Lamando GTS llega desde China con un motor turbo de 217 caballos de fuerza y un precio de casi 800,000 pesos. Es un modelo que combina diseño deportivo, mucho equipamiento y una mecánica conocida por la…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/automovil/volkswagen-lamando-gts-llega-a-mexico-china-217-hp-precio-casi-800-000-pesos",
-    "category": "Deportes",
-    "date": "2026-11-27T00:00:27+00:00",
-    "image": "",
-    "title_en": "Volkswagen Lamando GTS arrives to Mexico from China with 217 hp and price of about 800,000 pesos",
-    "summary_en": "Volkswagen has a new sedan in Mexico but this time it doesn't come from Germany or from some of its traditional plants on the American continent. The GTS Lamand arrives from China with a turbo engine of 217 horsepower and a price of nearly 800,000 pesos. It's a model that combines sports design, a lot of equipment and a mechanics known for its..."
-  },
-  {
-    "title": "Unos de barbacoa para ir al ‘jale’: Así es San Luisito, la taquería norteña en la CDMX",
-    "summary": "Taquería San Luisito lleva los tacos mañaneros de Monterrey a la Roma Norte de CDMX, con barbacoa de res, asado de boda y chicharrón norteño.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/food-and-drink/2026/11/26/asi-es-la-taqueria-san-luisito-que-lleva-los-tacos-mananeros-de-monterrey-a-la-cdmx/",
-    "category": "Estados",
-    "date": "2026-11-26T23:59:59+00:00",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/BkGElDECD3s-nZLBDSfNKAIKGDU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZQYKMOLRSZBRZOGKYSL3J3XBF4.png",
-    "title_en": "A few Barbeque to go to the Jale: That's how San Lusito, the Northern tachy at the CDMX",
-    "summary_en": "Taquería San Luisito takes the morning tacos from Monterrey to the North Rome of CDMX with re barbecue, wedding Roast and Northern jug."
-  },
-  {
-    "title": "Lula da Silva nombra al banquero Luiz Carlos Trabuco como futuro ministro de Hacienda de Brasil",
-    "summary": "Trabuco, presidente del consejo de administración de Bradesco, uno de los bancos más grandes del país, asumirá la cartera con la misión de tranquilizar a los mercados.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/internacionales/lula-da-silva-nombra-banquero-luiz-carlos-trabuco-futuro-ministro-hacienda-brasil-20261126-846066.html",
-    "category": "Política",
-    "date": "2026-11-26T23:56:54+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08c7284b911.jpeg",
-    "title_en": "Lula da Silva appoints banker Luiz Carlos Trabuco as Brazil's future Finance Minister",
-    "summary_en": "Trabuco, president of Bradesco's board of directors, one of the largest banks in the country, will assume his portfolio with his mission to reassure markets."
-  },
-  {
-    "title": "Incidentes violentos con hinchas manchan la jornada de la Europa League",
-    "summary": "La televisión georgiana Pirveli aseguró que los aficionados mostraron una bandera palestina y entonaron cánticos contrarios a Israel antes de que los agentes actuaran contra ellos.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/deportes/incidentes-violentos-hinchas-manchan-jornada-europa-league-20261126-846065.html",
-    "category": "Economía",
-    "date": "2026-11-26T23:47:41+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08c3d53af3e.jpeg",
-    "title_en": "Violent Incidents with Floods Mold The Day of European League",
-    "summary_en": "Georgian television Pirveli stated that amateurs have shown a Palestinian flag and have been singing anti-Israel songs before they acted against them."
-  },
-  {
-    "title": "Educación financiera para principiantes: por dónde empezar",
-    "summary": "Quizá nunca te enseñaron a llevar cuentas en casa, y por eso organizar el dinero suena a algo muy difícil. Sin embargo, la educación financiera arranca con hábitos pequeños que caben en una libreta o en el celular y que poco a poco pueden hacer la diferencia en tus finanzas personales.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/educacion-financiera-principiantes-empezar-20261126-845997.html",
-    "category": "Economía",
-    "date": "2026-11-26T23:42:38+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b0877714bc6e.jpeg",
-    "title_en": "Financial education for beginners: where to start",
-    "summary_en": "Maybe they never taught you how to hold accounts at home, and that's why organizing money sounds about something very difficult. Nevertheless, financial education starts with small habits that fit into a notebook or his cell phone and that can gradually make a difference in your personal finances."
-  },
-  {
-    "title": "Peso mexicano cierra en 19.72 por dólar",
-    "summary": "El peso cayó en una jornada de poca actividad por el feriado estadounidense de Acción de Gracias, un día después de haber probado su peor nivel desde abril de 2025, hace 19 meses.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/videos/peso-mexicano-cierra-19-72-dolar-20261126-846063.html",
-    "category": "Economía",
-    "date": "2026-11-26T23:41:00+00:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08c36263a76.webp",
-    "title_en": "Mexican peso closed at 19.72 dollars",
-    "summary_en": "The weight fell into a low activity day by the American Thanksgiving Fairy, a day after they had tested their worse level since April 2025, 19 months ago."
   }
 ];
