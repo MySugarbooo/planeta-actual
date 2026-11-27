@@ -7,6 +7,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Deportes",
     "date": "2026-11-27 14:41",
     "image": "https://www.eluniversal.com.mx/resizer/v2/5PK42KI5Z5B6HFVZGCC6SIWSAA.jpg?auth=d819da7909b4401b56760e9e6e7d8f0f7fa05f70e3c7ed200f84aee71934646a&smart=true&width=500",
+    "resumen": "El Tri avanzó como primer lugar invicto del Grupo K y ya conoce fecha y rival para los 16avos de final del Mundial Sub 17.",
     "title_en": "The Mexican Team already has date and competitor confirmed for the final 16's of the World Sub 17",
     "summary_en": "The Tri advanced as first undefeated place of Group K"
   },
@@ -497,6 +498,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Economía",
     "date": "2026-11-27 13:39",
     "image": "https://cdn-3.expansion.mx/dims4/default/126c335/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F27%2F85%2Fcaa9c3634b7fa2ae74d10b102876%2Fpago-aguinaldo-issste-pensionados-fecha-2026.jpg",
+    "resumen": "Aguinaldo del ISSSTE 2026: los pensionados del instituto verán reflejado en su cuenta el depósito de la gratificación anual junto con las últimas mensualidades. Aquí te decimos cuándo cae y qué pensionados pueden recibirlo.",
     "title_en": "IsSSTE 2026's Aguinald: When the Deposit Fits and What Pensiones Can Take It",
     "summary_en": "The Institute's pensioners will have their account reflected the deposit of the annual gratification and the last monthly."
   },
@@ -625,6 +627,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 13:27",
     "image": "https://cdn-3.expansion.mx/dims4/default/3ba10c8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7f%2F70%2Fd90de7234f95a59089604b07debb%2Ffrio-cdmx.png",
+    "resumen": "¿Por qué es tan improbable que vuelva a nevar en la CDMX como ocurrió en 1967? La llegada de aire polar al Valle de México puede provocar nevadas en las zonas montañosas, pero el frío por sí solo no basta para cubrir de blanco la capital.",
     "title_en": "Why is it as unlikely that it will snow again at the CDMX as happened in 1967?",
     "summary_en": "The arrival of polar air to the Valle de México can lead to snow in mountainous areas but cold alone isn't enough to cover the capital with target."
   },
@@ -701,6 +704,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Tecnología",
     "date": "2026-11-27 13:14",
     "image": "https://cdn-3.expansion.mx/dims4/default/aa4cde0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb4%2F6c%2F355f6c9c440bb379dd272ef0bcd5%2Ftendencias-globales-inversiones-hsbc.jpg",
+    "resumen": "Un mundo fragmentado, los ajustes de la política monetaria en Estados Unidos y el avance de la inteligencia artificial están redefiniendo cómo se invierte en México. Estas tendencias globales perfilan el futuro de los portafolios en el entorno local.",
     "title_en": "Overall trends shaping the future of investment in Mexico",
     "summary_en": "The transition to a fragmented world, adjustments to US monetary policy and advanced artificial intelligence redefine carrier management at local level."
   },
@@ -737,6 +741,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Cultura",
     "date": "2026-11-27 13:05",
     "image": "https://cdn-3.expansion.mx/dims4/default/fd756d2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7a%2F4b%2F519aa6a4423a9adae94ecd2415fc%2Fel-diario-del-papa-francisco-que-revela-como-fue-estar-al-frente-del-vaticano.jpg",
+    "resumen": "El diario íntimo del papa Francisco sale a la venta y ya se puede comprar desde México. El libro reúne anotaciones de Jorge Mario Bergoglio entre 1992 y 2024 sobre sus temores, crisis espirituales y su relación con Dios.",
     "title_en": "The Intimate Diary of Pope Francis goes for sale: where to buy the book from Mexico",
     "summary_en": "The book gathers notes by Jorge Mario Bergoglio from 1992 to 2024, and wrote about his fears, spiritual crises, religious experiences and his relationship with God."
   },
