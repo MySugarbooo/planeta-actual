@@ -1,3 +1,3 @@
-# Planeta Actual
+# México Informa
 
-Portal internacional independiente. Sitio estático con actualización automática y publicación por GitHub Pages.
+Noticias de todo México. Sitio estático con actualización automática desde RSS de medios mexicanos y publicación por GitHub Pages.
