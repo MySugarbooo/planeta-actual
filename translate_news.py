@@ -53,7 +53,7 @@ def main():
     if not isinstance(cache,dict):cache={}
     missing=0
     for row in rows:
-        for field in ("title","summary"):
+        for field in ("title","summary","resumen"):
             original=str(row.get(field,"")).strip()
             if original and not row.get(field+"_en"):
                 missing+=1
@@ -66,7 +66,7 @@ def main():
         return
     success=0
     for row in rows:
-        for field in ("title","summary"):
+        for field in ("title","summary","resumen"):
             original=str(row.get(field,"")).strip()
             if not original:continue
             key=hashlib.sha256(original.encode("utf-8")).hexdigest()
