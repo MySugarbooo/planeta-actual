@@ -20,6 +20,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Tecnología",
     "date": "2026-11-27 14:30",
     "image": "",
+    "resumen": "Tu cartera va a agradecer esta noticia: Apple TV tiene 50% de descuento durante 6 meses por tiempo limitado. La suscripción queda en solo 99 pesos al mes, un alivio entre tantos servicios de streaming que pagamos en casa.",
     "title_en": "Apple TV has 50% discount for 6 months: limited time offer",
     "summary_en": "Among the different subscribing schemes currently paid for, one of the most common among Mexican households are streaming services and among so many currently available options, your portfolio will surely appreciate the news we will share next, as Apple TV will now let you sign up for only 99 pesos a month..."
   },
@@ -31,6 +32,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 14:30",
     "image": "",
+    "resumen": "Warwick Davis será el único actor de las películas de Harry Potter que aparecerá en la nueva serie de HBO: volverá como el profesor Filius Flitwick. El actor dice que es un honor ser el puente entre la saga cinematográfica y este reinicio con escenografías renovadas y elenco prácticamente nuevo.",
     "title_en": "Harry Potter: Warwick Davis, Professor Flithick, talks about being the only actor of films to appear in the HBO series: \"It's an honor\"",
     "summary_en": "The new Harry Potter series for HBO Max is prepared to relaunch the franchise from its foundations: renewed stage films, unprecedented soundtrack and a practically new cast. Nevertheless, production will maintain a direct bridge with the film saga through Warwick Davis, who will put his skin back on Filius Flittwick...."
   },
@@ -42,6 +44,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Economía",
     "date": "2026-11-27 14:27",
     "image": "https://www.infobae.com/resizer/v2/LECB2DUVBVCCXA3TZRA3IHHZUA.jpg?auth=0e112081eeb1571674128a2d1cf773faaffe11da6068730319a0bc2b5f180829&smart=true&width=1920&height=1080",
+    "resumen": "Sheinbaum acusó a la oposición de usar al INE en contra de la elección en lugar de buscar el voto, y propuso modificar el modelo de adquisiciones del Instituto. La mandataria señaló que hay 20 mil empresas que podrían hacer material electoral.",
     "title_en": "opposition uses the INE against election rather than seeking vote, says Sheinbaum: \"There are 20,000 companies that could make electoral material\"",
     "summary_en": "The Mandataria also propose to amend the procurement model of the National Electoral Institute"
   },
@@ -53,6 +56,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 14:24",
     "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/CG7Y5XCDlUQQVwHN6a91aDEZxsQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GQODCGZYVJDB5E24GOT2W3P3RQ.jpeg",
+    "resumen": "Yucatán está en alerta avícola en ocho municipios por un segundo brote de influenza aviar AH5N1 en México. El estado es el centro de abastecimiento del sureste del país, destacó el presidente de la Asociación de Avicultores del Sureste, Jorge Puerto Cabrera.",
     "title_en": "Avian Influenza AH5N1 in Mexico: Yucatan, at poultry alert in eight municipalities per second outbreak",
     "summary_en": "The president of the Association of South-East Avicultors, Jorge Puerto Cabrera, emphasized that Yucatan is the supply centre of the south-east of the country."
   },
@@ -64,6 +68,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Política",
     "date": "2026-11-27 14:22",
     "image": "https://www.infobae.com/resizer/v2/JPYLIVUFX5DVTETCSWGCLWKRM4.png?auth=071daceae656761846b528c29a29bf64c190870f5b1861a65a272d81a8e3ac03&smart=true&width=2752&height=1536",
+    "resumen": "Lilly Téllez respaldó a la DEA y pidió a Sheinbaum crear una línea para que estadounidenses denuncien el tráfico de armas. La senadora calificó la medida del gobierno de Estados Unidos como una buena forma de colaboración ante el enemigo común.",
     "title_en": "Lilly Téllez Supports DEA: Asks Sheinbaum to create line for Americans to report arms traffic",
     "summary_en": "The Senator referred to the U.S. government as a \"good form of collaboration with the common enemy\""
   },
@@ -75,6 +80,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Seguridad",
     "date": "2026-11-27 14:19",
     "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/01/09/67805474b3aee.jpeg",
+    "resumen": "México consolida su alianza con Estados Unidos en la lucha contra el narco para mostrar resultados. La captura de capos con ayuda de inteligencia estadounidense refleja una mayor cooperación con Washington.",
     "title_en": "Fight against Narco: Mexico consolidates partnership with US to show results",
     "summary_en": "The capture of apes in Mexico with U.S. intelligence means more cooperation with Washington."
   },
@@ -86,6 +92,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Seguridad",
     "date": "2026-11-27 14:19",
     "image": "https://www.infobae.com/resizer/v2/ZPB4IZOAXRATTOTULTHM5DYB2Y.png?auth=145ce06debe0dfe0f7003f5763357d612f6af142efee920844601f96bad2f290&smart=true&width=2752&height=1536",
+    "resumen": "El Chapo Isidro buscaba formar un nuevo cártel de Guadalajara con los sobrinos de Caro Quintero, afirma Anabel Hernández. La triada de capos creadores del cártel original eran Miguel Ángel Félix Gallardo, Ernesto Fonseca Carrillo y Rafael Caro Quintero.",
     "title_en": "The Isidro Chapo sought to form a new cartel of Guadalajara with the leftists of Caro Quintero, says Anabel Hernández",
     "summary_en": "The triada of his original cartel's creators were Miguel Ángel Félix Gallardo, Ernesto Fonseca Carrillo (\"Don Neto\") and Rafael Caro Quintero"
   },
@@ -110,6 +117,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Deportes",
     "date": "2026-11-27 14:16",
     "image": "https://www.eluniversal.com.mx/resizer/v2/2JXIJNLPUJC5DP5EUBEIICKXSM.jpg?auth=428ce60a3be37b1fa54582cdcb544ea8abb1cf41be36de36355c5f03e69c7be6&smart=true&width=500",
+    "resumen": "Diputados avalaron en comisiones reconocer la labor de la Secretaría de Cultura y alistan la discusión en el pleno. El reconocimiento se debe a la protección y conservación de las Ciudades Mexicanas Patrimonio Mundial.",
     "title_en": "The Commission's deputies have been following up with an examination of the work of the Cultural Secretariat.",
     "summary_en": "The recognition is due to the protection and conservation of Mexican Cities World Heritage"
   },
@@ -121,6 +129,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Economía",
     "date": "2026-11-27 14:15",
     "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/09/26/66f638743c765.jpeg",
+    "resumen": "El gobierno amplió hasta finales de 2027 el permiso para importar autos de Estados Unidos y Canadá a México. El decreto, publicado en el Diario Oficial, mantiene las facilidades para importar vehículos usados, con aranceles de entre 1 y 10% según su antigüedad y destino.",
     "title_en": "Government Expands permission to import cars from US and Canada to Mexico to end 2027",
     "summary_en": "The Decree published in the Official Journal of the Federation retains the facilities to import used vehicles from the US and Canada with tariffs of 1 to 10% depending on their age and destination."
   },
@@ -132,6 +141,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 14:13",
     "image": "https://www.eluniversal.com.mx/resizer/v2/64PADRZOTBEVBOANFYH5CLYVBM.jpg?auth=6850dce0402a7d476d740412d245b953a5d42fd8a54d2a6cc2331816b5d2460a&smart=true&width=500",
+    "resumen": "Activaron alertas naranja y amarilla por frío y heladas en 12 alcaldías de la CDMX; Protección Civil ya dio sus recomendaciones. La alerta estará activa desde las 00:00 hasta las 09:00 horas de mañana.",
     "title_en": "They activated an orange and yellow cold and frosted alert at 12 CDMX mayors and they knew Civil Protection recommendations",
     "summary_en": "The alert will be up from 00: 00 till 9: 00 a.m. tomorrow"
   },
@@ -143,6 +153,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Medio Ambiente",
     "date": "2026-11-27 14:12",
     "image": "https://www.infobae.com/resizer/v2/WSXI6EL6KBA6DDIYGUBRBY2X5Y.jpeg?auth=bf7526ce788359d583ccd3988d4c540d95a6c7d75fd4eda8d23cd83a11d3ef5a&smart=true&width=1024&height=683",
+    "resumen": "México presentó en la COP31 su primera política para enfrentar el cambio climático, con medidas contra sequías y lluvias extremas. La iniciativa está orientada principalmente a las comunidades que enfrentan mayores riesgos en todo el mundo.",
     "title_en": "Mexico puts forward at COP31 its first policy to address climate change with measures to combat extreme droughts and rain",
     "summary_en": "The initiative is focused mainly on communities with high risks worldwide."
   },
@@ -154,6 +165,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Seguridad",
     "date": "2026-11-27 14:10",
     "image": "",
+    "resumen": "La DEA respondió en dos minutos por WhatsApp a un reporte sobre funcionarios ligados al narco en México. Juan Manuel Partida, presidente de la Asociación de Periodistas de Sinaloa, contactó a la agencia para ofrecer información sobre funcionarios que considera ligados al narcotráfico.",
     "title_en": "DEA responded in two minutes at Whatsapp about officials linked to the narco Mexico",
     "summary_en": "In just two minutes, Juan Manuel Partida, president of the Association of Sinaloa Journalists, received an answer from the anti-drug agency (DEA) to provide information about officials who, she considers, are linked to drug trafficking. On social networks, the comunicador detailed that she contacted DEA via Whatsapp to offer information about how to..."
   },
@@ -165,6 +177,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Nación",
     "date": "2026-11-27 14:08",
     "image": "https://www.eluniversal.com.mx/resizer/v2/TCQHBF5FSBFJTEGO73LFAHNYZA.jpg?auth=b3c4f192a3b0318bb5cffa875e0f9599d5f1094b5439d42e18610618b2e471d4&smart=true&width=500",
+    "resumen": "México y Estados Unidos analizan incrementar los operativos espejo en la frontera y van por el combate a los narcodrones. El tema se habló durante una reunión entre la Marina, Defensa y el Comando Norte de Estados Unidos.",
     "title_en": "Mexico and the US analyze increasing mirror operations at the border and go by fight with narco-drones",
     "summary_en": "The above was discussed during a meeting between the Navy, Defense and U.S. North Command"
   },
@@ -176,6 +189,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Política",
     "date": "2026-11-27 14:06",
     "image": "https://www.eluniversal.com.mx/resizer/v2/WEAEPWQ2KJENHN4SRWEOJILVQU.jpg?auth=0dc621d104c57185e0390fb788c620aee175c3566c82e54dc0adc5c0f939b768&smart=true&width=500",
+    "resumen": "Vulcan impugnó el fallo arbitral en el caso contra México; el gobierno analiza las reclamaciones y alista una defensa sólida.",
     "title_en": "Vulcan challenges arbitral decision in case against Mexico and government analyzes claims and alist \"solid defence\""
   },
   {
@@ -186,6 +200,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Nación",
     "date": "2026-11-27 14:04",
     "image": "https://www.eluniversal.com.mx/resizer/v2/MDXOY7E3ENDAHE3QOBCD3XS65I.jpg?auth=b4188f157b01a8953c46cdb599a203e78129178235b87182c9f2036beda7fad2&smart=true&width=500",
+    "resumen": "Vicente Fox convocó a una movilización en defensa del INE el próximo 6 de diciembre y pidió autonomía e independencia. El expresidente llamó a salir a marchar desde el Auditorio Nacional.",
     "title_en": "Vicente Fox calls for mobilization in defense of the INE on December 6 and calls for autonomy and independence",
     "summary_en": "Expressor from Mexico called to leave from National Auditorium"
   },
@@ -197,6 +212,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 14:04",
     "image": "https://www.infobae.com/resizer/v2/BNDMLSW3Q5DZVAYJ54HWK5JAUM.jpg?auth=c2fcb3b7a4d9d70ff8b404fd676bd16cd714060b6c6a23b31ddd51304cee3a04&smart=true&width=1920&height=1080",
+    "resumen": "¿Vas a tramitar tu licencia permanente en la CDMX? Una influencer compartió cuál es la mejor hora para hacerlo y evitar largas filas. Acudió a un módulo de Semovi y descubrió que por la tarde hay menos personas esperando para obtener el documento.",
     "title_en": "CDMX permanent driver's license: influence share best time to process and avoid long rows",
     "summary_en": "A content creator went to a Semovi module and found that in the afternoon there are fewer people waiting to get the document"
   },
@@ -208,6 +224,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 14:02",
     "image": "",
+    "resumen": "La secretaria de Energía, Luz Elena González, respondió sobre el millonario penthouse oculto del que habló Latinus. El inmueble, de 19 millones de pesos según el Registro Público de la Propiedad, no aparece en sus declaraciones patrimoniales; ella reconoce que lo tiene, pero dice que no lo ocultó.",
     "title_en": "Secretary of Energy responded about hidden penthouse billionaire: this said Luzo Elena González",
     "summary_en": "After Latinus reported that according to the Public Property Registry, the property costs 19 million pesos and does not appear in any of his property statements; Luz Elena González, Secretary of Energy, responded about the penthouse. Luz Elena recognizes that she has a billionaire penthause but says she did not hide it [...]"
   },
@@ -219,6 +236,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Nación",
     "date": "2026-11-27 14:01",
     "image": "https://www.eluniversal.com.mx/resizer/v2/RIKQELBW4BDCZOJI6EAE4ODNNM.jpg?auth=65781c3a6f2dacd9158bf239bf6ea7b88e426c4034ab7f5b74e097be7373d590&smart=true&width=500",
+    "resumen": "El Metrobús modificará el servicio en las Líneas 1, 4 y 7 por el Desfile Navideño de este sábado; conoce las estaciones que estarán cerradas.",
     "title_en": "Metrobus will modify service at Lines 1, 4 and 7 by Christmas Parade this Saturday and know the stations that will be closed"
   },
   {
@@ -229,6 +247,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Nación",
     "date": "2026-11-27 14:00",
     "image": "https://www.eluniversal.com.mx/resizer/v2/WNSBKALNQFALZFAMBREZEKP7LY.jpg?auth=4ac262f19a286f514278ff64ad9c2488afeb779982a9445964e428891472d4fb&smart=true&width=500",
+    "resumen": "Buscan que los candidatos registrados presenten declaraciones patrimoniales; la iniciativa avanza en el Senado. También contempla que quienes aspiren a una diputación federal o una senaduría no sean deudores alimentarios.",
     "title_en": "They seek registered candidates to file property statements and advance initiative with the Senate",
     "summary_en": "It also provides that persons applying for a federal office or a public office are non-food debtors"
   },
@@ -240,6 +259,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Tecnología",
     "date": "2026-11-27 14:00",
     "image": "",
+    "resumen": "Nu vuelve a bajar los rendimientos de sus Cajitas en México antes de que termine el año. A partir del 1 de diciembre de 2026, el banco digital reducirá las tasas, por lo que algunos usuarios tendrán que reconsiderar dónde guardan su dinero para obtener mayores ganancias.",
     "title_en": "Nu puts back his Cajitas's performance in Mexico by year's end",
     "summary_en": "December will bring new changes for Mexicans who have their savings at Nu. The digital bench announced an update on their Cajitas's performance rates, so some users will have to rethink where they keep their money to gain more. From 1 December 2026, Nu will reduce the performance of its..."
   },
@@ -251,6 +271,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Política",
     "date": "2026-11-27 13:57",
     "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/26/6b08d2d06dcae.png",
+    "resumen": "El gobierno y los empresarios chocan por el alza al salario mínimo 2027. La propuesta de Sheinbaum de aumentarlo en dos dígitos para el próximo año enfrenta a poderosos líderes empresariales, que buscan un ajuste más moderado.",
     "title_en": "Government and entrepreneurs face up to 2027 minimum wage",
     "summary_en": "The proposal by President Claudia Sheinbaum's government to increase the minimum wage by two digits for next year has been a clash with powerful corporate leaders, who seek a more moderate adjustment."
   },
@@ -262,6 +283,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Economía",
     "date": "2026-11-27 13:51",
     "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b09df1c45dcb.jpeg",
+    "resumen": "México reclamó a Estados Unidos por las líneas de denuncia de la DEA. La presidenta Sheinbaum dijo que México presentó una queja formal luego de que la DEA ofreció varias vías de contacto para recibir denuncias anónimas sobre narcotraficantes o funcionarios mexicanos corruptos.",
     "title_en": "Mexico claims US for DEA denouncing lines",
     "summary_en": "President Claudia Sheinbaum stated that Mexico filed a formal complaint with the U.S. after DEA offered several contact avenues to receive anonymous complaints about drug traffickers or corrupt Mexican officials."
   },
@@ -273,6 +295,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Nación",
     "date": "2026-11-27 13:51",
     "image": "https://www.infobae.com/resizer/v2/GTB3WODBDRDMVNFKZ7FCP7PINE.png?auth=04188877b03257900e4078ed753136567beea7ab3205445802bacd9359775ad3&smart=true&width=1536&height=1024",
+    "resumen": "El día que Nixon cerró la frontera con México y le enseñó a los narcotraficantes a volar. En septiembre de 1969, Estados Unidos impuso revisiones obligatorias de tres minutos por vehículo para presionar a México; los decomisos fueron mínimos, pero el bloqueo llevó a Pedro Avilés Pérez a inaugurar el tráfico de marihuana en avionetas.",
     "title_en": "The day Nixon closed his border with Mexico and taught drug traffickers how to fly",
     "summary_en": "In September 1969, the U.S. imposed three-minute mandatory checks per vehicle to put pressure on Mexico and seizures were minimal but the blockade led Pedro Avilés Pérez to open up marijuana traffic on aircraft"
   },
@@ -284,6 +307,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 13:51",
     "image": "https://www.infobae.com/resizer/v2/KFRLBGBQGZFX5JIBN6JRBS57DE.png?auth=f399c1db350400fa50111a6d2535b310e77dacb7e7333d535a7746113fb7f52c&smart=true&width=1536&height=1024",
+    "resumen": "El presidente de periodistas de Sinaloa llamó a la DEA para denunciar a narcopolíticos: 'Apúntenme como traidor'. Juan Manuel Partida Valdez reveló que envió información a la nueva línea de WhatsApp de la DEA y aseguró que la agencia le respondió en dos minutos.",
     "title_en": "President of Sinaloa journalists called the DEA to report narco-politicians: \"Rejoin me as a traitor\"",
     "summary_en": "Juan Manuel Partida Valdez, president of the Association of Sinaloa Journalists, revealed that he sent information to DEA's new WhatsApp line and stated that the U.S. agency responded to him in two minutes"
   },
@@ -295,6 +319,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Economía",
     "date": "2026-11-27 13:50",
     "image": "",
+    "resumen": "Claudia Sheinbaum respalda a los productores de café y busca un acuerdo con Nestlé por precios justos. La secretaria de Agricultura, Columba Jazmín López Gutiérrez, dialogó con directivos de Nestlé México y productores para garantizar un precio justo y preservar distintas variedades de semillas.",
     "title_en": "Claudia Sheinbaum supports coffee producers and looks after Nestlé for fair prices",
     "summary_en": "MÉXICO.- The incumbent of the Ministry of Agriculture and Rural Development (Agriculture), Coluba Jazmín López Gutiérrez, held a dialogue with directors of Nestlé Mexico and coffee producers to guarantee a fair price and preserve different varieties of seeds, President Claudia Sheinbaum reported. \"The goal is first to guarantee a fair price and..."
   },
@@ -306,6 +331,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Cultura",
     "date": "2026-11-27 13:49",
     "image": "https://www.eluniversal.com.mx/resizer/v2/3BKEICAWUBFJ5MVAWRCWPLCZSA.jpg?auth=704776ade0da91dfcf39e611ed1b3100fe23629a0d355a9f79220a6576928d18&smart=true&width=500",
+    "resumen": "Avanza la colección de libros de escritoras mexicanas, asegura Claudia Curiel; alistan su distribución en bibliotecas públicas. La secretaria de Cultura sostuvo que se trata de un millón de ejemplares distribuidos.",
     "title_en": "A collection of Mexican writers's books advanced, says Claudia Curiel.",
     "summary_en": "The Secretary of Culture held that this was a million copies distributed"
   },
@@ -317,6 +343,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Seguridad",
     "date": "2026-11-27 13:48",
     "image": "https://www.eluniversal.com.mx/resizer/v2/KTRIGKBXJFFTFE2XFMPVELPPWA.jpg?auth=b680c527c7c5530ac12bd5a2026c9e233e1a21cfbbd66090a64ce25351ef5984&smart=true&width=500",
+    "resumen": "México y Guatemala convocan a una reunión regional para la atención de caravanas migrantes y refrendan el combate al narco. En la XIII Reunión de la Comisión Binacional también se acordó impulsar dos nuevos instrumentos sobre movilidad humana.",
     "title_en": "Mexico and Guatemala call for regional meeting for care of migrant caravans and say fight against them",
     "summary_en": "At the thirteenth meeting of the Binational Commission, it was also agreed to promote two new tools on human mobility"
   },
@@ -328,6 +355,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 13:45",
     "image": "https://www.infobae.com/resizer/v2/ICLLSC4X6VDCNO2LMA2BP322SY.jpg?auth=fc1e2769765964d0a4199c0342a93bd011db32ad6a5305d16a6ba551bd9b7d37&smart=true&width=1920&height=1080",
+    "resumen": "Estaciones del Metrobús fuera de servicio en esta última hora de este 27 de noviembre. Es el segundo medio de movilidad más usado en la Ciudad de México, solo detrás del Metro.",
     "title_en": "Metrobus stations out of service at this last hour of November 27",
     "summary_en": "It's the second most widely used means of mobility in Mexico City only after the Multidimensional Civil Transport System (CSC) Metro"
   },
@@ -339,6 +367,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Cultura",
     "date": "2026-11-27 13:45",
     "image": "https://www.infobae.com/resizer/v2/IEDWZZLEENGP5MNDLGS4VSUJCE.png?auth=e2e11589bf4e497d83d21b2e98736dc6f7ed41725a167cf6c51e8c2dd26b5a08&smart=true&width=2752&height=1536",
+    "resumen": "Laura Zapata ironizó sobre Thalía luego de que no visitó las cenizas de su abuela, Eva Mange Márquez, en su regreso a México. Tras el concierto junto a Karol G y el encuentro con Yolanda Andrade, la actriz respondió entre risas a los cuestionamientos de su hermana.",
     "title_en": "Laura Zapata ironizes about Thalia after she did not visit his grandmother's ashes, Eva Mange Márquez, on his return to Mexico",
     "summary_en": "Following his concert with Karol G and his meeting with Yolanda Andrade, she responded with laughter to his sister's challenges"
   },
@@ -363,6 +392,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Estados",
     "date": "2026-11-27 13:44",
     "image": "",
+    "resumen": "Segundo brote de gripe aviar en Yucatán: vacunarán en Mérida y otros municipios. Tres semanas después del primer caso, el Senasica confirmó el nuevo brote y autorizó la vacunación en ocho municipios en cuarentena para proteger la producción avícola nacional.",
     "title_en": "Second avian influenza outbreak in Yucatan: they will be vaccinated in Merida and other municipalities",
     "summary_en": "MÉRID.- Three weeks after the first case, Senasica confirmed a second avian influenza outbreak in Yucatan and authorized vaccination in eight quarantine municipalities. The Unit reported that this measure aims to protect national poultry production and denied some risk to national poultry production. The secretariat reiterated that [...]"
   },
@@ -387,6 +417,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Deportes",
     "date": "2026-11-27 13:41",
     "image": "https://www.infobae.com/resizer/v2/EJ3RBWJWONE2XPXQYJLEEOPH5Q.JPG?auth=0600ed8565d7df7a324289c2617877a0eb1baeea85eee02610ee1912d6710ff6&smart=true&width=5746&height=3932",
+    "resumen": "Checo Pérez acabó último: el mexicano sufrió en la Práctica 2 del GP de Qatar 2026. Dos banderas rojas impidieron que las escuderías completaran sus simulaciones de clasificación con neumáticos blandos.",
     "title_en": "Czech Pérez Finates Last: The Mexican suffers at Qatar's 2026 GP Practice 2",
     "summary_en": "Two red flags prevented them from complete their classification simulations with soft tires"
   },
@@ -515,6 +546,7 @@ window.MEXICO_INFORMA_NEWS = [
     "category": "Salud",
     "date": "2026-11-27 13:28",
     "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b09cb2bb5185.png",
+    "resumen": "Cofepris lanzó una alerta sanitaria y de riesgo por Ozempic y Duvalín Untable falsificados. El organismo pidió a la población y a los profesionales médicos tener precaución con los productos que identificó como falsos o adulterados.",
     "title_en": "Cofepris launches Health and Risk alert by Ozempic and Untable Duvalín Faked",
     "summary_en": "The body requested care from the general public as well as from medical professionals with products that have been identified as false or adulterates."
   },
