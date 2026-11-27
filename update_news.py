@@ -114,7 +114,10 @@ def main():
             old=prev_by_url.get(link) or prev_by_key.get(key)
             if old:
                 if old.get('resumen'): items[-1]['resumen']=old['resumen']
-                if old.get('resumen_en'): items[-1]['resumen_en']=old['resumen_en']
+                # Conservar también las traducciones previas: si el traductor
+                # falla en esta corrida, la versión en inglés no se pierde.
+                for f in ('title_en','summary_en','resumen_en'):
+                    if old.get(f): items[-1][f]=old[f]
     items.sort(key=lambda x:x['date'],reverse=True)
     known={re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90] for i in previous}
     items += [i for i in previous if re.sub(r'[^a-z0-9]','',i.get('title','').lower())[:90] not in seen]
