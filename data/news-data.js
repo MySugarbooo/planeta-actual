@@ -1,13 +1,976 @@
 window.MEXICO_INFORMA_NEWS = [
   {
+    "title": "\"Welcome to America\": Exjefe de la DEA pide que México envíe a Rocha Moya y \"El Chapo Isidro\" a EU; sería \"un mensaje contundente\"",
+    "summary": "",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/mundo/welcome-to-america-exjefe-de-la-dea-pide-que-mexico-envie-a-rocha-moya-y-el-chapo-isidro-a-eu-seria-un-mensaje-contundente/",
+    "category": "Nación",
+    "date": "2026-11-28 14:44",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/RXTXL5QYN5HQNPPSKKQ3KWT75Q.jpg?auth=e6f89195b67ff921d3cb8fec5d0eaf0ec7f4a7e02b40d3d47f5a24528bc73471&smart=true&width=500",
+    "title_en": "\"Welcome to America\": A former DEA's head wants Mexico to send Rocha Moya and \"The Isidro Chapo\" to the US and that's \"a powerful message\""
+  },
+  {
+    "title": "La Selección Mexicana Femenil recibe el apoyo del Tri varonil: \"Ojalá consigan el pase al Mundial\"",
+    "summary": "Los jugadores dirigidos por Rafael Márquez le mandaron mensajes de aliento al Tri Femenil",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/deportes/la-seleccion-mexicana-femenil-recibe-el-apoyo-del-tri-varonil-ojala-consigan-el-pase-al-mundial/",
+    "category": "Deportes",
+    "date": "2026-11-28 14:42",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/W54S7AVT7VDEFPBMKRCHTVWGGU.jpg?auth=9712bef4468d337a1e110a67b20dd7d11232c4b0abce37666d7dfc19acaa278a&smart=true&width=500",
+    "title_en": "The Mexican Women's Team gets the support of the Tri Varonil: \"I wish they get a pass to the World Cup\"",
+    "summary_en": "The players directed by Rafael Márquez sent cheering messages to the Female Tri"
+  },
+  {
     "title": "EN VIVO | Clima CDMX y resto de México hoy sábado 28 de noviembre: cae aguanieve en el Ajusco",
     "summary": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
     "source": "Infobae México",
     "url": "https://www.infobae.com/mexico/2026/11/28/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-sabado-28-de-noviembre-tormenta-invernal-amenaza-con-lluvias-y-nevadas/",
     "category": "Medio Ambiente",
-    "date": "2026-11-28 06:54",
+    "date": "2026-11-28 14:40",
     "image": "https://www.infobae.com/resizer/v2/PQEE3P2OHNDJLOIWIUPB2YYGVE.jpg?auth=533dadf245f11611118ee9c48475d30ea8fa8fc0dbee2c49443c8d1ed6135335&smart=true&width=1920&height=1080",
-    "summary_en": "Consultation in real-time updates, alerts, news and reports about climate conditions in the country"
+    "summary_en": "Consultation in real-time updates, alerts, news and reports about climate conditions in the country",
+    "title_en": "_"
+  },
+  {
+    "title": "Cayeron copos de nieve: Fotos y videos de cómo amanecen CDMX y México en la primera tormenta invernal",
+    "summary": "La primera tormenta invernal provocó caída de nieve en el Ajusco, el Nevado de Toluca y otras zonas montañosas del centro de México.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/cdmx/2026/11/28/cayeron-copos-de-nieve-fotos-y-videos-de-como-amanecen-cdmx-y-mexico-en-la-primera-tormenta-invernal/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 14:36",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/MNLD2qEcCelyk-qvzETN3pyhgSA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5H7EPHENPZF3PF3NWLBROEFPZE.jpg",
+    "title_en": "Snowflakes Flow: Photos and videos of how CDMX and Mexico dawns in first winter storm",
+    "summary_en": "The first winter storm caused snow to fall at the Ajusco, the Toluca Nevado and other mountainous areas of central Mexico."
+  },
+  {
+    "title": "Sheinbaum da banderazo a tres plataformas marítimas de Pemex; aportarán 54,000 barriles diarios de petróleo",
+    "summary": "Las estructuras, construidas en Tampico con ingeniería mexicana, serán instaladas en los campos Sejkan, Tlatitok y Konen, en el Golfo de México. Se prevé que entren en operación durante los próximos dos meses.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/sheinbaum-da-banderazo-tres-plataformas-maritimas-pemex-aportaran-54-000-barriles-diarios-petroleo-20261128-846333.html",
+    "category": "Economía",
+    "date": "2026-11-28 14:34",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/28/6b0b393be4c2a.jpeg",
+    "title_en": "Sheinbaum banderzo to 3 seaport pemex and will contribute 54,000 barrels of oil daily",
+    "summary_en": "The structures, built in Tampico with Mexican engineering, will be established at the Sejkan, Tlatitok and Konen fields in the Gulf of Mexico. They are expected to come into operation for the next two months."
+  },
+  {
+    "title": "Black Friday 2026: los espectaculares audífonos Sony WH-CH720N ya tienen precio de remate y MSI en Amazon y Mercado Libre",
+    "summary": "El Black Friday 2026 continúa su curso, y así como previamente te mostramos unos audífonos premium de Sony a precio de remate, hoy es momento de hablar de un modelo más económico, pero que su calidad de audio también te sorprenderá. Estamos hablando de los Sony WH-CH720N , que por cierto ya tienen un precio de oferta de únicamente 1,329 pesos en Amazon…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/seleccion/black-friday-2026-espectaculares-audifonos-sony-wh-ch720n-tienen-precio-remate-msi-amazon-mercado-libre",
+    "category": "Economía",
+    "date": "2026-11-28 14:32",
+    "image": "",
+    "title_en": "Black Friday 2026: The spectacular Sony WHO-CH720N hearing aids have been put up with MSI and pounding prices at Amazon and Free Market",
+    "summary_en": "The Black Friday 2026 continues its course, and as we have previously shown you some premium Sony hearing aids at an outstanding price, today's time to discuss a more economic model but its audio quality will also surprise you. We are talking about the Sony WHO-CH720N, which by the way already have an offer price of only 1.329 pesos on Amazon..."
+  },
+  {
+    "title": "Reportan localización sin vida de Dania Nallely, desaparecida en Pachuca, Hidalgo; su cuerpo fue encontrado dentro de una bolsa",
+    "summary": "Será hasta que concluyan las investigaciones y los estudios periciales cuando se determine oficialmente si se trata de Nallely Acevedo",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/estados/reportan-localizacion-sin-vida-de-dania-nallely-desaparecida-en-pachuca-hidalgo-su-cuerpo-fue-encontrado-dentro-de-una-bolsa/",
+    "category": "Estados",
+    "date": "2026-11-28 14:27",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/NBQHNLBVLZCFFD34TDNNSO44VE.jpg?auth=39a8cc4ba391bdb7913d6a20a4cfee35bf3f1180c1975b7553fb1719653a0eec&smart=true&width=500",
+    "title_en": "They report the lifeless location of Dania Nally, missing at pachuca, Hidalgo, his body found inside a bag",
+    "summary_en": "It will be until research and expert studies have been completed as soon as an official decision is made about Nally Acevedo"
+  },
+  {
+    "title": "Camioneta de \"Fierro Viejo\" estrena su propio juguete con voz original; ¿qué precio tiene y dónde comprarlo?",
+    "summary": "Esta propuesta busca reconocer y rendir homenaje a uno de los sonidos de las calles de México más reconocibles entre la población",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/tendencias/camioneta-de-fierro-viejo-estrena-su-propio-juguete-con-voz-original-que-precio-tiene-y-donde-comprarlo/",
+    "category": "Economía",
+    "date": "2026-11-28 14:27",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/PUYCUXWLINEY3ERWRKAW2E2XIE.png?auth=c7be35b5fde53a33e2ff79a7af5697e6a9502977d0d313538d3d9e0524f8cc4d&smart=true&width=500",
+    "title_en": "A \"Old Iron\" tent sets up his own toy with an original voice and what's his price and where to buy it?",
+    "summary_en": "That proposal aims to recognize and pay tribute to one of Mexico's most recognizable street sounds among the population"
+  },
+  {
+    "title": "Tu identidad completa vale 3 mil 500 pesos",
+    "summary": "La filtración expone los riesgos de la suplantación de identidad, el fraude y la vulnerabilidad de los datos personales en el mercado negro digital",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/tu-identidad-completa-vale-3-mil-500-pesos/",
+    "category": "Tecnología",
+    "date": "2026-11-28 14:26",
+    "image": "https://www.infobae.com/resizer/v2/ESJZ7432JFBINAYMUW4A2VRXYI.jpg?auth=8baeb572fe31b7fefd3da9ac67fca3afd9f373b513e9c334d98fa71e82d79018&smart=true&width=1920&height=1080",
+    "title_en": "Your complete identity's worth 3 million pesos",
+    "summary_en": "The leaking exposes the risks of identity suppression, fraud and vulnerability of personal data in the digital black market"
+  },
+  {
+    "title": "EN VIVO| Bloqueos en carreteras, accidentes y manifestaciones 28 de noviembre: cerrada la circulación en ambos sentidos de Paseo de la Reforma",
+    "summary": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-28-de-noviembre/",
+    "category": "Nación",
+    "date": "2026-11-28 14:26",
+    "image": "https://www.infobae.com/resizer/v2/TB2YMGDQZZHHPFXY653RONBHVQ.png?auth=f28b6d779c55f111ef2a332e5f5564159da9e8e006fe4ebaf89a12436e0b34ca&smart=true&width=2752&height=1536",
+    "title_en": "EN VIVO-124; Roadblocks, accidents and events 28 November: closed traffic in both senses of Paseo de la Reforma",
+    "summary_en": "Keep up with real-time information about occurring in the Valle de México"
+  },
+  {
+    "title": "Baches en Edomex: así podrías solicitar el reembolso por daños en llantas, rines y grúa en 2027",
+    "summary": "La medida solicita recursos en el Presupuesto de Egresos 2027 para compensar afectaciones a automovilistas, motociclistas y transporte público por baches, socavones y deficiencias de mantenimiento en vialidades estatales y municipales",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/baches-en-edomex-asi-podrias-solicitar-el-reembolso-por-danos-en-llantas-rines-y-grua-en-2027/",
+    "category": "Nación",
+    "date": "2026-11-28 14:26",
+    "image": "https://www.infobae.com/resizer/v2/SBM5YZHGTRFSLD4RF5WDOOAUNE.jpg?auth=2fee132a2b5708fcaaa54b582b672a742f982db771ca2895768fc22abd342678&smart=true&width=596&height=335",
+    "title_en": "Beaches at Edomex: so you could apply for compensation for damage to tires, rines and crane by 2027",
+    "summary_en": "The measure calls for resources from the 2027 Progress Budget to compensate for car and motor vehicles and public transport by pods, undermining and maintenance challenges at state and local level"
+  },
+  {
+    "title": "¿Te quedarás sin agua? Fuga en acueducto afecta el suministro en Tláhuac e Iztapalapa",
+    "summary": "Fuga de agua en Tláhuac e Iztapalapa: conoce las zonas afectadas, cuándo volverá el servicio y cómo solicitar una pipa gratis.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/cdmx/2026/11/28/te-quedaras-sin-agua-fuga-en-acueducto-afecta-el-suministro-en-tlahuac-e-iztapalapa/",
+    "category": "Economía",
+    "date": "2026-11-28 14:22",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/sv__s7gdfuri6VyKRBr3eadvtQ4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DK7YRJU5GRBNFPUWJBE3THWPPM.jpeg",
+    "title_en": "Are you gonna run out of water? Aqueduct flea affects supply at Tláhuac and Iztapalapa",
+    "summary_en": "Water flea at Tláhuac and Iztapalapa: you know the affected areas, how to get back to service and how to demand a free pipe."
+  },
+  {
+    "title": "Mientras productores de negocian con Nestlé, diputada abre chat para comprar café de Chiapas a 400 pesos el kilo",
+    "summary": "Patricia Armendariz afirmó que la empresa debe pagar 60 pesos en lugar de 43 por kilo a los cafeticultores chiapanecos",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/mientras-productores-de-negocian-con-nestle-diputada-abre-chat-para-comprar-cafe-de-chiapas-a-400-pesos-el-kilo/",
+    "category": "Estados",
+    "date": "2026-11-28 14:20",
+    "image": "https://www.infobae.com/resizer/v2/523ZJ5RAZJGBFEZNXOD64263CI.jpg?auth=cc51ca61f93d4f6a2a758098aacae9bcd99bd62feb72b207c1d310eb5d576c05&smart=true&width=1488&height=976",
+    "title_en": "While producers trade with Nestlé, deputy opens chat to buy coffee from Chiapas at 400 pesos a kilo",
+    "summary_en": "Patricia Armendariz stated that the company should pay 60 pesos rather than 43 kilo to Chiapanecas coffee growers"
+  },
+  {
+    "title": "Captura del “Chapo Isidro” cambia la forma del narco en Sinaloa y aterroriza con explosivos a zonas rurales: The Economist",
+    "summary": "Los medios internacionales ven escenas de guerra en un estado que ha mantenido cruentas disputas desde hace décadas tras la ruptura interna del Cártel de Sinaloa y otras facciones",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/captura-del-chapo-isidro-cambia-la-forma-del-narco-en-sinaloa-y-aterroriza-con-explosivos-zonas-rurales-the-economist/",
+    "category": "Seguridad",
+    "date": "2026-11-28 14:19",
+    "image": "https://www.infobae.com/resizer/v2/DFA6KC7L4JHFLOKAWN7GMRXODY.JPG?auth=ab8443ad4d78cf035d30cf44fec222b6cc1a80d42271299af45731653f39af36&smart=true&width=3712&height=2066",
+    "title_en": "Capture of \"Chapo Isidro\" changes the form of the narco in Sinaloa and terrorizes with explosives to rural areas: The Economist",
+    "summary_en": "The international media sees war scenes in a state that has been in serious dispute for decades after the internal breakup of Sinaloa and other factions"
+  },
+  {
+    "title": "Muerte de Gastón Alegre pone en riesgo continuidad de una estación de radio social en Quintana Roo",
+    "summary": "El fallecimiento de Gastón Alegre López, director general de Grupo Turquesa, pone en riesgo la continuidad de una estación de radio social en Quintana Roo, debido a una disposición de la nueva legislación de telecomunicaciones que establece la muerte del concesionario como causal de terminación de su concesión.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/empresas/muerte-gaston-alegre-pone-riesgo-continuidad-estacion-radio-social-quintana-roo-20261128-846331.html",
+    "category": "Estados",
+    "date": "2026-11-28 14:16",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/28/6b0b362f3db13.jpeg",
+    "title_en": "Death of Gastón Alegre puts at risk the continuity of a social radio station in Quintana Roo",
+    "summary_en": "The passing of Gastón Alegre López, general manager of Grupo Turquesa, puts at risk the continuity of a social radio station at Quintana Roo, because of a provision of new telecommunications legislation that lays down the death of the concessionaire as a cause for his termination."
+  },
+  {
+    "title": "Seis de cada 10 jóvenes en México trabajan en la informalidad: CNDH llama a defender sus derechos laborales",
+    "summary": "La carga horaria reduce el tiempo disponible para el descanso, el estudio y la convivencia de las personas jóvenes",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/seis-de-cada-10-jovenes-en-mexico-trabajan-en-la-informalidad-cndh-llama-a-defender-sus-derechos-laborales/",
+    "category": "Nación",
+    "date": "2026-11-28 14:15",
+    "image": "https://www.infobae.com/resizer/v2/LQH2HPL6UJA7BPYQTYXVEKM6Z4.png?auth=d04ecdef6576034876b617bda6c196caa6bd096bc319fe5a8086a8bd557efb69&smart=true&width=2752&height=1536",
+    "title_en": "6 out of 10 youth in Mexico work with information: CNDH calls for their employment rights",
+    "summary_en": "The time burden reduces the time available for rest, study and living with young people"
+  },
+  {
+    "title": "Alejandra Guzmán se luxa la cadera y suspende concierto en CDMX: ¿Cuál es su estado de salud?",
+    "summary": "Alejandra Guzmán sufrió otro problema de cadera en pleno concierto, poco más de 2 meses después de su lesión en Veracruz.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/espectaculos/2026/11/28/alejandra-guzman-suspende-su-concierto-en-la-arena-cdmx-tras-un-problema-de-cadera/",
+    "category": "Salud",
+    "date": "2026-11-28 14:14",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/AZChtUtyvn-iiSqsKIhYDjhRIVY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SZNBQDQ7QRGTPNU3ER5JGSVHIY.jpg",
+    "title_en": "Alejandra Guzmán holds his hip and suspends his CDMX concert: What's his health status?",
+    "summary_en": "Alejandra Guzmán suffered another hip problem at the heart of his concert, just more than 2 months after his injuries at Veracruz."
+  },
+  {
+    "title": "México registra máximo histórico de Inversión Extranjera Directa y confirma la consolidación de su atractivo manufacturero",
+    "summary": "México captó 43 mil 90 millones de dólares de Inversión Extranjera Directa entre enero y septiembre de 2026, impulsado por la reinversión de utilidades y el crecimiento manufacturero",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/mexico-registra-maximo-historico-de-inversion-extranjera-directa-y-confirma-la-consolidacion-de-su-atractivo-manufacturero/",
+    "category": "Economía",
+    "date": "2026-11-28 14:12",
+    "image": "https://www.infobae.com/resizer/v2/Q6N7VLRAZNGZFLLB4IO2CA7XE4.jpg?auth=10b0304ba227c038c8bd932c6469a0ca99b470af95c24972bb5e95164a84073a&smart=true&width=1920&height=1080",
+    "title_en": "Mexico's historic high level of FDI and confirms its consolidation of manufacturing attractiveness",
+    "summary_en": "Mexico earned $43 billion from FDI from January to September 2026, driven by profit reinvestment and manufacturing growth"
+  },
+  {
+    "title": "Nissan quiere mandar más Sentra y Kicks fabricados en México a Estados Unidos, pero hay un problema: los aranceles de Trump",
+    "summary": "Estados Unidos necesita autos más baratos , Nissan tiene fábricas en México capaces de producirlos y, aun así, vender más Sentra y Kicks al otro lado de la frontera no es tan sencillo. El obstáculo no está en las líneas de ensamblaje ni en encontrar compradores, sino en los aranceles que impuso el gobierno de Donald Trump. Iván Espinosa, director ejecutivo…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/automovil/nissan-quiere-mandar-sentra-kicks-fabricados-mexico-a-estados-unidos-hay-problema-aranceles-trump",
+    "category": "Economía",
+    "date": "2026-11-28 14:02",
+    "image": "",
+    "title_en": "Nissan wants to send more Sentra and Kicks built in Mexico to the U.S. but there's a problem: Trump's tariffs",
+    "summary_en": "The U.S. needs cheaper cars, Nissan has factories in Mexico capable of production them and yet selling more Sentra and Kicks across the border isn't as simple. The obstacle isn't at the assembly lines or at finding buyers but at the tariffs imposed by Donald Trump's government. Ivan Espinosa, executive director..."
+  },
+  {
+    "title": "Caen en México cuatro integrantes de red internacional de tráfico de personas",
+    "summary": "CIUDAD DE MÉXICO.— Autoridades mexicanas detuvieron en Querétaro y Baja California a cuatro presuntos integrantes de una organización criminal transnacional dedicada al tráfico de personas entre Brasil, México y Estados Unidos. Entre los detenidos está una mujer identificada con el alias de “Chefona”, señalada como operadora de la estructura delictiva y…",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/28/detienen-red-trafico-personas-brasil-mexico-estados-unidos.html",
+    "category": "Estados",
+    "date": "2026-11-28 13:53",
+    "image": "",
+    "title_en": "4 members of international human traffic network fall into Mexico",
+    "summary_en": "- Mexican authorities arrested four alleged members of a transnational crime organization dedicated to human trafficking between Brazil, Mexico and the United States in Querétaro and Baja California. Among those arrested was a woman who had been identified with the alias \"Chefona,\" noted as an operator of the crime and..."
+  },
+  {
+    "title": "Tlalpan registra la temperatura más baja de este sábado en CDMX; amanece a 3.7 grados",
+    "summary": "Las zonas altas del sur y poniente concentraron el descenso más marcado del termómetro",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/metropoli/tlalpan-registra-la-temperatura-mas-baja-de-este-sabado-en-cdmx-amanece-a-37-grados/",
+    "category": "Estados",
+    "date": "2026-11-28 13:50",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/6QC2G56SFNGGPEQ6SEHL36N3W4.jpg?auth=5ced0d15929e26f1b859722f95fa4d1b92f45c840c5a653abce24140c46ef28b&smart=true&width=500",
+    "title_en": "Tlalpan records the lowest temperature of this Saturday at CDMX with an awnings at 3.7 degrees",
+    "summary_en": "South and South Highlands have focused the most marked fall of the thermometer"
+  },
+  {
+    "title": "Retrasos, cierres y afectaciones en el Metrobús en tiempo real",
+    "summary": "Inaugurado el 19 de junio de 2005, actualmente transporta a más de 22 millones de usuarios al año",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/retrasos-cierres-y-afectaciones-en-el-metrobus-en-tiempo-real/",
+    "category": "Nación",
+    "date": "2026-11-28 13:45",
+    "image": "https://www.infobae.com/resizer/v2/ICLLSC4X6VDCNO2LMA2BP322SY.jpg?auth=fc1e2769765964d0a4199c0342a93bd011db32ad6a5305d16a6ba551bd9b7d37&smart=true&width=1920&height=1080",
+    "title_en": "Delays, closures and real-time Metrobus conditions",
+    "summary_en": "Inaugurated on 19 June 2005, currently transport more than 22 million users a year"
+  },
+  {
+    "title": "Relatora de la ONU Francesca Albanese llega a México tras veto de Costa Rica y denuncia presiones",
+    "summary": "La relatora sobre los Territorios Palestinos permaneció un día y medio en un aeropuerto costarricense después de que las autoridades migratorias le negaran el ingreso al país",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/internacionales/relatora-onu-francesca-albanese-llega-mexico-veto-costa-rica-denuncia-presiones-20261128-846329.html",
+    "category": "Economía",
+    "date": "2026-11-28 13:43",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a400960334.jpeg",
+    "title_en": "UN Rapporteur Francesca Albanese arrives to Mexico after Costa Rica veto and denounces pressures",
+    "summary_en": "The Palestinian Territory Rapporteur stayed a day and a half at a Costa Rican airport after she was denied entry by the migration authorities"
+  },
+  {
+    "title": "Posponen las semifinales del México Major Premier Padel; pronóstico de lluvia obliga a reprogramarlas",
+    "summary": "Originalmente, la ronda de semifinales se disputaría este sábado en la Arena GNP Seguros",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/deportes/posponen-las-semifinales-del-mexico-major-premier-padel-pronostico-de-lluvia-obliga-a-reprogramarlas/",
+    "category": "Nación",
+    "date": "2026-11-28 13:42",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/TGCH2CGEUNFHTN6G4V3ZP2G4QY.jpeg?auth=037de7a943584eeee20abb5f8acd8e8a56c676bd249789cc289f44d2b0239851&smart=true&width=500",
+    "title_en": "Mexico's Major Premier Padel's Semifinals Postponed and Rain Projections Requires Reprogram",
+    "summary_en": "The semifinal round will originally be held this Saturday at the Secure GNU Arena"
+  },
+  {
+    "title": "Embajador Lazzeri reconoce \"valor de la cooperación\" con EU tras captura de \"El Chapo Isidro\"; señala respeto a la soberanía",
+    "summary": "El diplomático aseguró que México sigue \"firmemente comprometido\" en la lucha contra el crimen organizado",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/embajador-lazzeri-reconoce-valor-de-la-cooperacion-con-eu-tras-captura-de-el-chapo-isidro-senala-respeto-a-la-soberania/",
+    "category": "Nación",
+    "date": "2026-11-28 13:42",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/KQUUFRQRA5DZPL2CWFMS3IAUVM.jpg?auth=3413eff71130b0c87fe52252b3166b9c01d005ae3f830ded218294e07e1c658b&smart=true&width=500",
+    "title_en": "Ambassador Lazzeri recognizes \"value of cooperation\" with the US after capture of \"El Chapo Isidro\" and points to respect for sovereignty",
+    "summary_en": "The diplomat stated that Mexico remains \"firmly committed\" to fight organized crime"
+  },
+  {
+    "title": "Localizan a Lisseth, menor reportada como desaparecida en Benito Juárez; Fiscalía investiga circunstancias",
+    "summary": "",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/metropoli/localizan-a-lisseth-menor-reportada-como-desaparecida-en-benito-juarez-fiscalia-investiga-circunstancias/",
+    "category": "Seguridad",
+    "date": "2026-11-28 13:38",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/IXK6T6UN4FB7RHLOJUYSU4CUPY.jpg?auth=9302ed612d8014e870e90c45738c4377e12a1af7572729543fdfcc3526477f3d&smart=true&width=500",
+    "title_en": "Locate Lisseth, minor reported as missing at Benito Juárez; Prosecutor's Office investigates circumstances"
+  },
+  {
+    "title": "Conagua activa dos alertas por los efectos de la primera tormenta invernal y lluvias intensas",
+    "summary": "Para este sábado en la Ciudad de México se pronostica una temperatura máxima de 10 a 12 °C y una mínima de 4 a 6 °C",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/conagua-activa-dos-alertas-por-los-efectos-de-la-primera-tormenta-invernal-y-lluvias-intensas/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 13:38",
+    "image": "https://www.infobae.com/resizer/v2/PM4PHNOW5NBJTH2BMIQDAJDYCY.jpg?auth=d6fd70e23bf61ddd9a4eee33df6a03bd52e1c7b3e2b45bb8631eb5989662cb2f&smart=true&width=1920&height=1279",
+    "title_en": "Conagua activates two alerts for the effects of the first winter storm and intense rain",
+    "summary_en": "A maximum temperature of 10 to 12 ° C and a minimum of 4 to 6 ° C are scheduled for this Saturday in Mexico City"
+  },
+  {
+    "title": "Las impactantes imágenes de Jocotitlán cubierto de nieve que sorprenden al Edomex",
+    "summary": "La primera tormenta invernal deja caminos, árboles, vehículos y estaciones de trabajo bajo una capa blanca en las zonas altas del municipio",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/las-impactantes-imagenes-de-jocotitlan-cubierto-de-nieve-que-sorprenden-al-edomex/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 13:30",
+    "image": "https://www.infobae.com/resizer/v2/Q6DMOQTBYJCSJIEQMCR2ERDIXY.jpg?auth=473b96268ffd532afdac2bea002c5c62943ea42f59d18bc5468f528158e99c77&smart=true&width=1920&height=1080",
+    "title_en": "The shocking images of Jocotelan covered with snow surprising the Edomex",
+    "summary_en": "The first winter storm leaves roads, trees, vehicles and jobs under a white cape in high areas of town"
+  },
+  {
+    "title": "Iluminan como un láser: Así son y trabajan las balas trazadoras que usaron contra ‘El Chapo Isidro’",
+    "summary": "Durante el operativo para detener a ‘El Chapo Isidro’ en Sinaloa, las ráfagas desde helicópteros Black Hawk sorprendieron; así funcionan las balas trazadoras.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/28/iluminan-como-un-laser-asi-son-y-trabajan-las-balas-trazadoras-que-usaron-contra-el-chapo-isidro/",
+    "category": "Estados",
+    "date": "2026-11-28 13:20",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/ldJtHt-PYayC16XhE7GGVZJ4wdE=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SXS2CPWIJGO3CPA2VHZRHDRJQ.png",
+    "title_en": "They light up as a laser: That's how they get and work with the tracer bullets they used against 'The Isidro Chapo'",
+    "summary_en": "During an operation to stop 'El Chapo Isidro' at Sinaloa, the bursts from Black Hawk helicopters were surprising and so the tracer bullets work."
+  },
+  {
+    "title": "Parrilla de salida del Gran Premio de Qatar 2026: ¿En qué lugar arrancará Checo Pérez?",
+    "summary": "La actividad de la Fórmula 1 continúa en Medio Oriente con el Gran Premio de Qatar, que definirá un nuevo capítulo de la temporada 2026",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/deportes/2026/11/28/parrilla-de-salida-del-gran-premio-de-qatar-2026-en-que-lugar-arrancara-checo-perez/",
+    "category": "Deportes",
+    "date": "2026-11-28 13:18",
+    "image": "https://www.infobae.com/resizer/v2/C4HXCL34YNGV5AKGPXCTVT5ZYM.JPG?auth=494b18a7dd1faef3607eb455709ae5f2a91a76be5229d6a3017380bc6cb75e4c&smart=true&width=1988&height=1177",
+    "title_en": "Qatar Grand Prix 2026: What place will Czech Pérez start?",
+    "summary_en": "The activity of Formula 1 continues in the Middle East with the Qatar Grand Prix that will define a new chapter of the 2026 season"
+  },
+  {
+    "title": "Encuentran al director de protección civil de Chiapas y a dos mujeres sin vida en Oaxaca junto a narcomensaje",
+    "summary": "",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/encuentran-al-director-de-proteccion-civil-de-chiapas-y-a-dos-mujeres-sin-vida-en-oaxaca-junto-a-narcomensaje/",
+    "category": "Estados",
+    "date": "2026-11-28 13:13",
+    "image": "https://www.infobae.com/resizer/v2/7P525JC3EVH37D6RC7RUXEMGFQ.jpg?auth=c6bbd3333fead75692b7f5950193878ae36fa58e3378ca7e614be48dd8c2489b&smart=true&width=1920&height=1080",
+    "title_en": "Civil protection director and two homeless women found in Oaxaca with narcomensage"
+  },
+  {
+    "title": "Coca-Cola Flow Fest 2026: artistas, horarios, mapa, empalmes, clima y cierre de metro este sábado 28 de noviembre",
+    "summary": "El Coca-Cola Flow Fest 2026 inicia este sábado 28 de noviembre en el Autódromo Hermanos Rodríguez de la Ciudad de México, con una jornada de reguetón, música urbana y regional mexicano que se extenderá hasta la madrugada",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/coca-cola-flow-fest-2026-artistas-horarios-mapa-empalmes-clima-y-cierre-de-metro-este-sabado-28-de-noviembre/",
+    "category": "Deportes",
+    "date": "2026-11-28 13:12",
+    "image": "https://www.infobae.com/resizer/v2/CN73SXSTFFGT7FOPTJ7DNCGWAM.png?auth=d30bb1b34249d12fadaaa5960cd39922bf7a4c05a6c90f507b7a917db4599bc1&smart=true&width=1536&height=1024",
+    "title_en": "Coca Flow Fest 2026: artists, schedules, map, paddles, climate and metro closure this Saturday, November 28",
+    "summary_en": "The Coca Flow Fest 2026 starts on Saturday, November 28 at the Autodrome Hermanos Rodriguez of Mexico City with a day of regresion, urban and regional music that will extend up to the dawn"
+  },
+  {
+    "title": "Sheinbaum da banderazo a plataformas marítimas en Dos Bocas; petróleo y energía, nunca más al servicio de intereses ajenos, dice",
+    "summary": "Desde Tabasco, la titular del Ejecutivo, destacó la soberanía energética del país",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-da-banderazo-a-plataformas-maritimas-en-dos-bocas-petroleo-y-energia-nunca-mas-al-servicio-de-intereses-ajenos-dice/",
+    "category": "Estados",
+    "date": "2026-11-28 13:08",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/UWOFVXJHDVBSZBF2K6CO7SWPYI.jpg?auth=3902a395c371c86b7f7fa40e797509e235e6ae678f5da1222a36db5f300905f9&smart=true&width=500",
+    "title_en": "Sheinbaum challenges seaside platforms at Two Bocas, oil and energy, never at the service of other people's interests, says",
+    "summary_en": "From Tabasco, the incumbent of the Executive, emphasized the country's energy sovereignty"
+  },
+  {
+    "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 28 de noviembre: Cae La Chefona y tres cómplices en Querétaro y Tijuana, traficaban migrantes de Brasil a EEUU",
+    "summary": "Sigue lo más importante de estos temas en tiempo real sólo por Infobae México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-28-de-noviembre-trasladan-en-ambulancia-a-el-r2-al-penal-de-puente-grande/",
+    "category": "Estados",
+    "date": "2026-11-28 13:07",
+    "image": "https://www.infobae.com/resizer/v2/TOUVKAXABNGJTAHGNXJVZOA4E4.JPG?auth=47ea4cc2f49837eadb463899ead0ccc36458875707a58508af569baa5ab78ecc&smart=true&width=5500&height=3667",
+    "summary_en": "Following the most important of these issues in real time only by Infobae Mexico",
+    "title_en": "EN VIVO) 124; Security, drug trafficking and crime in Mexico today 28 November: Cae La Chefona and three accomplices at Querétaro and Tijuana trafficked migrants from Brazil to the US"
+  },
+  {
+    "title": "Alejandra Guzmán: ¿Cuál es su estado de salud hoy 28 de noviembre tras luxarse la cadera y cancelar concierto en CDMX?",
+    "summary": "La cantante fue trasladada a un hospital especializado al sur de la capital después de presentar una nueva lesión durante su espectáculo en la Arena Ciudad de México",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/alejandra-guzman-cual-es-su-estado-de-salud-hoy-28-de-noviembre-tras-luxarse-la-cadera-y-cancelar-concierto-en-cdmx/",
+    "category": "Salud",
+    "date": "2026-11-28 13:06",
+    "image": "https://www.infobae.com/resizer/v2/HR3QX4462VFTNELGYJAR3PFDTA.jpg?auth=afc51233449db176a0b28426c7ae735d1716403342c28c8dfdbaaac9c4ea4b8f&smart=true&width=1920&height=1080",
+    "title_en": "Alejandra Guzmán: What's his state of health today, November 28 after his hip and his wedding at CDMX?",
+    "summary_en": "The singer was moved to a specialist hospital south of the capital after presenting a new injury during her show at Arena Mexico City"
+  },
+  {
+    "title": "Subsidios a gasolina y diésel dejarán un faltante en la recaudación fiscal de México en 2026",
+    "summary": "Los estímulos fiscales para contener el precio de los combustibles reducirán los ingresos tributarios previstos por el Gobierno federal.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/sectorfinanciero/subsidios-gasolina-diesel-dejaran-faltante-recaudacion-fiscal-mexico-20261128-846227.html",
+    "category": "Economía",
+    "date": "2026-11-28 13:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/20/6a5ef5d893434.jpeg",
+    "title_en": "Gas and diesel subsidies will leave a missing at Mexico's tax collection by 2026",
+    "summary_en": "Tax incentives to contain fuel prices will reduce the tax revenues foreseen by the federal Government."
+  },
+  {
+    "title": "El Tío: el capo de Los Caballeros Templarios que hablaba por YouTube y terminó escondido en un clóset",
+    "summary": "Dionisio Loya Plancarte, identificado como uno de los principales dirigentes de Los Caballeros Templarios, fue detenido el 27 de enero de 2014 en Morelia, donde intentó ocultarse en un compartimento habilitado dentro de un clóset. Las autoridades ofrecían 30 millones de pesos por información que permitiera localizarlo",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/el-tio-el-capo-de-los-caballeros-templarios-que-hablaba-por-youtube-y-termino-escondido-en-un-closet/",
+    "category": "Nación",
+    "date": "2026-11-28 13:00",
+    "image": "https://www.infobae.com/resizer/v2/HMIIF775OFBALK3UJVTEDBJNUM.png?auth=78c7a6e2f6a9e06239be11e91263952de8d1d4ac59e950c084b921a4e048f7db&smart=true&width=1536&height=1024",
+    "title_en": "The Man: The Master of The Template Knights who spoke on YouTube and ended up hidden in a closet",
+    "summary_en": "Dionisio Loya Plancarte, identified as one of the leading leaders of The Knights Template, was arrested on January 27, 2014 in Morelia, where she tried to hide herself in an authorized compartment inside a closet. The authorities offered 30 million pesos for information to be found"
+  },
+  {
+    "title": "México tendrá que combinar aumentos salariales y menos horas de trabajo: Banamex advierte sobre el costo para las empresas",
+    "summary": "En 2027, los trabajadores mexicanos podrían ganar más dinero y pasar menos horas en sus empleos. El gobierno de México busca continuar con los aumentos al salario mínimo y comenzar la reducción gradual de la j ornada laboral hasta llegar a las 40 horas semanales . Aunque ambos cambios buscan mejorar la calidad de vida de los trabajadores, también…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/empresas-y-economia/mexico-tendra-que-combinar-aumentos-salariales-horas-trabajo-banamex-advierte-costo-para-empresas",
+    "category": "Economía",
+    "date": "2026-11-28 13:00",
+    "image": "",
+    "title_en": "Mexico will have to combine wage increases and less work hours: Banamex warns about the cost to businesses",
+    "summary_en": "By 2027, Mexican workers could gain more money and spend less hours in their jobs. The Mexican government aims to continue with the increases to the minimum wage and to start with a gradual reduction of jobs up to about 40 hours a week. Although both changes seek to improve the quality of life of the workers, they have also been..."
+  },
+  {
+    "title": "Pemex rompe récord en refinación y cerrará 2026 con deuda menor a 70 mil mdd: Sheinbaum",
+    "summary": "La presidenta anunció la puesta en marcha de dos plantas separadoras y endulzadoras de gas",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/pemex-rompe-record-en-refinacion-y-cerrara-2026-con-deuda-menor-a-70-mil-mdd-sheinbaum/",
+    "category": "Nación",
+    "date": "2026-11-28 12:58",
+    "image": "https://www.infobae.com/resizer/v2/QCPZYWDAANCMNIHFV2DDK77PYM.jpg?auth=65d4737d19e1adaf84c6f5c712bbc613c405e4431c87fc90b7728e7c14c216f0&smart=true&width=1920&height=1080",
+    "title_en": "pemex breaks record in refinement and will close 2026 with debt less than 70 thousand mdd: Sheinbaum",
+    "summary_en": "The president announced the launch of two separate plants and gas sweeteners"
+  },
+  {
+    "title": "Daira iba a trabajar pero fue hallada sin vida en Hidalgo, familia reclama: “Dicen que no sirven las cámaras y que esperáramos ”",
+    "summary": "Sus amigos y familiares marcharon en Pachuca este viernes, el mismo día de la aparición de su cuerpo embolsado",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/daira-iba-a-trabajar-pero-fue-hallada-sin-vida-en-hidalgo-familia-reclama-dicen-que-no-sirven-las-camaras-y-que-esperaramos/",
+    "category": "Estados",
+    "date": "2026-11-28 12:55",
+    "image": "https://www.infobae.com/resizer/v2/YXD2ODAHZRG6FACSAELMYGYYT4.png?auth=0700ba801902efc5bf1cf1956924b2315c45163176a95ca98395b496ad8f690a&smart=true&width=2752&height=1536",
+    "title_en": "Daira was going to work but she was found lifeless at Hidalgo, and family claims, \"They say they're bad at cameras and we'll wait.\"",
+    "summary_en": "His friends and families marched to pachuca this Friday, the same day his body was pitted."
+  },
+  {
+    "title": "Cae La Chefona y tres cómplices en Querétaro y Tijuana: traficaban migrantes de Brasil a EEUU",
+    "summary": "La organización captaba personas en Brasil y coordinaba su traslado hacia Estados Unidos a través de México. En Tijuana fueron detenidos tres presuntos colaboradores y asegurados pasaportes brasileños",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/cae-la-chefona-y-tres-complices-en-queretaro-y-tijuana-traficaban-migrantes-de-eeuu-a-brasil/",
+    "category": "Estados",
+    "date": "2026-11-28 12:53",
+    "image": "https://www.infobae.com/resizer/v2/RSAT7SRYFVBYVIQY7S7YJPANEM.jpg?auth=af9e4f6da04d1135946bb47535e17e07ea82a1e6569692472a8d958f9c25192e&smart=true&width=1600&height=901",
+    "title_en": "Cae La Chefona and three accomplices at Querétaro and Tijuana: trafficked migrants from Brazil to the US",
+    "summary_en": "The organization was picking up people in Brazil and coordinating their move to the U.S. through Mexico. 3 suspected collaborators and secure Brazilian passports were arrested in Tijuana"
+  },
+  {
+    "title": "Pondrán en operación Centro de Identificación Humana en Tamaulipas; permitirá abatir rezago forense en la entidad",
+    "summary": "La puesta en marcha de esta obra permitirá complementar las bases de datos genéticos y forenses",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/estados/pondran-en-operacion-centro-de-identificacion-humana-en-tamaulipas-permitira-abatir-rezago-forense-en-la-entidad/",
+    "category": "Estados",
+    "date": "2026-11-28 12:48",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/NF2XI36WNVDHTMA3H64SREF2IQ.jpeg?auth=62b06a226b54b922f2cbcf0d42d316135d54e6d06ea9680a501d6d164158cc69&smart=true&width=500",
+    "title_en": "They will put into operation Human Identification Centre at Tamaulipas and will allow to remove forensic backwardness at the entity",
+    "summary_en": "The implementation of this work will complement genetic and forensic databases"
+  },
+  {
+    "title": "México autoriza el ingreso de Navy SEALs de Estados Unidos; este es el motivo",
+    "summary": "CIUDAD DE MÉXICO.— El gobierno de México autorizó el ingreso al país de elementos del Equipo 4 de los Navy SEALs de Estados Unidos para participar en un ejercicio de entrenamiento conjunto con personal de la Armada de México, de acuerdo con un decreto publicado en el Diario Oficial de la Federación (DOF). La autorización, […]",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/28/mexico-autoriza-ingreso-navy-seals-estados-unidos-entrenamiento-militar.html",
+    "category": "Estados",
+    "date": "2026-11-28 12:46",
+    "image": "",
+    "title_en": "Mexico authorizes Navy SEALs from the U.S. and that's why",
+    "summary_en": "- The Mexican government authorized the entry into the country of elements of Team 4 of the U.S. Navy SEALs to participate in a training exercise with personnel of the Mexican Navy, in accordance with a decree published in the Official Journal of the Federation (DOF). The authorisation [...]"
+  },
+  {
+    "title": "¿Qué está pasando en el Metro y Metrobús hoy 28 de noviembre? Línea 8 del STC con servicio completo",
+    "summary": "",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/que-esta-pasando-en-el-metro-y-metrobus-hoy-28-de-noviembre/",
+    "category": "Nación",
+    "date": "2026-11-28 12:44",
+    "image": "https://www.infobae.com/resizer/v2/DWYF3XXWH5DBXDT2AXGMBC66FI.jpg?auth=41d87b9826e696db86601ac11cff5fe72b745f4c2d516b1502d8fba75a1dfcbc&smart=true&width=1920&height=1080",
+    "title_en": "What's going on at Metro and Metrobus today, November 28? ETC line 8 with full service"
+  },
+  {
+    "title": "En maletas, atadas con cinta y en calcetines, así hallaron 26 tortugas casquito en Países Bajos, Profepa investiga caso",
+    "summary": "Las especies, catalogadas en peligro de extinción, viajaban de México con dirección a Hong Kong",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/en-maletas-atadas-con-cinta-y-en-calcetines-asi-hallaron-26-tortugas-casquito-en-paises-bajos-profepa-investiga-caso/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 12:36",
+    "image": "https://www.infobae.com/resizer/v2/D7RATK2BWZBG7O2JAYF5VEGO5Q.png?auth=6c70e196c692ce1962e316a1a12d807caf8ae80808b3a08f735d626579f110e2&smart=true&width=1920&height=1080",
+    "title_en": "That's how they found 26 casquito turtles in the Netherlands.",
+    "summary_en": "The endangered species were travelling from Mexico to Hong Kong"
+  },
+  {
+    "title": "Cinépolis lanzó promoción de palomitas y usuarios llevaron hasta un tinaco a la dulcería para aprovecharla",
+    "summary": "Por 169 pesos, Cinépolis servía hasta dos canastas de palomitas en el recipiente que llevara cada cliente. El ingenio mexicano llevó la promoción de la dulcería a TikTok.",
+    "source": "Expansión",
+    "url": "https://expansion.mx/mercadotecnia/2026/11/28/cinepolis-promocion-palomitas-trae-tu-canasta",
+    "category": "Economía",
+    "date": "2026-11-28 12:30",
+    "image": "https://cdn-3.expansion.mx/dims4/default/9b966d6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa8%2F7f%2F28a8936c4c138be2e44ddb0bf839%2Fcinepolis-palomitas-trae-tu-canasta-collage.jpg",
+    "title_en": "Cinebpolis launched promotion of Popcorn and users brought up a dill to the sweetener's place to take advantage of it",
+    "summary_en": "For 169 pesos, Cinebpoles served up to two baskets of Popcorn in the container that each client had. The Mexican wit brought the promotion of sweetness to TikTok."
+  },
+  {
+    "title": "Amazon y el Black Friday están rematando la tablet ideal para estudiar y trabajar: Lenovo Idea Tab con teclado y pencil",
+    "summary": "Si estás buscando una tablet versátil que sirva tanto para el estudio como para el trabajo ligero, entonces deberías prestarle atención a la Lenovo Idea Tab (2026) que además incluye un teclado magnético y un pencil . Gracias al Black Friday puedes encontrarla en Amazon México por solo 4,999 pesos , se puede pagar a 24 meses sin intereses y si utilizas…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/seleccion/amazon-black-friday-estan-rematando-tablet-ideal-para-estudiar-trabajar-lenovo-idea-tab-teclado-pencil",
+    "category": "Tecnología",
+    "date": "2026-11-28 12:30",
+    "image": "",
+    "title_en": "Amazon and the Black Friday are breaking up the ideal tablet to study and work: Lenovo Idea Tab with keyboard and pencil",
+    "summary_en": "If you are looking for a versatile tablet that will serve both studio and light work, then you should pay attention to the Lenovo Idea Tab (2026) that also includes a magnetic keyboard and a pencil. Thanks to the Black Friday you can find them at Amazon Mexico for only 4,999 pesos, they can pay them 24 months without interest and if you use..."
+  },
+  {
+    "title": "Profeco alerta por fraudes en la venta de boletos: cómo identificar páginas de reventa y evitar estafas",
+    "summary": "Estas medidas permiten reducir los riesgos y evitar inconvenientes antes de asistir a cualquier presentación o actividad cultural y deportiva",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/profeco-alerta-por-fraudes-en-la-venta-de-boletos-como-identificar-paginas-de-reventa-y-evitar-estafas/",
+    "category": "Cultura",
+    "date": "2026-11-28 12:26",
+    "image": "https://www.infobae.com/resizer/v2/GL3QYYO2B5GSLMWTYGDNDKRU5U.png?auth=5d33d1fa39d38da8d7f45d12fc60fc340b4cca0c9ed00ea20371459915958468&smart=true&width=2752&height=1536",
+    "title_en": "Profect alert by fraud in selling tickets: how to identify resale pages and avoid scams",
+    "summary_en": "These measures reduce risks and avoid disadvantages before attending any cultural and sports presentation or activity"
+  },
+  {
+    "title": "Relatora de ONU llega a México; acusa \"presión\" de países vecinos tras prohibición de ingreso a Costa Rica",
+    "summary": "Denuncia que la \"dejaron un día y medio en el aeropuerto, en condiciones difíciles\"",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/mundo/relatora-de-onu-llega-a-mexico-acusa-presion-de-paises-vecinos-tras-prohibicion-de-ingreso-a-costa-rica/",
+    "category": "Nación",
+    "date": "2026-11-28 12:24",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/GQQU4QIZXBGMRL334GTKU3A474.jpg?auth=01cc5a61dbe588dcc041f2e10a052adc404ea909ca92806e3bcbb660b0cbfa55&smart=true&width=500",
+    "title_en": "UN Rapporteur arrives in Mexico, accuses \"pressure\" from neighbouring countries after an entry ban on Costa Rica",
+    "summary_en": "He claims that \"they leave her a day and a half at the airport, under difficult conditions\""
+  },
+  {
+    "title": "Primera tormenta invernal en México: Así estará la temporada de frentes fríos este fin de año",
+    "summary": "México tendrá 56 frentes fríos en 2026-2027. Conoce cómo influirá El Niño en las lluvias, vientos y tormentas invernales este fin de año.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/estados/2026/11/28/primera-tormenta-invernal-en-mexico-asi-estara-la-temporada-de-frentes-frios-este-fin-de-ano/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 12:24",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/U0Dfu8Wfv37LEYr8H4VoCF4GWUY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2KCFPV5W4ZEFZJP5JBVBZ7IQUQ.jpg",
+    "title_en": "First winter storm in Mexico: Thus will be cold front season this year's end",
+    "summary_en": "Mexico will have 56 cold fronts in 2026-2027. He knows how El Niño will influence rain, wind and winter storms this year's end."
+  },
+  {
+    "title": "Identifican como expolicía a presunto delincuente lesionado durante enfrentamiento en Culiacán; Fiscalía de Sinaloa realiza investigación",
+    "summary": "Misael “N” causó baja de la Secretaría de Seguridad Pública y Tránsito de Culiacán en el año 2023",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/estados/identifican-como-expolicia-a-presunto-delincuente-lesionado-durante-enfrentamiento-en-culiacan-fiscalia-de-sinaloa-realiza-investigacion/",
+    "category": "Seguridad",
+    "date": "2026-11-28 12:18",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/F6YVYJFYHFDELFPW3J6KRRKSMI.jpg?auth=e17f4947e9922579565669366e6a53a173960fbcf12a44b15193888ebf155e1b&smart=true&width=500",
+    "title_en": "They identify as an ex-police officer an alleged offender injured during his or her confrontations at Culiacan, and conduct an investigation into his or her actions.",
+    "summary_en": "Misael \"N\" caused a loss from the Secretariat of Public Security and Transit of Culiacan in 2023"
+  },
+  {
+    "title": "Zonas altas de Morelos amanecen bajo neblina; reportan accidentes viales",
+    "summary": "",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/estados/zonas-altas-de-morelos-amanecen-bajo-neblina-reportan-accidentes-viales/",
+    "category": "Estados",
+    "date": "2026-11-28 12:13",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/32HLZOLGORAPJP5E3LWP4QR3WU.jpg?auth=8e7719769529f4d784f0bbc79ce5ecf59a2de71764a115aa2f388e2c61f7d3d1&smart=true&width=500",
+    "title_en": "Highlands of Morelos dawg under fog and report road accidents"
+  },
+  {
+    "title": "Porto vs Sporting de Lisboa, EN VIVO: dónde y a qué hora ver en México a Santiago Giménez en la Primeira Liga",
+    "summary": "Santiago Giménez afronta un nuevo desafío con el Porto: así llega el mexicano al duelo ante el Sporting de Lisboa",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/deportes/2026/11/28/porto-vs-sporting-de-lisboa-en-vivo-donde-y-a-que-hora-ver-en-mexico-a-santiago-gimenez-en-la-primeira-liga/",
+    "category": "Deportes",
+    "date": "2026-11-28 12:12",
+    "image": "https://www.infobae.com/resizer/v2/VGA4RUYNUJBH7BBLIGEF6OLPSE.png?auth=58961f7d5d59e0b220c8f1fd387dcd4cf490bb5e7a872e181f6f4bebe4608920&smart=true&width=2752&height=1536",
+    "title_en": "Porto vs. Sporting from Lisbon, EN VIVO: where and at what time to see Santiago Giménez at Primeira Liga",
+    "summary_en": "Santiago Giménez faces a new challenge with Porto: this's how the Mexican gets to duel with the Sporting of Lisbon"
+  },
+  {
+    "title": "Profepa busca repatriar a 26 tortugas traficadas desde México a Países Bajos; ejemplares estaban envueltos en cinta adhesiva",
+    "summary": "La autoridad ambiental informó que las especies fueron halladas en el equipaje de un sujeto, quien finamente fue detenido en dicho país",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/profepa-busca-repatriar-a-26-tortugas-traficadas-desde-mexico-a-paises-bajos-ejemplares-estaban-envueltos-en-cinta-adhesiva/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 12:04",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/LO6WU3HKNZFJPG7FLNNINAF3VQ.png?auth=73e3fc78a0ee2b58d524f6cc1663a4db7d590c1b3177df030081b02d39b9fffb&smart=true&width=500",
+    "title_en": "Profepa seeks to repatriate 26 turtles trafficked from Mexico to the Netherlands and copies were wrapped with an adhesive tape",
+    "summary_en": "The environmental authority reported that the species were found in a person's luggage, who was finally arrested in that country."
+  },
+  {
+    "title": "Marx Arriaga acusa a la SEP de recurrir a \"triquiñuelas\" para desacreditarlo; arremete contra Mario Delgado",
+    "summary": "El exdirector de Materiales Educativos aseguró que la SEP \"lava la cara de algunos\" y \"ensucia la de otros\"",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/marx-arriaga-acusa-a-la-sep-de-recurrir-a-triquinuelas-para-desacreditarlo-arremete-contra-mario-delgado/",
+    "category": "Nación",
+    "date": "2026-11-28 12:03",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/FMZ252E73VFGTCAG5AEX5NSQB4.jpg?auth=bcc89dbded867848178972543e72754fe57e68203cddd899a1dd36cef5b680bb&smart=true&width=500",
+    "title_en": "Marx Arriaga accuses SEP of using \"triquiñuelas\" to discredit him and challenges Mario Delgado",
+    "summary_en": "The former Director of Educational Materials stated that the SEP \"washed some's face\" and \"dirty some's face\""
+  },
+  {
+    "title": "América vs. Monterrey EN VIVO HOY: ¿Dónde y a qué hora ver los partidos de vuelta de cuartos de la Liga MX?",
+    "summary": "Además del América vs. Monterrey, este sábado se juega el Toluca vs. Atlas. Te contamos dónde ver los partidos de vuelta y a qué hora comienzan.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/deportes/2026/11/28/liga-mx-en-vivo-resultados-de-los-partidos-de-vuelta-de-cuartos-america-monterrey-toluca-atlas/",
+    "category": "Deportes",
+    "date": "2026-11-28 11:55",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/4tyFSCeFW-ZPfgUNU-cTG5oGhl4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UCO5RQFFFFA7TCGYDLCIW5RBIY.jpg",
+    "title_en": "America vs. Monterrey EN VIVO HOY: Where and at what time do we watch the MX League quarter back matches?",
+    "summary_en": "Besides the Americas vs. Monterrey, this Saturday we play Toluca vs. Atlas. We'll tell you where to watch the parties back and what time they start."
+  },
+  {
+    "title": "Detienen en Querétaro a \"Chefona\", líder de organización ligada al tráfico de personas de Brasil a EU; operaba con documentos falsos",
+    "summary": "También fueron detenidos en Querétaro y Baja California otros tres integrantes de la misma célula delictiva",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/nacion/detienen-en-queretaro-a-chefona-lider-de-organizacion-ligada-al-trafico-de-personas-de-brasil-a-eu-operaba-con-documentos-falsos/",
+    "category": "Estados",
+    "date": "2026-11-28 11:48",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/WUAAAE3TKRFG5FQTYRXEX3POBM.jpg?auth=21f5abcfaec4161fd10c6759e1bff2bf8c31dd18f6688eb3801f747395312e75&smart=true&width=500",
+    "title_en": "They put an end to \"Chefona,\" an organization leader linked to traffic from Brazil to the US and operated with false documents.",
+    "summary_en": "Two other members of the same crime cell were also arrested at Querétaro and Baja California"
+  },
+  {
+    "title": "Bosque de Chapultepec anuncia cancelación de actividades por alerta de tormenta invernal en CDMX",
+    "summary": "El Bosque de Chapultepec suspendió sus actividades culturales y sociales al aire libre este sábado por la Alerta Naranja ante lluvias, frío y viento en la Ciudad de México; el acceso al parque permanece abierto",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/bosque-de-chapultepec-anuncia-cancelacion-de-actividades-por-alerta-de-tormenta-invernal-en-cdmx/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 11:45",
+    "image": "https://www.infobae.com/resizer/v2/J2WN3PASEZDVXPRY4BQXZDJT5E.png?auth=dd2015880b5f47ce5150ccbfece27039a8ccd1c000a502447665d44c6cf59f6e&smart=true&width=2752&height=1536",
+    "title_en": "Chapultepec Forest Announces Cancellation of Winterstorm Warning Activities at CDMX",
+    "summary_en": "The Chapultepec Forest suspended its cultural and social activities outdoors this Saturday by Orange Alert with rain, cold and wind in Mexico City and access to the park remains open"
+  },
+  {
+    "title": "En 2027 tendrán internet el 100% de las escuelas en Tamaulipas: Secretario de Educación; prohibición de celulares, un éxito",
+    "summary": "Miguel Ángel Valdez reconoció que existe un déficit en cuanto a los equipos de cómputo en los centros educativos",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/estados/en-2027-tendran-internet-el-100-de-las-escuelas-en-tamaulipas-secretario-de-educacion-prohibicion-de-celulares-un-exito/",
+    "category": "Tecnología",
+    "date": "2026-11-28 11:40",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/JXYJHKYDKNCDPDBQKWUSKVJUPI.jpeg?auth=f1741d29bb615778739471a836ce24923b3d8179cb249119205b0cb101927909&smart=true&width=500",
+    "title_en": "By 2027 they will have the internet 100% of schools in Tamaulipas: Secretary of Education, mobile ban, success",
+    "summary_en": "Miguel Ángel Valdez recognized that there is a deficit with regard to computer equipment at educational establishments"
+  },
+  {
+    "title": "Alejandra Guzmán cancela concierto; se le vuelve a “zafar” la cadera en pleno show",
+    "summary": "CIUDAD DE MÉXICO.— En horas recientes el nombre de la cantante, Alejandra Guzmán se ha convertido en tendencia de redes sociales y, posteriormente acaparó los titulares de varios medios de comunicación. La razón, la cancelación de un concierto. Y es que a tan solo minutos de haber iniciado su presentación, la noche de este pasado viernes […]",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/espectaculos/2026/11/28/alejandra-guzman-cancela-concierto-se-le-vuelve-a-zafar-la-cadera-en-pleno-show-reportan-cual-es-su-estado-de-salud.html",
+    "category": "Tecnología",
+    "date": "2026-11-28 11:39",
+    "image": "",
+    "title_en": "Alejandra Guzmán cancels concert and turns his hip to \"zafar\" in full sho w",
+    "summary_en": "- In recent hours the singer's name, Alejandra Guzmán has been transformed into a social networking trend and, later, his headlines have been beamed by several media. The reason, the cancellation of a concert. That's just minutes after his performance, last Friday's night, [...]"
+  },
+  {
+    "title": "Temblor hoy en México 28 de noviembre de 2027: Se registra sismo de magnitud 4.0 en Oaxaca",
+    "summary": "Sigue en vivo todas las actualizaciones sobre movimientos telúricos a lo largo y ancho del país",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/temblor-hoy-en-mexico-noticias-actividad-sismica-28-de-noviembre-de-2027/",
+    "category": "Estados",
+    "date": "2026-11-28 11:37",
+    "image": "https://www.infobae.com/resizer/v2/PS4BWDDURJCCJO36HT7B3P7BCE.png?auth=5361b99e0a7af6e968f040bc29b1fa11deb78c2dfc2a6d3190460f18779a737b&smart=true&width=1672&height=941",
+    "summary_en": "Keep up with all updates about telepast movements throughout the country",
+    "title_en": "Today's Tremor in Mexico November 28, 2027: Seism of magnitude 4.0 in Oaxaca"
+  },
+  {
+    "title": "Tormenta invernal, frente frío y otros 5 fenómenos meteorológicos congelarán el país este sábado",
+    "summary": "La primera tormenta invernal, una vaguada polar y el frente frío número 8 provocan bajas temperaturas, heladas, lluvias y posible caída de nieve en varios estados de México.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/28/tormenta-invernal-frente-frio-y-otros-5-fenomenos-meteorologicos-congelaran-el-pais-este-sabado/",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 11:34",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/5uP1cIm_u_0fPFVpv5eg8OS4DlM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4WCPD3EPYVB6ZAAPKHRKGRE6NQ.jpg",
+    "title_en": "Winter storm, cold face and other 5 weather events will freeze the country this Saturday",
+    "summary_en": "The first winter storm, a polar paddle and cold front number 8 provoke low temperatures, frost, rain and potential snow fall in several states of Mexico."
+  },
+  {
+    "title": "Maltrato animal en la Riviera Maya: exhiben a mujer ahuyentando a coatíes (VÍDEO)",
+    "summary": "Un vídeo difundido en redes sociales desató indignación por un presunto caso de maltrato animal en la Riviera Maya, Quintana Roo. La grabación muestra a una mujer golpeando con una sandalia unos arbustos con la intención de ahuyentar a varios coatíes que se encontraban en el lugar en busca de alimento. De acuerdo con el […]",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/28/maltrato-animal-riviera-maya-mujer-golpea-arbustos-ahuyentar-coaties-video-redes.html",
+    "category": "Tecnología",
+    "date": "2026-11-28 11:32",
+    "image": "",
+    "title_en": "Animal maltreatment at the Riviera Maya: they exhibit a woman fleeing coaties (VIDEO)",
+    "summary_en": "A video broadcast on social networks unleashed outrage about an alleged case of animal abuse at Riviera Maya, Quintana Roo. The recording shows a woman with a sandal beating some bushes with an intention to get rid of several coaties who were at the place looking for food. According to [...]"
+  },
+  {
+    "title": "Amazon tiene la pantalla ideal para tu sala, y gracias al Black Friday está de remate: Hisense MiniLED QLED 4K de 65 pulgadas",
+    "summary": "La mejor forma de ver series y películas es con una buena televisión, y estamos seguros que esta pantalla de Hisense te va a encantar. Se trata del modelo QD8 que tiene un panel Mini LED QLED 4K y un tamaño de 65 pulgadas . La encuentras en Amazon México por 8,395 pesos donde además si aprovechas las promociones bancarias puedes ahorrar hasta un 15% de…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/seleccion/amazon-tiene-pantalla-ideal-para-tu-sala-gracias-al-black-friday-esta-remate-hisense-miniled-qled-4k-65-pulgadas",
+    "category": "Tecnología",
+    "date": "2026-11-28 11:30",
+    "image": "",
+    "title_en": "Amazon has an ideal screen for your living room and thanks to the Black Friday it's pounding: 65-inch Hispanic MiniLED QLED 4K",
+    "summary_en": "The best way to watch series and films is with good television, and we're sure that this Hisense screen will love you. It's the QD8 model with a 3K Mini LED Panel and a 65-inch size. You find her at Amazon Mexico for 8,395 pesos and if you have been using the Bank Promotions you can save up to 15% of..."
+  },
+  {
+    "title": "Todas las funciones gratis de El Cascanueces en CDMX y Edomex: guía completa con fechas y horarios",
+    "summary": "El ballet navideño de Tchaikovsky se presenta sin costo en el Museo Vivo del Muralismo, el Cenart, Radio UNAM y diez sedes en Ecatepec entre noviembre y diciembre de 2026",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/todas-las-funciones-gratis-de-el-cascanueces-en-cdmx-y-edomex-guia-completa-con-fechas-y-horarios/",
+    "category": "Estados",
+    "date": "2026-11-28 11:27",
+    "image": "https://www.infobae.com/resizer/v2/6R7W4KZRY5EJLDX3YMZL6FJFXU.png?auth=6728777872b0267c124d2a3b84fcd2a96aad88eb09455403a13479cb770f5d9d&smart=true&width=2752&height=1536",
+    "title_en": "All free functions of El Cascutias at CDMX and Edomex: complete guide with dates and schedules",
+    "summary_en": "The Christmas ballet at Tchaikovsky will be free at the Vivo Museum of Muralism, Cenart, UNAM Radio and ten headquarters at Ecatepec from November to December 2026"
+  },
+  {
+    "title": "Chocolate caliente con cajeta y nuez: la receta perfecta para un día de mucho frío en México",
+    "summary": "Te decimos el paso a paso para que lo prepares desde casa",
+    "source": "Infobae México",
+    "url": "https://www.infobae.com/mexico/2026/11/28/chocolate-caliente-con-cajeta-y-nuez-la-receta-perfecta-para-un-dia-de-mucho-frio-en-mexico/",
+    "category": "Nación",
+    "date": "2026-11-28 11:26",
+    "image": "https://www.infobae.com/resizer/v2/CTS3AT6VTFE2DGC6FX2XBEN5B4.png?auth=17b8572d739c3d8dc7a4d7a6c2d93a3f6425e0a29a972bdb1ffeb219731cb86a&smart=true&width=2752&height=1536",
+    "title_en": "Hot chocolate with box and nut: The perfect recipe for a very cold day in Mexico",
+    "summary_en": "We say step by step to get them ready from home"
+  },
+  {
+    "title": "FGR va contra presunta red de corrupción en contratos del INE: Investigan a más de 50 personas",
+    "summary": "La FGR integra 16 carpetas de investigación por posibles irregularidades en contratos del INE y organismos electorales locales, conocidos como OPLEs.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/27/fgr-va-contra-presunta-red-de-corrupcion-en-contratos-del-ine-investigan-a-mas-de-50-personas/",
+    "category": "Ciencia",
+    "date": "2026-11-28 11:18",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/FcyDCh5t_ib0lJln-6RsXZSa-Fg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JMAK4X2ZKVBKJIXQQ7G2F6M3OQ.jpg",
+    "title_en": "FGR goes against alleged corruption network at INE contracts: Research more than 50 people",
+    "summary_en": "The FGR integrates 16 research kits for potential irregularities in INE contracts and local electoral agencies, known as OPLs."
+  },
+  {
+    "title": "GTA VI: Estas son las 34 canciones que integran la banda sonora del videojuego",
+    "summary": "De Dua Lipa y Travis Scott a Fuerza Regida, Keith Richards y Kali Uchis, el álbum oficial de Grand Theft Auto VI reúne diferentes generaciones de artistas y géneros musicales que van del reggaetón al rock, el jazz y la electrónica.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/arteseideas/gta-vi-son-34-canciones-integran-banda-sonora-videojuego-20261128-846318.html",
+    "category": "Estados",
+    "date": "2026-11-28 11:18",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/12/6af671cd3d08f.jpeg",
+    "title_en": "GTA VI: These are the 34 songs that make up the video game soundtrack",
+    "summary_en": "From Dua Lipa and Travis Scott to Rig Force, Keith Richards and Kali Uchis, Grand Theft Auto VI's official album brings together different generations of artists and musical genres from regga to rock, jazz and electronics."
+  },
+  {
+    "title": "FGR asegura 4 casas ligadas a Taddei y a presunta red de corrupción del INE en CDMX: Esto encontraron",
+    "summary": "La FGR aseguró cuatro inmuebles en la Ciudad de México como parte de las investigaciones por posibles irregularidades en contratos del INE.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/28/fgr-asegura-4-casas-ligadas-a-taddei-y-a-presunta-red-de-corrupcion-del-ine-en-cdmx-esto-encontraron/",
+    "category": "Estados",
+    "date": "2026-11-28 11:17",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/tRP-0LU4qMZFvYKbZxAlshSTl7Y=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/M5R66CVS3NAP3L5AC2KO4C27G4.jpg",
+    "title_en": "FGR assures 4 houses linked to Taddei and alleged INE corruption network at CDMX: That found",
+    "summary_en": "The FGR secured four properties in Mexico City as part of investigations into potential irregularities in INN contracts."
+  },
+  {
+    "title": "Pemex y Petrobras negocian inversión mixta para explorar aguas profundas del Golfo de México",
+    "summary": "México busca aprovechar la tecnología de la petrolera brasileña para fortalecer la exploración de hidrocarburos y reducir los tiempos de desarrollo de nuevos yacimientos.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/pemex-petrobras-negocian-inversion-mixta-explorar-aguas-profundas-golfo-mexico-20261128-846221.html",
+    "category": "Tecnología",
+    "date": "2026-11-28 11:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/09/12/6aa575e025874.png",
+    "title_en": "Pemex and Petrobras negotiate mixed investment to explore deep waters of the Gulf of Mexico",
+    "summary_en": "Mexico aims at using Brazilian oil technologies to strengthen oil exploration and reduce new production times."
+  },
+  {
+    "title": "Walmart y Xataka México te regalan el juego del momento: así puedes participar",
+    "summary": "Walmart tiene un regalo especial para la comunidad de Xataka México: dos kits que incluyen una copia física de GTA 6 para PS5 , además de algunas botanas y bebidas para acompañar tus partidas. Participar por uno de ellos es muy sencillo. Solo tienes que seguir estos pasos. Cómo participar por un kit de Walmart y Xataka México Si quieres llevarte uno de los…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/seleccion/walmart-xataka-mexico-te-regalan-juego-momento-asi-puedes-participar",
+    "category": "Tecnología",
+    "date": "2026-11-28 11:00",
+    "image": "",
+    "title_en": "Walmart and Xataka Mexico give you the game of the moment: so you can participate",
+    "summary_en": "Walmart has a special gift for the community of Xataka Mexico: two kits that include a physical copy of GTA 6 for PS5, as well as some botas and beverages to accompany your games. To participate by one of them is quite simple. Just follow these steps. How to participate with a Walmart and Xataka Mexico kit If you want to get one of them..."
+  },
+  {
+    "title": "Aranceles de Estados Unidos truncan el sueño automotriz de México: sin nuevas fábricas y con coches más caros",
+    "summary": "Durante años se repitió que México sería el gran ganador de la nueva etapa de la industria automotriz. Sin embargo, el nuevo análisis prende las alarmas. En el corto plazo no llegarán más plantas ni capital fresco. El mensaje apunta a los aranceles de Estados Unidos y a su giro proteccionista. El país vecino concentra la inversión y deja a México en la…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/automovil/aranceles-estados-unidos-truncan-sueno-automotriz-mexico-nuevas-fabricas-coches-caros",
+    "category": "Economía",
+    "date": "2026-11-28 11:00",
+    "image": "",
+    "title_en": "U.S. Tariffs Tune Mexico's Auto Dream: Without New Factories and with More Expensive Cars",
+    "summary_en": "For years it was repeated that Mexico would be the great winner of the new phase of the automobile industry. The new analysis, however, lights up the alarms. No more plants and fresh capital will come soon. The message points to U.S. tariffs and their protectionist turn. The neighbouring country concentrates its investment and leaves Mexico with its..."
+  },
+  {
+    "title": "Relatora de la ONU llega a México tras prohibición de visita a Costa Rica",
+    "summary": "La UCR, la más importante de Centroamérica, le otorgó el viernes un título honoris causa durante una ceremonia que siguió por videollamada desde una sala de espera del aeropuerto.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/internacionales/relatora-onu-llega-mexico-prohibicion-visita-costa-rica-20261128-846317.html",
+    "category": "Economía",
+    "date": "2026-11-28 10:48",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/28/6b0b0566217b3.jpeg",
+    "title_en": "UN Rapporteur Arrives in Mexico after Prohibition of Visits to Costa Rica",
+    "summary_en": "The UCR, the most important in Central America, gave him an honorary title on Friday during a ceremony that followed by video call from an airport waiting room."
+  },
+  {
+    "title": "Amazon tiene el regalo de Navidad perfecto para los fans de Marvel: La torre de Los Vengadores en su versión de LEGO",
+    "summary": "Ya falta muy poco para el estreno de Avengers: Doomsday , y si además estás buscando el regalo de Navidad perfecto para los fans de Marvel , entonces deberías echarle un ojo a este coleccionable premium : La torre de Los Vengadores en su versión de LEGO con más de 5,200 piezas y 31 figuras. Puedes encontrarla en Amazon México y gracias a las ofertas del…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/seleccion/amazon-tiene-regalo-navidad-perfecto-para-fans-marvel-torre-vengadores-su-version-lego",
+    "category": "Tecnología",
+    "date": "2026-11-28 10:30",
+    "image": "",
+    "title_en": "Amazon has the perfect Christmas gift for Marvel fans: The Tower of The Avengers in its LEGO version",
+    "summary_en": "A few minutes from the Avengers: Doomsday premiere and if you are also looking for the best Christmas gift for Marvel's fans, then you should have an eye at this premium collection: The Tower of The Avengers in its LEGO version with more than 5,200 pieces and 31 figures. You can find her in Amazon Mexico and thanks to the offers of..."
+  },
+  {
+    "title": "FGR catea inmuebles en la CDMX relacionados con presuntos actos de corrupción en el INE",
+    "summary": "La titular de la FGR, Ernestina Godoy Ramos, confirmó que están abiertas 16 carpetas de investigación.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/fgr-catea-inmuebles-cdmx-relacionados-presuntos-actos-corrupcion-ine-20261128-846315.html",
+    "category": "Ciencia",
+    "date": "2026-11-28 10:28",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/28/6b0affca50aa6.jpeg",
+    "title_en": "FGR catespages real estate at CDMX related to alleged acts of corruption at INE",
+    "summary_en": "FGR's incumbent, Ernestina Godoy Ramos, confirmed that 16 research kits are open."
+  },
+  {
+    "title": "¿Por qué crece la lectura de cómics y mangas en México? Especialistas explican el fenómeno",
+    "summary": "La influencia del anime, las nuevas generaciones y una mayor oferta editorial ayudan a explicar el interés por estas publicaciones, cuya lectura registró el mayor crecimiento en el último estudio del INEGI.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/arteseideas/crece-lectura-comics-mangas-mexico-especialistas-explican-fenomeno-20261128-846261.html",
+    "category": "Economía",
+    "date": "2026-11-28 10:12",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b09fe56e43e5.jpeg",
+    "title_en": "Why does the reading of comics and sleeves grow in Mexico? Specialists explain the phenomenon",
+    "summary_en": "The influence of anime, new generations and more editorial offer help explain the interest in these publications, whose reading recorded the highest growth in the last INEGI study."
+  },
+  {
+    "title": "¿Qué revela el tráiler final de Avengers: Doomsday? Todo lo que sabemos antes de su estreno",
+    "summary": "El nuevo adelanto reúne a los Vengadores, los X-Men y los Cuatro Fantásticos ante una amenaza que pondrá en riesgo la supervivencia de tres universos. La película llegará a los cines de México el 16 de diciembre de 2026.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/arteseideas/revela-trailer-final-avengers-doomsday-estreno-20261128-846314.html",
+    "category": "Cultura",
+    "date": "2026-11-28 10:06",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/28/6b0afb4aac1db.jpeg",
+    "title_en": "What does the final trailer of Avengers: Doomsday reveal? All we know before his premiere",
+    "summary_en": "The new advance brings together the Avengers, the X-Men and the Fantastic Four with a threat that will put at risk the survival of three universes. The film will reach Mexico's cinemas on December 16, 2026."
+  },
+  {
+    "title": "Texas vendió a SpaceX siete terrenos cerca de la frontera con México por 10 dólares, pero documentos revelan que pagó más de 364,000",
+    "summary": "En octubre de 2025, SpaceX , la empresa aeroespacial de Elon Musk, concretó la compra de cuatro predios públicos no contiguos dentro del Parque Estatal Boca Chica , al sur de Texas. Dichos predios, que agrupan siete lotes y suman un aproximado de 7,689 metros cuadrados, se ubican cerca de las instalaciones de Starbase y de la frontera con México. De acuerdo…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/empresas-y-economia/texas-vendio-a-spacex-siete-terrenos-cerca-frontera-mexico-10-dolares-documentos-revelan-que-pago-364-000",
+    "category": "Tecnología",
+    "date": "2026-11-28 10:00",
+    "image": "",
+    "title_en": "Texas sold SpaceX seven lands near the border with Mexico for 10 dollars, but documents reveal that it paid more than 364,000",
+    "summary_en": "In October 2025, SpaceX, an aerospace company at elon musk, had been buying four non-contiguous public lands inside Boca Chica State Park South Texas. Those lands, with seven lots and an approximately 7.689 square metres, are situated close to the Starbase and border with Mexico. Okay..."
+  },
+  {
+    "title": "FGR catea casas por presunta corrupción en contratos vinculada con Guadalupe Taddei; Ernestina Godoy da un reporte",
+    "summary": "La Fiscalía General de la República (FGR) realizó cateos en cuatro inmuebles de Ciudad de México como parte de una investigación por posibles actos de corrupción en la asignación de contratos del Instituto Nacional Electoral (INE) y de organismos públicos locales electorales, informó su titular, Ernestina Godoy. De acuerdo con la agencia Reforma, los…",
+    "source": "Diario de Yucatán",
+    "url": "https://www.yucatan.com.mx/mexico/2026/11/28/fgr-cateos-cuatro-inmuebles-corrupcion-contratos-ine-guadalupe-taddei-reporte-ernestina-godoy.html",
+    "category": "Seguridad",
+    "date": "2026-11-28 10:00",
+    "image": "",
+    "title_en": "FGR caters for alleged corruption in contracts with Guadeloupe Taddei and Ernestina Godoy gives a report",
+    "summary_en": "The Office of the Prosecutor General of the Republic (FGR) conducted catereos at four locations in Mexico City as part of an investigation into potential corruption in the assignment of contracts by the National Electoral Institute and local public electoral agencies, his incumbent, Ernestina Godoy, reported. According to Reforma, the..."
+  },
+  {
+    "title": "¿Qué problemas estructurales presentan las viviendas en México?",
+    "summary": "Las filtraciones de agua y las cuarteaduras encabezan las afectaciones reportadas por los hogares, mientras los hundimientos del piso ocupan el tercer lugar",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/econohabitat/problemas-estructurales-presentan-viviendas-mexico-20261128-846302.html",
+    "category": "Economía",
+    "date": "2026-11-28 09:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a0353021b0.png",
+    "title_en": "What structural problems have been faced with housing in Mexico?",
+    "summary_en": "The water leaking and quartering lead to the family's reported affections while the ground sinks have been put third place"
+  },
+  {
+    "title": "Morena quiere frenar los abusos en los seguros médicos en México. Su propuesta permitiría cambiar de compañía sin perder años de antigüedad",
+    "summary": "Después de 11 años con el mismo seguro de gastos médicos mayores, Mercedes Baltazar recibió un aumento de 25%. Buscar una póliza más barata significaba perder la antigüedad que había acumulado con MetLife, como contamos anteriormente en Xataka México . Ese dilema llegó a la Cámara de Diputados y el 26 de noviembre, Ricardo Monreal, coordinador de Morena,…",
+    "source": "Xataka México",
+    "url": "https://www.xataka.com.mx/otros-1/morena-quiere-frenar-abusos-seguros-medicos-mexico-su-propuesta-permitiria-cambiar-compania-perder-anos-antiguedad",
+    "category": "Salud",
+    "date": "2026-11-28 09:00",
+    "image": "",
+    "title_en": "Brunette wants to stop health insurance abuses in Mexico. Your proposal would allow you to change your company without losing years old",
+    "summary_en": "After 11 years with the same high health care insurance, Mercedes Baltazar received an increase of 25%. To seek a cheaper policy means to lose the old age that I had accumulated with MetLife, as we previously counted at Xataka Mexico. That dilemma reached the House of Deputies and on November 26, Ricardo Monreal, coordinator of Brunette,..."
+  },
+  {
+    "title": "¿Qué acuerdos alcanzaron México y China durante APEC? Estos son los cinco sectores estratégicos",
+    "summary": "Desde hospitales inteligentes hasta energías renovables, ambos países buscan fortalecer su cooperación científica, tecnológica y económica.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/acuerdos-alcanzaron-mexico-china-apec-son-cinco-sectores-estrategicos-20261128-846234.html",
+    "category": "Ciencia",
+    "date": "2026-11-28 08:59",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/19/6aff6b6e5df89.jpeg",
+    "title_en": "What agreements did Mexico and China reach during APEC? These are the five strategic sectors",
+    "summary_en": "From smart hospitals to renewable energies, both countries seek to strengthen their scientific, technological and economic cooperation."
+  },
+  {
+    "title": "A una semana de la captura de “El Chapo Isidro”: ¿qué ha pasado en Sinaloa?",
+    "summary": "El Gobierno federal anunció nuevas acciones para fortalecer la seguridad en Sinaloa, entre ellas la entrega de patrullas, la instalación de cámaras de vigilancia en carreteras y la continuidad de los operativos contra grupos criminales.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/estados/semana-captura-chapo-isidro-pasado-sinaloa-20261128-846219.html",
+    "category": "Estados",
+    "date": "2026-11-28 08:57",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/23/6b04ef6785749.webp",
+    "title_en": "A week after the capture of The Isidro Chapo: What happened at Sinaloa?",
+    "summary_en": "The federal Government announced new actions to strengthen security in Sinaloa, including the conduct of patrols, the installation of surveillance cameras on roads and the continuation of operations against criminal groups."
+  },
+  {
+    "title": "Más allá de Sasha Sokol y Ximena Santaolalla: la realidad del abuso sexual infantil en México",
+    "summary": "La violencia en los entornos de confianza, las relaciones desiguales de poder, el silencio que rodea a las agresiones y las dificultades para acceder a la justicia son algunos de los problemas que han visibilizado los testimonios de la cantante y la escritora mexicana.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/sasha-sokol-ximena-santaolalla-realidad-abuso-sexual-infantil-mexico-20261128-846313.html",
+    "category": "Seguridad",
+    "date": "2026-11-28 08:56",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/28/6b0ae82899c48.webp",
+    "title_en": "Beyond Sasha Sokol and Ximena Santaolalla: The reality of child sexual abuse in Mexico",
+    "summary_en": "Violence in confidence environments, unequal power relations, the silence surrounding attacks and difficulties with access to justice are some of the challenges that have spotted the testimony of the Mexican singer and writer."
+  },
+  {
+    "title": "Relatora de la ONU viaja a México tras fallida estancia en Costa Rica; Albanese promete regresar cuando el país \"vuelva a ser libre\"",
+    "summary": "",
+    "source": "El Universal",
+    "url": "https://www.eluniversal.com.mx/mundo/relatora-de-la-onu-viaja-a-mexico-tras-fallida-estancia-en-costa-rica-albanese-promete-regresar-cuando-el-pais-vuelva-a-ser-libre/",
+    "category": "Nación",
+    "date": "2026-11-28 08:40",
+    "image": "https://www.eluniversal.com.mx/resizer/v2/66DN3PQW2JAYPJBPTWGSC46EQU.png?auth=4179ab08c8d0f8a2fd3352f9ad806b27f390f8036a488ee3e7d29168f993a229&smart=true&width=500",
+    "title_en": "UN Rapporteur Travels to Mexico after his failed stay in Costa Rica and Albanese Promises to Rejoin When the Country \"Reforms Free\""
+  },
+  {
+    "title": "CDMX activa alerta naranja para las 16 alcaldías por pronóstico de lluvias fuertes",
+    "summary": "El tiempo lluvioso y frío podría continuar hasta la madrugada del domingo 29 de noviembre.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/cdmx-activa-alerta-naranja-16-alcaldias-pronostico-lluvias-fuertes-20261128-846312.html",
+    "category": "Estados",
+    "date": "2026-11-28 08:38",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/06/19/6a35c43055b3a.jpeg",
+    "title_en": "CDMX Active Orange Warning for 16 Mayors Due to Heavy Rain Probe",
+    "summary_en": "The rainy and cold time could continue till the dawn of Sunday, November 29th."
+  },
+  {
+    "title": "Cyber Monday 2026 en México: ¿cuándo es y qué tiendas tendrán ofertas y descuentos?",
+    "summary": "El Cyber Monday se celebrará el próximo 30 de noviembre, aunque algunas tiendas en México adelantarán sus promociones con descuentos en tecnología, ropa, electrodomésticos y otros productos.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/finanzaspersonales/cyber-monday-2026-mexico-tiendas-tendran-ofertas-descuentos-20261128-845787.html",
+    "category": "Tecnología",
+    "date": "2026-11-28 08:00",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/09/19/66ec1f5001cd7.jpeg",
+    "title_en": "Cyber Monday 2026 in Mexico: When and what stores will have offers and discounts?",
+    "summary_en": "The Cyber Monday will be held next November 30, but some shops in Mexico will advance their discounts with technologies, clothing, appliances and other products."
+  },
+  {
+    "title": "Amanecer lluvioso afecta el transporte público de la CDMX; Metro implementa marcha de seguridad",
+    "summary": "Estas condiciones atmosféricas se deben a la primera tormenta invernal, así como a la masa de aire ártico que impulsó al frente frío número 8.",
+    "source": "El Economista",
+    "url": "https://www.eleconomista.com.mx/politica/amanecer-lluvioso-afecta-transporte-publico-cdmx-metro-implementa-marcha-seguridad-20261128-846310.html",
+    "category": "Medio Ambiente",
+    "date": "2026-11-28 07:53",
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/10/22/6ada4b68beabd.jpeg",
+    "title_en": "Rain Sunrise affects public transport of the CDMX and Metro implements safety march",
+    "summary_en": "These atmospheric conditions are due to the first winter storm as well as to the mass of Arctic air that moved to the cold front number 8."
+  },
+  {
+    "title": "México vs. Haití Femenil EN VIVO: ¿A qué hora y dónde ver el partido por el boleto al Mundial 2027?",
+    "summary": "México vs. Haití Femenil: horario, transmisión, convocadas y qué se juega la Selección Mexicana en el Campeonato Concacaf W 2026.",
+    "source": "El Financiero",
+    "url": "https://www.elfinanciero.com.mx/deportes/2026/11/28/mexico-vs-haiti-femenil-en-vivo-resultado-del-partido-por-el-boleto-al-mundial-2027/",
+    "category": "Deportes",
+    "date": "2026-11-28 07:00",
+    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/yJ43WWeI3TJqrAdqOpgt9JNnxL8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4FMNITQG4FFT7CL5IDEFNBGNHU.png",
+    "title_en": "Mexico vs. Women's Haiti EN VIVO: What time and where to watch the party for the 2027 World Cup?",
+    "summary_en": "Mexico vs. Haiti Fesmenil: schedule, broadcast, summoned and what to play with the Mexican Team at the Concacaf W 2026 Championship."
   },
   {
     "title": "ICE ha detenido a más de 53,000 mexicanos bajo el gobierno de Trump; 65% no tenía condenas penales",
@@ -16,248 +979,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.eleconomista.com.mx/internacionales/ice-detenido-53-000-mexicanos-gobierno-trump-65-tenia-condenas-penales-20261128-846308.html",
     "category": "Política",
     "date": "2026-11-28 06:46",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b09d500c8ee6.png"
-  },
-  {
-    "title": "Temblor hoy en México 28 de noviembre de 2027: Se registra sismo de magnitud 4.0 en Oaxaca",
-    "summary": "Sigue en vivo todas las actualizaciones sobre movimientos telúricos a lo largo y ancho del país",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/temblor-hoy-en-mexico-noticias-actividad-sismica-28-de-noviembre-de-2027/",
-    "category": "Estados",
-    "date": "2026-11-28 06:45",
-    "image": "https://www.infobae.com/resizer/v2/PS4BWDDURJCCJO36HT7B3P7BCE.png?auth=5361b99e0a7af6e968f040bc29b1fa11deb78c2dfc2a6d3190460f18779a737b&smart=true&width=1672&height=941",
-    "summary_en": "Keep up with all updates about telepast movements throughout the country"
-  },
-  {
-    "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 28 de noviembre: trasladan en ambulancia a “El R2″ al penal de Puente Grande",
-    "summary": "Sigue lo más importante de estos temas en tiempo real sólo por Infobae México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-28-de-noviembre-trasladan-en-ambulancia-a-el-r2-al-penal-de-puente-grande/",
-    "category": "Nación",
-    "date": "2026-11-28 06:42",
-    "image": "https://www.infobae.com/resizer/v2/TOUVKAXABNGJTAHGNXJVZOA4E4.JPG?auth=47ea4cc2f49837eadb463899ead0ccc36458875707a58508af569baa5ab78ecc&smart=true&width=5500&height=3667",
-    "summary_en": "Following the most important of these issues in real time only by Infobae Mexico"
-  },
-  {
-    "title": "¿Qué está pasando en el Metro y Metrobús hoy 28 de noviembre? Marcha de seguridad en todas las Líneas de la Red",
-    "summary": "",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/que-esta-pasando-en-el-metro-y-metrobus-hoy-28-de-noviembre/",
-    "category": "Nación",
-    "date": "2026-11-28 06:37",
-    "image": "https://www.infobae.com/resizer/v2/DWYF3XXWH5DBXDT2AXGMBC66FI.jpg?auth=41d87b9826e696db86601ac11cff5fe72b745f4c2d516b1502d8fba75a1dfcbc&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Primera tormenta invernal: Frío, nieve y lluvias torrenciales marcarán el último sábado de noviembre",
-    "summary": "El Servicio Meteorológico Nacional prevé lluvias de hasta 250 milímetros en Guerrero, temperaturas mínimas de -10 grados y posible caída de nieve o aguanieve en zonas montañosas de 10 entidades, incluida la Ciudad de México.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/estados/primera-tormenta-invernal-frio-nieve-lluvias-torrenciales-marcaran-ultimo-sabado-noviembre-20261128-846306.html",
-    "category": "Medio Ambiente",
-    "date": "2026-11-28 06:16",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a250148406.png"
-  },
-  {
-    "title": "El pronóstico del tiempo para la ciudad de Veracruz de este 28 de noviembre",
-    "summary": "La ciudad de Veracruz se caracteriza por su gran valor histórico y cultural",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/el-pronostico-del-tiempo-para-la-ciudad-de-veracruz-de-este-28-de-noviembre/",
-    "category": "Estados",
-    "date": "2026-11-28 06:16",
-    "image": "https://www.infobae.com/resizer/v2/U7NMRV24J5HX7P6GA2KSURHVTA.png?auth=376de6695f6be1d01ce03e27c6b6c95d96c29e2a1eb10965bab564974cf3e6a1&smart=true&width=1920&height=1080",
-    "summary_en": "The town of Veracruz is characterized by its great historic and cultural value"
-  },
-  {
-    "title": "Servicio del Metrobús: cuáles son las estaciones cerradas en la última hora de este 28 de noviembre",
-    "summary": "Este medio de transporte cuenta con más de 22 millones de usuarios al año, a los que mueve a través de sus siete líneas",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/servicio-del-metrobus-cuales-son-las-estaciones-cerradas-en-la-ultima-hora-de-este-28-de-noviembre/",
-    "category": "Nación",
-    "date": "2026-11-28 06:15",
-    "image": "https://www.infobae.com/resizer/v2/QS4VCLVR5RFXBFVVVWBF2UJ6AA.jpg?auth=23bc0d6480a5d918c476f3dd4c7516394975b54d73f2cf0af338b44de445c3d9&smart=true&width=1920&height=1080",
-    "summary_en": "That means of transport includes more than 22 million users a year and moves them through its seven lines"
-  },
-  {
-    "title": "Liguilla MX 2026: Horarios y dónde ver los partidos de vuelta de los cuartos de final del Apertura",
-    "summary": "Cruz Azul, Pachuca y Toluca llegan con ventaja a los partidos de vuelta de los cuartos de final del Apertura 2026, mientras que América y Monterrey definirán su serie tras empatar sin goles en el encuentro de ida.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/deportes/liguilla-mx-2026-horarios-ver-partidos-vuelta-cuartos-final-apertura-20261128-846305.html",
-    "category": "Deportes",
-    "date": "2026-11-28 06:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/28/6b0ac1107c55a.jpeg"
-  },
-  {
-    "title": "Así está la calidad del aire de la CDMX y Edomex este 28 de noviembre",
-    "summary": "Todos los días y a cada hora, la Dirección de Monitoreo Atmosférico publica el estado del ambiente en el Valle de México. Aquí el reporte de las 05:00",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/asi-esta-la-calidad-del-aire-de-la-cdmx-y-edomex-este-28-de-noviembre/",
-    "category": "Estados",
-    "date": "2026-11-28 05:30",
-    "image": "https://www.infobae.com/resizer/v2/WB4DFAYFVZFQVHODJREOYGEDOQ.jpg?auth=1e9c57a09e9407aeacdb0f55c7fc3719f7945f5b2cf019803bcbcc7060ea1108&smart=true&width=1456&height=816"
-  },
-  {
-    "title": "Alejandra Guzmán: ¿cuál es su estado de salud hoy 28 de noviembre tras luxarse la cadera y cancelar concierto en CDMX?",
-    "summary": "La cantante fue trasladada a un hospital especializado al sur de la capital después de presentar una nueva lesión durante su espectáculo en la Arena Ciudad de México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/alejandra-guzman-cual-es-su-estado-de-salud-hoy-28-de-noviembre-tras-luxarse-la-cadera-y-cancelar-concierto-en-cdmx/",
-    "category": "Salud",
-    "date": "2026-11-28 05:22",
-    "image": "https://www.infobae.com/resizer/v2/HR3QX4462VFTNELGYJAR3PFDTA.jpg?auth=afc51233449db176a0b28426c7ae735d1716403342c28c8dfdbaaac9c4ea4b8f&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Israel López se rinde ante el Turco Mohamed; “Es un ganador, un técnico top”",
-    "summary": "El exfutbolista mexicano señaló que contar con un entrenador ganador permite que el Toluca siga “levantando la mano para estar en los primeros planos\"",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/deportes/israel-lopez-se-rinde-ante-el-turco-mohamed-es-un-ganador-un-tecnico-top/",
-    "category": "Nación",
-    "date": "2026-11-28 05:00",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/TCZFEYQIWFAUJDFHMJFVF6HPBI.jpg?auth=f36fd7cc4f2ac78ca836d5797dcf1010b380c457c2a433227dd44267698cdca3&smart=true&width=500"
-  },
-  {
-    "title": "¿De qué depende la Selección Mexicana para llegar al Mundial Femenil de Brasil 2027?",
-    "summary": "El Tri se enfrentará a Haití en el Campeonato Concacaf W para garantizar su lugar en las semifinales",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/de-que-depende-la-seleccion-mexicana-para-llegar-al-mundial-femenil-de-brasil-2027/",
-    "category": "Deportes",
-    "date": "2026-11-28 05:00",
-    "image": "https://www.infobae.com/resizer/v2/QSBDMUTYIFHDTC5CQEOPCQAOZM.jpeg?auth=1cdec381eb77e94ad06de492fbe46ba76164d392585145736379263e4175ed6c&smart=true&width=2752&height=1536"
-  },
-  {
-    "title": "Denuncian abusos en el reclusorio femenil de Mérida y piden la intervención de CNDH",
-    "summary": "Amenazas de suspenderles las visitas familiares y las llamadas telefónicas si denuncian abusos, deficiencias en la atención médica, actos de hostigamiento y violencia psicológica forman parte de una serie de irregularidades que internas del reclusorio femenil de Mérida denuncian en una carta dirigida a la Comisión Nacional de los Derechos Humanos (CNDH).…",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/merida/2026/11/28/abusos-reclusorio-femenil-de-merida-piden-intervencion-de-cndh.html",
-    "category": "Seguridad",
-    "date": "2026-11-28 05:00",
-    "image": ""
-  },
-  {
-    "title": "Israel López defiende al Toluca; “Es de los más grandes le duela a quien le duela”",
-    "summary": "El exfutbolista mexicano también compartió su opinión respecto a si el conjunto mexiquense puede superar la primera ronda de la Liguilla",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/deportes/israel-lopez-defiende-al-toluca-es-de-los-mas-grandes-le-duela-a-quien-le-duela/",
-    "category": "Deportes",
-    "date": "2026-11-28 04:52",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/TJDSQ22PTRAB3AS73LLCGOSMU4.jpg?auth=07ba0c2a3e8a6a6023e25343324b4a5fa5457626a84de3624d67fe1d975b870e&smart=true&width=500"
-  },
-  {
-    "title": "Confía en negociar: espera Claudia Sheinbaum un pacto arancelario",
-    "summary": "Espera Claudia en diciembre lograr pacto arancelario",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/mexico/2026/11/28/confia-en-negociar-espera-claudia-sheinbaum-un-pacto-arancelario.html",
-    "category": "Estados",
-    "date": "2026-11-28 04:45",
-    "image": ""
-  },
-  {
-    "title": "Detectan influenza aviar AH5N1 en 18 aves del Parque Rodolfo Landeros, en Aguascalientes",
-    "summary": "La Secretaría de Agricultura activó protocolos sanitarios y medidas de vigilancia tras confirmar la presencia del virus",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/detectan-influenza-aviar-ah5n1-en-18-aves-del-parque-rodolfo-landeros-en-aguascalientes/",
-    "category": "Salud",
-    "date": "2026-11-28 04:30",
-    "image": "https://www.infobae.com/resizer/v2/7LDE6VIGJFBHNB36QPTORQOL5I.jpg?auth=39121288e20d715f2af5ec732e2e16f216086ea2b98ae89426ca0ecfcf22a88b&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Terminó una era política en Yucatán, señala analista",
-    "summary": "Ya terminó una era política en Yucatán, señalan",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/merida/2026/11/28/termino-una-era-politica-en-yucatan-senala-analista.html",
-    "category": "Estados",
-    "date": "2026-11-28 04:30",
-    "image": ""
-  },
-  {
-    "title": "Así era Yucatán, México y el mundo hace 20 años: Tensión por llegada de Calderón a la Presidencia; polémica en Mérida",
-    "summary": "El 28 de noviembre de 2006 México vivía días de tensión política ante la inminente toma de posesión de Felipe Calderón como presidente de la República. Los preparativos para la ceremonia en San Lázaro estaban marcados por advertencias de posibles movilizaciones multitudinarias de simpatizantes de Andrés Manuel López Obrador y por el temor a enfrentamientos.…",
-    "source": "Diario de Yucatán",
-    "url": "https://www.yucatan.com.mx/central-9/2026/11/28/yucatan-hace-20-anos-noticias-28-noviembre-2006-tension-por-llegada-de-calderon.html",
-    "category": "Estados",
-    "date": "2026-11-28 04:30",
-    "image": ""
-  },
-  {
-    "title": "¿Cuál es el precio de la gasolina hoy viernes 27 de noviembre en Jalisco?",
-    "summary": "El precio de los carburantes en el país puede cambiar debido a diversos factores como el valor del dólar en el tipo de cambio, impuestos y la logística para el traslado",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/cual-es-el-precio-de-la-gasolina-hoy-viernes-27-de-noviembre-en-jalisco/",
-    "category": "Estados",
-    "date": "2026-11-28 04:16",
-    "image": "https://www.infobae.com/resizer/v2/6NUTLUQRYVHCBJQ7HUJKEHJVOA.jpg?auth=663a3822d70c158a01430fb0aa7acc996edbf6d7a8bd451eaf579c1a42ae4da2&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Gasolina en Ciudad de México: precio de la Magna, Premium y Diésel este viernes 27 de noviembre",
-    "summary": "La Comisión Nacional de Energía es la entidad responsable de informar todos los días el precio de las gasolinas en México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/gasolina-en-ciudad-de-mexico-precio-de-la-magna-premium-y-diesel-este-viernes-27-de-noviembre/",
-    "category": "Estados",
-    "date": "2026-11-28 04:16",
-    "image": "https://www.infobae.com/resizer/v2/7FSD6LWXONAJFKYGTVPFDIFWFU.jpg?auth=7399177e06f91d15746f9ca9f6e669980d9041f1bc1e432f7817962df3a28e10&smart=true&width=1920&height=1080",
-    "summary_en": "The National Energy Commission (NEC) is responsible for daily information about the price of gasoline in Mexico"
-  },
-  {
-    "title": "Precios de la gasolina hoy en México: Litro de Magna, Premium y Diésel este viernes 27 de noviembre",
-    "summary": "La Comisión Nacional de Energía es el organismo que informa todos los días el costo de las gasolinas en México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/precios-de-la-gasolina-hoy-en-mexico-litro-de-magna-premium-y-diesel-este-viernes-27-de-noviembre/",
-    "category": "Nación",
-    "date": "2026-11-28 04:16",
-    "image": "https://www.infobae.com/resizer/v2/HAGRJXU5YJFRHJTUKOO3SXEUAU.jpg?auth=611deb3d672514101c91b67ee35d380161841759da01a480cf7cbcee3431172d&smart=true&width=1920&height=1080",
-    "summary_en": "The National Energy Commission (NEC) is the body that reports daily about the costs of gas stations in Mexico"
-  },
-  {
-    "title": "Precio de la gasolina en Nuevo León hoy viernes 27 de noviembre: ¿Cuánto cuesta el litro de Magna y Premium?",
-    "summary": "El valor de los carburantes en el país puede cambiar debido a múltiples factores como el tipo de cambio frente al dólar, impuestos y la logística para el traslado",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/precio-de-la-gasolina-en-nuevo-leon-hoy-viernes-27-de-noviembre-cuanto-cuesta-el-litro-de-magna-y-premium/",
-    "category": "Estados",
-    "date": "2026-11-28 04:01",
-    "image": "https://www.infobae.com/resizer/v2/HAGRJXU5YJFRHJTUKOO3SXEUAU.jpg?auth=611deb3d672514101c91b67ee35d380161841759da01a480cf7cbcee3431172d&smart=true&width=1920&height=1080",
-    "summary_en": "The value of fuel in the country can change as a result of many factors, such as the exchange rate relative to the dollar, taxes and logistics for transport"
-  },
-  {
-    "title": "Edomex tendrá bajas temperaturas este sábado por primera tormenta invernal: alertan por heladas y aguanieve",
-    "summary": "La masa de aire ártico mantendrá el descenso de temperaturas en el Estado de México durante este sábado 28 de noviembre, mientras continuarán las lluvias fuertes en el sur de la entidad",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/edomex-tendra-bajas-temperaturas-este-sabado-por-primera-tormenta-invernal-alertan-por-heladas-y-aguanieve/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-28 03:46",
-    "image": "https://www.infobae.com/resizer/v2/OXMHGIW5UZFTBOO6KWPOCQANNI.jpg?auth=68de6bedcb93aef8242260dfd0dff7c59b05213d8f630bef4d1145836f2c778d&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Cupones Banamex en Noviembre 2026",
-    "summary": "Promociones de tarjetas de crédito Banamex: Joy sin anualidad, Oro y Clásica con 12 meses de comisión bonificada, código de amigo y 65% en Samsung.",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/descubre-y-compra/cupones-banamex-tarjeta-de-credito/",
-    "category": "Nación",
-    "date": "2026-11-28 03:16",
-    "image": ""
-  },
-  {
-    "title": "Choferes denuncian mal estado del asfalto",
-    "summary": "EL UNIVERSAL realizó un recorrido para verificar el estado de las vialidades en la zona industrial de El Peral, en los límites de Santa Bárbara y San Mateo Ixtacalco, Estado de México",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/metropoli/choferes-denuncian-mal-estado-del-asfalto/",
-    "category": "Estados",
-    "date": "2026-11-28 03:14",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/LJTPHTNWFZFIXGDEX332KY4MZE.jpg?auth=3ad5ab66030b16be2bda67162134a18e94a08aa38de645e80383c561dc11d54d&smart=true&width=500"
-  },
-  {
-    "title": "Buscan terreno para que se estacionen tráileres",
-    "summary": "Alcalde de Teoloyucan plantea usar predio cercano a caseta de Tepotzotlán para desahogar la autopista México-Querétaro",
-    "source": "El Universal",
-    "url": "https://www.eluniversal.com.mx/metropoli/buscan-terreno-para-que-se-estacionen-traileres/",
-    "category": "Estados",
-    "date": "2026-11-28 03:05",
-    "image": "https://www.eluniversal.com.mx/resizer/v2/YWWAU6V6MFCTLEQK3XRRPVGLC4.jpg?auth=527a36f31cd96c25506a353137965961cae2957242b5599890f9e284032ae072&smart=true&width=500"
-  },
-  {
-    "title": "Gobierno de CDMX despliega brigadas para proteger a personas en situación de calle ante frío extremo",
-    "summary": "Las brigadas extenderán sus recorridos durante el fin de semana en cuatro alcaldías",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/gobierno-de-cdmx-despliega-brigadas-para-proteger-a-personas-en-situacion-de-calle-ante-frio-extremo/",
-    "category": "Estados",
-    "date": "2026-11-28 02:44",
-    "image": "https://www.infobae.com/resizer/v2/5WAQMYUBYZEBVISZFHWHZFW54E.jpg?auth=a026f4ffc80bebc937b832d023d98129d2f5a50e19b12dd45d471e87f90a800a&smart=true&width=1920&height=1080"
+    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b09d500c8ee6.png",
+    "title_en": "ICE has arrested more than 53,000 Mexicans under Trump's government and 65% have no penal sentences",
+    "summary_en": "Between January 2025 and August 2026, ICE registered 53,543 persons born in Mexico. Thus, at the end of September 2026, U.S. migration courts had more than 400,000 Mexican cases pending resolution, according to analysis of official statistics."
   },
   {
     "title": "Editorial: EU: ¿combate al crimen?",
@@ -266,7 +990,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/opinion/002a1edi?partner=rss",
     "category": "Nación",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Editorial: US: Fight crime?",
+    "summary_en": "The Ministry of Foreign Affairs submitted a formal complaint to the U.S. ambassador to Mexico, Ronald Johnson, about the interference and hostility of the DEA."
   },
   {
     "title": "Mantiene el INE reparto de pluris por partido y no vía coaliciones",
@@ -275,7 +1001,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/politica/008n1pol?partner=rss",
     "category": "Política",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Maintains the INE distribution of pluris by party and does not use coalitions",
+    "summary_en": "The Commission for the Privileges and Political Parties of the National Electoral Institute (INE) unanimously approved the mechanism for the assignment of cures for the principle of proportional representation in the Chamber of Deputies, which will be given again in 2027 on the basis of the vote obtained by each party, and not by coalition, as requested by the..."
   },
   {
     "title": "Insta Morena a Maru Campos a dejar el cargo mientras es investigada",
@@ -284,7 +1012,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/politica/005n4pol?partner=rss",
     "category": "Estados",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Brunette urges Maru Campos to leave office while under investigation",
+    "summary_en": "Chihuahua, Chih., members of the Morena State Executive Board demand that Chihuahua Governor María Eugenia Campos Galvan apply for leave while conduct research with respect to the statements published at The New York Times related to the alleged financing of drug trafficking to her election campaign in 2021."
   },
   {
     "title": "Distingue Cuba a ex senadora morenista",
@@ -293,7 +1023,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/politica/010n2pol?partner=rss",
     "category": "Estados",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Distinguish Cuba to former Morenist Senator",
+    "summary_en": "Cuba's ambassador, Eugenio Martínez, gave the Order of Solidarity to former Morenist Senator Gloria Sánchez Hernández at a Ceremony Thursday at Xalapa, Veracruz. The distinction recognizes more than half a century of solidarity with the island. Sánchez Hernández put forward as a Senator, in 2020, an agreement against the U.S. blockade of the island."
   },
   {
     "title": "El precio del café debe ser justo: Sheinbaum",
@@ -302,7 +1034,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/estados/021n2est?partner=rss",
     "category": "Economía",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "The coffee price should be fair: Sheinbaum",
+    "summary_en": "The negotiations between coffee producers and the Nestlé company should be fair prices and the conservation of different varieties of the Mexican aromatic, confirmed President Claudia Sheinbaum Pardo."
   },
   {
     "title": "Malinin: récord en Patinaje Artístico",
@@ -311,7 +1045,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/deportes/a11n3dep?partner=rss",
     "category": "Deportes",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Malinin: an artistic skate record",
+    "summary_en": "The American skater Ilia Malinin established a world record at the short program with a score of 114.81 points at the Grand Prix in Tokyo. The three-and-a-half champion of the world surpassed the earlier brand of 113.97 units achieved by his compatriot, Nathan Chen, at the 2022 Beijing Olympics. With the music Cantata Represso, by Karl Jenkins, Malinin,"
   },
   {
     "title": "Critica la Presidenta que la FIL cobre entrada",
@@ -320,7 +1056,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/cultura/a02n2cul?partner=rss",
     "category": "Cultura",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "The President criticizes FIL's cash entry",
+    "summary_en": "On the eve of the start of the 40th edition of Guadalajara's International Book Fair (FIL), President Claudia Sheinbaum Pardo criticized how \"to get in,\" unlike an editorial meeting held at the capital's Zócalo, \"that's more popular and free and the books are really at low cost.\""
   },
   {
     "title": "Acuden 79 buscadores a reunión con zapatistas en San Cristobal de las Casas",
@@ -329,7 +1067,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/estados/022n1est?partner=rss",
     "category": "Seguridad",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "79 search engines to meet with Zapatistas at San Cristobal de las Casas",
+    "summary_en": "San Cristóbal de Las Casas, Chis., Some 79 people looking for his missing and missing in Chiapas attended yesterday's meeting with members of the Zapatista National Liberation Army (EZLN) delegation at San Cristóbal de las Casas, reported the Fairy Bartolomé de Las Casas Human Rights Center (Frayba)."
   },
   {
     "title": "Entre cobijas, café y alerta roja, capitalinos se arropan por el frío",
@@ -338,7 +1078,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/capital/023n1cap?partner=rss",
     "category": "Medio Ambiente",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Between blankets, coffee and Red alert, capitalists kneel with cold",
+    "summary_en": "With scarves, thermal shattering and an advanced care at home with class suspension, the inhabitants of Mexico City adjusted their daily routine to face a fall in temperature as a result of the first winter storm, with a constant rain affecting the capital of Mexico."
   },
   {
     "title": "Alonso Ortiz, nuevo líder de trabajadores del gobierno local",
@@ -347,7 +1089,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/capital/025n1cap?partner=rss",
     "category": "Estados",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Alonso Ortiz, new local government worker leader",
+    "summary_en": "In a contest that was very closed and with less than 45 percent of the best man's participation, Clepia's employee leader, Hugo Alonso Ortiz, was declared to have been elected as president of the Unified Workers's Union of Mexico City Government for 2026-2032."
   },
   {
     "title": "Ya circulan en el INE denuncias anónimas",
@@ -356,7 +1100,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/politica/009n2pol?partner=rss",
     "category": "Política",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Anonymous complaints have been circulated at the INE",
+    "summary_en": "They have yet to put into place at the National Electoral Institute (INE) an anonymous complaint box that counselors have put forward to obtain information that will help to clear up the alleged acts of corruption in the body and so those who have been inconformed are looking for ways to get their warnings."
   },
   {
     "title": "México, con déficit de controladores aéreos",
@@ -365,7 +1111,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/sociedad/026n1soc?partner=rss",
     "category": "Nación",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Mexico with deficit of air controllers",
+    "summary_en": "The National Association of Air Traffic Controllers (SINACTA) noted that they continue to operate with a personnel deficit, and more than 500 professionals are estimated to be required to ensure the safety, continuity and quality of services. To this end, she stated that the secretariats of Infrastructure, Communications and Transport as well as Finance and Credit..."
   },
   {
     "title": "El Tri femenil busca hacer historia en Brasil 2027",
@@ -374,7 +1122,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/deportes/a09n1dep?partner=rss",
     "category": "Deportes",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "The Female Tri seeks to make Brazil's history 2027",
+    "summary_en": "With stars such as Charlyn Corral and Scarlett Camberos, the Female Tricolor stands at the top moment that she has been working for 10 years: returning to a World Cup and Olympic Games after a long absence."
   },
   {
     "title": "Antonelli domina las prácticas libres del Gran Premio de Qatar",
@@ -383,7 +1133,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/deportes/a11n2dep?partner=rss",
     "category": "Deportes",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Antonelli dominates free Qatar's Grand Prix",
+    "summary_en": "Lusail. The Italian Kimi Antonelli (Mercedes), world champion from the beginning of November, was leading at the start of Qatar's Formula 1 Grand Prix by mastering yesterday's two free trial sessions. Sergio Checo Pérez finished at place 22."
   },
   {
     "title": "Acuerdan colaboración cuatro entidades para localizar personas",
@@ -392,7 +1144,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/estados/022n3est?partner=rss",
     "category": "Estados",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "4 entities agree to collaboration to track people",
+    "summary_en": "Acapulco, Gro., The governors of Morelos, Margarita González Saravia; state of Mexico, Delfina Gómez Álvarez; Guerrero, Evelyn Salgado Pineda, and the head of Government of Mexico City, Clara Brugada Molina, yesterday agreed to strengthen collaboration between state prosecution agencies with respect to the identification and search of people through the crossing of..."
   },
   {
     "title": "Inaugura Sheinbaum planta recuperadora de gas en Veracruz",
@@ -401,7 +1155,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/economia/013n2eco?partner=rss",
     "category": "Estados",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Inaugura Sheinbaum Gas Recovery plant in Veracruz",
+    "summary_en": "At the start of the operations of the gas production plant November 20 at Ixachi camp, in the town of Tierra Blanca, Veracruz, President Claudia Sheinbaum held that this was an important step for the production of fuel associated with oil extraction and with this aim we sought to reverse both the production and production and production of oil and..."
   },
   {
     "title": "Los Diablos Rojos se enfrentarán a los Toros de Tijuana en San Diego",
@@ -410,7 +1166,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/deportes/a10n3dep?partner=rss",
     "category": "Nación",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "Red devils will face tijuana's Toros in San Diego",
+    "summary_en": "The Red devils of Mexico will cross the border next year to welcome the Tijuana Toros in a historic series of three regular season games at Petco Park in San Diego, California."
   },
   {
     "title": "Inauguran en Iguala la segunda Miscelánea Cultural en honor a Gritón",
@@ -419,7 +1177,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/cultura/a04n2cul?partner=rss",
     "category": "Estados",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "The second Cultural Myscellanea was inaugurated at Iguala in honor of Gritón",
+    "summary_en": "Iguala, Gro., In honor of the activist and plastic artist, Antonio Rafael Ortiz Herrera Gritón, the government of Iguala, Guerrero, yesterday inaugurated the second Cultural Myscelanea, with his name and local authorities and cultural advisors from Mexico City supported the event."
   },
   {
     "title": "Cae La Rana, capo de célula de sicarios del cártel Jalisco",
@@ -428,7 +1188,9 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/politica/005n3pol?partner=rss",
     "category": "Seguridad",
     "date": "2026-11-28 02:33",
-    "image": ""
+    "image": "",
+    "title_en": "La Rana Fairy, Jelisk cartel's police cell",
+    "summary_en": "The Public Prosecutor's Office (FGR) arrested Jonathan Alexis Ramírez García, La Rana, at Ocotlán, Jalisco, as a leader of a police cell with a presence in the state of Jalisco and its neighbours."
   },
   {
     "title": "Nieva en cuatro estados por primera tormenta invernal de la temporada",
@@ -437,657 +1199,8 @@ window.MEXICO_INFORMA_NEWS = [
     "url": "https://www.jornada.com.mx/2026/11/28/estados/020n1est?partner=rss",
     "category": "Medio Ambiente",
     "date": "2026-11-28 02:33",
-    "image": ""
-  },
-  {
-    "title": "Acuerdan México y Guatemala atender a caravanas migrantes",
-    "summary": "México y Guatemala acordaron convocar a una reunión regional para atender las caravanas migrantes. También pactaron negociar dos instrumentos en materia de movilidad humana, uno para acompañar los procesos de retorno y otro para facilitar la búsqueda de migrantes desaparecidos y hacer visitas técnicas a la frontera común durante el primer trimestre de 2027.",
-    "source": "La Jornada",
-    "url": "https://www.jornada.com.mx/2026/11/28/politica/010n1pol?partner=rss",
-    "category": "Seguridad",
-    "date": "2026-11-28 02:33",
-    "image": ""
-  },
-  {
-    "title": "La relatora se reunirá con trabajadores y universitarios en México",
-    "summary": "Francesca Albanese, relatora especial de la Organización de las Naciones Unidas para los territorios palestinos ocupados, llega hoy al país invitada por la embajada de Palestina en México.",
-    "source": "La Jornada",
-    "url": "https://www.jornada.com.mx/2026/11/28/mundo/016n3mun?partner=rss",
-    "category": "Nación",
-    "date": "2026-11-28 02:33",
-    "image": ""
-  },
-  {
-    "title": "Sismo de 4.0 de magnitud se registra en Guerrero",
-    "summary": "El Servicio Sismológico Nacional reportó en tiempo real toda la información relacionada a este movimiento telúrico",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/sismo-de-40-de-magnitud-se-registra-en-guerrero/",
-    "category": "Estados",
-    "date": "2026-11-28 02:22",
-    "image": "https://www.infobae.com/resizer/v2/FRALXZ6MDFAQZBY4IKR3FB6TBY.jpg?auth=aaed1e58cab45d918e75e9c68d26d5d0d989f04b6e71d2cc696a2ff6195049fa&smart=true&width=1920&height=1080",
-    "summary_en": "The National Sismological Service reported in real time all information related to this movement"
-  },
-  {
-    "title": "Alejandra Guzmán vuelve a zafarse la cadera y suspende show en la Arena CDMX",
-    "summary": "La cantante interpretaba la primera canción de su repertorio cuando experimentó el problema físico",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/alejandra-guzman-vuelve-a-zafarse-la-cadera-y-cancela-show-en-la-arena-cdmx/",
-    "category": "Estados",
-    "date": "2026-11-28 00:27",
-    "image": "https://www.infobae.com/resizer/v2/UCSD6JBG5VFEBERC4U3OVROPMU.jpg?auth=521c8473f068f2bd578fc67c614f06fb7b96a0726856aaf53cb3d8eb2400f37f&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Gobierno de México reporta más de 18 mil personas localizadas con estrategia de búsqueda: familias exigen resultados",
-    "summary": "En 2026, miles de personas continúan desaparecidas en México, mientras el Gobierno federal asegura que ha fortalecido los mecanismos de localización",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/gobierno-de-mexico-reporta-mas-de-18-mil-personas-localizadas-con-estrategia-de-busqueda-familias-exigen-resultados/",
-    "category": "Política",
-    "date": "2026-11-28 00:17",
-    "image": "https://www.infobae.com/resizer/v2/ZEPACTRB7ZDCNOCSL4XUFAVMZY.jpg?auth=b4d8de75a2ff3c4aba62f04aae278da14511fd6fab87408420c673967c00f57d&smart=true&width=2048&height=1366"
-  },
-  {
-    "title": "Trasladan en ambulancia a “El R2″ al penal de Puente Grande tras operativo en Guadalajara",
-    "summary": "Rafael N, identificado como El R2 y señalado como presunto integrante de una célula CJNG, fue trasladado este 27 de noviembre bajo un dispositivo de seguridad",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/trasladan-en-ambulancia-a-el-r2-al-penal-de-puente-grande-tras-operativo-en-guadalajara/",
-    "category": "Nación",
-    "date": "2026-11-28 00:03",
-    "image": "https://www.infobae.com/resizer/v2/IZZFNXSNF5E6DDL5U5A7RIMULY.jpg?auth=7b475f94c2917a89723cb0cb20df171895ee2e1ab503aa3a08a9d751cf254f1d&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Alejandra Guzmán recordó con cariño a su padre y reveló detalles del homenaje que pensaba para Silvia Pinal antes de cancelar su concierto",
-    "summary": "A dos años del fallecimiento de la Diva del Cine de Oro, la cantante anticipó que le dedicaría una noche especial a su madre en la Arena Ciudad de México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/alejandra-guzman-recordo-con-carino-a-su-padre-y-revelo-detalles-del-homenaje-que-pensaba-para-silvia-pinal-antes-de-cancelar-su-concierto/",
-    "category": "Estados",
-    "date": "2026-11-27 23:11",
-    "image": "https://www.infobae.com/resizer/v2/RXCAXDKTBFDPRKM5HLXJKW7JOM.png?auth=c42bf9d31880e46e254369931525a41ce827d256d2811ee59e00dd8ba452f95c&smart=true&width=2752&height=1536"
-  },
-  {
-    "title": "FGR va contra presunta red de corrupción en contratos del INE: Investigan a más de 50 personas",
-    "summary": "La FGR integra 16 carpetas de investigación por posibles irregularidades en contratos del INE y organismos electorales locales, conocidos como OPLEs.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/27/fgr-va-contra-presunta-red-de-corrupcion-en-contratos-del-ine-investigan-a-mas-de-50-personas/",
-    "category": "Ciencia",
-    "date": "2026-11-27 23:00",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/FcyDCh5t_ib0lJln-6RsXZSa-Fg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JMAK4X2ZKVBKJIXQQ7G2F6M3OQ.jpg"
-  },
-  {
-    "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 27 de noviembre: EEUU ofrece un posible acuerdo de culpabilidad a Rafael Caro Quintero",
-    "summary": "Sigue lo más importante de estos temas en tiempo real sólo por Infobae México",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/27/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-27-de-noviembre/",
-    "category": "Nación",
-    "date": "2026-11-27 22:34",
-    "image": "https://www.infobae.com/resizer/v2/PPWALJNHHNEVTDZMHVTOOISQA4.png?auth=5409f61bedd354b4f6169bced2638db6029c58af18c265cbdce0655ddcba00de&smart=true&width=1408&height=768",
-    "resumen": "Sigue en tiempo real lo más importante de hoy en seguridad, narcotráfico y crimen en México, solo por Infobae México.",
-    "title_en": "EN VIVO À124; Security, drug and crime in Mexico today November 27: Security guard found dead in cisterne",
-    "summary_en": "Following the most important of these issues in real time only by Infobae Mexico",
-    "resumen_en": "The most important thing about today's security, drug trafficking and crime in Mexico remains in real time, only by Infobae Mexico."
-  },
-  {
-    "title": "Caso INE: FGR catea cuatro propiedades vinculadas al esquema de corrupción y halla urnas, mamparas y contratos",
-    "summary": "La fiscal Ernestina Godoy detalló el avance de las investigaciones contra irregularidades detectadas en el instituto electoral, las cuales derivaron en la apertura de 16 carpetas",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/caso-ine-fgr-catea-cuatro-propiedades-vinculadas-al-esquema-de-corrupcion-y-halla-urnas-mamparas-y-contratos/",
-    "category": "Política",
-    "date": "2026-11-27 22:34",
-    "image": "https://www.infobae.com/resizer/v2/TIJKAJ3TIBEC3OALMRPCFZ2CFU.png?auth=2627976859af18454168cd44801c68a3ca031de153c85c1f8c6b59e41cf127fd&smart=true&width=973&height=542",
-    "title_en": "INN case: FGR catches four properties linked to the corruption scheme and finds polls, mapes and contracts",
-    "summary_en": "Prosecutor Ernestina Godoy detailed progress of investigations into the corruption scheme found at the electoral institute"
-  },
-  {
-    "title": "Clima: las temperaturas que predominarán este 28 de noviembre en Mazatlán",
-    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/clima-las-temperaturas-que-predominaran-este-28-de-noviembre-en-mazatlan/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:32",
-    "image": "https://www.infobae.com/resizer/v2/FADTA7Y6LZEJFES2I7DQJ27BXA.png?auth=9ec8a7056214ac445d41c06308f3263741e1ca0c09363b08535b2589c4fc049d&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Pronóstico del clima en Bahía de Banderas este 28 de noviembre: temperatura, lluvias y viento",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/pronostico-del-clima-en-bahia-de-banderas-este-28-de-noviembre-temperatura-lluvias-y-viento/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:31",
-    "image": "https://www.infobae.com/resizer/v2/CTM3ELFPRFFPZKHWJYQSE5AIMY.png?auth=caca8f0337dfee135c34970be02efc69018c8bcad9ae2bfab25373f77c0c4955&smart=true&width=1920&height=1080",
-    "summary_en": "The lowest recorded temperature in Mexico was that of December 27, 1997, as the thermometer decreased to -25 degrees"
-  },
-  {
-    "title": "Pronóstico del clima en Tijuana este 28 de noviembre: temperatura, lluvias y viento",
-    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/pronostico-del-clima-en-tijuana-este-28-de-noviembre-temperatura-lluvias-y-viento/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:31",
-    "image": "https://www.infobae.com/resizer/v2/WPARXUCXRBAUDOFWVSYF6BBGTU.png?auth=c94d658a5d0474ea3b4a07b4c9a910a1473dd7f169b06dbfb545d76ac024840b&smart=true&width=1920&height=1080"
-  },
-  {
-    "title": "Caso de Sara Santiago e Isaac: ¿Qué sabemos de la desaparición de dos adolescentes en Iztapalapa?",
-    "summary": "Autoridades de la CDMX buscan a Sara Santiago e Isaac Rodríguez, adolescentes que fueron vistos por última vez en Iztapalapa.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/estados/2026/11/27/caso-de-sara-santiago-e-isaac-que-sabemos-de-la-desaparicion-de-dos-adolescentes-en-iztapalapa/",
-    "category": "Estados",
-    "date": "2026-11-27 22:23",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/EIVC6IMRnLws9dqNM8tSMv_bSa0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/456MTCPC5FBADMMVLTRBQ7MN3M.jpg"
-  },
-  {
-    "title": "Clima: temperatura y probabilidad de lluvia para Culiacán Rosales este 28 de noviembre",
-    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/clima-temperatura-y-probabilidad-de-lluvia-para-culiacan-rosales-este-28-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:19",
-    "image": "https://www.infobae.com/resizer/v2/LKSZU72PPFBCNCTAN3EYUOSYGY.png?auth=29194d3058a3a50b319665d1a0255e537b3615c5182dc01a963d82465b089c6b&smart=true&width=1920&height=1080",
-    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
-  },
-  {
-    "title": "Santiago Ixcuintla: la predicción del clima para este 28 de noviembre",
-    "summary": "Debido a su localización, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/santiago-ixcuintla-la-prediccion-del-clima-para-este-28-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:19",
-    "image": "https://www.infobae.com/resizer/v2/V55K73VDGZGBJP3URF3KFHH7YQ.png?auth=9394ef9f492638265edb585b9d92cd7caf11c52de86ca61132dbed0926cb3a98&smart=true&width=1920&height=1080",
-    "summary_en": "Due to its location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
-  },
-  {
-    "title": "Clima en Acapulco de Juárez: cuál será la temperatura máxima y mínima este 28 de noviembre",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro disminuyó hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/clima-en-acapulco-de-juarez-cual-sera-la-temperatura-maxima-y-minima-este-28-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:18",
-    "image": "https://www.infobae.com/resizer/v2/LTD2IZU2XZHJ7HF3UWSH6TA7WI.png?auth=5e912c6aa3df9a494f339ad71b23657b4162064b40fce5adc5df692cae4733cb&smart=true&width=1920&height=1080",
-    "summary_en": "The lowest recorded temperature in Mexico was that of December 27, 1997, as the thermometer decreased to -25 degrees"
-  },
-  {
-    "title": "Conoce el clima de este 28 de noviembre en Mérida",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/conoce-el-clima-de-este-28-de-noviembre-en-merida/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:18",
-    "image": "https://www.infobae.com/resizer/v2/IBCQMKDY7RBY5IOO7CIQIBRRCE.png?auth=1537d0bef91f48fd7045e1465362a121f7836c6138d83a18462c989bfe8cdd1a&smart=true&width=1920&height=1080",
-    "summary_en": "The lowest recorded temperature in the Mexican territory was that of December 27, 1997, as the thermometer declined to the -25 degrees."
-  },
-  {
-    "title": "¿Cómo estará el clima en Puebla de Zaragoza este 28 de noviembre?",
-    "summary": "Debido a su ubicación geográfica, que le dan una gran variedad de climas, México es uno de los países con mayor biodiversidad y es hogar de al menos 12% de las especies del mundo",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/como-estara-el-clima-en-puebla-de-zaragoza-este-28-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:18",
-    "image": "https://www.infobae.com/resizer/v2/ZKOOCAZWMNGVRDOT6QIK4L343A.png?auth=5b01708745d6e4f9865ecb39d83eeb3497e3341959cedff696e7b19b081d9e15&smart=true&width=1920&height=1080",
-    "summary_en": "Due to its geographical location, that give them a great variety of climate, Mexico is one of the countries with the highest biodiversity and home to at least 12% of the world's species"
-  },
-  {
-    "title": "Predicción del clima: estas son las temperaturas en Monterrey",
-    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/prediccion-del-clima-estas-son-las-temperaturas-en-monterrey/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:17",
-    "image": "https://www.infobae.com/resizer/v2/AOK3LXR5SJE63L2HEH4AMZUK6Y.png?auth=4b6e5d4c8b37d4466d02d7ce1d51dad646cf53f9ef467cccb1667b081886614a&smart=true&width=1920&height=1080",
-    "summary_en": "The lowest temperature in the country was that of 27 December 1997, as the thermometer declined to -25 degrees"
-  },
-  {
-    "title": "Clima en Guadalajara: temperatura y probabilidad de lluvia para este sábado 28 de noviembre",
-    "summary": "La temperatura más baja registrada en el país fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/clima-en-guadalajara-temperatura-y-probabilidad-de-lluvia-para-este-sabado-28-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:17",
-    "image": "https://www.infobae.com/resizer/v2/XG4EEZY7KFDJ5P4XDCLRDTVO7A.png?auth=2a3a7e2229c1f9a683d25a19cef44de10d03e24342af007f8ae59726cca7d421&smart=true&width=1920&height=1080",
-    "summary_en": "The lowest temperature in the country was that of 27 December 1997, as the thermometer declined to -25 degrees"
-  },
-  {
-    "title": "Predicción del clima en Cancún para antes de salir de casa este 28 de noviembre",
-    "summary": "La temperatura más alta registrada en el país fue la del 6 de julio de 1966, cuando el termómetro subió hasta los 58.5 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/prediccion-del-clima-en-cancun-para-antes-de-salir-de-casa-este-28-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:17",
-    "image": "https://www.infobae.com/resizer/v2/4AL5PWA3E5DI7EPR6JF6Z3NAPI.png?auth=06fddb4478a20df16db0ad60d3fdd8dbc108d20b776716821e510833dd830488&smart=true&width=1920&height=1080",
-    "summary_en": "The highest temperature in the country was that of 6 July 1966, as the thermometer increased to 58.5 degrees"
-  },
-  {
-    "title": "¿Cómo estará el clima en Ciudad de México este 28 de noviembre?",
-    "summary": "La temperatura más baja registrada en el territorio mexicano fue la del 27 de diciembre de 1997, cuando el termómetro descendió hasta los -25 grados",
-    "source": "Infobae México",
-    "url": "https://www.infobae.com/mexico/2026/11/28/como-estara-el-clima-en-ciudad-de-mexico-este-28-de-noviembre/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 22:16",
-    "image": "https://www.infobae.com/resizer/v2/7YAFWMTASNGPDASGPRZ377LB2Y.jpg?auth=66982fd17607f9d23de1c94c8e04384e142749486a5a1160fd21753b7abd56b5&smart=true&width=1456&height=816",
-    "summary_en": "The lowest recorded temperature in the Mexican territory was that of December 27, 1997, as the thermometer declined to the -25 degrees."
-  },
-  {
-    "title": "Monreal advierte que la DEA ‘viola la soberanía’ de México con canal de denuncias: ‘Me parece un exceso’",
-    "summary": "Ricardo Monreal rechazó el mecanismo de la agencia estadounidense para recibir denuncias contra integrantes de cárteles y funcionarios presuntamente vinculados con el narcotráfico.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/27/monreal-advierte-que-la-dea-viola-la-soberania-de-mexico-con-canal-de-denuncias-me-parece-un-exceso/",
-    "category": "Economía",
-    "date": "2026-11-27 22:03",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/TilyMqW91ruUEhDY2MTkSK3ibxw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PO3V4I4NQNGJ7OHIZULZ7TJTHU.jpg"
-  },
-  {
-    "title": "Tecate Comuna 2026: Cartel, horarios, clima, pronóstico de lluvia, cómo llegar , objetos prohibidos y más",
-    "summary": "Tecate Comuna llega a Cholula. Conoce los horarios, clima, pronóstico de lluvia, cómo llegar y todo lo que debes saber para ir al festival en Puebla.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/27/tecate-comuna-2026-cartel-horarios-clima-pronostico-de-lluvia-como-llegar-objetos-prohibidos-y-mas/",
-    "category": "Seguridad",
-    "date": "2026-11-27 21:40",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Wc6vloe50iVBCbW2S9dLNMQsfMk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TQBASWDRWNFQ7EYHSQTL4PU7IM.jpg",
-    "title_en": "Common Tecate 2026: Loading, schedules, climate, rain prognosis, how to get there, prohibited objects and more",
-    "summary_en": "Tecate Comuna arrives at Cholula. Know the schedules, climate, rain prognosis, how to get there and all you have to know to go to the festival in Puebla."
-  },
-  {
-    "title": "Rafael Caro Quintero tiene ‘oferta sobre la mesa’ de EU para declararse culpable y evitar juicio",
-    "summary": "Rafael Caro Quintero fue expulsado de México en febrero de 2025 junto con otros 25 capos del narcotráfico. El Gabinete de Claudia Sheinbaum justificó la medida como necesaria por 'asuntos de seguridad nacional'.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/mundo/2026/11/27/rafael-caro-quintero-tiene-oferta-sobre-la-mesa-de-eu-para-declararse-culpable-y-evitar-juicio/",
-    "category": "Economía",
-    "date": "2026-11-27 21:37",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/4Ubbrvi1xHx7XPEtbDpAvTsk9EM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FMK3IJW2BBEPXFKWJ7PAMJIIMI.jpg",
-    "title_en": "Rafael Caro Quintero has' offer on the table 'of US to declare guilty and avoid trial",
-    "summary_en": "Rafael Caro Quintero was deported from Mexico in February 2025 with 25 other drug users. Claudia Sheinbaum's Cabinet justifiable the measure as necessary by 'national security matters'."
-  },
-  {
-    "title": "Sinaloa dará apoyos de hasta 200 mil pesos a afectados por operativo contra ‘Chapo Isidro’",
-    "summary": "El gobierno de Sinaloa dará apoyos económicos para personas y empresas afectadas por el operativo donde fue detenido Fausto, alias 'El Chapo Isidro'.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/27/sinaloa-dara-apoyos-de-hasta-200-mil-pesos-a-afectados-por-operativo-contra-chapo-isidro/",
-    "category": "Estados",
-    "date": "2026-11-27 21:36",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/zVBWpQ76M9k5W1WZx0gGQBbcvjo=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/EZNMRFH7VJD67NU74BBCCBQMNE.jpg",
-    "title_en": "Sinaloa will give up to 200 thousand pesos support to affected by operation against 'Chapo Isidro'",
-    "summary_en": "The Sinaloa government will give financial support to people and companies affected by the operation where Fausto was arrested, alias' El Chapo Isidro '."
-  },
-  {
-    "title": "Caso Valeria Márquez: Detienen a Sergio Javier ‘N’, presunto implicado en el feminicidio de la influencer",
-    "summary": "Un hombre fue detenido en Michoacán por su probable participación en el feminicidio de la influencer Valeria Márquez, ocurrido en mayo de 2025 en Zapopan, Jalisco.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/estados/2026/11/27/caso-valeria-marquez-detienen-en-michoacan-a-presunto-feminicida-de-la-influencer-en-zapopan/",
-    "category": "Seguridad",
-    "date": "2026-11-27 21:16",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/WQhl5Tw6q8_HqXyySFIRYzPIsjM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CKLPOJE3L5DEXB3N7YCSBXL4BE.jpeg",
-    "title_en": "Valeria Márquez case: Sergio Javier 'N' arrested, alleged to have been involved with femicide of influence",
-    "summary_en": "A man was arrested at Michoacan for his probable participation in the femicide of Valeria Márquez, occurring in May 2025 at Zapopan, Jalisco."
-  },
-  {
-    "title": "Las claves económicas de la semana (23 al 27 de noviembre): De inflación y PIB de México y EU",
-    "summary": "Descubre la información económica más relevante que marcó la última semana de noviembre para que disfrutes de tus días libres bien informado.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-23-27-noviembre-inflacion-pib-mexico-eu-20261127-846299.html",
-    "category": "Economía",
-    "date": "2026-11-27 21:14",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/08/15/689fd2b030568.png",
-    "title_en": "The economic keys of the week (November 23-27): Inflation and GDP of Mexico and the US",
-    "summary_en": "Discover the most important economic information that marked the last week of November for you to enjoy your well-informed free day."
-  },
-  {
-    "title": "VIDEOS: ¡Llegó la nieve al Edomex! Así luce el cerro de Jocotitlán por la primera tormenta invernal",
-    "summary": "El Nevado de Toluca permanece cubierto por nubosidad y se esperan lluvias durante este sábado 28 de noviembre, con temperaturas máximas de 9 °C.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/edomex/2026/11/27/video-llego-la-nieve-al-edomex-asi-luce-el-cerro-de-jocotitlan-por-la-primera-tormenta-invernal/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 21:11",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YAPkSdeHqajAtDM-Giv_udXQ75U=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/OMXQIBXVSZEBXFYPVGBYIKBMJU.png",
-    "title_en": "WALK: The snow came to Edomex! That's how Jocotelan's hill looks with the first winter storm",
-    "summary_en": "The Nevado de Toluca remains covered with nuBosity and rain are expected this Saturday, November 28 with maximum temperatures of 9 ° C"
-  },
-  {
-    "title": "Cuando enfermarse profundiza la desigualdad en México",
-    "summary": "México destina apenas 2.8% de su Producto Interno Bruto (PIB) al gasto público en salud, menos de la mitad del referente internacional de 6%.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/opinion/arturo-castillo/2026/11/27/cuando-enfermarse-profundiza-la-desigualdad-en-mexico/",
-    "category": "Salud",
-    "date": "2026-11-27 21:00",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/nAW3_ZF1maqSTvmQb9w0VBglNiU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZPIN7BLIF5H4NJDTIGO5GYPTGY.jpeg",
-    "title_en": "When his illness deepens his inequality in Mexico",
-    "summary_en": "Mexico devotes only 2.8% of its gross domestic product (GDP) to public health spending, less than half of its international reference of 6%."
-  },
-  {
-    "title": "¡Otra vez contra Argentina! México juega 16vos en Mundial Sub-17: Fecha, sede, horario, donde ver y más",
-    "summary": "México vs. Argentina Sub-17: consulta fecha, hora del partido en CDMX, cancha en Doha y opciones de transmisión para los dieciseisavos de Qatar 2026.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/deportes/2026/11/27/mexico-vs-argentina-fecha-horario-y-transmision-de-dieciseisavos-de-final-del-mundial-sub-17-qatar-2026/",
-    "category": "Deportes",
-    "date": "2026-11-27 20:55",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/IgoWu_L9BZblAKJ5BLK9DzYOVZs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/VKV6T5DWD5FRLMJR5PPLQ27ILI.jpg",
-    "title_en": "Again against Argentina! Mexico plays 16vos at Sub-17 World Cup: date, headquarters, schedule, where to see and more",
-    "summary_en": "Mexico vs. Argentina Sub-17: date check, time of match at CDMX, court at Doha and broadcast options for Qatar's 16th 2026."
-  },
-  {
-    "title": "Relatora de la ONU viajará a México luego de que Costa Rica le negara el ingreso",
-    "summary": "La Sala Constitucional confirmó que su destino será México, al dictar este viernes una segunda medida cautelar que ordenó trasladarla a un hotel.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/internacionales/relatora-onu-viajara-mexico-luego-costa-rica-le-negara-ingreso-20261127-846296.html",
-    "category": "Economía",
-    "date": "2026-11-27 20:49",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a400960334.jpeg",
-    "title_en": "UN Rapporteur to travel to Mexico after Costa Rica denied her entry",
-    "summary_en": "The Constitutional Chamber confirmed that its destination will be Mexico, by issuing a second precautionary measure this Friday that ordered its transfer to a hotel."
-  },
-  {
-    "title": "Antonio Carlos Santos responde a Mexxus y exhibe documentos de Pemex por presunto fraude de 181 mdp",
-    "summary": "Antonio Carlos Santos exige a Mexxus aclarar si recibió más de 73 millones de pesos por los servicios que su empresa realizó para Pemex.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/deportes/2026/11/27/antonio-carlos-santos-responde-a-mexxus-por-presunto-fraude-con-pemex/",
-    "category": "Economía",
-    "date": "2026-11-27 20:43",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/CvRbuJtZbCrpOtNhgXhQvz9X2Cs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RCMZB3UOQFCYHMZYFPHV44KPPA.jpg",
-    "title_en": "Antonio Carlos Santos responded to Mexxus and exhibited pemex's documents for alleged 181 mdp fraud",
-    "summary_en": "Antonio Carlos Santos requires Mexxus to clear up if he received more than 73 million pesos for his company's services for pemex."
-  },
-  {
-    "title": "Seguros médicos: justicia para los asegurados con sustentabilidad actuarial",
-    "summary": "Los coordinadores de todas las fuerzas políticas en la Cámara de Diputados respaldaron una iniciativa para regular los seguros de gastos médicos mayores, transparentar las comisiones de los agentes y poner límites a los cobros de hospitales privados.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/opinion/gustavo-de-hoyos-walther/2026/11/27/seguros-medicos-justicia-para-los-asegurados-con-sustentabilidad-actuarial/",
-    "category": "Salud",
-    "date": "2026-11-27 20:34",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/6hcce3qwzV1B-8vFQ41QOuutTvk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QHAA34KQFZFV7MCF2O6YQRDAW4.jpeg",
-    "title_en": "Medical insurance: justice for insured with actuarial sustainability",
-    "summary_en": "The coordinators of all the political forces in the House of Deputies supported an initiative to regulate high-level health care insurance, to transparency police officers' commissions and to put limits on private hospital charges."
-  },
-  {
-    "title": "Desapariciones en México: Gobierno elimina más de 2 mil cuentas usadas para engañar y reclutar a jóvenes",
-    "summary": "El Gobierno federal reportó la eliminación de 2 mil 434 cuentas y perfiles utilizados para engañar a jóvenes, así como el retiro de 682 publicaciones relacionadas con actividades de reclutamiento.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/estados/2026/11/27/desapariciones-en-mexico-gobierno-elimina-mas-de-2-mil-cuentas-usadas-para-enganar-y-reclutar-a-jovenes/",
-    "category": "Política",
-    "date": "2026-11-27 20:17",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/SUpTBLm7H-x904m8RKYOnTTzUuQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ELMB6CYW7NFLXLMF2634J3SQ2Y.jpeg",
-    "title_en": "Disappearances in Mexico: Government removes more than 2,000 accounts used to fool and recruit youth",
-    "summary_en": "The federal government reported the elimination of 2,000 434 accounts and profiles used to mislead youth and the retirement of 682 publications related to recruitment activities."
-  },
-  {
-    "title": "PIB de México se desaceleró en el III Trim del 2026, creció 0.9% trimestral",
-    "summary": "La economía mexicana creció 3.3% a tasa anual en julio-septiembre, el mayor repunte desde el 2023.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/videos/pib-mexico-desacelero-iii-trim-2026-crecio-0-9-trimestral-20261127-846291.html",
-    "category": "Economía",
-    "date": "2026-11-27 20:08",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a377f1be6b.webp",
-    "title_en": "Mexico's GDP slowed in the 3rd Trim of 2026, grew 0.9% quarterly",
-    "summary_en": "The Mexican economy grew 3.3% at an annual rate in June - September, the largest upturn since 2023."
-  },
-  {
-    "title": "Senado de Argentina aprueba suspender elecciones primarias de 2027 en un respiro político para Milei",
-    "summary": "La supresión de las PASO otorgaría a Javier Milei mayor margen para consolidar los resultados de sus medidas económicas antes de las elecciones presidenciales.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/internacionales/senado-argentina-aprueba-suspender-elecciones-primarias-2027-respiro-politico-milei-20261127-846290.html",
-    "category": "Política",
-    "date": "2026-11-27 20:06",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2020/02/06/66e8a61719ff1.jpeg",
-    "title_en": "Senate of Argentina approves suspend 2027 primary elections in a political respite for Milei",
-    "summary_en": "The abolition of the FASA would give Javier Milei more room to consolidate his economic performance before the presidential elections."
-  },
-  {
-    "title": "Exportaciones e importaciones mexicanas crecen más de 30% en octubre",
-    "summary": "Las exportaciones e importaciones mexicanas de productos crecieron a tasas interanuales de 30.2 y 30.8% en octubre respectivamente, informó este viernes el Inegi.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/videos/exportaciones-e-importaciones-mexicanas-crecen-30-octubre-20261127-846289.html",
-    "category": "Economía",
-    "date": "2026-11-27 20:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a35a916e7c.webp",
-    "title_en": "Mexican Exports and Imports Growing More than 30% In October",
-    "summary_en": "Mexican exports and imports of products grew at an interyear rate of 30.2 and 30.8% in October respectively, Inegi reported this Friday."
-  },
-  {
-    "title": "Mercado laboral crea empleos, pero crece la informalidad",
-    "summary": "El mercado laboral mexicano generó 738,285 empleos en octubre, pero el crecimiento estuvo impulsado por el trabajo informal, la tasa de informalidad subió a 55.7%, su nivel más alto en un año.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/videos/mercado-laboral-crea-empleos-crece-informalidad-20261127-846287.html",
-    "category": "Economía",
-    "date": "2026-11-27 19:55",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a34663c82f.jpeg",
-    "title_en": "Labour market creates jobs but information grows",
-    "summary_en": "The Mexican labour market generated 738,285 jobs in October, but growth was driven by informal work, and information rate increased to 55.7%, its highest level in a year."
-  },
-  {
-    "title": "Peso mexicano interrumpe su racha de pérdidas frente al dólar, pero pierde 50 centavos en la semana",
-    "summary": "El peso recuperó terreno, cortando una racha de siete jornadas consecutivas con pérdidas, mientras los operadores seguían apostando por más alzas a la tasa de interés de la Fed.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/videos/peso-mexicano-interrumpe-racha-perdidas-frente-dolar-pierde-50-centavos-semana-20261127-846284.html",
-    "category": "Economía",
-    "date": "2026-11-27 19:41",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a31419c40f.webp",
-    "title_en": "Mexican peso intersects his share of losses against the dollar but loses 50 cents a week",
-    "summary_en": "The weight regained ground, cutting a streak of seven consecutive days with losses, while operators continued to put more bets at Fed's interest rate."
-  },
-  {
-    "title": "¿Qué hacían los secretarios de Defensa y Marina reunidos con un mando militar de EU? Esto sabemos",
-    "summary": "Los gobiernos de México y Estados Unidos revisaron su plan de cooperación militar para 2027, que contempla capacitación, ejercicios conjuntos y acciones de seguridad fronteriza.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/27/que-hacian-los-secretarios-de-defensa-y-marina-reunidos-con-un-mando-militar-de-eu-esto-sabemos/",
-    "category": "Economía",
-    "date": "2026-11-27 19:39",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/b0MjaxPxKLb4z36IQzqU0R-ex0Q=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KKN4EWX4UZDTZOEMNCFNXKZ6WI.jpeg",
-    "title_en": "What were the police and naval secretaries meeting with an US military command? That we know",
-    "summary_en": "The Mexican and U.S. governments revised their 2027 Military Cooperation Plan, with training, joint exercises and border security actions."
-  },
-  {
-    "title": "Mercado Libre está rematando la grandiosa pantalla QLED de 65 pulgadas Aiwa con Roku TV integrado gracias al Black Friday 2026",
-    "summary": "Con el Black Friday 2026 ya en curso, miles de ofertas disponibles se pueden encontrar en Mercado Libre . Un ejemplo claro de ello lo podemos encontrar con esta sensacional pantalla QLED de 65 pulgadas de AIWA , pues ahora tiene un precio de oferta de únicamente 7,861 pesos , pero que gracias a las promociones bancarias de la tienda lo puedes comprar a un…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/seleccion/mercado-libre-esta-rematando-grandiosa-pantalla-qled-65-pulgadas-aiwa-roku-tv-integrado-gracias-al-black-friday-2026",
-    "category": "Economía",
-    "date": "2026-11-27 19:30",
     "image": "",
-    "title_en": "Free Market is currently cutting the great 65-inch Aiwa QLED display with Roku TV integrated with Black Friday 2026",
-    "summary_en": "With the Black Friday 2026 currently under way, thousands of available offers can be found at Free Market. A clear example of this can be found with this sensational 65-inch qLED display from AIWA, as it now has an offer price of only 7.861 pesos, but thanks to the banking promotions of the tent you can buy it at a..."
-  },
-  {
-    "title": "¿Nevará en CDMX este fin de semana? Protección Civil aclara qué zonas podrían tener nieve o aguanieve",
-    "summary": "Protección Civil descartó nieve en las zonas urbanas de CDMX, pero advirtió que podría caer aguanieve en el Ajusco, Chichinautzin y El Pelado.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/cdmx/2026/11/27/nevara-en-cdmx-este-fin-de-semana-proteccion-civil-aclara-que-zonas-podrian-tener-nieve-o-aguanieve/",
-    "category": "Estados",
-    "date": "2026-11-27 19:28",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/0akE8eQpsRHExEzO0-jFl4yIIgs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Z5WR7VOKVFB3ZBTLS2VJKOBJWI.jpg",
-    "title_en": "Do you have a cold at CDMX this weekend? Civil Protection Clarifies What Areas Can Have Snowfall or Wet",
-    "summary_en": "Civil Protection ruled out snow in the urban areas of CDMX, but cautioned that it could fall awawnings at the Ajusco, Chichenautzin and El Pelado."
-  },
-  {
-    "title": "México busca que China agilice autorizaciones sanitarias para productos agroalimentarios: Julio Berdegué",
-    "summary": "Julio Berdegué, responsable de Asuntos Agroalimentarios Internacionales del Gobierno de México, explicó que las exportaciones dependen de protocolos sanitarios y procedimientos que cada país debe cumplir antes de permitir la entrada de productos extranjeros.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/mexico-busca-china-agilice-autorizaciones-sanitarias-productos-agroalimentarios-julio-berdegue-20261127-846282.html",
-    "category": "Política",
-    "date": "2026-11-27 19:09",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/files/fp/uploads/2025/04/28/680f249b4e544.r_d.1025-539-0.jpeg",
-    "title_en": "Mexico wants China to expedite health authorisations for food products: Julio Berdegé",
-    "summary_en": "Julio Berdegué, head of International Food and Agriculture Affairs of the Government of Mexico, explained that exports depend on health protocols and procedures that each country should fulfill before allowing the entry of foreign products."
-  },
-  {
-    "title": "Detienen a adolescente tras muerte de Dulce Guadalupe, estudiante de secundaria en Zacatecas",
-    "summary": "Una adolescente fue detenida tras la muerte de Dulce Guadalupe; la joven sujetó a dulce y provocó la caída de la menor.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/estados/2026/11/27/detienen-a-adolescente-por-muerte-de-dulce-guadalupe-estudiante-de-secundaria-en-zacatecas/",
-    "category": "Estados",
-    "date": "2026-11-27 18:54",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/NYScXHmbRTWJUoFpp7aOseAB4rg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/225ELALYXVESNP3TASZIVM5YNI.jpeg",
-    "title_en": "Teenage arrested after death of Dulce Guadalupe, high school student at Zacatecas",
-    "summary_en": "A teenage girl was arrested after the death of Dulce Guadalupe and the young girl held a sweet and caused the minor to fall."
-  },
-  {
-    "title": "15 cupones secretos de Amazon en Black Friday 2026: ofertas en Ninja, Shark, skin care, edredones y hasta computadoras",
-    "summary": "El Black Friday es una de esas temporadas de ofertas que debes aprovechar a como dé lugar. Con esto en mente, hoy, Amazon México ya tiene irresistibles ofertas en múltiples departamentos que, lo mejor de todo, se pueden mejorar gracias a los cupones de descuento secretos que aquí te compartiremos. En Xataka México Zelda: Ocarina of time por 700 pesos: con…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/seleccion/15-cupones-secretos-amazon-black-friday-2026-ofertas-ninja-shark-skin-care-edredones-computadoras",
-    "category": "Tecnología",
-    "date": "2026-11-27 18:32",
-    "image": "",
-    "title_en": "15 Amazon's Secret Coupons at Black Friday 2026: offers in Ninja, Shark, Skin care, dusts and even computers",
-    "summary_en": "The Black Friday is one of those offers that you have to take advantage of as it turns out. With this in mind, today, Amazon Mexico already has irresistibly offers in multiple departments that, best of all, can be improved with the secret discount coupons we will share with you here. In Xataka Mexico Zelda: Ocarina of time for 700 pesos: with..."
-  },
-  {
-    "title": "Las lluvias más fuertes del año y el frío intenso amenazan la CDMX EN VIVO: Sigue cómo va el mal tiempo",
-    "summary": "La primera tormenta invernal y el frente frío 8 provocan lluvias intensas, bajas temperaturas, fuertes vientos y posibles nevadas en México.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/cdmx/2026/11/27/las-lluvias-mas-fuertes-del-ano-y-el-frio-intenso-amenazan-la-cdmx-en-vivo-sigue-como-va-el-mal-tiempo/",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 18:26",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/IMtP__WglGf7Cqb2LOKvpz0pN9s=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SQLMS2GN2ZDCXE2RLPS6EKXIZY.png",
-    "resumen": "La primera tormenta invernal y el frente frío 8 traen lluvias intensas, bajas temperaturas, fuertes vientos y posibles nevadas a México; sigue aquí cómo va el mal tiempo.",
-    "title_en": "The toughest rains of the year and intense cold threaten the CDMX EN VIVO: Following how bad weather goes",
-    "summary_en": "The first winter storm and cold front 8 provoke intense rain, low temperatures, high winds and potential snow in Mexico.",
-    "resumen_en": "The first winter storm and cold front 8 bring intense rain, low temperatures, strong winds and potential snow to Mexico and how bad bad time goes."
-  },
-  {
-    "title": "Presentan ACLYS, la Asociación de Construcción Ligera y en Seco en México",
-    "summary": "La asociación reúne a cinco fabricantes del sector para impulsar una industria de la construcción más segura, eficiente y sostenible, mediante mejoras regulatorias, capacitación y estándares de calidad.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/presentan-aclys-asociacion-construccion-ligera-seco-mexico-20261127-846267.html",
-    "category": "Economía",
-    "date": "2026-11-27 18:22",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a08b4351f4.jpeg",
-    "title_en": "ACLYS, light and dry construction association in Mexico",
-    "summary_en": "The association brings together five industry manufacturers to promote a safer, more efficient and more sustainable construction industry through regulatory improvements, training and quality standards."
-  },
-  {
-    "title": "Ximena Santaolalla agradece respaldo a Sheinbaum tras denuncia de abuso sexual: ‘Me conmovió’",
-    "summary": "La escritora Ximena Santaolalla, que hizo una denuncia pública sobre el abuso sexual que sufrió en su infancia por parte de su padrastro, recordó que hay miles de casos por atender.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/nacional/2026/11/27/ximena-santaolalla-agradece-respaldo-a-sheinbaum-tras-denuncia-de-abuso-sexual-me-conmovio/",
-    "category": "Economía",
-    "date": "2026-11-27 18:09",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/aIlsCBXk08DizRHvrWx1knwM-VI=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SLIDDSPBRJFPDK6VN4OAGRVOAE.jpg",
-    "title_en": "Ximena Santaolalla thank Sheinbaum for his support after his report of sexual abuse: 'I was moved'",
-    "summary_en": "Writer Ximena Santaolalla, who made a public report about his childhood sexual abuse by his stepfather, recalled that there are thousands of cases to be dealt with."
-  },
-  {
-    "title": "Banda sonora de GTA VI: Justice explica cómo captó la esencia del juego en su música",
-    "summary": "El dúo francés de música electrónica Justice compuso la música original de la nueva entrega de la saga de crímenes y gánsteres GTA VI, título que está arrasando con todos los récords.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/arteseideas/banda-sonora-gta-vi-justice-explica-capto-esencia-juego-musica-20261127-846279.html",
-    "category": "Estados",
-    "date": "2026-11-27 18:09",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/08/27/6a90cba6b1670.png",
-    "title_en": "GTA VI Sound Band: Justice explains how she caught the essence of the game in her music",
-    "summary_en": "The French duo of electronic music Justice composed the original music from the new surrender of the crime and gangster saga GTA VI, a title that's sweeping with every record."
-  },
-  {
-    "title": "Hacienda cobrará 6.70 pesos de IEPS a gasolina Magna; va por su segunda semana sin subsidio",
-    "summary": "Por tercera semana consecutiva, la gasolina Premium no tendrá estímulo fiscal; se le cobrarán 5.66 pesos de IEPS por litro. Al diésel se le cobrará un IEPS doblemente mayor al que pagó hasta hoy viernes 27 de noviembre.",
-    "source": "Expansión",
-    "url": "https://expansion.mx/economia/2026/11/27/gasolina-magna-premium-diesel-hacienda-subsidio-ieps",
-    "category": "Economía",
-    "date": "2026-11-27 18:08",
-    "image": "https://cdn-3.expansion.mx/dims4/default/ec2ecb3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc7%2F64%2F8a66929a4b0f8890790ce1819002%2F1-gasolina-201706021825010xpa-oxxogasmty-4-2.jpeg"
-  },
-  {
-    "title": "En Guadalajara casi dos millones de personas viven sin agua o con racionamientos",
-    "summary": "En la capital de Jalisco, la infraestructura de aguas acumula décadas de antigüedad y recibe descargas de aguas residuales y escurrimientos agrícolas. El gobierno ha dispuesto camiones cisternas para distribuir agua potable y se ha comprometido a construir un acueducto. Algunos vecinos creen que eso no solucionará el problema de contaminación de aguas.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/videos/guadalajara-dos-millones-personas-viven-agua-racionamientos-20261127-846276.html",
-    "category": "Medio Ambiente",
-    "date": "2026-11-27 17:49",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b0a16db12861.jpeg",
-    "title_en": "In Guadalajara about two million people live without water or with rationes",
-    "summary_en": "In the capital of Jalisco, water infrastructure accumulates decades of age and receives waste water and agricultural drills. The government has been providing tanker trucks to distribute drinking water and has committed itself to building an aqueduct. Some neighbours believe that that will not solve the problem of water pollution."
-  },
-  {
-    "title": "¿Vuelve el entusiasmo por la IA? Wall Street repunta con ganancias en el sector tecnológico",
-    "summary": "La Bolsa mexicana avanzó 4.41% en la semana, su mayor ganancia desde abril, y recuperó terreno tras dos semanas consecutivas de pérdidas.",
-    "source": "El Financiero",
-    "url": "https://www.elfinanciero.com.mx/mercados/2026/11/27/bmv-wall-street-hoy-27-de-noviembre-de-2026/",
-    "category": "Economía",
-    "date": "2026-11-27 17:44",
-    "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/m-aFenB6QDUZYqsrxs2xbJ7mb1Y=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FMXCAF2S5NCHJHIN7DZVMVFMXE.jpg",
-    "resumen": "Wall Street abrió con expectativa positiva por el Black Friday, mientras la Bolsa Mexicana opera al alza: el S&P/BMV IPC sube 1.74% a 71 mil 578.49 unidades.",
-    "title_en": "Profit offers! Wall Street opens with positive expectation for Black Friday: how far does HOY advance?",
-    "summary_en": "The Mexican Stock Exchange operates up at the opening: the S & P / BMV IPC goes up 1.74 percent to 71 thousand 578.49 units.",
-    "resumen_en": "Wall Street opened with positive expectation for the Black Friday while the Mexican Stock Exchange operates up: S & P / BMV IPC goes up 1.74% to 71 thousand 578.49 units."
-  },
-  {
-    "title": "Ingreso de ganado ilegal de Centroamérica a México arriesga el combate contra gusano barrenador: CNA",
-    "summary": "Jorge Esteve, presidente del Consejo Nacional Agropecuario, advirtió que México tiene fronteras porosas que dificultan el control sanitario del ganado que ingresa al territorio nacional.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/ingreso-ganado-ilegal-centroamerica-mexico-arriesga-combate-gusano-barrenador-cna-20261127-846274.html",
-    "category": "Salud",
-    "date": "2026-11-27 17:41",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2025/10/25/68fd4cc7861fc.jpeg",
-    "title_en": "Input of illegal cattle from Central America to Mexico risks fight with Barrenador worm: CNA",
-    "summary_en": "Jorge Esteve, president of the National Agricultural Council, warned that Mexico has porous boundaries that impede health monitoring of cattle entering national territory."
-  },
-  {
-    "title": "Amazon México y Mercado Libre están rematando más de 25 juegos para Nintendo Switch y Nintendo Switch 2 por el Black Friday 2026",
-    "summary": "Así como tiempo atrás te mostramos un bundle interesante que reúne a la Nintendo Switch 2 con The Legend of Zelda: Ocarina of Time , el Black Friday 2026 no se olvida de las grandes promociones para algunos juegos de la consola híbrida . Y con la finalidad de ayudarte a nutrir tu biblioteca, o regalar para Navidad, a continuación te traemos un listado con…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/seleccion/amazon-mexico-mercado-libre-estan-rematando-25-juegos-para-nintendo-switch-nintendo-switch-2-black-friday-2026",
-    "category": "Economía",
-    "date": "2026-11-27 17:32",
-    "image": "",
-    "title_en": "Amazon Mexico and Free Market are cutting more than 25 games for Nintendo Switch and Nintendo Switch 2 for the Black Friday 2026",
-    "summary_en": "Just as we have been showing you an interesting Bundle that gathers Nintendo Switch 2 with The Legend of Zelda: Ocarina of Time, the Black Friday 2026 doesn't miss the great promotions for some hybrids console games. And with the aim of helping you feed your library, or give away for Christmas, we'll get you a list with..."
-  },
-  {
-    "title": "CNA alerta por menos inspecciones sanitarias ante recorte de recursos al Senasica",
-    "summary": "Jorge Esteve, presidente del Consejo Nacional Agropecuario destacó que el organismo encargado de garantizar la sanidad e inocuidad agroalimentaria ha perdido más de 50% de su presupuesto en términos reales durante los últimos 10 años.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/empresas/cna-alerta-inspecciones-sanitarias-recorte-recursos-senasica-20261127-846271.html",
-    "category": "Política",
-    "date": "2026-11-27 17:30",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/07/26/6a66e4626ccde.jpeg",
-    "title_en": "CNA warns for less health inspections as Senasica cuts its resources",
-    "summary_en": "Jorge Esteve, president of the National Agricultural Council, emphasized that the body charged with ensuring food health and safety has lost more than 50% of its budget in real terms for the last 10 years."
-  },
-  {
-    "title": "Anthropic llega a la Bolsa Mexicana de Valores: así puedes invertir en la desarrolladora de Claude",
-    "summary": "La empresa de IA debutó en el Sistema Internacional de Cotizaciones de la BMV bajo la clave “ANT”; esto permite a los inversionistas mexicanos adquirir las acciones de Anthropic sin necesidad de abrir cuentas en el extranjero.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/finanzaspersonales/anthropic-llega-bolsa-mexicana-valores-asi-puedes-invertir-desarrolladora-claude-20261127-846269.html",
-    "category": "Economía",
-    "date": "2026-11-27 17:12",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2024/09/19/66ec1cf7e78b1.jpeg",
-    "title_en": "Anthropic arrives at the Mexican Stock Exchange: so you can invest in Claude's developer",
-    "summary_en": "The IA company debuted at BMV's International Reporting System under the \"ANT\" key, enabling Mexican investors to acquire Anthropic's share without opening accounts abroad."
-  },
-  {
-    "title": "A los 70 años puedes quedarte sin ahorros en la Afore aunque no los retires: esta es la razón y cómo reclamarlos al IMSS",
-    "summary": "La situación laboral del titular determina si procede el traspaso de sus ahorros para el retiro, que cuentan con un mecanismo permanente de devolución.",
-    "source": "Expansión",
-    "url": "https://expansion.mx/finanzas-personales/2026/11/27/afore-ahorros-70-anos-como-recuperar-dinero-imss",
-    "category": "Economía",
-    "date": "2026-11-27 17:05",
-    "image": "https://cdn-3.expansion.mx/dims4/default/9ac052c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa3%2F25%2F0dbb0db6444693994949ed18eed5%2Frecursos-afore.png"
-  },
-  {
-    "title": "Suzuki convirtió al Ignis en un eléctrico de 3.5 metros que puede girar y estacionar donde otros autos sufren",
-    "summary": "Hay autos que necesitan media calle para dar vuelta y luego está el nuevo Suzuki Ignis , que apenas necesita 4.5 metros para completar un giro. Suena a una ventaja menor hasta que toca estacionarse en una calle de Ciudad de México o intentar salir de un cajón demasiado estrecho. Suzuki tomó uno de sus modelos más pequeños y decidió convertirlo en un…",
-    "source": "Xataka México",
-    "url": "https://www.xataka.com.mx/automovil/suzuki-convirtio-al-ignis-electrico-3-5-metros-que-puede-girar-estacionar-donde-otros-autos-sufren",
-    "category": "Estados",
-    "date": "2026-11-27 17:04",
-    "image": "",
-    "title_en": "Suzuki turned Ignis into a 3.5-foot electric that can turn and park where other cars suffer",
-    "summary_en": "There are cars that require half a street to turn and then there's the new Suzuki Ignis, that barely needs 4.5 meters to complete a turn. That sounds a minor advantage till it's up to parking at a street in Mexico City or trying to get out of an overly narrow box. Suzuki took one of his smaller models and decided to turn it into a..."
-  },
-  {
-    "title": "Toyota Tacoma 2027, la pickup hecha en México con nueva tecnología y mejor capacidad 4x4",
-    "summary": "La actualización incluye pantalla de 14 pulgadas en nuevos paquetes, asientos eléctricos y mantiene hasta 630 lb-pie de torque en la versión híbrida.",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/autos/toyota-tacoma-2027-pickup-hecha-mexico-nueva-tecnologia-mejor-capacidad-4x4-20261127-846229.html",
-    "category": "Tecnología",
-    "date": "2026-11-27 17:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/11/27/6b09d1743865a.jpeg",
-    "title_en": "Toyota Tacoma 2027, pickup made in Mexico with new technology and better capacity 4x4",
-    "summary_en": "The upgrade includes 14-inch display in new packages, electrical seats and keeps up to 630 lb-foot torque in the hybrid version."
-  },
-  {
-    "title": "Hoy No Circula sábado 28 de noviembre de 2026: ¿qué autos descansan en CDMX y Edomex?",
-    "summary": "Los vehículos con holograma 1 y placas terminadas en número par, así como todos los automóviles con holograma 2, tendrán restricciones para circular este último sábado de noviembre",
-    "source": "El Economista",
-    "url": "https://www.eleconomista.com.mx/politica/hoy-circula-sabado-28-noviembre-2026-autos-descansan-cdmx-edomex-20261127-846208.html",
-    "category": "Estados",
-    "date": "2026-11-27 17:00",
-    "image": "https://imagenes.eleconomista.com.mx/files/og_thumbnail/uploads/2026/02/17/6994971c40f63.jpeg",
-    "title_en": "Today No Circulates Saturday 28 November 2026: What cars are resting at CDMX and Edomex?",
-    "summary_en": "The vehicles with hologram 1 and plates completed with number pair as well as all cars with hologram 2 will have restrictions to move this last Saturday of November"
+    "title_en": "Nieva in four states for first winter storm of the season",
+    "summary_en": "The first winter storm of the season caused snow in the high areas of Durango, Colima, state of Mexico and Nuevo León, rain in at least 10 entities, as well as a sharp decline in temperatures in the states of the north, centre, east and west of the country. At Colima the precipitations leave a dead, authorities reported..."
   }
 ];
